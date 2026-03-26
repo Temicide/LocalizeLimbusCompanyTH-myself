@@ -1,6 +1,6 @@
 name: Bug 反馈（使用中文）
 description: 闪退,无法进入游戏,缺字,乱码等
-labels: ['错误']
+labels: ['错误/Error']
 body:
   - type: markdown
     attributes:
