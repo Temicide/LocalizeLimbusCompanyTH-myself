@@ -847,7 +847,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "专注探求",
+          "name": "求索",
           "desc": "[WhenUse] [Discard]自身所有行动槽中级别最高的1个技能",
           "coinlist": [
             {
@@ -861,7 +861,7 @@
         },
         {
           "level": 4,
-          "name": "专注探求",
+          "name": "求索",
           "desc": "[WhenUse] [Discard]自身所有行动槽中级别最高的1个技能\n<style=\"highlight\">[WhenUse] 下回合使本技能对应行动槽的挑衅值 +6</style>",
           "coinlist": [
             {
@@ -1063,7 +1063,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "目标行动槽每带有1层集中攻击-默尔索 ，使本硬币造成的伤害+10%"
+                  "desc": "目标行动槽每带有1层[ConcentratedAttackMeursault]，使本硬币造成的伤害+10%"
                 },
                 {
                   "desc": "使本硬币暴击时造成的伤害+30%"
@@ -1094,7 +1094,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "目标行动槽每带有1层集中攻击-默尔索 ，使本硬币造成的伤害<style=\"highlight\">+20%</style>"
+                  "desc": "目标行动槽每带有1层[ConcentratedAttackMeursault]，使本硬币造成的伤害<style=\"highlight\">+20%</style>"
                 },
                 {
                   "desc": "使本技能暴击时造成的伤害+30%"
@@ -2297,7 +2297,7 @@
         {
           "level": 4,
           "name": "临床试验-粉尘灼热",
-          "desc": "<style=\"highlight\">本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则以部位判定)</style>\n目标每带有5层[MeursaultBeeSpore]，使本技能造成的伤害<style=\"highlight\">+10%(最多+30%)</style>\n<style=\"highlight\">[BeforeUse] 若自身的[MeursaultSporeBulletLong]数不高于2发，则消耗6点理智值并使自身获得3发[MeursaultSporeBulletLong]</style>\n[WhenUse] 目标的[Combustion]强度与[Laceration]强度之和每有6级，使本技能的硬币威力+1<style=\"highlight\">(最多+3)\n[WhenUse] 若自身带有[MeursaultWorkerBee]，则使本技能的拼点威力+1\n[WhenUse] 从本技能的第3枚硬币起，使(自身的[MeursaultWorkerBee]层数)枚硬币转化为[SuperCoin]\n[WhenUse] 若自身的[MeursaultWorkerBee]层数为3层，则使本技能的攻击容量+1</style>\n[EndSkill] 使自身[MeursaultSporeBulletReloading]\n\n",
+          "desc": "<style=\"highlight\">本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定)</style>\n目标每带有5层[MeursaultBeeSpore]，使本技能造成的伤害<style=\"highlight\">+10%(最多+30%)</style>\n<style=\"highlight\">[BeforeUse] 若自身的[MeursaultSporeBulletLong]数不高于2发，则消耗6点理智值并使自身获得3发[MeursaultSporeBulletLong]</style>\n[WhenUse] 目标的[Combustion]强度与[Laceration]强度之和每有6级，使本技能的硬币威力+1<style=\"highlight\">(最多+3)\n[WhenUse] 若自身带有[MeursaultWorkerBee]，则使本技能的拼点威力+1\n[WhenUse] 从本技能的第3枚硬币起，使(自身的[MeursaultWorkerBee]层数)枚硬币转化为[SuperCoin]\n[WhenUse] 若自身的[MeursaultWorkerBee]层数为3层，则使本技能的攻击容量+1</style>\n[EndSkill] 使自身[MeursaultSporeBulletReloading]\n\n",
           "coinlist": [
             {
               "coindescs": [

@@ -453,11 +453,11 @@
       "simpleDesc": [
         {
           "abilityID": 9772,
-          "simpleDesc": "增加烧伤 强度"
+          "simpleDesc": "增加[Conbustion]强度"
         },
         {
           "abilityID": 97721,
-          "simpleDesc": "施加烧伤 层数"
+          "simpleDesc": "施加[Conbustion]层数"
         },
         {
           "abilityID": 97722,
@@ -525,7 +525,7 @@
     {
       "id": 9776,
       "name": "余火",
-      "desc": "回合开始时，对全体敌方单位(若是异想体，则改为部位)施加1~2层[Combustion]\n\n带有[Combustion]的敌方单位受到友方单位增加[Combustion]强度，施加[Combustion]层数或施加特殊烧伤的攻击技能(包括E.G.O技能)的攻击5次时，触发该敌方单位的[Combustion]1次，并使其[Combustion]层数减少1层(每回合每名敌方单位最多2次，若是异想体则改为每个部位)",
+      "desc": "回合开始时，对全体敌方单位(若是异想体，则改为以部位判定)施加1~2层[Combustion]\n\n带有[Combustion]的敌方单位受到友方单位增加[Combustion]强度，施加[Combustion]层数或施加特殊烧伤的攻击技能(包括E.G.O技能)的攻击5次时，触发该敌方单位的[Combustion]1次，并使其[Combustion]层数减少1层(每回合每名敌方单位最多2次，若是异想体则改为每个部位)",
       "simpleDesc": [
         {
           "abilityID": 9776,
@@ -721,7 +721,7 @@
     {
       "id": 9788,
       "name": "卯足",
-      "desc": "若自身的速度值高于目标，则令自身增加破裂 强度或施加破裂 层数时额外增加(速度值之差/3)级破裂 强度或额外施加(速度值之差/3)层破裂 ",
+      "desc": "若自身的速度值高于目标，则令自身通过技能增加破裂 强度或施加破裂 层数时额外增加(速度值之差/3)级破裂 强度或额外施加(速度值之差/3)层破裂 ",
       "simpleDesc": [
         {
           "abilityID": 9788,
