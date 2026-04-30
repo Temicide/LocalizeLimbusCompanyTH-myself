@@ -1,0 +1,128 @@
+{
+  "dataList": [
+    {
+      "id": "853901_success_1_1",
+      "content": "<color=#ebcaa2>Old Umbrella ทั้งหมดที่จะถูกอัญเชิญถัดไป</color> จะถูกอัญเชิญมาพร้อมกับ <color=#00ff9c>Max HP ลดลง 30%</color>"
+    },
+    {
+      "id": "853901_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>เสีย {1} SP</color>"
+    },
+    {
+      "id": "853901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>เสีย {1} SP</color>"
+    },
+    {
+      "id": "854101_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] เสีย %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "854101_success_1_2",
+      "content": "<color=#ebcaa2>ชิ้นส่วนทั้งหมดของ [{0}]</color> <color=#ebcaa2>ได้รับ</color> % {2} [{1}]/%"
+    },
+    {
+      "id": "854101_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "854101_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "854201_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>ฟื้นฟู {1} HP</color>"
+    },
+    {
+      "id": "854201_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}], {4} [{3}] และ {6} [{5}]/%"
+    },
+    {
+      "id": "854201_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>ฟื้นฟู {1} HP</color>"
+    },
+    {
+      "id": "854201_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}], {4} [{3}] และ {6} [{5}]/%"
+    },
+    {
+      "id": "854401_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ถูกมอบ</color> {2} {1}"
+    },
+    {
+      "id": "854401_success_1_2",
+      "content": "[{0}] ได้รับ <color=#00ff9c>{2} {1}</color> ในเทิร์นถัดไป"
+    },
+    {
+      "id": "854401_failure_1_1",
+      "content": "<color=#ebcaa2>ลบ {1} ทั้งหมด</color> ออกจาก <color=#ebcaa2>[{0}]</color>"
+    },
+    {
+      "id": "854501_success_1_1",
+      "content": "<color=#ebcaa2>{0} ติดสถานะ Staggered</color>"
+    },
+    {
+      "id": "854501_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "854501_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>สูญเสีย {1} HP</color>"
+    },
+    {
+      "id": "854901_success_1_1",
+      "content": "<color=#ebcaa2>Fairy ติดสถานะ Staggered!</color>"
+    },
+    {
+      "id": "854901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> <color=#e30000>{2} [{1}]</color>"
+    },
+    {
+      "id": "854901_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> <color=#e30000>{2} [{1}]</color>"
+    },
+    {
+      "id": "855001_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> <color=#e30000>{2} [{1}]</color>"
+    },
+    {
+      "id": "855001_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> <color=#e30000>{2} [{1}]</color>"
+    },
+    {
+      "id": "855001_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] สูญเสีย</color> <color=#e30000>20% ของ Max HP (สูญเสีย {1} HP)</color>"
+    },
+    {
+      "id": "855501_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>สูญเสีย</color> <color=#e30000>{2} {1}</color>"
+    },
+    {
+      "id": "855501_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> <color=#e30000>{2} {1}</color>"
+    },
+    {
+      "id": "855501_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> <color=#e30000>{2} {1}</color>"
+    },
+    {
+      "id": "855501_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}] Sinner</color> <color=#ebcaa2>ได้รับ</color> <color=#e30000>{2} {1}</color>"
+    },
+    {
+      "id": "855601_1_1",
+      "content": "ตัวละครทั้งหมดสร้างความเสียหาย {0}%"
+    },
+    {
+      "id": "855601_1_2",
+      "content": "ตัวละครทั้งหมดได้รับความเสียหาย {0}%"
+    },
+    {
+      "id": "85560101_success_1_1",
+      "content": "ตัวละครทั้งหมด <color=#00ff9c>สร้างความเสียหาย {1}%</color> ด้วยสกิลที่มี Affinity [{0}]"
+    },
+    {
+      "id": "85560101_success_1_2",
+      "content": "ตัวละครทั้งหมด <color=#e30000>จะได้รับความเสียหาย {1}%</color> จาก [{0}] Affinity Skill"
+    }
+  ]
+}

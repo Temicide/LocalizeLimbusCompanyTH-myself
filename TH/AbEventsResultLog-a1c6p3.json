@@ -1,0 +1,100 @@
+{
+  "dataList": [
+    {
+      "id": "816601_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับ %{2} [{1}]/%"
+    },
+    {
+      "id": "816601_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับ %{2} [{1}]/% ในเทิร์นถัดไป"
+    },
+    {
+      "id": "816601_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับ %{2} [{1}]/% ในเทิร์นถัดไป"
+    },
+    {
+      "id": "816601_failure_2",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับความเสียหาย {1} SP"
+    },
+    {
+      "id": "816602_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับ %{2} [{1}]/%"
+    },
+    {
+      "id": "816602_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> ฟื้นฟู {1} HP และ {2} SP"
+    },
+    {
+      "id": "816602_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> ฟื้นฟู {1} HP ให้กับ Core และ Part"
+    },
+    {
+      "id": "816602_failure_2",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับความเสียหาย {1} SP"
+    },
+    {
+      "id": "817101_log_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับ %{2} [{1}]/%"
+    },
+    {
+      "id": "817101_log_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับ %{2} [{1}]/% ในเทิร์นถัดไป"
+    },
+    {
+      "id": "817302_success_1",
+      "content": "<color=#ebcaa2>Sinners</color> ทั้งหมดฟื้นฟู {0} SP"
+    },
+    {
+      "id": "817302_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับ %{2} {1}/% จนจบ Encounter"
+    },
+    {
+      "id": "817302_success_3",
+      "content": "<color=#ebcaa2>Sinners ทั้งหมดได้รับ</color> %{1} {0}/% จนจบ Encounter"
+    },
+    {
+      "id": "817302_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> ได้รับ %{2} {1}/% จนจบ Encounter"
+    },
+    {
+      "id": "817302_failure_2",
+      "content": "<color=#ebcaa2>Sinners ทั้งหมดได้รับ</color> {1} {0} จนจบ Encounter"
+    },
+    {
+      "id": "817304_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> ฟื้นฟู {1} SP"
+    },
+    {
+      "id": "817304_success_2",
+      "content": "[{0}] ได้รับ %{3} {2}/% เป็นเวลา {1} เทิร์น"
+    },
+    {
+      "id": "817304_success_3",
+      "content": "มือทั้งสองข้างของ Catherine ทุกคนได้รับ %{2} {1}/% เป็นเวลา {0} เทิร์น"
+    },
+    {
+      "id": "817304_success_4",
+      "content": "มือทั้งสองข้างของ Catherine ทุกคนได้รับ %{2} {1}/% เป็นเวลา {0} เทิร์น"
+    },
+    {
+      "id": "817304_failure_2",
+      "content": "มือทั้งสองข้างของ Catherine ทุกคนได้รับ %{2} {1}/% เป็นเวลา {0} เทิร์น"
+    },
+    {
+      "id": "817304_failure_1",
+      "content": "[{0}] ได้รับ %{3} {2}/% เป็นเวลา {1} เทิร์น"
+    },
+    {
+      "id": "817305_1",
+      "content": "[{0}] <color=#80c9ff>ฟื้นฟู SP</color> จนเต็ม"
+    },
+    {
+      "id": "817305_2",
+      "content": "<color=#ebcaa2> Sinners</color> ทั้งหมด <color=#80c9ff>ฟื้นฟู {0} SP.</color>"
+    },
+    {
+      "id": "817305_3",
+      "content": "{1} ของ [{0}] เปลี่ยนเป็น {2}"
+    }
+  ]
+}

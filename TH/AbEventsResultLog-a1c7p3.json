@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "id": "837901",
+      "content": "<color=#ebcaa2> Sinners</color> ทั้งหมด <color=#fe4b48>ได้รับความเสียหาย {0} SP</color>"
+    },
+    {
+      "id": "837902_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>ได้รับความเสียหาย {1} HP</color> และ <color=#80c9ff>ฟื้นฟู {2} SP</color>"
+    },
+    {
+      "id": "837902_2",
+      "content": "<color=#ebcaa2>[{0}]</color> เพิ่มขึ้น %{2} [{1}]/% ทุกเทิร์น"
+    },
+    {
+      "id": "837601_success_1_1",
+      "content": "The Rose Hunter ได้รับ <color=#e30000>Offense Level Down 3 และ Defense Level Down 3</color>"
+    },
+    {
+      "id": "837601_success_1_2",
+      "content": "The Rose Hunter ได้รับ <color=#e30000>Offense Level Down 3 และ Defense Level Down 3</color>"
+    },
+    {
+      "id": "837601_failure_1_1",
+      "content": "{0} ได้รับ <color=#e30000>ความเสียหายเท่ากับ 15% ของค่าสูงสุดของ HP</color>"
+    },
+    {
+      "id": "837601_failure_1_2",
+      "content": "The Rose Hunter ได้รับ <color=#f8c200>Offense Level Up 3 และ Defense Level Up 3</color>"
+    }
+  ]
+}

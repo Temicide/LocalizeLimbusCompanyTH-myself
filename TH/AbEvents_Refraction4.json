@@ -1,0 +1,43 @@
+{
+  "dataList": [
+    {
+      "id": 860801,
+      "title": "Dreaming Electric Sheep",
+      "prevDesc": "",
+      "eventDesc": "ที่ปลายสายเคเบิลแต่ละเส้นซึ่งระเกะระกะอยู่บนพื้นนั้นมีปลั๊กเสียบอยู่ บางทีเจ้าแกะตัวนี้อาจจะรู้ว่ามันหมายถึงอะไร มันจึงส่งเสียงร้องออกมาอย่างเศร้าสร้อย ยิ่งเหล่า Sinners เข้ามารุมล้อมเจ้าแกะมากเท่าไหร่ เสียงกรีดร้องของมันก็ยิ่งดังและสิ้นหวังมากขึ้นเท่านั้น เจ้าแกะเริ่มดิ้นพล่านอย่างบ้าคลั่ง การขัดขืนของมันมีแต่จะรุนแรงขึ้นเรื่อย ๆ",
+      "behaveDesc": "ใครจะเป็นคนช่วยกดตัวเจ้าแกะเอาไว้?",
+      "successDesc": [
+        "[{0}] raises a cable and connects it to the sheep.\n\nViolent sprays of sparks fill your vision for a brief moment.\n\nThe sheep cries terribly for a while before falling silent, its eyes shut.\n\n[{0}] regards the silent sheep. Silent as though in a dream.\n\n[{0}] rejoins the battle, their body seared with lightning."
+      ],
+      "failureDesc": [
+        "Just as [{0}] is about to connect the cable to the sheep,\n\nIt kicks [{0}] hard with its long legs.\n\nAfter tumbling a few feet on the ground, the Sinner blankly stares at the halfway-inserted cable for a moment...\n\nBefore a strike of violet, screaming lightning directly smites them."
+      ]
+    },
+    {
+      "id": 860501,
+      "title": "Portrait of a Certain Day",
+      "prevDesc": "",
+      "eventDesc": "'ฉันคือ Butler ของคฤหาสน์หลังนี้' 'แต่ฉันกลับไม่คุ้นหน้าพวกคุณเลยสักนิด' 'ฉันอดไม่ได้ที่จะต้องระแวดระวัง... บางทีพวกคุณอาจจะตั้งใจมาทำให้คฤหาสน์หลังนี้จมดิ่งสู่ความโศกเศร้าอีกครั้ง' 'ถ้าคุณจะปฏิเสธล่ะก็ งั้นขอฉันถามหน่อยเถอะ รูปพอร์ตเทรตใบไหนคือรูปของเจ้านายฉัน?'",
+      "behaveDesc": "ใครจะเป็นคนตอบคำถาม?",
+      "successDesc": [
+        "[{0}] confidently steps forward and points a finger at one of the portraits.\n\nThe monster stands still for a moment, then replies affirmatively.\n\n'You are familiar with my master.'\n\n'Though you are an interloper still, I see no a bringer of sorrow.'\n\nThe monster, still holding a portrait, appears somewhat less hostile."
+      ],
+      "failureDesc": [
+        "[{0}] confidently steps forward, and points their finger at one of the portraits.\n\nThe monster stands still for a moment, then cries out all of a sudden.\n\n'You do not even recognize my master's countenance...'\n\n'Indeed. You are but an interloper seeking to bring sorrow to this place once again.'\n\n'How dare you pretend to know which that you do not. This transgression shan't be so easily forgiven.'\n\n[{0}] suddenly feels the burning gaze of every single portrait in the room focus on them.\n\nEach and every single one of them holds... resentment."
+      ]
+    },
+    {
+      "id": 862903,
+      "title": "The King in Binds",
+      "prevDesc": "",
+      "eventDesc": "การสวมหน้ากากอีกครั้งได้ปลุกอารมณ์อันแรงกล้าที่ค่อย ๆ คุกรุ่นขึ้นในใจคุณ ความโศกเศร้าพุ่งพล่านผ่านหมอกควันของการต่อสู้อันดุเดือด น้ำหนักอันหนักอึ้งของมันทิ่มแทงลึกลงไป... ลึกลงไปในความรู้สึกของคุณ",
+      "behaveDesc": "จะสามารถต้านทานความโศกเศร้านี้ได้หรือไม่?",
+      "successDesc": [
+        "The sorrowful pressure slowly relents.\n\nThe banquet is far from over.\n\nThe Sinners each rise and shake off the gloom; the void in their hearts filled with determination."
+      ],
+      "failureDesc": [
+        "The deluge of sorrow sweeps the Sinners off their feet into an even deeper chasm.\n\nYet, the banquet continues still.\n\nThe Sinners repress their sorrows and step forward."
+      ]
+    }
+  ]
+}

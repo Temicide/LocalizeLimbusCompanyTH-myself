@@ -1,0 +1,96 @@
+{
+  "dataList": [
+    {
+      "id": "860801_log_1_1",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ได้รับ</color> %{2} {1}/%"
+    },
+    {
+      "id": "860801_log_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#e30000>ได้รับความเสียหาย {2}</color> {1}"
+    },
+    {
+      "id": "860501_success_1",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ได้รับ</color> %{2} {1}/%"
+    },
+    {
+      "id": "860501_success_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>สูญเสีย {1} SP</color>"
+    },
+    {
+      "id": "860501_failure_1",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>สูญเสีย {1} SP</color>"
+    },
+    {
+      "id": "862901_1_1",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#80c9ff>ฟื้นฟู {0} SP.</color>"
+    },
+    {
+      "id": "862901_1_2",
+      "content": "Identity Coin ประเภทค่าลบ <color=#fe4b48>จะสูญเสีย {0} SP</color> แทน"
+    },
+    {
+      "id": "862901_1_3",
+      "content": "ตั้งแต่เทิร์นหน้าเป็นต้นไป พันธมิตรทั้งหมดได้รับ Max Speed +{0} สำหรับ Encounter นี้"
+    },
+    {
+      "id": "862901_1_4",
+      "content": "พันธมิตรทั้งหมดได้รับ {0} จนจบ Encounter นี้"
+    },
+    {
+      "id": "862901_2_1",
+      "content": "พันธมิตรทั้งหมด <color=#80c9ff>ฟื้นฟู {0} SP</color>"
+    },
+    {
+      "id": "862901_2_2",
+      "content": "Identity Coin ประเภทค่าลบ <color=#fe4b48>จะสูญเสีย {0} SP</color> แทน"
+    },
+    {
+      "id": "862901_2_3",
+      "content": "พันธมิตรทั้งหมดได้รับ %{1} {0}/% สำหรับ Encounter นี้"
+    },
+    {
+      "id": "862901_2_4",
+      "content": "พันธมิตรทั้งหมดได้รับ {0} จนจบ Encounter นี้"
+    },
+    {
+      "id": "862901_3_1",
+      "content": "พันธมิตรทั้งหมด <color=#80c9ff>ฟื้นฟู {0} SP</color>"
+    },
+    {
+      "id": "862901_3_2",
+      "content": "Identity Coin ประเภทค่าลบ <color=#fe4b48>จะสูญเสีย {0} SP</color> แทน"
+    },
+    {
+      "id": "862901_3_3",
+      "content": "All allies ได้รับ {0} %{1}/% สำหรับ Encounter นี้"
+    },
+    {
+      "id": "862901_3_4",
+      "content": "All allies ได้รับ {0} จนจบ Encounter"
+    },
+    {
+      "id": "862902_1_1",
+      "content": "<color=#ebcaa2>All allies</color> <color=#80c9ff>ฟื้นฟู {0} SP.</color>"
+    },
+    {
+      "id": "862902_1_2",
+      "content": "สำหรับ Coin Identities <color=#80c9ff> ประเภทค่าลบ จะฟื้นฟู {0} SP</color> แทน"
+    },
+    {
+      "id": "862902_2_1",
+      "content": "ได้รับทรัพยากร {0} E.G.O สำหรับทุก Affinity"
+    },
+    {
+      "id": "862902_3_1",
+      "content": "All allies ได้รับ {0} %{1}/% สำหรับ Encounter นี้"
+    },
+    {
+      "id": "862903_success_1",
+      "content": "ลด Potency และ Count ของ {0} ของ All allies ลงครึ่งหนึ่ง"
+    },
+    {
+      "id": "862903_failure_1",
+      "content": "ไม่มีอะไรเกิดขึ้น"
+    }
+  ]
+}

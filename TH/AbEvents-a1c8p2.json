@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": 1080101,
+      "title": "กลไก_ทาง_ตัน",
+      "eventDesc": "",
+      "behaveDesc": "ใครจะเป็นคนหมุนหน้าปัด?",
+      "successDesc": [
+        "{0} fiddles with the dial for a bit, then with the loud noise of stone grinding against stone, the device activates.\n\n'Authorization granted. Printing entry authorization card...'\n\nAn entry card slipped out of the machine.\nThis should open up a new path for us... probably."
+      ],
+      "failureDesc": [
+        "{0} fiddles with the dial for a good while, but nothing happens.\n\nWe decide to turn around; this seems to be a dead end for us."
+      ]
+    },
+    {
+      "id": 1080601,
+      "title": "การท้าทาย_หน้าผา",
+      "eventDesc": "เราต้องเก็บเหรียญทุกเหรียญที่หาได้เพื่อคว้าอันดับสองมาให้ได้ มันดูอันตรายก็จริง แต่... เราต้องยอมเสี่ยง",
+      "behaveDesc": "เราจะไว้ใจให้ใครลงไปและกลับขึ้นมาอย่างปลอดภัยดี?",
+      "successDesc": [
+        "{0} runs past the other clans and begins to rapidly descend.\n\n'Alright, looks like everyone's rushing ahead!'\n'Let's see which of the contestants will manage to grab the coins!'\n\nLoud noises echo from the dark.\nThen, something large crumbles; we can only hear the contestants' screaming.\n\nDid... something go wrong down there?\nJust as I begin to worry, {0} crawls out of the hole, alone.\nThe other candidates didn't make it.\nWe take the coins {0} picked up from the hole and continue on."
+      ],
+      "failureDesc": [
+        "{0} runs past the other clans and begins to rapidly descend.\n\n'Alright, looks like everyone's rushing ahead!'\n'Let's see which of the contestants will manage to grab the coins!'\n\nLoud noises echo from the dark.\nThen, something large crumbles; we can only hear the contestants' screaming.\n\nDid... something go wrong down there?\nJust as I begin to worry, a candidate crawls out of the hole, alone.\n{0} didn't return...\nWe need to find their remains and turn the clock...\n... So we hurriedly descend down the hole to look for {0}'s body."
+      ]
+    },
+    {
+      "id": 1080701,
+      "title": "ลงทัณฑ์_นักโทษ_ครั้งที่_1",
+      "eventDesc": "ไม่ว่าจะต้องแลกด้วยอะไร เราก็ต้องเก็บเหรียญให้ได้มากที่สุด ฉันรู้สึกผิดต่อนักโทษคนนั้นนะ แต่ว่า... ...ฉันขอให้ Sinners เป็นคนลงทัณฑ์เขาอยู่ดี",
+      "behaveDesc": "ใครจะเป็นคนลงทัณฑ์นักโทษประหาร?",
+      "successDesc": [
+        "{0} swings their weapon with all their might.\nSome Sinners place their hands over their ears, trying to block out the prisoner's pained sobbing.\n\n'Wonderfully done!'\n'Now that's what I call a proper punishment. Here's an extra coin for you!'\n\nWe pick up the coin, but...\n{0} doesn't seem very happy about it.\n\n'He may be a sinner who hath done wrong, yet this... is no justice.'\n'... Yeah. This doesn't feel good at all.' "
+      ],
+      "failureDesc": [
+        "{0} swings their weapon, but they can't seem to put much force behind it.\n{0} puts down the weapon, unwilling to continue punishing the condemned. We receive a small bundle of coins as a reward.\n\nWe accepted it, but...\n{0} doesn't seem very happy about it.\n\n'He may be a sinner who hath done wrong, yet this... is no justice.'\n'... Yeah. This doesn't feel good at all.'"
+      ]
+    },
+    {
+      "id": 1080702,
+      "title": "ลงทัณฑ์_นักโทษ_ครั้งที่_2",
+      "eventDesc": "'โอโฮ้ แต่เราไม่หยุดแค่นี้หรอกนะ!' 'นักโทษคนนี้ทำความผิดที่ร้ายแรง ร้ายแรงสุดๆ! เขาควรโดนลงโทษมากกว่านี้ อีก! เอาอีก!' 'พร้อมกันหรือยัง?!'",
+      "behaveDesc": "ใครจะเป็นคนลงทัณฑ์นักโทษประหาร?",
+      "successDesc": [
+        "{0} swings their weapon with all their might.\nSome Sinners place their hands over their ears, trying to block out the prisoner's pained sobbing.\n\n'Wonderfully done!'\n'Now that's what I call a proper punishment. Here's an extra coin for you!'\n\nWe pick up the coin, but...\n{0} doesn't seem very happy about it.\n\n'Cease... cease this, I beseech thee. I wish not to linger in this room for even a moment more.'\n'Those bastards watching us from above... I'm going to beat 'em to death if I ever run into 'em.'\n\nThe condemned collapses to the ground. He no longer moves.\n... Let's move on."
+      ],
+      "failureDesc": [
+        "{0} swings their weapon, but they can't seem to put much force behind it.\n{0} puts down the weapon, unwilling to continue punishing the condemned. We receive a small bundle of coins as a reward.\n\nWe pick up the coin, but...\n{0} doesn't seem very happy about it.\n\n'Stop... stop this, I beseech thee. I wish not to linger in this room for even a moment more.'\n'Those bastards watching us from above... I'm going to beat 'em to death if I ever run into 'em.'\n\nThe prisoner collapses to the ground. He no longer moves.\n... Let's move on."
+      ]
+    },
+    {
+      "id": 1080801,
+      "title": "สำรวจ_ไหน้ำ",
+      "eventDesc": "พวกเราค่อยๆ เข้าไปใกล้ไหน้ำเพื่อตรวจสอบสิ่งที่อยู่ข้างใน... พลังงานอันชั่วร้ายและรุนแรงกำลังรั่วไหลออกมาจากปากไห ยิ่งเราเข้าใกล้มากเท่าไหร่ เสียงประหลาดที่คืบคลานออกมาจากส่วนลึกของไหนั้นก็ยิ่งดังขึ้นเรื่อยๆ",
+      "behaveDesc": "ใครจะเป็นคนจ้องมองเข้าไปในไหน้ำ?",
+      "successDesc": [
+        "{0} looks into the jar.\n\n‘…!’\n‘…….’\n‘…?’\n\n{0} begins to babble incomprehensibly.\nI don't think there's a person inside the jar, which is good, but...\n... whatever it is, looking at it for too long is clearly dangerous.\n\nWith some effort, we manage to peel {0} away from the jar.\n{0} is holding an old, tattered scroll.\nIt might prove to be useful in the coming battles, so I decide to take it with us."
+      ],
+      "failureDesc": [
+        "{0} looks into the jar.\n\n‘!?#*$!’\n‘…*!&@^?!’\n‘@%#&…’\n\n{0} begins to babble incomprehensibly.\nI don't think there's a person inside the jar, which is good, but...\n... whatever it is, looking at it for too long is clearly dangerous.\n\nWith some effort, we barely manage to stop {0} from crawling into the jar.\n{0} is holding an old, tattered scroll.\nIt might come in useful for the coming battles, so I decide to take it with us."
+      ]
+    },
+    {
+      "id": 1081001,
+      "title": "อดทน_ต่อ_ความกลัว",
+      "eventDesc": "",
+      "behaveDesc": "ใครมีความต้านทานต่อความกลัวสูงที่สุด?",
+      "successDesc": [
+        "{0} and some other candidates' clan members crawl into the jars.\nThe device activates, and all kinds of creepy, crawly bugs pour out of the device and into the jar.\n{0} manages to stay inside, despite the horror...\n... but everyone else jumps out of the jars, screaming.\n\n'Looks like our dear audience really enjoyed that.'\n'Well... It's too bad, but the coins are only for the brave ones who managed to stay inside the jar!'\n\nCoins fall out from near the speaker.\n{0} crawls out of the jar as well with a look that cannot be described as anything positive."
+      ],
+      "failureDesc": [
+        "{0} and some other candidates' clan members crawl into the jars.\nThe device activates, and all kinds of creepy, crawly bugs pour out of the device and into the jar.\n{0} leaps out of the jar, unable to stand the sensation of crawling insects.\n\n'Looks like our dear audience really enjoyed that.'\n'Well... It's too bad, but the coins are only for the brave ones who managed to stay inside the jar!'\n\nCoins fall out from near the speaker, but another candidate picks them up."
+      ]
+    },
+    {
+      "id": 1081301,
+      "title": "การเดิมพันโบนัสช่วงสุดท้าย",
+      "eventDesc": "'อา ดูเหมือนว่าผู้สมัครทั้งสองท่านจะตกลงกันได้แล้วนะครับ! ถ้าอย่างนั้นก็มาเริ่มการ <i>เดิมพัน</i> กันเลย!' 'เอาล่ะ! วางเหรียญของพวกคุณห้าเหรียญไว้ข้างหน้า และ...' '...ส่งสมาชิกในกลุ่มของพวกคุณออกมาหนึ่งคน เพื่อนำเสนอว่าทำไม 'ผู้สมัคร' ของพวกคุณถึงคู่ควรกับตำแหน่งผู้นำตระกูลมากกว่า!' 'จงโต้แย้งเหตุผลของคู่ต่อสู้พร้อมกับเสริมความแข็งแกร่งให้กับเหตุผลของตัวเอง... แล้วผู้ชมที่รักของเราจะเป็นคนตัดสินผู้ชนะเอง' 'เอาล่ะ! ส่งตัวแทนที่พูดเก่งและโน้มน้าวใจได้ดีที่สุดออกมาได้เลย!'",
+      "behaveDesc": "ใครในพวกเราที่โต้วาทีเก่งที่สุด?",
+      "successDesc": [
+        "{0} crushes the opponent's argument with ease.\n\nThe opposing candidate's representative falls to their knees, clearly devastated by their loss.\n\n'Congratulations to the winner!'\n\n{0} gathers all the coins from the ground."
+      ],
+      "failureDesc": [
+        "The opposing representative crushes {0}'s argument with ease...\n\nThey walk up to us triumphantly to take the coins we've placed on the ground as {0} just stands there, overwhelmed.\n\n... What should we do?"
+      ]
+    }
+  ]
+}

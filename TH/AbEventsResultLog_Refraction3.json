@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "857701_abm_success_1_1",
+      "content": "<color=#ebcaa2>Sinners</color>ทั้งหมด สูญเสีย %{0}/%"
+    },
+    {
+      "id": "857701_abm_success_1_2",
+      "content": "<color=#ebcaa2>{0}</color> สูญเสีย %{2} {1}/%"
+    },
+    {
+      "id": "857701_abm_failure_1_1",
+      "content": "รวมจำนวน <color=#ebcaa2>{0} และ {0}</color> Count ของ <color=#ebcaa2>Sinners</color> ทั้งหมดเข้าด้วยกัน จากนั้นหารด้วยจำนวนของ Sinners แล้วมอบ <color=#e30000>{0} และ {0} Count</color> ที่ได้ให้กับ Sinners ทั้งหมด (ขั้นต่ำ 1)"
+    },
+    {
+      "id": "857801_success_1_1",
+      "content": "<color=#ebcaa2>Sinners</color>ทั้งหมด สูญเสีย %{0}/%"
+    },
+    {
+      "id": "857801_success_1_2",
+      "content": "<color=#ebcaa2>Sinners</color> <color=#80c9ff>ฟื้นฟู {0} SP</color>"
+    },
+    {
+      "id": "857801_success_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}]/% ในเทิร์นถัดไป"
+    },
+    {
+      "id": "857801_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "857801_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>สูญเสีย {1} SP</color>"
+    },
+    {
+      "id": "857801_failure_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#e30000>สูญเสีย {1} HP</color>"
+    },
+    {
+      "id": "857101_skinPredector_success_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ได้รับ</color> %{2} {1}/% <color=#ebcaa2>จนจบการปะทะ</color>"
+    },
+    {
+      "id": "857101_skinPredector_success_1_3",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ได้รับ</color> %{2} {1}/% และ %{4} {3}/% <color=#ebcaa2>จนจบการปะทะ</color>"
+    },
+    {
+      "id": "857101_skinPredector_failure_1_1",
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>ได้รับ</color> %{2} {1}/% และ %{4} {3}/% <color=#ebcaa2>จนจบการปะทะ</color>"
+    },
+    {
+      "id": "857101_skinPredector_failure_1_2",
+      "content": "<color=#ebcaa2>Sinners</color> ทั้งหมด <color=#ebcaa2>ได้รับ</color> %{1} {0}/% และ %{3} {2}/%"
+    },
+    {
+      "id": "858501_soc_success_1_1",
+      "content": "<color=#ebcaa2>ค่า {1} ของ {0}</color> <color=#ebcaa2>Resistance เปลี่ยนเป็น 1.5</color>"
+    },
+    {
+      "id": "858501_soc_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000> ได้รับความเสียหาย {1} HP</color>"
+    },
+    {
+      "id": "858501_soc_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>ได้รับความเสียหาย {1} SP หน่วย</color>"
+    },
+    {
+      "id": "858502_soc_success_1_1",
+      "content": "<color=#ebcaa2>ค่า {1} ของ {0}</color> <color=#ebcaa2>Resistance เปลี่ยนเป็น 1.5</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000> ได้รับความเสียหาย {1} HP หน่วย</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_2",
+      "content": "<color=#ebcaa2>{0}</color> <color=#fe4b48>ได้รับความเสียหาย {1} SP หน่วย</color>"
+    },
+    {
+      "id": "858502_soc_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} {1}/%"
+    }
+  ]
+}

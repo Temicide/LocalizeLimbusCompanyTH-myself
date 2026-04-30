@@ -1,0 +1,179 @@
+{
+  "dataList": [
+    {
+      "id": 810001,
+      "title": "Skin Prophet",
+      "prevDesc": "ผู้เผยพระวจนะบันทึกอย่างไม่สิ้นสุด",
+      "eventDesc": "บันทึกที่ถูกสลักด้วยขนนกที่ลุกโชนนั้นไม่มีวันจบสิ้น แต่ถึงอย่างนั้น ผู้เผยพระวจนะก็ยังต้องเขียนต่อไป เพราะอนาคตเองก็ไม่มีที่สิ้นสุดเช่นกัน",
+      "behaveDesc": "ใครจะเป็นผู้อ่านบันทึกเหล่านี้?",
+      "successDesc": [
+        "[{0}] snuffed the burning flames and looked into the records.\n\n@#$!@%!!@%!@%!@%\n\nThe Sinner could not understand a single word of it... but soon realized that reading it was unnecessary.\n\n[{0}] merely accepted the records as they naturally came to them.\n\nThe Sinner felt as though something was constricting around their head, but... their weapon arm felt empowered.\n\n... One of its heads was glaring in their direction."
+      ],
+      "failureDesc": [
+        "Not all of its flames could be snuffed out.\n\n[{0}] awkwardly looked into the records.\n\n@#$!@%!!@%!@%!@%\n\nAn impure, terrifying sensation climbed the Sinner's body.\n\nThe Sinner could not help but stumble a few steps back.\n\nIn doing so, [{0}] instinctively raised their hands...\n\n... and dropped the book of Prophecy, full of writing, on the ground.\n\nThe book dropped with its contents visible for all Sinners to see...\n\nStriking all those who gazed upon it with an ineffable terror."
+      ]
+    },
+    {
+      "id": 810101,
+      "title": "Ambling Pearl",
+      "prevDesc": "สิ่งที่ส่องประกายอยู่ในกองสิ่งปฏิกูลที่เดือดพล่านนั่นคืออะไรกัน?",
+      "eventDesc": "เมื่อมองดูใกล้ๆ... มันดูเหมือนจะเป็นอัญมณีบางอย่าง ถือกำเนิดขึ้นหลังจากช่วงเวลาแห่งการรอคอยที่ยาวนานแสนนาน... ถือกำเนิดขึ้นท่ามกลางการไหลเวียนของสิ่งปฏิกูลที่เติมเต็มและไหลออกจากร่างของมันในทุกย่างก้าว การชิงอัญมณีนั้นไปก็เท่ากับพรากเหตุผลในการมีชีวิตของมันไป มันอาจจะแตกสลายลงหากไม่มีสิ่งนั้น",
+      "behaveDesc": "ใครจะเป็นผู้พรากความหมายของมันไป?",
+      "successDesc": [
+        "[{0}] reaches toward the twinkling light.\n\nThe green slime... the acidic, burning sensation... the writhing larva... all of it unnerves the Sinner.\n\nBut despite all that, [{0}] prevails, claiming the gem with their hand.\n\n!!!\n\nAn incomprehensible roar echoes.\n\nIt quickly regenerated something new in its maws...\n\nBut it won't be the same."
+      ],
+      "failureDesc": [
+        "[{0}] reaches toward the twinkling light.\n\nThe green slime... the acidic, burning sensation... the writhing larva... all of it unnerves the Sinner.\n\n... It is no easy task, rummaging through all that in search of that light.\n\n[{0}] could not stand it anymore.\n\nPatience and perseverence does not last forever. The Sinner had to free their hand from its maws.\n\nThis experience left nothing but wounds for both [{0}] and the thing."
+      ]
+    },
+    {
+      "id": 810201,
+      "title": "Dream-Devouring Siltcurrent",
+      "prevDesc": "บางสิ่งกำลังไหวเอนอยู่ในระลอกคลื่นที่ม้วนตัว",
+      "eventDesc": "ซากปรักหักพังเหล่านั้นลอยมาจากที่ใดกัน? จากที่ไหน และมันมาลงเอยที่นี่ได้อย่างไร? หลังจากผ่านไปหลายปี แม้แต่ซากเหล่านั้นก็อาจจำไม่ได้แล้วว่าตนมาจากที่ใด ...ตราบใดที่มันสามารถใช้หยุดการโจมตีของ Abnormality นั่นได้",
+      "behaveDesc": "ใครจะเป็นผู้เข้าไปหาซากเหล่านั้น?",
+      "successDesc": [
+        "[{0}] eventually managed to reach the flotsam.\n\nThis was possible because the other Sinners tried their best to draw the Abnormality's attention.\n\n[{0}] grabbed onto the flotsam, tried to move it out of the way... before slamming their weapon down upon it.\n\nThis ended up leaving several, sharp edges on the flotsam.\n\nIf something were to charge into this flotsam... it would be impaled, unable to progress further."
+      ],
+      "failureDesc": [
+        "[{0}] eventually managed to reach the flotsam.\n\nThis was possible because the other Sinners tried their best to draw the Abnormality's attention.\n\n[{0}] grabbed onto the flotsam, tried to move it out of the way... before slamming their weapon down upon it.\n\nBut it's no easy thing, trying to swing one's weapon in midst of the swaying waters.\n\nEven worse, the flotsam was sturdier than it appeared.\n\nAll that the Sinner managed to do was to make a loud noise.\n\n... Which drew the Abnormality's attention to [{0}]. It did not take long before the Abnormality began charging at [{0}]."
+      ]
+    },
+    {
+      "id": 1050101,
+      "title": "ตรวจสอบใต้ท้องเรือ",
+      "eventDesc": "\"เออ แน่นอนสิ เราควรทำแบบนั้น\" ทันทีที่เราตัดสินใจจะตรวจสอบใต้ท้องเรือ แรงกระแทกมหาศาลก็สั่นสะเทือนไปทั่วท้ายเรือ \"Mermaids! พวกศัตรูกำลังปีนขึ้นมาจากใต้ท้องเรือ...\" \"เราจะลดความสูญเสียได้ ถ้าให้ใครสักคนลงไปผลักพวกมันออกไปก่อนที่พวกมันจะเกาะเรือติด\" ทันทีที่ตัดสินใจได้ Sinners สองคนก็กระโดดลงจากที่นั่งแล้วตรงดิ่งมาหาผม \"ฉันจะไปเองค่ะ Executive Manager!\" \"ไม่ ข้าเหมาะสมกับงานนี้มากกว่า\" Sinners ทั้งสองเริ่มโต้เถียงกัน",
+      "prevDesc": "",
+      "behaveDesc": "...เราไม่รู้ว่าจะเกิดอะไรขึ้นข้างล่างนั่น เลือกคนที่ไม่มีความเกรงกลัวไปเถอะ",
+      "successDesc": [
+        "[{0}] struck at a Mermaid crawling up from the waters.",
+        "As soon as I chose [{0}] for the task, the Sinner ran and smashed the Mermaid's head in.\n\n\"We can't let these Mermaids waste any more of our time.\"\n\nThe impact of the strike caused something to fall from the Mermaid.\n\n\"…….\"\n\nThat's an LCCB employee badge... just like the one Pilot was wearing.\n\nThis is awful. ...But we have to keep moving."
+      ],
+      "failureDesc": [
+        "[{0}] froze upon seeing the Mermaid crawling up the side of our ship.\n\n\"…….\"\n\nSomething on that Mermaid must've caused them to hesitate.\n\n\"What the hell are you doing?!\"\n\n\"They're climbing onto our ship!\"\n\n…We have to fight off the mermaids first.\n\nWe'll ask them what happened later."
+      ]
+    },
+    {
+      "id": 10502,
+      "title": "ซ้ายหรือขวา",
+      "prevDesc": "",
+      "eventDesc": "พวกเราเข้ามาในทางน้ำที่ค่อนข้างแคบ \"... Executive Manager\" ผมเห็นพวก Mermaid ว่ายอยู่ใต้เรือ พวก Mermaid ที่เกาะอยู่ตามผนังเองก็กำลังจ้องเขม็งมาที่พวกเราเช่นกัน \"ที่นี่ คุมพวงมาลัยยาก คุมเรือไปพร้อมกับดูทาง ทำพร้อมกันลำบาก\" ใครบางคนต้องคอยช่วยดูเส้นทางให้แล้วล่ะ",
+      "behaveDesc": "ใครควรจะเป็นคนคอยดูเส้นทาง?",
+      "successDesc": [
+        "\"Left!\"\n\n\"... The road splits to three? Wait, look! Opening at 2 O' clock!\"\n\nThanks to [{0}]'s quick and clear directions, we were making quick work of the waterways.\n\n\"... There's no end to them, huh?\"\n\nBut the horde of Mermaids attacking our ship doesn't seem any smaller than it did when we first entered.",
+        "\"Left!\"\n\n\"... The road splits to three? Wait, look! Opening at 2 O' clock!\"\n\nThanks to [{0}]'s quick and clear directions, we were making quick work of the waterways.\n\n\"... Been a while, since we've done something like this together.\"\n\n\"Yes. Remember? Starbuck, on helm. You, me, shouting at Starbuck...\"\n\n\"Yeah...\"\n\n\"... Man, there's no end to them.\"\n\nBut the horde of Mermaids attacking our ship doesn't seem any smaller than it did when we first entered."
+      ],
+      "failureDesc": [
+        "\"Go ri— I mean, left! I-I think left is open...?\"\n\n\"There are three paths... Uh... What do I do here...?\"\n\n[{0}] had some trouble telling directions...\n\n\"Tsk, prepare for battle...!\"\n\n... and the consequences were swift."
+      ]
+    },
+    {
+      "id": 1050201,
+      "title": "ขวาหรือซ้าย",
+      "prevDesc": "",
+      "eventDesc": "\"ทางออก ยังอีกไกล\"",
+      "behaveDesc": "ใครบางคนต้องคอยดูเส้นทางต่อไป เราควรจะใช้วิธีเดิมไหม?",
+      "successDesc": [
+        "\"Go straight!\n\n\"... Now! Right hard rudder!\"\n\nThanks to [{0}]'s quick and clear directions, we were making quick work of the waterways.\n\n\"... There's no end to them, huh?\"\n\nBut the horde of Mermaids attacking our ship doesn't seem any smaller than it did when we first entered.",
+        "\"Steady as she goes!\"\n\n\"... Now! Right hard rudder!\"\n\nThanks to [{0}]'s quick and clear directions, we were making quick work of the waterways.\n\n\"... Been a while, since we've done something like this together.\"\n\n\"Yes. Remember? Starbuck, on helm. You, me, shouting at Starbuck...\"\n\n\"Yeah...\"\n\n\"... Man, there's no end to them.\"\n\nBut the horde of Mermaids attacking our ship doesn't seem any smaller than it did when we first entered the waterways."
+      ],
+      "failureDesc": [
+        "\"… Is moving forward our only option?\"\n\n\"W-wait! There was another path! ... Looks like we missed it, though…\"\n\n[{0}] must be having some trouble telling directions...\n\n\"Tsk, prepare for battle...!\"\n\n... and the consequences were swift."
+      ]
+    },
+    {
+      "id": 1050202,
+      "title": "ขวาหรือซ้าย",
+      "prevDesc": "",
+      "eventDesc": "\"ใกล้แล้ว จะหนีพ้นแล้ว ไปพื้นที่ถัดไป\" พวกเราใกล้จะถึงแล้ว",
+      "behaveDesc": "พวกเราใกล้จะออกไปได้แล้ว แต่อย่าเพิ่งประมาทจะดีกว่า",
+      "successDesc": [
+        "\"It's opening up—wait! It's a waterfall! Steady as you go!\"\n\n\"Phew... Oh! Rocks ahoy! Keep left, keep left... And right full rudder!\"\n\nThanks to [{0}]'s quick and straightforward directions, we managed to lose the Mermaids and escape the waterway.",
+        "\"It's opening up—wait! There's a drop! Steady as you go!\"\n\n\"Phew... Oh! More rocks ahoy! Left 10 degrees rudder, steady... And right full rudder!\"\n\nThanks to [{0}]'s quick and straightforward directions, we managed to lose the Mermaids and escape the waterway.\n\n\"... Been a while, since we've done something like this together.\"\n\n\"Yes. Remember? Starbuck, on helm. You, me, shouting at Starbuck...\"\n\n\"Yeah...\"\n\nThe ship was covered with blood and oil of Mermaids we killed in the waterway.\n\n\"These, useful. Put them in barrel.\"\n\nThe boat smooth-sailed to the next area as we spent our time collecting Mermaid oil from the ship. There was so much of it that the deck was almost flooded with it."
+      ],
+      "failureDesc": [
+        "\"...? W-wait! There's a drop?! U-uh, what do we do...?\"\n\n\"Haah, haah... I-I can't see too well in here...\"\n\n[{0}] was trying their best, but exhaustion seems to have gotten the better of them; their directions were very muddled.\n\n\"Agh... And we were so close to the exit...!\"\n\nWe'll have to fight our way to the end, then..."
+      ]
+    },
+    {
+      "id": 10503,
+      "title": "มุ่งสู่เส้นเลือดใหญ่",
+      "prevDesc": "",
+      "eventDesc": "หลังจากกำจัด Abnormality ได้แล้ว พวกเราก็ล่องเรือต่อมาอีกสักพักโดยไม่มีเหตุการณ์อะไรเกิดขึ้น จนกระทั่ง... \"กำแพง...\" ...กำแพงที่หนาและแข็งแกร่งปรากฏขึ้นตรงหน้าพวกเรา \"เส้นเลือดใหญ่ อยู่หลังกำแพงนี้\" \"กำแพงเปิด แล้วก็ปิด เปิดแป๊บเดียว อย่าให้ Mermaid จับได้ตรงนั้น ถ้าโดนจับ จะโดนสับครึ่ง\" และด้วยเสียงครืนที่หนักอึ้ง กำแพงก็เริ่มเปิดออกทันที \"กันพวก Mermaid ออกจากเรือ พวกนั้นทำให้เราช้าลง แล้วเราจะโดนตัดครึ่ง\" พวก Mermaid คงจะรู้สึกถึงแรงสั่นสะเทือน พวกมันเริ่มกรูเข้ามาที่เรือของเรา",
+      "behaveDesc": "ใครจะเป็นแนวหน้าคอยกันพวก Mermaid ออกจากเรือ?",
+      "successDesc": [
+        "[{0}] takes vanguard, knocking Mermaids off the boat.\n\n\"Good enough.\"\n\n\"Nice, we made it through...\"\n\n\"Phew. Huh, the wall is twitching. Like it's about to—\"\n\nNot a second after the stern of our boat made it past the wall, the door slammed shut.\n\n... Let's keep moving to the artery.",
+        "[{0}] takes vanguard, knocking Mermaids off the boat.\n\n\"Good enough.\"\n\n\"Nice, we made it through...\"\n\n\"Don't get complacent. We have to remain alert.\"\n\n\"Phew. Huh, the wall is twitching. Like it's about to—\"\n\nNot a second after the stern of our boat made it past the wall, the door slammed shut.\n\n... Let's keep moving to the artery."
+      ],
+      "failureDesc": [
+        "[{0}] takes vanguard, knocking Mermaids off the boat.\n\nBut...\n\n\"I-I think there's more of them than we expected...\"\n\n\"Oi! Help 'em out!\"\n\n\"Aagh, w-wait...!\"\n\nWe eventually managed to shake the Mermaids off and made it past the opening, but...\n\n\"Haah...\"\n\nThis kerfuffle exhausted everyone and left some of us wounded.\n\n... We have no choice but to continue on our way to the artery."
+      ]
+    },
+    {
+      "id": 1050401,
+      "title": "เส้นเลือดใหญ่",
+      "prevDesc": "",
+      "eventDesc": "\"นี่มันเหนียวเคี้ยวยากกว่าที่คิดไว้อีกนะ...\" เส้นเลือดใหญ่นั่นดูแข็งแรงกว่าที่เราคาดการณ์ไว้ในตอนแรกมาก การจะตัดมันให้ขาดในการโจมตีเพียงครั้งเดียวไม่ใช่เรื่องง่ายเลย... แต่ถ้าเรามัวแต่ชักช้าอยู่ที่นี่ เราจะไปถึงจุดนัดพบไม่ทันเวลา",
+      "behaveDesc": "ใครกันที่จะสามารถตัดมันให้ขาดได้ในการโจมตีเพียงครั้งเดียว?",
+      "successDesc": [
+        "[{0}] slowed their breathing and steadied their poise...\n\n\"Ooh!\"\n\n... before striking the artery, slicing it clean open.\n\n\"Sanguine fluid gushes at a terrifying rate.\"\n\nAs bloodflow from the opening begins to slow, the path begins to open.\n\n... Let's make our way to the heart."
+      ],
+      "failureDesc": [
+        "[{0}] struck the artery with all their might, but...\n\n\"Just a little gash, huh...\"\n\n... failed to slice it open.\n\n\"We don't have time for this...!\"\n\nFlustered, [{0}] began repeatedly slamming their weapon into the artery, trying to hack it open.\n\n... Luckily, we were able to cut open the artery in time. But this clearly left [{0}] exhausted from the effort.\n\n\"Sanguine fluid gushes at a terrifying rate.\"\n\nAs bloodflow from the opening begins to slow, the path begins to open.\n\n... Let's make our way to the heart."
+      ]
+    },
+    {
+      "id": 1050501,
+      "title": "Supply Crate 1",
+      "prevDesc": "",
+      "eventDesc": "พวกเราหยุดยืนอยู่หน้าลังไม้ที่มีตราสัญลักษณ์ของกลุ่ม Twinhook Pirates \"ดูเหมือนลังใบนี้จะถูกล็อคไว้นะ\" \"สนิมเขรอะเชียว... ฉันว่าเราคงสะเดาะกุญแจไม่ได้หรอก\" \"งั้นก็พังมันเข้าไปเลย!\" ...แต่ตัวกล่องดูจะบอบบางไปหน่อย ถ้าพังเข้าไปตรงๆ ของข้างในอาจจะเสียหายไปด้วย",
+      "behaveDesc": "ใครจะสามารถทุบลังใบนี้ด้วยแรงที่พอดีที่สุดได้กันนะ?",
+      "successDesc": [
+        "[{0}] observed the crate closely, then took a step back. Then, with a controlled strike, smashed only the lid of the crate.\n\nWhat we found inside the box was a rusted hook covered in blood and white membrane. It was probably used to kill Mermaids.\n\nI don't know what use this could possibly have... but it might come in useful.\n\nShould we check the other boxes, too?"
+      ],
+      "failureDesc": [
+        "\"Oop...\"\n\nThat was not a controlled strike at all. I wasn't sure if they even tried.\n\nThe crate was smashed to bits, so much so that we couldn't tell its contents apart from its crushed remains.\n\nWell, no choice but to check what other crates we have..."
+      ]
+    },
+    {
+      "id": 1050502,
+      "title": "Supply Crate 2",
+      "prevDesc": "",
+      "eventDesc": "ลังใบนี้มีตราสัญลักษณ์ของ LCCB ติดอยู่ ดูท่าทางจะแข็งแรงพอตัว... เราคงพังมันเข้าไปไม่ได้ง่ายๆ \"ดูเหมือนมันจะถูกปิดตายด้วยกลไกการล็อคที่ซับซ้อนนะ\" \"สงสัยแค่ทุบให้พังคงไม่พอ...\" \"เดี๋ยวสิ ฉันเหมือนจะจำอะไรบางอย่างได้...\" บางที Sinner ที่เคยใช้ Identity ของ LCCB ในอดีตอาจจะรู้อะไรบางอย่างเกี่ยวกับเรื่องนี้ก็ได้",
+      "behaveDesc": "ใครจะเป็นคนลองปลดล็อคกลไกนี้ดู?",
+      "successDesc": [
+        "\"I think this was how they did it...\"\n\n[{0}] fiddles with the lock and opens the crate.\n\n\"I see. In this crate was a magazine for a firearm.\"\n\nIndeed, what we found inside the crate was a magazine full of bullets.\n\nWe can definitely find a good use for this.\n\nThere aren't any more useful boxes around... We decided to move on to the next area.",
+        "[{0}] fiddles with the lock and opens the crate.\n\n\"I see. In this crate was a magazine for a firearm.\"\n\nIndeed, what we found inside the crate was a magazine full of bullets.\n\nWe can definitely find a good use for this.\n\nThere aren't any more useful boxes around... We decided to move on to the next area."
+      ],
+      "failureDesc": [
+        "[{0}] fiddled with the lock, but failed to make any progress.\n\n\"Hmm...\"\n\nAfter a few more adjustments, the crate seemed to reinforce itself with an additional locking mechanism.\n\n\"Well, what can we do.\"\n\nThere probably was something useful in there... but we don't have any means to break it open. We have no choice but to leave it behind.\n\nThere aren't any more useful boxes around... We decided to move on to the next area."
+      ]
+    },
+    {
+      "id": 810602,
+      "title": "Ahab 2",
+      "prevDesc": "",
+      "eventDesc": "ก็จริง อย่างที่เธอว่านั่นแหละ แต่ว่า... คำตอบของตัวเธอเองต่างหากที่สำคัญที่สุดในตอนนี้ ไม่ใช่เหรอ? \"......\" ลมหายใจของเธอหอบถี่และสั่นเครือ เธอกำลังใช้ความคิดอย่างหนัก คำตอบแบบไหนกันที่รอเธออยู่ที่ปลายทางของการตัดสินใจครั้งนี้?",
+      "behaveDesc": "เธอจะสามารถเผชิญหน้ากับอดีตของตัวเองได้หรือไม่?",
+      "successDesc": [
+        "\"... Akh!\"\n\nIshmael swings her arm with determination. She tries to focus.\n\n\"Still with your bullshit... I'll tear your mouth from ear to ear!\"\n\n\"Fine. Go ahead.\"\n\n\"What are you waiting for? Is it because you are too weak to do it? ... Hahaha!\"\n\nAt the Captain's provocation, Ishmael's eyes begin to burn with hatred. She rushes at the Captain.\n\nLooks like she's still searching for an answer. And sometimes, wrath may draw one off course. Isn't that right?"
+      ],
+      "failureDesc": [
+        "\"…….\"\n\nHer answer to the Manager's question is... endless silence.\n\nIs she still contemplating? Or does she think they're wrong?\n\nIndeed... it may be too early for her.\nTo decide, that is."
+      ]
+    },
+    {
+      "id": 810603,
+      "title": "Ahab 3",
+      "prevDesc": "",
+      "eventDesc": "\"<อิชมาเอล>\" \"<มันยังไม่จบลงหรอกนะ>\" \"<ยังเร็วเกินไปที่จะตัดสินใจ ตอนนี้ยังมีเวลาอยู่>\" \"<และเมื่อเวลานั้นมาถึง... จะไม่มีใครตัดสินใจแทนเธอได้ทั้งนั้น>\" \"<ไม่ใช่ฉัน และไม่ใช่ Ahab>\" \"<ฉันรู้ว่าเธอจะหาคำตอบได้ด้วยตัวเอง หาเส้นทางของเธอให้เจอสิ>\" \"…….\" อิชมาเอลไม่ตอบกลับ เธอทำเพียงกระชับอาวุธในมือให้แน่นขึ้น",
+      "behaveDesc": "คำตอบที่ล่าช้า... ...ก็ไม่ใช่ความคิดที่แย่นักหรอก",
+      "successDesc": [
+        "\"... Akh!\"\n\nIshmael swings her arm with determination. She tries to focus.\n\n\"Still with your bullshit... I'll tear your mouth from ear to ear!\"\n\n\"Fine. Go ahead.\"\n\n\"What are you waiting for? Is it because you are too weak to do it? ... Hahaha!\"\n\nAt the Captain's provocation, Ishmael's eyes begin to burn with hatred. She rushes at the Captain.\n\nLooks like she's still searching for an answer. And sometimes, wrath may draw one off course. Isn't that right?"
+      ],
+      "failureDesc": [
+        ""
+      ]
+    }
+  ]
+}

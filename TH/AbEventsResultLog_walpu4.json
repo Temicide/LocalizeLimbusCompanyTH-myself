@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "836601_succeed_1",
+      "content": "Physical Intervention Shield ทำงาน"
+    },
+    {
+      "id": "836601_failed_1",
+      "content": "Physical Intervention Shield ทำงาน"
+    },
+    {
+      "id": "836602_1_1",
+      "content": "พันธมิตรทั้งหมด <color=#00ff9c>ฟื้นฟู HP 30 หน่วย</color>"
+    },
+    {
+      "id": "836602_2_1",
+      "content": "พันธมิตรทั้งหมด <color=#80c9ff>ฟื้นฟู SP 30 หน่วย</color>"
+    },
+    {
+      "id": "836602_3_1",
+      "content": "พันธมิตรทั้งหมด <color=#00ff9c>ฟื้นฟู HP 3 หน่วย ทุกเทิร์น</color>"
+    },
+    {
+      "id": "836602_3_2",
+      "content": "พันธมิตรทั้งหมด <color=#80c9ff>ฟื้นฟู SP 3 หน่วย ทุกเทิร์น</color>"
+    }
+  ]
+}

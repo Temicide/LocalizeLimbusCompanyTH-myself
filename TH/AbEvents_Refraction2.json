@@ -1,0 +1,121 @@
+{
+  "dataList": [
+    {
+      "id": 853901,
+      "title": "Drifting Fox",
+      "prevDesc": "ร่มขาด ๆ พวกนั้นจะปกป้องสุนัขจิ้งจอกตัวนั้นได้จริง ๆ งั้นเหรอ?",
+      "eventDesc": "มีร่มเก่า ๆ วางเรียงรายอยู่รอบตัว Drifting Fox ร่มที่ทั้งเก่า ผุพัง และเต็มไปด้วยรูพรุน ร่มพวกนั้นดูเหมือนจะตั้งตระหง่านอยู่ตรงนั้นมานานเท่าที่ Wings จะจำความได้เพื่อพยายามปกป้องสุนัขจิ้งจอกตัวนี้ แต่มันดูไม่เหมือนว่าจะทำหน้าที่นั้นได้ดีสักเท่าไหร่เลย \"…….\" จากนั้น Sinner ก็ค่อย ๆ เดินเข้าไปหามัน สุนัขจิ้งจอกสังเกตเห็นว่า Sinner กำลังเดินเข้ามา แต่มันไม่ขู่คำราม และก็ไม่ได้ดูผ่อนคลายอย่างมีความสุขด้วยเช่นกัน มันยังคงอยู่นิ่ง ๆ รักษาตำแหน่งเดิมของมันเอาไว้ไม่เปลี่ยนแปลง",
+      "behaveDesc": "ใครเป็นคนเดินเข้าไปหาสุนัขจิ้งจอก?",
+      "successDesc": [
+        "[{0}] walked toward the fox before getting under a worn umbrella.\n\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\n\nChilling winds and damp air brush against the Sinner under the umbrella.\n\n\"…….\"\n\nBut [{0}] raised their head up to see the sky, making a profound smile.\n\nAs if the Sinner knew the rain will stop someday."
+      ],
+      "failureDesc": [
+        "[{0}] walked toward the fox before getting under a worn umbrella.\n\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\n\nChilling winds and damp air brush against the Sinner under the umbrella.\n\n\"…Haah.\"\n\n[{0}] drooped down with a large sigh.\n\nIt may not be easy to notice from afar,\n\nbut it must have been the cumulation of gloom and dampening the person under the umbrella felt."
+      ]
+    },
+    {
+      "id": 854101,
+      "title": "Shock Centipede",
+      "prevDesc": "ตะขาบดิ้นพล่านราวกับกำลังจะขดตัว",
+      "eventDesc": "ร่างกายของ Shock Centipede เริ่มขดตัวรวมกันอยู่ที่จุดเดียว \"ดูเหมือนว่ากระแสไฟฟ้ากำลังรวมตัวกันอยู่นะ\" ตามที่ Sinner สังเกตเห็น มีประกายไฟกระเด็นออกมาจากใจกลางร่างที่ขดตัวของมัน มันอาจจะเป็นความคิดที่ดีถ้าจะหยุดมันเอาไว้",
+      "behaveDesc": "ใครจะสามารถหยุดมันได้?",
+      "successDesc": [
+        "[{0}] struck at the Shock Centipede's carapace.\n\n\"Ohh...!\"\n\nA crack opened up in its hard-looking armor.\n\nCould it really have stopped the centipede?\n\nThis ought to be a rare opportunity."
+      ],
+      "failureDesc": [
+        "[{0}] struck at the Shock Centipede's carapace.\n\nAlas...\n\nCould the stored power have sprung forth?\n\nTremendous showers of sparks popped out of the Centipede's center along with a thunderous boom.\n\nNaturally, [{0}] was knocked away by the shockwave.\n\nFortunately enough, it only pushed the Sinner away and did little harm...\n\nBut the Centipede looks quite angry.\n\nIt'd be a good idea to brace up, right?"
+      ]
+    },
+    {
+      "id": 854201,
+      "title": "Fairy Gentleman",
+      "prevDesc": "กลิ่นหอมหวลอบอวลไปทั่วชั้นบรรยากาศ จนแทบจะทำให้คุณเมามายได้เลย",
+      "eventDesc": "Fairy Gentleman เอ่ยขึ้นพร้อมกับหัวเราะอย่างร่าเริง \"หึหึ... ไม่คิดเลยว่าจะดื่มเข้าไปได้เยอะขนาดนี้\" มีเสียงสะอึกเบา ๆ ดังแทรกขึ้นมา \"ยอมรับเลยว่ามันทำให้ฉันเสียอาการไปนิดหน่อย... แค่นิดเดียวเท่านั้นแหละ\" จากนั้นแฟรี่ก็ยกถ้วยในมือขึ้นจิบ \"เฮ้! เจ้านั่นกำลังพยายามจะทำให้ตัวเองสร่างเมางั้นเหรอ?\" \"พวกเราต้องทำให้เจ้าคนพาลนั่นมึนงงต่อไป!\" …ดูเหมือนว่าจะต้องขัดขวางไม่ให้แฟรี่ดื่มน้ำจากถ้วยใบนั้น",
+      "behaveDesc": "ใครจะไปแย่งถ้วยมาจากสุภาพบุรุษคนนี้?",
+      "successDesc": [
+        "[{0}] stood before the gentleman's mountainous belly.\n\n\"Ah, I couldn't share this with you, even if you're a privileged guest.\"\n\nInstead of demanding it, [{0}] just stares into the fairy.\n\n\"...Ahem.\"\n\nCompletely still, not moving a muscle.\n\n\"...A-Alright, alright! I can give you... a little bit.\"\n\n[{0}] shook their head.\n\n\"Are you... telling me to give you all of it?\"\n\nThe Sinner nodded.\n\n\"You...\"\n\n\"Fuu, haha. Fine, I've lost. You can have this.\"\n\n[{0}] finally made a light smile as they claimed the cup."
+      ],
+      "failureDesc": [
+        "[{0}] stood before the gentleman's mountainous belly.\n\n\"Ah, I couldn't share this with you, even if you're a privileged guest.\"\n\nInstead of demanding it, [{0}] just stares into the fairy.\n\n\"...Ahem.\"\n\nCompletely still, not moving a muscle.\n\n\"...Standing like that won't change my answer, you know?\"\n\nAfter vigorous laughter, the fairy gulped down all of the cup's content into his stomach.\n\n\"As much as I care about you, I couldn't give you everything I have, could I? Haha.\"\n\nDefeated, [{0}] returned."
+      ]
+    },
+    {
+      "id": 854401,
+      "title": "So That No One Will Cry",
+      "prevDesc": "ตุ๊กตาไม้ต้องสาปหยุดเคลื่อนไหวแล้ว เกิดอะไรขึ้นกันแน่?",
+      "eventDesc": "ตุ๊กตาไม้หยุดนิ่งอยู่กับที่ราวกับไม่มีอะไรเกิดขึ้น หัวของมันเอียงลงเล็กน้อยเหมือนกำลังตรวจสอบยันต์ของตัวเอง... หรือบางที มันอาจจะกำลังจ้องมองยันต์ของ Sinners อยู่ก็ได้ \"…….\" ราวกับถูกมนต์สะกด Sinners เริ่มเดินเข้าไปหาตุ๊กตาไม้ตัวนั้น ดูเหมือนพวกเขาจะลืมไปแล้วว่าเพิ่งสู้กันอยู่เมื่อครู่นี้เอง แล้วพวกเขาก็เริ่มแกะยันต์ที่พันพัวอยู่ตามร่างกายของตัวเองออก มันเกิดอะไรขึ้นกันแน่?",
+      "behaveDesc": "ใครจะเป็นคนรวบรวมยันต์แล้วนำพวกมันกลับมา?",
+      "successDesc": [
+        "[{0}] gathered the detached talismans and stood before the wooden doll.\n\nIt seems to be gazing silently.\n\nOr, maybe it was just the Sinner's conscience making it seem that way.\n\nThe eagerness to return the talismans to where they were.\n\n[{0}] extended their arm to hand over the stack of talismans...\n\nAs if drawn by a magnet, the talismans flew toward the doll.\n\n\"So that no one will cry...\"\n\nAfter muttering the phrase, [{0}] came back to their position."
+      ],
+      "failureDesc": [
+        "[{0}] gathered the detached talismans and stood before the wooden doll.\n\n\"…….\"\n\nIt creaked a little, then stretched a hand at [{0}].\n\nThinking it's to retrieve the talismans, [{0}] handed over the stack,\n\n\"Ah!\"\n\nThe wooden hand changed its trajectory and touched the Sinner's body.\n\nAt that moment, all the talismans on [{0}] began writhing before melting into sticky blood.\n\n…That doesn't bode well, does it?"
+      ]
+    },
+    {
+      "id": 854501,
+      "title": "Fairy-Long-Legs",
+      "prevDesc": "ดูเหมือนท้องฟ้าจะถูกปกคลุมอีกแล้ว ทำไมมันถึงคอยทอดเงาลงมาแบบนั้นกันนะ?",
+      "eventDesc": "พืชยักษ์ที่แฟรี่ตนนั้นทำให้เติบโตขึ้นมา มีความหนาพอๆ กับความสูงของมันเลย แต่มันก็มีข้อดีของมันอยู่ เหมือนกับการซ่อนตัวอยู่หลังเสาของตึก Sinner ตนหนึ่งสามารถหลบพ้นจากสายตาของแฟรี่ได้ จากนั้น Sinner ก็เล็งโจมตีไปที่ลำต้นอย่างระมัดระวัง",
+      "behaveDesc": "ใครเป็นคนโจมตีที่ลำต้น?",
+      "successDesc": [
+        "Striking at the stem, [{0}] climbed up the plant, hand over foot over hand.\n\nThe Sinner climbed so high, the others and the fairy appeared as tiny dots.\n\nThe plant seemed endlessly tall, but it had its end.\n\nAt last, [{0}] climbed onto the massive leaf at the top.\n\nThen the Sinner carefully walked up to the edge...\n\nAnd poked a hole in the leaf, causing the pool of water to fall on the fairy's head.\n\nThe fairy is making quite a fuss, looking surprised."
+      ],
+      "failureDesc": [
+        "Striking at the stem, [{0}] climbed up the plant, hand over foot over hand.\n\nThe Sinner climbed so high, the others and the fairy appeared as tiny dots.\n\nThe plant seemed endlessly tall, but it had its end.\n\nAt last, [{0}] climbed onto the massive leaf at the top.\n\nBut perhaps the Sinner failed to consider the amount of water that ponded on the leaf...\n\nAs soon as [{0}] stepped on the leaf, they slipped and fell right to the ground.\n\n...It might be fortunate that the Sinner didn't die."
+      ]
+    },
+    {
+      "id": 854901,
+      "title": "Faelantern",
+      "prevDesc": "แฟรี่สีเขียวอมฟ้าปรากฏตัวขึ้นอีกครั้งที่ปลายกิ่งไม้",
+      "eventDesc": "การ Attack แฟรี่ตนนั้นอีกครั้งจะเผยให้เห็นร่างที่แท้จริงของมัน นี่ไม่ใช่ครั้งแรกที่คุณเผชิญหน้ากับตัวตนนี้ มันจะไม่ยากเหมือนครั้งแรกหรอก ดูเหมือนเหล่า Sinners จะเห็นด้วยนะ แฟรี่ตนนั้นเพียงแค่นั่งอยู่นิ่งๆ จะมีก็เพียงปีกที่สั่นไหวเป็นพักๆ เท่านั้น ราวกับว่ามันรู้อยู่แล้วว่าพวกคุณกำลังมา",
+      "behaveDesc": "ใครจะเป็นคนงับเหยื่อล่อ?",
+      "successDesc": [
+        "[{0}] charged toward the fairy.\n\nAfter a light leap into the air, the Sinner swung the weapon toward the fairy.\n\n”!!!”\n\nThe fairy appeared to scream, but no sound came from its mouth.\n\nMaybe it wasn’t screaming at all. Perhaps it was just the swaying of branches.\n\n”The eyes are coming out…”\n\n”Get outta there! Here we go again.”\n\nNumerous eyes open one by one, gleaming from the shadows.\n\nThey oscillate as though they’ll jump out at us at any minute.\n\nSo… What now?"
+      ],
+      "failureDesc": [
+        "[{0}] charged toward the fairy.\n\nAfter lightly leaping into the air, the Sinner swung the weapon toward the fairy.\n\nBut…\n\n”That thing can dodge…?!”\n\nOf course, it wasn’t going to be that easy. Assuming that a bait would remain stationary is a complacent thought.\n\nThe fairy had also lightly flown up into the air and glared at the Sinner, who dared to attack it.\n\n”G-get out of there! It’s starting to move again!”\n\n[{0}] tried to get away, but its main body had already tightened around the Sinner's legs.\n\nSo… What now?"
+      ]
+    },
+    {
+      "id": 855001,
+      "title": "Wayward Passenger",
+      "prevDesc": "มันแอบเข้าไปในมิติอื่นอีกแล้วเหรอ?",
+      "eventDesc": "ถ้าดูจากการต่อสู้ที่ผ่านมา อีกไม่นานมันคงจะโผล่ออกมาจากรอยแยกมิติสักแห่งนั่นแหละ ถ้าเราคาดเดาจุดที่มันจะปรากฏตัวครั้งต่อไปได้ บางทีเราอาจจะมอบการโจมตีที่รุนแรงถึงตายให้มันได้ก่อนที่มันจะออกมาจากรอยแยกมิติได้ทั้งหมด",
+      "behaveDesc": "ใครสามารถคาดเดาจุดที่มันจะปรากฏตัวครั้งต่อไปได้?",
+      "successDesc": [
+        "Soon, the entity began crawling out of the dimensional rift that [{0}] selected.\n\n\"!\"\n\nThough it sensed the Sinner’s presence before it emerged,\n\nIt didn’t have enough time to act before [{0}] swung their weapon at it.\n\nThe entity hurriedly closed the dimensional rift as it fled back into its safety. That seems to have destabilized the dimensional rift.\n\nOpportunity."
+      ],
+      "failureDesc": [
+        "Soon, the entity began to crawl out of the dimensional rift.\n\n… From the rift opposite to the one that [{0}] had selected, unfortunately.\n\n[{0}] quickly turned around, brandishing their weapon… but the entity was faster.\n\nIt goes without saying that a powerful attack soon struck the Sinner."
+      ]
+    },
+    {
+      "id": 855501,
+      "title": "Steam Transport Machine",
+      "prevDesc": "แสงสว่างจะชะล้างตะกอนแห่งอดีตให้มลายไป",
+      "eventDesc": "หลอดสุญญากาศตรงกลางลำตัวของ Steam Transport Machine กำลังส่องแสงประกาย ตัวเลขที่แสดงบนหลอดสุญญากาศค่อย ๆ ลดลง... ไม่ว่าจะช้าหรือเร็วก็ตาม และโครงเหล็กที่ผุพังและเต็มไปด้วยสนิมของมัน ก็เริ่มซ่อมแซมตัวเองขึ้นมาใหม่ หรือว่า Steam Transport Machine จะย้อนเวลากลับไปสู่ตอนที่มันเพิ่งถูกสร้างขึ้นมากันนะ? ทิ้งทุกสิ่งที่มันเคยผ่านมาไว้เบื้องหลัง ยิ่งเครื่องจักรนี้เก่าลงเท่าไหร่ มันก็ยิ่งต้องซ่อมแซมตัวเองมากขึ้นเท่านั้น บางที Steam Transport Machine อาจจะหยุดลงได้... ถ้ามีใครสักคนเอื้อมมือเข้าไปในหลอดสุญญากาศของมัน?",
+      "behaveDesc": "ใครจะเป็นคนเอื้อมมือเข้าไปในหลอดสุญญากาศ?",
+      "successDesc": [
+        "[{0}] strode up to the Steam Transport Machine.\n\nIt appeared that the Steam Transport Machine was in a deep focus. The machine stood completely still, no matter how close the Sinner got to it.\n\n[{0}] did not hesitate to reach into the vacuum tubes.\n\n”Ooh!!”\n\n”The numbers…!”\n\nLooks like [{0}] tapped into their creativity and swapped out one of the electrodes connected to the vacuum tubes.\n\nThat seems to have done the trick; the numbers ceased to decrease.\n\nThe Steam Transport Machine began to creak into motion once again, as though it just realized what had happened, but the perpetrator was long gone."
+      ],
+      "failureDesc": [
+        "[{0}] strode up to the Steam Transport Machine.\n\nIt appeared that the Steam Transport Machine was in a deep focus. The machine stood completely still, no matter how close the Sinner got to it.\n\n[{0}] did not hesitate to reach into the vacuum tubes.\n\n”Wait, watch out—!”\n\nPerhaps we’ve been tricked by the Steam Transport Machine. Perhaps finished reconstructing itself right on time.\n\nWhichever was the case, the machine snatched [{0}]’s wrist…\n\nAnd blasted them with scalding steam.\n\n… It’s going to be a while before [{0}] recovers."
+      ]
+    },
+    {
+      "id": 85560101,
+      "title": "Sign of Roses",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "คุณอยากจะย้อมสีกลีบดอกไม้เป็นสีอะไร?",
+      "successDesc": [
+        "\"Ah, how pretty.\"\n\n\"And so vivid, too!\"\n\n\"Your sin was such a beautiful hue of {0}.\"\n\n\"You've really made a fine addition to the garden.\"\n\n\"The color of {0}?! I'll plant it right next to me.\"\n\n\"Then… Shall we play some more?\"\n\n\"This garden will become terribly beautiful with more sinful flowers we bloom!\""
+      ],
+      "failureDesc": [
+        "\"Mm, still too pale.\"\n\n\"We don't need bland flowers like yours.\"\n\n\"How disappointing~\"\n\nWith that, they fell silent.\n\nThey probably didn't like it very much."
+      ]
+    }
+  ]
+}

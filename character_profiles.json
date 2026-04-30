@@ -1,0 +1,247 @@
+{
+  "Heathcliff": {
+    "name": "Heathcliff",
+    "tellers": [
+      "Shi Heathcliff",
+      "Heathcliff"
+    ],
+    "sample_dialogs": [
+      "I’ll smash ‘em good, aight?",
+      "Might as well, I suppose.",
+      "If you really don’t have anything better to suggest.",
+      "Get someone else.",
+      "…Are you taking the piss? You want ME to do this?"
+    ],
+    "speech_patterns": [
+      "terse"
+    ],
+    "tone": "neutral",
+    "key_phrases": [],
+    "dialog_count": 14
+  },
+  "Ishmael": {
+    "name": "Ishmael",
+    "tellers": [
+      "Ishmael",
+      "R Corp. Ishmael"
+    ],
+    "sample_dialogs": [
+      "Can I do it? Of course. There’s no point in even asking.",
+      "This should be reasonable. As long as the plan behind it isn’t total flotsam.",
+      "Well… If there’s no one else up for this, I’ll step forward.",
+      "I’ll comply, but this honestly sounds like a terrible plan.",
+      "Are you serious? Several screws loose? I’m disappointed. Don’t talk to me."
+    ],
+    "speech_patterns": [
+      "casual"
+    ],
+    "tone": "neutral",
+    "key_phrases": [],
+    "dialog_count": 7
+  },
+  "YiSang": {
+    "name": "YiSang",
+    "tellers": [
+      "Seven Yi Sang",
+      "Yi Sang"
+    ],
+    "sample_dialogs": [
+      "Failure would be a vagary at this rate.",
+      "I believe I am with a fair chance of success.",
+      "If you reckon that one will make it, perhaps one might make it.",
+      "Would you acquiesce to an unsatisfactory outcome?",
+      "I feel this will be an idle affair."
+    ],
+    "speech_patterns": [
+      "terse"
+    ],
+    "tone": "terse_artistic",
+    "key_phrases": [],
+    "dialog_count": 14
+  },
+  "DonQuixote": {
+    "name": "DonQuixote",
+    "tellers": [
+      "Don Quixote"
+    ],
+    "sample_dialogs": [
+      "Let me lead the charge! I shall raise the banner of victory in the name of justice!",
+      "Fear thou not. This is easily within my capabilities!",
+      "I can do this! One must be willing to put forth effort in order to take a step forward!",
+      "I shall devote all my heart to it! A hero is she who achieves the impossible!",
+      "…Marching onward despite knowing that danger lies in wait—such is the hero's way!"
+    ],
+    "speech_patterns": [
+      "archaic_formal",
+      "heroic"
+    ],
+    "tone": "enthusiastic_chivalric",
+    "key_phrases": [],
+    "dialog_count": 15
+  },
+  "Rodion": {
+    "name": "Rodion",
+    "tellers": [
+      "Kurokumo Rodion",
+      "Rodion"
+    ],
+    "sample_dialogs": [
+      "Look, I’ll lop off my hand if I somehow don’t make it. Deal?",
+      "The odds are nice. Leave it to me.",
+      "Sure, why not. You trust me, yeah?",
+      "This might take a tiiiiny bit of luck to pull off.",
+      "Leave me out of this, m’kay?"
+    ],
+    "speech_patterns": [
+      "casual",
+      "terse"
+    ],
+    "tone": "terse_artistic",
+    "key_phrases": [],
+    "dialog_count": 14
+  },
+  "Outis": {
+    "name": "Outis",
+    "tellers": [
+      "Outis",
+      "Blade Lineage Outis"
+    ],
+    "sample_dialogs": [
+      "Victory is all but guaranteed. Your strategy is truly commendable.",
+      "The tide is in our favor. Please leave this to me.",
+      "I won’t disappoint you if you so choose to send me.",
+      "While the plan is sound, I fear that my capabilities might be insufficient for it.",
+      "Who comes up with such a crap— Ah, it was a joke, was it not?"
+    ],
+    "speech_patterns": [
+      "heroic"
+    ],
+    "tone": "neutral",
+    "key_phrases": [],
+    "dialog_count": 7
+  },
+  "Sinclair": {
+    "name": "Sinclair",
+    "tellers": [
+      "Blade Lineage Sinclair",
+      "Sinclair"
+    ],
+    "sample_dialogs": [
+      "I think even I could handle this one.",
+      "…Okay, I’ll try.",
+      "If you need me to… I’ll give it a go.",
+      "Does it have to be me?",
+      "Me? Seriously? I’ll definitely fail. I’ll end up ruining it all."
+    ],
+    "speech_patterns": [
+      "archaic_formal",
+      "terse"
+    ],
+    "tone": "terse_artistic",
+    "key_phrases": [],
+    "dialog_count": 7
+  },
+  "Faust": {
+    "name": "Faust",
+    "tellers": [
+      "Faust",
+      "W. Faust"
+    ],
+    "sample_dialogs": [
+      "The rational choice would be to allow me to handle this.",
+      "My analysis does tell me that this task will be relatively easy.",
+      "I can’t guarantee the results. It will be up to the chaos of the universe.",
+      "If I were you, I would assign someone else to this task.",
+      "This choice would make the decision to place you as our manager a regrettable one."
+    ],
+    "speech_patterns": [
+      "analytical"
+    ],
+    "tone": "intellectual_confident",
+    "key_phrases": [],
+    "dialog_count": 14
+  },
+  "Gregor": {
+    "name": "Gregor",
+    "tellers": [
+      "Gregor",
+      "Liu Gregor"
+    ],
+    "sample_dialogs": [
+      "Oh, this shouldn’t be a big deal at all, huh?",
+      "Looks like a bit of a bother, but, eh… probably doable.",
+      "Welp… Not really feeling it, but if you say so.",
+      "Is that an order? If you’re just asking, then I suggest someone else.",
+      "…So you were the kind of boss to get fragged by their own men."
+    ],
+    "speech_patterns": [
+      "casual",
+      "terse"
+    ],
+    "tone": "world_weary_casual",
+    "key_phrases": [],
+    "dialog_count": 7
+  },
+  "Merusault": {
+    "name": "Merusault",
+    "tellers": [
+      "Meursault",
+      "Liu Meursault"
+    ],
+    "sample_dialogs": [
+      "Not a problem.",
+      "It’s doable.",
+      "I will try.",
+      "There are better options.",
+      "You must be mad."
+    ],
+    "speech_patterns": [
+      "terse"
+    ],
+    "tone": "terse_artistic",
+    "key_phrases": [],
+    "dialog_count": 7
+  },
+  "Ryoshu": {
+    "name": "Ryoshu",
+    "tellers": [
+      "Ryōshū",
+      "Seven Ryōshū"
+    ],
+    "sample_dialogs": [
+      "So easy, I don’t even wanna bother.",
+      "Does it really have to be me when the others are right there?",
+      "Seems manageable.",
+      "Nothing I’d recommend, but I won’t say no to it.",
+      "Overcoming the impossible is where true beauty lies."
+    ],
+    "speech_patterns": [
+      "casual",
+      "terse"
+    ],
+    "tone": "neutral",
+    "key_phrases": [],
+    "dialog_count": 7
+  },
+  "HongLu": {
+    "name": "HongLu",
+    "tellers": [
+      "Hong Lu",
+      "Kurokumo Hong Lu"
+    ],
+    "sample_dialogs": [
+      "This is as easy as eating the rice cakes my servants brought to my mouth.",
+      "I think I shall handle this one!",
+      "Hmm, well. Alright. I’ll do it.",
+      "I think… this is someone else’s job, wouldn’t you agree?",
+      "Ah, I’ve just remembered that I had urgent business to take care of…"
+    ],
+    "speech_patterns": [
+      "archaic_formal",
+      "heroic"
+    ],
+    "tone": "neutral",
+    "key_phrases": [],
+    "dialog_count": 7
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "dataList": [
+    {
+      "id": "800101_whitesnow_success_1_1",
+      "content": "<color=#ebcaa2>ผลของ [{0}]</color> <color=#e30000>หมดเวลาแล้ว</color>"
+    },
+    {
+      "id": "800101_whitesnow_failure_1_1",
+      "content": "<color=#ebcaa2>ไม่มีอะไรเกิดขึ้น</color>"
+    },
+    {
+      "id": "800105_whitesnow_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#f8c200>ถูกทำลาย!</color>"
+    },
+    {
+      "id": "800105_whitesnow_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] ติดสถานะ Staggered!</color>"
+    },
+    {
+      "id": "800105_whitesnow_failure_1_1",
+      "content": "<color=#ebcaa2>ไม่มีอะไรเกิดขึ้น</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_success_1_1",
+      "content": "<color=#ebcaa2>Golden Apple สร้างร่างใหม่ขึ้นมา!</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>สูญเสีย [{1}] HP</color>"
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_2",
+      "content": "ทุกส่วนของ [{0}] ได้รับ %{3} {2} เป็นเวลา {1} เทิร์น/%"
+    },
+    {
+      "id": "800801_muckwormedapple_failure_1_3",
+      "content": "<color=#ebcaa2>Golden Apple สร้างร่างใหม่ขึ้นมา!</color>"
+    },
+    {
+      "id": "800201_aztec_circle_1_1",
+      "content": "<color=#ebcaa2>ทุกส่วนของ [{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "800202_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>สูญเสีย {1} HP</color>"
+    },
+    {
+      "id": "800202_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>ทุกส่วนของ [{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>สูญเสีย {1} HP</color>"
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>สูญเสีย {1} SP</color>"
+    },
+    {
+      "id": "800202_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>ทุกส่วนของ [{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}] และ {4} [{3}]/%"
+    },
+    {
+      "id": "800203_aztec_circle_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP</color>"
+    },
+    {
+      "id": "800203_aztec_circle_1_2",
+      "content": "<color=#ebcaa2>[{1}] ของ [{0}]</color> <color=#e30000>หมดเวลาแสดงผลแล้ว</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP</color>"
+    },
+    {
+      "id": "800204_aztec_circle_success_1_3",
+      "content": "<color=#ebcaa2>[{1}] ของ [{0}]</color> <color=#e30000>หมดเวลาแสดงผลแล้ว</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>เสีย {1} SP</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP</color>"
+    },
+    {
+      "id": "800204_aztec_circle_failure_1_4",
+      "content": "มอบ %{1} [{0}]/% <color=#ebcaa2>ให้แก่</color> <color=#ebcaa2> Sinners ทั้งหมด</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_2",
+      "content": "<color=#ebcaa2>Sinners ทั้งหมด</color> <color=#fe4b48>เสีย {0} SP</color>"
+    },
+    {
+      "id": "800206_aztec_circle_success_1_3",
+      "content": "<color=#ebcaa2>Abnormality ถูกปราบแล้ว!</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_2",
+      "content": "<color=#ebcaa2>Sinners ทั้งหมด</color> <color=#fe4b48>เสีย {0} SP</color>"
+    },
+    {
+      "id": "800206_aztec_circle_failure_1_3",
+      "content": "<color=#ebcaa2>ทุกส่วนของ [{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}] และ {4} [{3}]/%"
+    },
+    {
+      "id": "801201_reinforcedHuman_1_1",
+      "content": "<color=#ebcaa2>กำลังสำรวจโรงงาน...</color>"
+    },
+    {
+      "id": "801201_reinforcedHuman_1_2",
+      "content": "<color=#ebcaa2>พวกเราตัดสินใจที่จะไม่สำรวจโรงงาน</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_1",
+      "content": "<color=#ebcaa2>กดปุ่ม \"ใช่\"</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_2_1",
+      "content": "<color=#ebcaa2>กดปุ่ม \"ไม่\"</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_2_1",
+      "content": "<color=#ebcaa2>Identities ทั้งหมด</color> <color=#e30000>เสีย {0} HP </color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_1_2_2",
+      "content": "<color=#ebcaa2>Cyborg ทั้งหมด</color> <color=#e30000>สูญเสีย</color> <color=#ebcaa2>ความสามารถ [Upgrade Factory at Work] Passive!</color>"
+    },
+    {
+      "id": "801202_reinforcedHuman_2_2",
+      "content": "<color=#ebcaa2>ศัตรูทั้งหมด</color> <color=#e30000>สูญเสีย</color> <color=#ebcaa2>ความสามารถ [Upgrade Factory at Work] Passive!</color>"
+    },
+    {
+      "id": "801502_pinkshoe_success_1_1",
+      "content": "<color=#ebcaa2>ในเทิร์นที่เหลือ ศัตรูทั้งหมด</color> <color=#ebcaa2>ได้รับ</color> %{1} [{0}] และ {3} [{2}]/%"
+    },
+    {
+      "id": "801502_pinkshoe_success_1_2",
+      "content": "<color=#ebcaa2>ศัตรูทั้งหมดจะไม่กลายเป็น [{0}] อีกต่อไป</color>"
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_1",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#e30000>เสีย {0} HP </color>"
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_2",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#ebcaa2>ได้รับ</color> %{1} [{0}]/%"
+    },
+    {
+      "id": "801502_pinkshoe_failure_1_3",
+      "content": "<color=#ebcaa2>ศัตรูทั้งหมดกลายเป็น %[{0}]/%</color>"
+    },
+    {
+      "id": "102001_action_4_1",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#e30000>เสีย {0} HP </color>"
+    },
+    {
+      "id": "102001_action_4_2",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#fe4b48>เสีย {0} SP </color>"
+    },
+    {
+      "id": "102002_action_1_1",
+      "content": "<color=#ebcaa2>[โรเดียน]</color> <color=#80c9ff>ฟื้นฟู {0} SP </color>"
+    },
+    {
+      "id": "102002_action_1_2",
+      "content": "<color=#ebcaa2>[โรเดียน]</color> <color=#fe4b48>เสีย {0} SP.</color>"
+    },
+    {
+      "id": "102002_action_2_2",
+      "content": "<color=#ff8000>เริ่มการต่อสู้!</color>"
+    },
+    {
+      "id": "1020201_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>ฟื้นฟู {1} SP.</color>"
+    },
+    {
+      "id": "1020201_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP.</color>"
+    },
+    {
+      "id": "1020203_success_1_1",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#80c9ff>ฟื้นฟู {0} SP.</color>"
+    },
+    {
+      "id": "1020203_success_1_2",
+      "content": "<color=#ebcaa2>[โรเดียน]</color> <color=#80c9ff>ฟื้นฟู {0} SP.</color>"
+    },
+    {
+      "id": "1020203_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP.</color>"
+    },
+    {
+      "id": "acquire_ego_gift",
+      "content": "<color=#ebcaa2>ได้รับ E.G.O Gift!</color>"
+    },
+    {
+      "id": "disappear_ego_gift",
+      "content": "<color=#ebcaa2> E.G.O Gift ‘{0}’ </color> <color=#e30000>หมดผลแสดงผลแล้ว</color>"
+    },
+    {
+      "id": "acquire_ego_gift_if_win",
+      "content": "<color=#ebcaa2>ชนะการต่อสู้เพื่อรับ E.G.O Gift!</color>"
+    },
+    {
+      "id": "chracter_mp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>เสีย {1} SP.</color>"
+    },
+    {
+      "id": "chracter_mp_increase",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>ฟื้นฟู {1} SP.</color>"
+    },
+    {
+      "id": "chracter_hp_increase",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>ฟื้นฟู {1} HP.</color>"
+    },
+    {
+      "id": "chracter_hp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP.</color>"
+    },
+    {
+      "id": "chracter_hp_mp_decrease",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>เสีย {1} HP<color=#ebcaa2> และ <color=#fe4b48>SP.</color>"
+    },
+    {
+      "id": "all_ally_hp_decrease",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#e30000>เสีย {0} HP</color>"
+    },
+    {
+      "id": "all_ally_hp_increase",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#e30000>ฟื้นฟู {0} HP</color>"
+    },
+    {
+      "id": "all_ally_mp_decrease",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#fe4b48>เสีย {0} SP</color>"
+    },
+    {
+      "id": "all_ally_hp_mp_decrease",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#e30000>เสีย {0} HP<color=#ebcaa2> และ <color=#fe4b48>SP</color>"
+    },
+    {
+      "id": "all_ally_add_buff",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#ebcaa2>ได้รับ</color> %{1} {0}/%!"
+    },
+    {
+      "id": "all_ally_add_buff_during_next_n_battle",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#ebcaa2>ได้รับ</color> %{2} {1}/% ในอีก {0} การต่อสู้ถัดไป"
+    },
+    {
+      "id": "all_enemy_apply_buff",
+      "content": "มอบ %{1} {0}/% <color=#ebcaa2>ให้แก่</color> <color=#ebcaa2>ศัตรูทั้งหมด!</color>"
+    },
+    {
+      "id": "character_apply_buff_during_next_n_battle",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> %{3} {2}/% <color=#ebcaa2>ในอีก {1} การต่อสู้ถัดไป</color>"
+    },
+    {
+      "id": "battle_occurrence",
+      "content": "<color=#ebcaa2>เริ่มการต่อสู้!</color>"
+    },
+    {
+      "id": "nothing_happend",
+      "content": "<color=#ebcaa2>ไม่มีอะไรเกิดขึ้น</color>"
+    },
+    {
+      "id": "unlock_hidden_node",
+      "content": "<color=#ebcaa2>มีเส้นทางใหม่ปรากฏขึ้นบนแผนที่!</color>"
+    },
+    {
+      "id": "enemy_wave_decrease",
+      "content": "<color=#ebcaa2>ลดจำนวน Wave ศัตรูลง {0}!</color>"
+    },
+    {
+      "id": "803001_cromer_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] ติดสถานะ Staggered!</color>"
+    },
+    {
+      "id": "803001_cromer_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>เสีย {1} SP</color>"
+    },
+    {
+      "id": "all_ally_mp_increase",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมด</color> <color=#80c9ff>ฟื้นฟู {0} SP</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_hp_increase",
+      "content": "<color=#ebcaa2>Identity ที่มี</color> Skill %{0} Affinity Attack <color=#ebcaa2>ฟื้นฟู HP</color> <color=#00ff9c>{1} HP.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_hp_increase",
+      "content": "<color=#ebcaa2>Identity ที่ไม่มี</color> Skill %{0} Affinity Attack <color=#ebcaa2>ฟื้นฟู HP</color> <color=#00ff9c>{1} HP.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_hp_decrease",
+      "content": "<color=#ebcaa2>Identity ที่มี</color> Skill %{0} Affinity Attack <color=#ebcaa2>ได้รับความเสียหาย</color> <color=#e30000>{1} HP หน่วย.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_hp_decrease",
+      "content": "<color=#ebcaa2>Identity ที่ไม่มี</color> Skill %{0} Affinity Attack <color=#ebcaa2>ได้รับความเสียหาย</color> <color=#e30000>{1} HP หน่วย.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_mp_increase",
+      "content": "<color=#ebcaa2>Identity ที่มี</color> Skill %{0} Affinity Attack <color=#ebcaa2>ฟื้นฟู HP</color> <color=#80c9ff>{1} SP.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_mp_increase",
+      "content": "<color=#ebcaa2>Identity ที่ไม่มี</color> Skill %{0} Affinity Attack <color=#ebcaa2>ฟื้นฟู HP</color> <color=#80c9ff>{1} SP.</color>"
+    },
+    {
+      "id": "ally_own_skill_attribute_mp_decrease",
+      "content": "<color=#ebcaa2>Identity ที่มี</color> Skill %{0} Affinity Attack <color=#ebcaa2>ได้รับความเสียหาย</color> <color=#fe4b48>{1} SP หน่วย.</color>"
+    },
+    {
+      "id": "ally_not_own_skill_attribute_mp_decrease",
+      "content": "<color=#ebcaa2>Identity ที่ไม่มี</color> Skill %{0} Affinity Attack <color=#ebcaa2>ได้รับความเสียหาย</color> <color=#fe4b48>{1} SP หน่วย.</color>"
+    },
+    {
+      "id": "852701_statue_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] ติดสถานะ Staggered!</color>"
+    },
+    {
+      "id": "852701_statue_failure_1_1",
+      "content": "<color=#ebcaa2>Karma ของ [{0}] ถูกชำระแล้ว</color>"
+    },
+    {
+      "id": "852701_statue_failure_1_2",
+      "content": "Karma จะสุ่มโจมตีใส่ Sinner!"
+    },
+    {
+      "id": "852701_statue_failure_1_3",
+      "content": "<color=#ebcaa2>[{0}] ติดสถานะ Staggered!</color>"
+    },
+    {
+      "id": "851901_kqe_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ใช้ </color> ทั้งหมด [{1}]."
+    },
+    {
+      "id": "851901_kqe_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] ติดสถานะ Staggered!</color>"
+    },
+    {
+      "id": "851901_kqe_success_1_3",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ </color> %{2} [{1}]."
+    },
+    {
+      "id": "851901_kqe_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}] และ {4} [{3}]/%."
+    },
+    {
+      "id": "851901_kqe_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}]/%."
+    },
+    {
+      "id": "851001_cryingtoad_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] ติดสถานะ Staggered!</color>"
+    },
+    {
+      "id": "851001_cryingtoad_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#80c9ff>ฟื้นฟู {1} SP.</color>"
+    },
+    {
+      "id": "851001_cryingtoad_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#fe4b48>สูญเสีย {1} SP.</color>"
+    },
+    {
+      "id": "803101_waterFish_success_1_1",
+      "content": "<color=#ebcaa2>ส่วนร่างกายของ [{0}]</color> <color=#e30000>สูญเสีย {1} HP.</color>"
+    },
+    {
+      "id": "803101_waterFish_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] ใช้สกิล</color> <color=#e30000>[{1}]</color>!"
+    },
+    {
+      "id": "803201_lightningBeast_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>."
+    },
+    {
+      "id": "803201_lightningBeast_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] ใช้</color> สกิล <color=#e30000>[{1}]</color>!"
+    },
+    {
+      "id": "804501_electriccentipede_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] สูญเสีย %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "804501_electriccentipede_success_1_2",
+      "content": "<color=#ebcaa2>ชิ้นส่วนทั้งหมดของ [{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "804501_electriccentipede_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ %{2} [{1}]/%</color>"
+    },
+    {
+      "id": "804501_electriccentipede_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}]/%"
+    },
+    {
+      "id": "804801_gentlefairy_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>ฟื้นฟู {1} HP</color>"
+    },
+    {
+      "id": "804801_gentlefairy_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}], {4} [{3}], และ {6} [{5}]/%"
+    },
+    {
+      "id": "804801_gentlefairy_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>ฟื้นฟู {1} HP</color>"
+    },
+    {
+      "id": "804801_gentlefairy_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>ได้รับ</color> %{2} [{1}], {4} [{3}], และ {6} [{5}]/%"
+    },
+    {
+      "id": "804601_umbrellafox_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> ทั้งหมด <color=#00ff9c>ได้รับความเสียหาย {1} จาก Max HP</color>"
+    },
+    {
+      "id": "804601_umbrellafox_success_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>เสีย {1} SP</color>"
+    },
+    {
+      "id": "804601_umbrellafox_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#00ff9c>เสีย {1} SP</color>"
+    },
+    {
+      "id": "804701_nobodygonnacry_success_1_1",
+      "content": "<color=#ebcaa2>So That No One Will Cry ได้รับ</color> 5 Reattached Curse Talisman"
+    },
+    {
+      "id": "804701_nobodygonnacry_success_1_2",
+      "content": "[{0}] ได้รับ <color=#00ff9c>{2} {1}</color> ในเทิร์นหน้า"
+    },
+    {
+      "id": "804701_nobodygonnacry_failure_1_1",
+      "content": "<color=#ebcaa2>ลบ {1} ทั้งหมดออก</color> จาก <color=#ebcaa2>[{0}]</color>"
+    },
+    {
+      "id": "805002_egoawakendongrang_success_1_1",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "805002_egoawakendongrang_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "805002_egoawakendongrang_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] เสีย</color> <color=#e30000>{1} HP</color> และ <color=#fe4b48>{2} SP</color>"
+    },
+    {
+      "id": "805002_egoawakendongrang_failure_1_2",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมดได้รับ</color> {1} <color=#e30000>[{0}]</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_1",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_2",
+      "content": "<color=#ebcaa2>พันธมิตรทั้งหมดได้รับ</color> {1} <color=#e30000>[{0}]</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_success_2_3",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_failure_2_1",
+      "content": "<color=#ebcaa2>[{0}] สูญเสีย</color> <color=#e30000>{1} HP</color> และ <color=#fe4b48>{2} SP</color>"
+    },
+    {
+      "id": "805004_egoawakendongrang_failure_2_2",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "805006_egoawakendongrang_success_3_1",
+      "content": "เผชิญหน้ากับ Dongrang"
+    },
+    {
+      "id": "805006_egoawakendongrang_failure_3_1",
+      "content": "เผชิญหน้ากับ Dongrang"
+    },
+    {
+      "id": "805801_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>สูญเสีย {1} HP</color>"
+    },
+    {
+      "id": "805801_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "805801_failure_1_2",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "805901_success_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>สูญเสีย {1} HP</color>"
+    },
+    {
+      "id": "805901_success_1_2",
+      "content": "<color=#ebcaa2>[{0}] ได้รับ</color> {2} <color=#e30000>[{1}]</color>"
+    },
+    {
+      "id": "805901_failure_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> <color=#e30000>สูญเสีย {1} HP</color>"
+    }
+  ]
+}

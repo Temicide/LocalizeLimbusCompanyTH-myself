@@ -1,0 +1,164 @@
+{
+  "dataList": [
+    {
+      "id": 857701,
+      "title": "Ardor Blossom Moth",
+      "prevDesc": "เงาทมิฬยังคงหลงเหลืออยู่ท่ามกลางเปลวเพลิงสีชาดที่กำลังลุกโชน",
+      "eventDesc": "เงาทมิฬยังคงหลงเหลืออยู่ ณ ใจกลางของผีเสื้อกลางคืนแห่งเปลวเพลิง รูปลักษณ์ของมันนั้นดูเลือนรางและเปลี่ยนแปลงอยู่ตลอดเวลา แต่ทว่า... คุณกลับบอกได้ว่าเงานั่นแหละคือแก่นแท้ของผีเสื้อตัวนี้ หากสามารถแยกเงานั้นออกมาจากเปลวไฟได้ บางทีความร้อนของมันอาจจะทุเลาลงชั่วขณะ",
+      "behaveDesc": "ใครจะเป็นคนเอื้อมมือไปหาเงานั้น?",
+      "successDesc": [
+        "[{0}] reaches out toward the flames, enduring through the burning fire.\n\nTheir fingertips begin to blister and bubble, but perhaps [{0}]'s passion burned hotter than the flames itself.\n\nBefore the moth could do anything, [{0}] wrested the dark thing from the flames and hurled it away from the fire.\n\nThe fire and the embers on both the moth and the Sinners immediately subsided.\n\nAs though the flames had never burned."
+      ],
+      "failureDesc": [
+        "[{0}] reaches out toward the flames, enduring through the burning fire.\n\nBut the pain of their very skin blistering and bubbling from the heat was far too much for them to bear. [{0}] pulled away from the flames before they reached the shadow.\n\nThe price of letting this opportunity fall through their fingers was devastating.\n\nThe moth begins to beat its wings faster and with unforeseen vigor; and the flames began rising higher and higher in return.\n\nIt need not be said that a world of fire soon descended upon the Sinners."
+      ]
+    },
+    {
+      "id": 857801,
+      "title": "Drenched Gossypium",
+      "prevDesc": "เถาวัลย์กระหายเลือดทิ่มแทงเข้าไปใน Sinners คุณจะทำอย่างไร?",
+      "eventDesc": "ยิ่งการต่อสู้ยืดเยื้อออกไป เถาวัลย์จาก Gossypium ก็ยิ่งทิ่มแทงเข้าไปใน Sinners มากขึ้นเรื่อย ๆ พวกเถาวัลย์ยังคงสูบฉีดเลือดออกมาจากตัวพวกเขา และรอยสีแดงบนส่วนที่เป็นปุยฝ้ายสีขาวของ Gossypium ก็เริ่มขยายใหญ่ขึ้น จะแยกเถาวัลย์เหล่านี้ออกจาก Sinners ได้อย่างไร?",
+      "behaveDesc": "ใครจะเป็นคนก้าวออกมา?",
+      "successDesc": [
+        "These vines cannot be torn or cut.\n\nThough it may be painful, the only possible solution would be for someone else to pull the vines out of the Sinners.\n\nWhile the Gossypium busies itself fighting the other Sinners, [{0}] rushes forward to deftly pluck out the vines.\n\nOf course, this left their flesh and muscles torn and bleeding...\n\n... but at least that blood won't be going to the Gossypium."
+      ],
+      "failureDesc": [
+        "These vines cannot be torn or cut.\n\nThough it may be painful, the only possible solution would be for someone else to pull the vines out of the Sinners.\n\nWhile the Gossypium busies itself fighting the other Sinners, [{0}] rushes forward to pluck out the vines.\n\n... it was as though the Gossypium knew exactly what they were about to do. The vines latched onto [{0}]'s arm and immediatelly dug under their skin.\n\nIt may have been better to do nothing at all."
+      ]
+    },
+    {
+      "id": 858501,
+      "prevDesc": "สายตาที่ทิ่มแทงกำลังจ้องมองสำรวจพวกเรา ราวกับว่าสายตานั้นสามารถมองทะลุปรุโปร่งไปถึงข้างใน"
+    },
+    {
+      "id": 85850101,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่ฟาดฟันทุกสรรพสิ่ง สามารถฟาดฟันได้แม้กระทั่ง Spiral of Contempt",
+      "behaveDesc": "ใครจะเป็นคนส่งต่อสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850102,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่ทิ่มแทงทุกสรรพสิ่ง สามารถทิ่มแทงได้แม้กระทั่ง Spiral of Contempt",
+      "behaveDesc": "ใครจะเป็นคนส่งต่อสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850103,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่บดขยี้ทุกสรรพสิ่ง ย่อมบดขยี้ได้แม้กระทั่ง Spiral of Contempt",
+      "behaveDesc": "ใครจะเป็นผู้ส่งผ่านสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850201,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่แผดเผาทุกสรรพสิ่ง ย่อมแผดเผาได้แม้กระทั่ง Spiral of Contempt",
+      "behaveDesc": "ใครจะเป็นผู้ส่งผ่านสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850202,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่สร้างบาดแผลแก่ทุกสรรพสิ่ง ย่อมสร้างบาดแผลได้แม้กระทั่ง Spiral of Contempt",
+      "behaveDesc": "ใครจะเป็นผู้ส่งผ่านสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850203,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่จ้องมองทุกสรรพสิ่ง ย่อมทำให้แม้แต่ Spiral of Contempt ต้องจ้องมองกลับมา",
+      "behaveDesc": "ใครจะเป็นผู้ส่งผ่านสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850204,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่กัดกินทุกสรรพสิ่ง ย่อมกัดกินได้แม้กระทั่ง Spiral of Contempt",
+      "behaveDesc": "ใครจะเป็นผู้ส่งผ่านสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850205,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่ทำให้ทุกสิ่งมัวหมอง ย่อมทำให้แม้แต่ Spiral of Contempt มัวหมองได้เช่นกัน",
+      "behaveDesc": "ใครจะเป็นผู้ส่งต่อสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850206,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่เต็มไปด้วยความเหยียดหยามต่อทุกสรรพสิ่ง ย่อมเหยียดหยามได้แม้แต่ Spiral of Contempt",
+      "behaveDesc": "ใครจะเป็นผู้ส่งต่อสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    },
+    {
+      "id": 85850207,
+      "title": "Spiral of Contempt",
+      "prevDesc": "",
+      "eventDesc": "สายตาที่เต็มไปด้วยความริษยาต่อทุกสรรพสิ่ง ย่อมริษยาได้แม้แต่ Spiral of Contempt",
+      "behaveDesc": "ใครจะเป็นผู้ส่งต่อสายตานี้ไปยัง Spiral of Contempt?",
+      "successDesc": [
+        "[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
+      ],
+      "failureDesc": [
+        "[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
+      ]
+    }
+  ]
+}
