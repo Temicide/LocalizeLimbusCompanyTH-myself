@@ -1,0 +1,11 @@
+## Hugo
+
+### Appearance
+Hugo is a man of average height and build. His gray-blue eyes and large nose are underlined by a cheeky grin, which itself is accentuated by his brown hair, that drapes down his cheeks. The rest of his hair is covered by a blue hood from an overcoat that gradually shifts its color into a dark gray, whilst remaining bright orange on the inside. He also wears pitch black gloves, dark gray trousers and tall boots.
+
+### Personality
+Hugo is a smug and overconfident Fixer in most cases, initially being condescending to the Sinners prior to knowing they will be assisting with the eradication of La Manchaland, though backing down once the Fanghunt Office got involved. Despite his overconfidence, he agrees that he is a small-time Fixer, attempting to scrape up however much Ahn is possible through contracts. Through this mindset, he is quick to sell others out to ensure his safety or a paycheck.
+
+### Story
+As the Sinners first arrived in the Backstreets of P Corp. and finding the management tent organized by the Fixers aiming to take down La Manchaland, Hugo condescendingly told the Sinners that they aren't allowed into the area, believing them to be civilians. As he tried to tell them off, he meekly leaves the conversation as Fanghunt Office members arrived to interrogate the Company. During Alessio and Han-ul's briefing of the job to the participating groups, he arrogantly whispered to Hong Lu. He is later assigned to the same area as Limbus Company, aiming to handle Area 1.
+Within Area 1, he accompanied the Sinners in defeating Bloodfiends and Bloodbags while playing the games of the Barber, all the while being closely watched by Ryōshū due to his greedy and untrustworthy behavior. As the overseer arrived at the conclusion of the game, she demanded to know who Don Quixote is, allowing whoever admits to being the user of the name to push the button of the area. Hugo took this opportunity to sell out Don Quixote and began to rush for the button, though Ryōshū would sever both his hands before he had the chance to push it. Lamenting on his lack of creativity in his betrayal, Hugo bled out while the Sinners battled the Barber.

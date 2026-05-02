@@ -1,0 +1,158 @@
+Overview
+Assist Unit
+Sprites
+*
+"Wait!"
+Managers should be reminded that this article contains **major plot synopses**, **artwork**, **and/or game data** that might spoil the story of Limbus Company.*
+**This page contains spoilers for CANTO IX: THE UNSEVERING.**
+## Moses
+## Other Names
+### Korean
+모제스
+### Japanese
+モーゼス
+### AKA
+Distortion Detective
+Doctor Moses
+## General Information
+### Gender
+Female
+### Age
+49 (as of *Distortion Detective*)[3]
+### Birthday
+November 30th[2]
+### Height
+154cm, 5'1"[2]
+### Occupation
+LCD On-site Investigative Reasoning Team Leader
+Grade 5 Fixer
+### Affiliations
+Limbus Company
+Moses' Office (Former)
+Seven Association (Former)
+Udjat (Former)
+### Relations
+Ezra (Assistant)
+Vespa (Assistant)
+Aeng-du (Assistant)
+Bamboo-hatted Kim (Assistant)
+YuRia (Former assistant)[1]
+Dias (Former commander)
+Han Hee-joon (Former assistant)
+### First Appearance
+The Distortion Detective Chapter 1
+Canto VII: The Dream Ending
+### Status
+Alive
+### Voice Actor
+Kim Na Yul
+“
+In a world full of distorted people, could the one person who remains unchanged be the "distorted" one?
+”
+–Moses, Distortion Detective Chapter 1
+**Moses** (Hangul: 모제스, *mo-je-seu*), also known as the **Distortion Detective** (Hangul: 뒤틀림 탐정, *dwi-teul-lim tam-jeong*), is a member of the LCD and the On-site Investigative Reasoning Team Leader. She has the unique ability to see Distortion Phenomenon on other people, and researches Distortions as a result of this.
+Moses is a Grade 5 Fixer who previously ran her own Office, which was affiliated with the Seven Association, where she investigated the mysteries of Distortions. She is the protagonist of *The Distortion Detective* and first appeared in Chapter 1. In *Limbus Company*, she is a minor supporting character introduced in Canto VII: The Dream Ending, and is later a supporting character in Canto IX: The Unsevering.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Story
+3.1 Prior to The Distortion Detective
+3.2 The Distortion Detective
+3.2.1 The Distortion Detective Part 1
+3.2.2 The Distortion Detective Part 2
+3.3 Limbus Company
+3.3.1 Canto VII: The Dream Ending
+3.3.2 Canto IX: The Unsevering
+4 Gallery
+5 Trivia
+6 References
+7 Navigation
+## Appearance
+Moses is a short, middle aged woman with dark hair and white highlights, and visible wrinkles around her eyes. She has pale skin and dark grey eyes.
+Her main outfit consist of a white shirt with long sleeves with ruffles, a red ribbon tied around the collar of her shirt and an off-the-sleeves grey jacket with golden trimming and cross-shapped golden buttons. She wears high waisted black pants with golden stripes, and black shoes with white and gold accents.
+She always carries with her churchwarden pipe, later revealed to be her Psychoment, which has a long black mouthpiece and a golden diam, adorned with a red tassel. This allows her to purify incomplete Distortions, pacify and/or suppress enemies, depending on the smoke's color. Her "pale breath" attack comes at a direct cost of shortening Moses' lifespan. Her purple breath creates "binds" from her regret, her pale breath creates a blue mist capable of slowing down her opponent, her red breath transform the smoke into a blade, and her white breath creates a mist that protects from mental attacks.
+After her conflict with Vespa during Chapter 19, her right arm was replaced by a prosthetic.
+## Personality
+Moses holds a calm and analytical attitude to any situations that she happens to find herself in, be it facing distortions or near-death scenarios. Even in moments of extreme danger, she is able to keep her composure and unravel the source of any distortions she happens to find herself against. She has a deep trust in her allies, especially her assistant Ezra, trusting in their combat capabilities and ability to stay safe while she utilizes her analytical skills.
+She does not seem to have any aversion to shortening her own life-span if it means that it will protect either her or the people close to her, much to Ezra's dismay.
+In the past, Moses was wholly devoted to Lady Dias as a result of being raised by her. Her entire sense of morality was based around what Dias wished for and what she did not, and Moses would do anything to help make Dias' dreams a reality. Through her time leading Udjat, Moses was ordered to commit horrible atrocities in the Smoke War and started to question herself, with this doubt in Dias coming to a head after Moses led vast majority of the Udjat to their deaths. After this event, Moses lost all faith in Dias and carries a deep sense of guilt over her actions that day. Due to this change in perspective, when speaking with Dias or Han Hee-joon, she takes on a much colder and aggressive attitude. Despite this, she tends to capitulate to their demands when offered a way to "atone for her past".
+## Story
+### Prior to The Distortion Detective*
+Moses was an abandoned child who was found by Dias and raised by her. Dias told Moses to think of her as an older sister and gave her an education and a chance at life that Moses would never have had if not for Dias.[4] As Moses grew up, she found her entire worldview shaped by Dias' wishes and dreams, and was willing to follow her through anything to see her one day ascend to becoming the Head. When Dias formed the Udjat, she put Moses in the position of Captain and registered her as the Office Rep.[5]
+During her time as the Captain of the Udjat, Moses did not treat her subordinates with much respect or regard their lives as having much value. She killed innocents and did not question Dias' orders even when she knew that she was being lied to. One day, Moses met Ezra, the 2,142nd agent of Udjat who was personally recommended by Lady Dias. Moses was not fond of the young, overconfident woman and the two got into a fight where Moses humiliated her in single combat. As the missions went on, however, Moses would start to see the members of Udjat as a sort of second family and grow closer to Ezra. Ezra questioned the actions they took, pointing out that as Fixers, killing innocents should be unthinkable to them, yet they did it anyways. This seed of doubt would grow in Moses, and truly shake her belief in Dias after the Smoke War began.
+Dias started the Smoke War in order to help Lobotomy Corporation rise to be a Wing of the City, and sent the Udjat into frequent battles over the course of the war. During one of these battles, something went wrong and Moses quickly realized that she had just lead her entire Office to their deaths. In a desperate attempt to spare any of Udjat agents, she managed to save herself as well as Ezra and Han Hee-joon. This mission was some sort of experiment arranged by Dias, and Moses could no longer support the woman she had once been willing to do anything for. Around this point in time, Moses developed the ability to see Distortion on others and manifest her E.G.O.
+Moses left Udjat along with Ezra and Han Hee-joon, and the three joined the Seven Association. Eventually Moses formed her own Office, which was affiliated with the Seven Association, and Ezra followed her and became her assistant. Now acting as the 'Distortion Detective', Moses' primary job was to help resolve cases of Distortion such as the ‘Merfolk’ and ‘Balloon People’. During the case of The Blood-red Night, Moses' Office assisted the other Offices in a collaborative effort to study her, although Moses and Ezra did little to contribute.
+### *The Distortion Detective*
+Throughout *The Distortion Detective*, Moses is contracted to resolve various instances of Distortion Phenomenon, many of which highlight the various troubles of the lives of citizens in the City. She sees handling Distortions as her opportunity to quiet the endless noise caused by her guilt over the events of the Smoke War, going as far as to describe resolving Distortions as acting like a narcotic to her to alleviate her pain.
+#### *The Distortion Detective* Part 1
+After several Distortion cases were resolved in the first several chapters, Han Hee-joon visited Moses' Office to deliver orders on behalf of the Seven Association. While Moses' Office is based in the Backstreets of District 14, he told them that in two months time they would need to take a WARP Train to District 11 to help with a case of Distortion. While not enthused about the order, Moses and Ezra agreed to it and decided to spend their remaining time in the District doing their usual contracts.
+During this two month period, the two are attacked by a Syndicate who tried to buy — then take by force — Moses' smoking pipe. After defeating the thugs, they learn that they were hired by YuRia Atelier, who was interested in the pipe. Using Ezra's extensive knowledge of Workshops, they track down YuRia to her Atelier. After a brief fight with YuRia's sentient teddy bear assistants, they learn that she had recorded their fight with the Syndicate (which is a Taboo of N Corp.) and wishes to become Moses' assistant in order to be able to study her smoking pipe. YuRia was researching "Psychoments", her name for E.G.O, after developing one of her own and became interested in Moses' pipe as she realized its true power. Moses agreed to making YuRia her assistant, much to Ezra's confusion, and YuRia assisted them with their next case of Distortion.
+During their contract with Tae-young Produce Company, Moses and the other two learned of the mysterious black boxes that can cause Distortions to manifest in people, before having to fight through multiple Distortions and nearly dying, with many things going wrong as they attempted to escape the building. While Ezra briefly distorted, Moses was able to bring her back to normalcy; among the damages, YuRia fell into a coma and transferred her consciousness into a teddy bear that Moses typically carried with her throughout the rest of the series. The contract was revealed to have had something to do with Dias, although they weren't able to learn more about how she was involved.
+Due to YuRia's violation of N Corp.'s Taboo of filming within the District, the Grade 1 Fixer and Taboo Hunter of N Corp., Vespa Crabro, arrived at Moses' Office in order to inquire about the Taboo violator. Moses and Ezra lied to him about their involvement with YuRia as well as her whereabouts, and as soon as Vespa left, made plans to leave the District as soon as possible. They hired Dou Gui Combat Office to protect them, and solved the Distortion of the Office Rep's daughter in payment. After clashing with Vespa during their escape, during which Moses lost one of her arms, the three women eventually managed seal him in YuRia's workshop and take their WARP Train to District 11. Before they left, Ezra picked out a prosthetic arm for Moses to replace the one Vespa took from her.
+#### *The Distortion Detective* Part 2
+In District 11, Moses and Ezra were told by Han Hee-joon that the Seven Association wanted them to investigate the strange Quercus Village, although this was later revealed to have been Dias' orders and he had lied to them. At the village, Moses noticed that none of the residents had any signs of Distortion, but they also did not have Psychoments. She soon learned that the village participated in a monthly ritual using a black box, similar to the one from the produce company, to draw out the Distortions from everyone present then transfer that Distortion into one person, who was then locked away in a cellar. Moses and Ezra, in their attempt to help that month's chosen sacrifice, followed the newly formed Distortion into the cellar where they were faced with the dozens of Distortions created over the past several years. Knowing they were outnumbered and had no way of escaping through normal means, Moses ordered YuRia to open her workshop and allow Vespa out. Vespa reluctantly assisted Moses and Ezra in subduing the Distortions and the four barely managed to make it out of the cellar alive.
+After their escape from the cellar, the Udjat arrived and collected the surviving Distortions for Dias' collection, which is when Moses realized that Han Hee-joon had lied about the contract. Conveniently, Vespa was fired from his position as a Taboo Hunter by N Corp., meaning he no longer had a reason to fight Moses or Ezra. Han Hee-joon took Moses and her companions, now including Vespa, to one of Dias' mansions, where they learned the truth of her recent actions. Here, Dias expressed her want to hire Moses' Office to go to Nest L and collect Distortions for her. While Moses was at first reluctant, she soon saw it as a way to atone for her past and agreed to Dias' request. During this meeting, Dias also provided Moses with a new prosthetic arm, as she had broke her previous one in the cellar — a new prosthetic that could track her location and allow for easy communication between the parties.
+Moses and her companions traveled to Nest L and quickly captured the Distortions 'The Laundry of Dreams' and 'The Human Thunderbolt', though were forced to withstand two waves of Sweepers after their car was damaged by the latter's powers. Attempting to escape the Sweepers, Moses knocked on several residential doors and was eventually allowed access into a home that was occupied by members of the Thumb. Moses negotiated with the Capo and agreed to retrieve some ammunition that had failed to be delivered to them in return for any information that the Thumb had on Distortions in the area. This led to the group meeting the Distortion 'The Marksman of the Mist', who had killed several members of the Zwei Association, as well as the Workshop Fixers who were tasked to make the Thumb's ammunition, with the situation growing even more complicated as a high grade Fixer working for the Zwei Association arrived to get revenge for his colleagues. Moses switched who amongst the Marksman, the Zwei Fixer, and the Thumb that she sided with several times amidst the confrontation, with ultimately the Distortion and the Thumb dying and the Fixer walking away.
+After the two long days of Distortion hunting in the Nest, Moses used a map of the District to find a hotel to stay at for the night. Upon arriving to her room, however, she was greeted by the Bloodfiend Elder of L Corp., who requested her help in resolving the cases of newly formed Bloodfiends created by the recent White Nights and Dark Days event. An entire Office had been turned unknowingly into Bloodfiends by their Office Rep, who was not yet aware of his own status as a Bloodfiend. Moses was left with the choice to either neutralize the new Bloodfiend or subdue the Bloodfiend Elder. *The Distortion Detective* was ultimately cancelled in the middle of this arc, and the events that happened after remain a mystery.
+### *Limbus Company*
+Moses, Ezra, and Vespa ultimately found themselves working for Limbus Company's Distortion Department, with Moses as the team's On-site Investigative Reasoning Team Leader. During the events of Intervallo III: Yield My Flesh to Claim Their Bones, Ezra reported to Moses on Dante's success in turning off the Monolith. She later wrote a report that was sent to the Sinners regarding the company's classifications of Distortions.
+#### Canto VII: The Dream Ending
+Moses and Ezra both provided intel to the LCB regarding Bloodfiends during their Golden Bough retrieval mission in La Manchaland. While unable to appear in person due to "personal reasons", Moses informed the Sinners of all of the knowledge she has gathered about the nature of Bloodfiends and their relationship to Distortions. At the end of the call, Moses expressed a desire to one day meet with Dante and shared that she is glad to know that there was another person who is able to sense Distortions like she can.
+#### Canto IX: The Unsevering
+Moses, Ezra, and the recently recruited Aeng-du went to Limbus Company's headquarters to sit in on a presentation done by the LCE department regarding the Golden Boughs. Before the presentation could begin, the HQ was raided by members of each of the Five Fingers who belonged to the House of Spiders and the entire facility turned to chaos. The three women, as well as Hohenheim and Marton of the LCE department, managed to lock themselves in the LCE research team's broadcast sector where they were safe from the escaped Distortions and Abnormalities that were let loose by the Fingers. The Sinners of the LCB eventually found themselves at the room and, after some confusion on if they were allies or foes, the two groups united to discuss how to reclaim the facility from the invading Syndicate members and protect the Golden Boughs being stored there.
+The plan they decided on was to split up into three groups, with the LCD handling the suppression of the Abnormalities, Distortions, and Peccatula roaming the halls so that reinforcements would be able to reach critical areas faster once they arrived. Things immediately did not go as planned, however, as before they were able to split up in their designated teams, walls dropped down separating the Sinners that forced them to join the other groups. Now with Outis, Rodion, Hong Lu, and Ishmael working with them, the LCD set off on their mission and soon ran into the Middle Nursefather Matthias and his apprentice Kira.
+The group ran from the two members of the Middle, but Kira chased after them and Matthias quickly caught up with them after finishing taking care of the LCA agents that had attacked him. Moses decided to let the Human Thunderbolt, who had been contained in the HQ, attack their foes for a distraction, and the Distortion reanimated the corpses of the LCA agents to swam the two while the group made their escape. Kira continued hunting them down, treating it like a game of hide and seek, and Moses came up with a plan to distract Kira by forcing her to fight the Abnormality Drenched Gossypium. This worked successfully, with Kira treating the battle like a video game boss fight, but fell apart when Matthias arrived to protect his daughter and suppressed the Abnormality.
+Thinking quickly, Moses then decided to let Ambling Pearl fight with Matthias in the hopes that its paralyzing, corrosive attacks would stall him, but he defeated it in a single blow before it could do any significant damage. Moses used her violet breath to restrain him while Ezra and Aeng-du launched a team attack, but Matthias countered the attack with ease, and freed himself of the violet bindings using one of M Corp.'s Moonlight Stones. Although all of these clever tricks had winded Matthias, he was still more than capable of fighting and decided it was time to finish off the injured members of the LCD. Before his attack against Moses could land, however, Vespa, who had returned from finishing the paperwork to become a Color Fixer, arrived just in time to block it and fend Matthias off. Not long after, the House of Spiders received the order to retreat, and Matthias and Kira left, with all members of Moses' group managing to survive.
+Later, the surviving members of Limbus Company decided to launch a counter-raid on the House of Spiders in order to retrieve the Golden Boughs that had been stolen from them. Moses and the members of the LCD planned to participate in the counter-raid, excluding Aeng-du who was still recovering from her injuries during the raid.
+The LCD, alongside Don Quixote, Hong Lu and Yi Sang entered the Middle's Corridor within the House. The group engaged in battle with Matthias and Kira. Moses utilized her smoking pipe during the fight, providing support for her teammates. To finish the fight, Moses generates a powerful attack known as the Crimson Point. She misses with her first Crimson Point, but scores a direct hit with her second on Matthias, mortally wounding him. Vespa finishes off Matthias by slicing through his head. The battle ends with Matthias dead, and with Kira apprehended.
+## Gallery
+**AssetsCutscene ArtDistortion Detective Art
+## Trivia
+Moses' name is taken from the prophet Moses.
+Moses' E.G.O abilities correspond to the four damage types featured in *Lobotomy Corporation*, though the methods of activating them depending on her evoked memories and emotions are similar to Sin Affinities as well.
+Of the Five Fingers, Moses seems to like the Index the least, as she finds interacting with its members to be like talking to a brick wall.
+Moses' hand-on-chin pose used to have an error in its sprite, with an additional prosthetic hand being visible from under her coat. This was addressed in the January 8th, 2026 update.
+The ID card she wears has a picture of YuRia in her teddy bear form on Moses' shoulder rather than a picture of Moses herself.
+## References
+↑ YuRia was Moses's assistant throughout *The Distortion Detective*, but is implied to be currently working in the LCA R&D team through item descriptions. Ezra and Vespa followed Moses to the LCD team, making their roles in *The Distortion Detective* still accurate as of *Limbus Company*.
+↑ 2.0 2.1 [1]
+↑ [2] As Moses' birthday is listed as late November, and she is seen in Canto VII during December 984, she is currently at least 50 years old.
+↑ *The Distortion Detective* Chapter 37, Noise - Moses: "Dias raised me and gave me a chance at life. I was an abandoned child. Dias was the one who saved me from desolation; she looked after me and educated me. Dias told me to think of her as my older sister."
+↑ *The Distortion Detective* Chapter 37, Noise - Ezra: "I looked it up, and found out that Udjat is registered as an Office. And I saw that you’re listed as its leader, instead of Lady Dias."
+## Navigation
+*Wiki Navigation
+Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

@@ -1,0 +1,16 @@
+## Hermann
+
+### Appearance
+Hermann is a tall, middle-aged woman. She has pale skin and olive-green eyes, and appears to wear dark lipstick and eyeshadow. Hermann has wavy, dark brown hair swayed to one side, reaching just beneath her chin.
+Hermann wears a dark navy-blue uniform with red-accented lines, a white, collared shirt, and a bright red tie. The first part of her uniform is a large, navy-blue overcoat that is draped over her shoulders and extends down just below her knees. The second part is a single piece, navy-blue collared dress, with silver buckles on the lapel and silver chains connecting small buttons on the skirt. The dress is separated by a thick belt of similar color, with a large silver buckle and her ID tag attached to the loops. Hermann also wears navy-blue cuffed boots and darker blue, almost black leggings, and a dark turtleneck underneath her shirt.
+While not visible in her basic sprites, she is noted to have flashy, painted nails, featuring a navy undercoat and what appear to be military awards atop. In Gregor's fathoms, her hands are shown, highlighting this fact.
+
+### Personality
+A renowned scientist and current Director of a Wing, Hermann is a cunning woman, ruthless to anyone that stands in her way. She appears confident and cold-blooded, maintaining a serene expression and a calm demeanor in most situations.
+As a former war-mongerer, she is the one responsible for gene-splicing the hapless feathers of Old G Corp. and ruining countless lives in the Smoke War. She maintains a mocking, yet affectionate relationship with her son and prized experiment, Gregor, whom she used as a poster boy for the war and continues to run his life—even after escaping her clutches.
+A patient sort, she is a master manipulator and orchestrates numerous ploys the LCB face on their hunt for the Golden Boughs. Ultimately, she seeks to use their powers to destroy every Mirror World;[2] for what reasons as to why, are currently unknown.
+
+### Trivia
+Hermann takes her name from Hermann Kafka, the father of Franz Kafka, author of The Metamorphosis*. Hermann Kafka was the basis for the character of Gregor Samsa's unnamed father, whom *Limbus Company'*s Hermann is based on.
+In *The Metamorphosis*, the family was horrified by Gregor’s sudden transformation into a monstrous vermin; Mr. Samsa on several occasions attacks Gregor out of fear for his appearance, severely injuring him. During one of these spouts of abuse, Mr. Samsa threw apples at Gregor, lodging one into his back and crippling him. The wound, his other injuries, and his self-starvation eventually leads to Gregor’s death. Even when Gregor was human, his father never really cared for his well being, only seeing him as the family’s main source of income. Franz Kafka largely based the Samsa family on his own, with Mr. Samsa heavily mirroring his own relationship with his father, Hermann.
+Apples appear as a major motif in Gregor’s chapter, Canto I: The Outcast, often representing Gregor’s trauma relating to the Smoke War and his relationship with Hermann. Most notably, Hermann had Gregor slicing apples with his insectile arm as practice before gutting people for the war, and had Yuri decapitated after she was eaten by the Abnormality, the Golden Apple.

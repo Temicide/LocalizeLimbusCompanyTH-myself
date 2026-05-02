@@ -1,0 +1,128 @@
+Overview
+Enemy
+Sprites
+## Don Quixote
+## Other Names
+### Korean
+라만차랜드의 돈키호테
+(*Ra-man-cha-raen-deu-ui Don Ki-ho-te*)
+### Japanese
+ドンキホーテ
+## General Information
+### Gender
+Male
+### Occupation
+La Manchaland Founder
+P Corp. Elder
+Fixer (Formerly)
+### Affiliations
+La Manchaland
+### Relations
+Sancho (Kindred)
+Dulcinea (Kindred)
+The Barber (Child)
+The Priest (Child)
+Bari (Close friend)
+Cassetti (Child)
+### First Appearance
+Canto VII: The Dream Ending
+### Status
+Deceased
+### Voice Actor
+Ryu Seung Gon
+“
+I have conceived an idea most ingenious.
+”
+–Don Quixote, Canto VII: The Dream Ending
+**Don Quixote** (Hangul: 돈키호테, *Don Ki-ho-te*) is a First Kindred Bloodfiend and the Elder of P Corp., as well as the founder of La Manchaland. He was especially close to his family of Kindreds and unique amongst Bloodfiends in how he wanted to be able to live amongst humans peacefully. He is a major supporting character and antagonist in Canto VII: The Dream Ending.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Story
+3.1 Prior to Limbus Company
+3.2 Canto VII: The Dream Ending
+4 Gallery
+5 Trivia
+6 Navigation
+## Appearance
+Don Quixote is a pale Bloodfiend with wavy, platinum white hair, worn at his shoulders. He has angular features and sharp, bright red eyes. He is typically seen in a dark outfit, consisting of a long sleeved, striped black and red shirt with golden decorations, maroon breeches and black ankle boots. He dons a long brown coat with red detailing and golden epaulettes, which he wears over his shoulders, as the sleeves appear to be disproportionately long. He also wears a small golden necklace with a red gem pendant.
+After the reopening of La Manchaland, Don Quixote is seen wearing the Helm of Mambrino, a golden visor decorated by a file of sharp spikes that extend from the upper section, and resemble clock hands, as well as two tendrils that extend from the bottom and reach down his cheeks. Once the Helm is removed, Don Quixote's face is shown to be bearing signs of withering.
+## Personality
+Don Quixote lived much of his life like most of his fellow Bloodfiends, plagued by boredom and loneliness. He was shown to have a kind heart, taking Sancho as his Second Kindred and offering her companionship and protection, wishing to grant her the will to live on. Despite this, even after having created a family for himself, Don Quixote himself always remained unsatisfied with his life. As a Bloodfiend of nearly unparalleled power, reasonably confident in his abilities, he had no interest in the war between humans and Bloodfiends, although this changed upon him meeting Bari. Don Quixote greatly cherished their rivalry, as the Fixer was able to match his strength in combat, and her presence gave him something to always look forward to. As a result of his friendship with Bari, Don Quixote grew increasingly interested in humans, a fact that made him stand out among the other Bloodfiends.
+Even with his caring side frequently leading to him looking after those closest to him, he has a recognizably large fickle part of his personality, as noted by Sancho. Frequently, he would fall in and out of interests and return to disregarding whatever his most recent hobby was, returning to a state of ineffable boredom between bouts of fanaticism. In a way, he grew to become similarly uncaring towards his Family, disregarding the majority of them in favor of his own wants. He is notably poor at organizing his factions, and would begin to fan a flame of dissent among his Kindred due to their starvation and his failure to accommodate the fact. While he was kind to her and her Kindred on a surface level, Dulcinea frequently felt dismissed by him due to the fact he carried a bias in favors of others, such as Sancho and Bari.
+When encountered during Canto VII, the effect of the passage of time on Don Quixote is obvious; while happy to see his child Sancho return home after her adventure, Don Quixote has surrendered himself to his role and responsibilities as a provider to his Family, and forced himself to give up on his dream of peaceful coexistence. Despite abandoning his dream, part of him still does not wish for humanity to be attacked by his kin, hence why La Manchaland only periodically manifests itself.
+## Story
+### Prior to Limbus Company*
+Don Quixote was once a powerful Bloodfiend Elder who spent his days within his castle, desolate and alone. Wanting to escape that loneliness, he went out and searched for people he could make Kindred. He found Sancho, a woman who had nothing and was ready to burn herself, and made her his Kindred with the promise to grant her the experience of family and restore her will to live. His other Kindred was Dulcinea, who made two Kindred of her own, the Barber Nicolina and the Priest Curiambro. However, despite being surrounded by the family he so desired, he spent the time in his castle filling those days by picking up various interests and pastimes, but often dropping them, bored by the monotony of his long life.
+One day, a woman named Bari approached his castle to challenge him to a duel, having heard tales of his strength and wishing to spur him into joining the war that had sparked between Bloodfiends and humans. Despite Don Quixote's initial refusal, as he wasn't interested in killing humans for his own amusement, he was eventually swayed by Bari revealing that she knew exactly what he yearned for, a cure for his misery. For the next three days, Bari and Don Quixote would duel, yet no victor was found. Eventually, a recess was called, and Bari left with the promise to return another day. Don Quixote would agree to this, mainly due to being interested in the "law of Fixers".
+Despite his Children beginning to spread rumors about this meeting, Bari returned and resumed their duel, but once more neither of them could defeat the other, and again they resolved to continue another day. This repeated many times, and eventually the two formed a friendship. During their duels, Bari brought with her stories, of brave Fixers who fought for justice, and amazing places of the outside world. These tales enraptured not only Don Quixote, but his aide Sancho.
+Eventually, their duels would reach a peak, in which Bari revealed that the "sickness" that Don Quixote and his kind suffered from is not of desiring blood, but of loneliness. This would convince Don Quixote of a new idea: he would create a place where humans and Bloodfiends could coexist, an amusement park called "La Manchaland".
+He and his Family would then partake in the war, and after winning it for the side of humans, would demolish his castle to begin construction of La Manchaland, ordering his Kindred to eat only Hemobars to replace human blood. Once the park was up and running, with his direct descendants acting as Overseers of the attractions, he gave the Kindred one major rule: to not harm humans.
+Eventually, he and Sancho headed off into the early City to begin another one of his ideas: becoming the first Bloodfiend Fixer, with Sancho acting as his squire. Unbeknownst to Don Quixote, in the time they were off adventuring, his Kindred slowly began to lose their minds, having been deprived of the blood they craved. This would eventually lead to the Kindred revolting and plotting on attacking the humans en masse. The Overseers would convince Don Quixote and Sancho to quest for the Helm of Mambrino, a Relic which would allow them to defy filial piety, and began feeding on the human visitors of La Manchaland.
+Upon hearing the attacks, Don Quixote and Sancho returned to the La Manchaland. Realizing his mistake, he stayed behind to stop his children, but not before sending Sancho off with Rocinante to continue their dream of a Bloodfiend Fixer. After sealing his Kindred away, he would spend the next 200 years continuously tortured by being staked, over and over again to make him release his Kindred, who in turned suffered for attacking their Father.
+### Canto VII: The Dream Ending
+Don Quixote remained resolute, but eventually, his seal was undone by Sansón, who managed to enter the park and presented him with the option of utilizing the Golden Bough to fulfill his Kindred's wish: the Bough was stabbed into Don Quixote's heart, and caused La Manchaland to manifest in P Corp. again periodically, alongside awakening his hunger for blood. Don Quixote, having lost his dream and awoken to the sight of his suffering Children, decided to allow them their "feast" they were deprived for so long.
+Due to still being bound to the ferris wheel, Sansón used the raid orchestrated by P Corp. to push Sancho, now going by "Don Quixote", to finally release him. Once all three devices of La Manchaland were activated, Sansón pushed Sancho to remember everything she chose to forget, and finally unsealing Don Quixote. The Golden Bough resonated within him at the sight of Sancho stating she had not at all changed from the time she spent "dreaming", causing La Manchaland to transform into spiraling Fathoms, releasing Abnormalities from the Lobotomy Branch the park had swallowed up.
+As the Sinners tried to reach Sancho, concerned with finding out how Don Quixote became this, they learned the truth from Don Quixote himself and his Children; now that the dream was over, he sought to fulfill his duty to his Children, even convincing Sancho to stand against the Sinners once the Overseers where slain. Once Sancho was defeated and returned to the Sinners, Don Quixote would then challenge her and the Sinners himself, first using the ferris wheel he was stuck to, before tearing himself off and battling them on foot.
+Despite the 200 years of torture, starvation, and the Golden Bough's suppression, he still gave the Sinners a difficult fight, even managing to wipe everyone but Sancho out with a massive attack. Seeing Sancho's resolve, Don Quixote came up with one last "idea": a clash of lances to see whose ideals will win between his duty to his Children and Sancho, with the dream they once shared. With Dante awakening to a new power, the two Bloodfiends had one final clash in the sky against the full moon. Sancho won the clash, defeating Don Quixote.
+As Don Quixote laid dying, he named Sancho the new "Don Quixote", asking her to use Rocinante to continue her adventure and one day tell him all about it. Sancho accepts the title, before returning to her own "Don Quixote" persona and tearfully embracing his dying body, regaling him of the story of her found family of twelve, vowing to continue the dream they both shared.
+Post-mortem, P Corp. collected Don Quixote's body, as well as anything else remaining from the now-destroyed La Manchaland. As Faust explained to Dante, should Don Quixote learn of what P Corp. will do to him, she would be beyond furious.
+## Gallery
+**AssetsCutscene ArtOther
+Story Log Portrait
+Story Log Portrait (Past)
+Idle Sprite
+Moving Sprite
+Guard Sprite
+Evade Sprite
+Hurt Sprite
+Cardboard cutout of Don Quixote seen in the background of The Barber's shooting range
+Tattered portrait of Don Quixote seen in the background of The Priest's haunted house
+The Adventure event
+Cameo in Don Quixote's The Manager of La Manchaland Identity
+Cameo in Don Quixote's The Manager of La Manchaland Identity
+2025 Concert Merchandise
+Don Quixote SD with Bari and her Father
+## Trivia
+Don Quixote is based on Alonso Quijano, also known as the titular Don Quixote, from Miguel de Cervantes's novel The Ingenious Gentleman Don Quixote of La Mancha.
+A cardboard cutout of Don Quixote can be seen in the background of The Barber's 'Fantasy Blood-shooting Range'.
+A tattered painting of Don Quixote can be seen in the background of The Priest's 'The Haunted: Bloody Mary'.
+During Don Quixote's introduction in the original Korean script, he mentions that his first name is Quixote, and that he took on "Don" as a last name due to it meaning "noble". This contrasts with the English translation, where Don Quixote instead states that "Don" is a signifier of his nobility, rather than a last name. The English translation is a more accurate explanation as to how the name would come about in real life, as "Don" is a Spanish honorific title usually added to a last name.
+Don Quixote's lances used to be made by Sancho with her own blood, and are described as having been more graceful than his own. This can be seen in his duel with Bari, where he wields the lance normally used by Sancho in her "La Sangre" Hardblood technique.
+## Navigation
+*Wiki Navigation
+Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

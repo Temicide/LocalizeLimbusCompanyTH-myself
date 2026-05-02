@@ -3,11 +3,11 @@ import json
 import os
 from pathlib import Path
 
-# Base paths
-BASE_DIR = Path("/LocalizeLimbusCompanyTH-myself")
+# Base paths - relative to project root
+BASE_DIR = Path(__file__).parent.parent
 EN_DIR = BASE_DIR / "EN"
 TH_DIR = BASE_DIR / "TH"
-RESOURCES_DIR = BASE_DIR / "resources"
+RESOURCES_DIR = BASE_DIR / "data" / "reference"
 LOGS_DIR = BASE_DIR / "logs"
 
 # Translation API Configuration

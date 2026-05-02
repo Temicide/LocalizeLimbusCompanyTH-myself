@@ -1,0 +1,11 @@
+## Jun
+
+### Appearance
+Jun is a man who wears his dark hair slicked back with some strands hanging forward, with a stern expression on his face, and red eyes. On his shoulders, he wears a Kurokumo robe over top an open, black, suit jacket and white undershirt, and black dress pants and shoes. Beneath his shirt, he has dark clouds tattooed along his neck. Resting on the left side of his belt, he wields an odachi with a black sheathe and golden-tinted hilt.
+
+### Personality
+Jun is shown to be a highly cordial man, working closely as a subsidiary of the Thumb. He strongly depends on his men, while still looking to keep them safe, shown by him fleeing when Bamboo-hatted Kim first attacked, and later protecting the door to the room housing the Distortion. Despite his apparent cowardice, he is highly trained and skillful, shown by his face-off with Aeng-du.
+
+### Story
+The Kurokumo Clan was ordered to secure The Monolith within Young-jin Building by The Thumb, something that was interrupted by the Blade Lineage suddenly appearing within the building after returning from the Library. Following a short scuffle, Bamboo-Hatted Kim began distorting, causing a massacre of both sides of the conflict. Fearing the losses, Jun fled from the room to protect the door, telling his men to spread out rather than staying with him.
+The Sinners, raiding the building alongside Aeng-du, encountered Jun after defeating a variety of weaker Kurokumo Clan members. Panicking due to the encroaching deadline presented by The Thumb, Jun asked the Sinners if Dante's clock was on-time. Aeng-du, enraged, began an attack against Jun, though would be swiftly defeated due to her weakened state. He then attacked the Sinners, though was defeated himself. After being defeated, he panicked about the repercussions of disappointing the Thumb and failing to meet their deadline, knowing he very likely could lose his life for the failure. He was knocked unconscious while tied up, and the Sinners entered the room he protected, where Bamboo-Hatted Kim and the Monolith were located. Following being subdued, Jun was not mentioned again.

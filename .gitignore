@@ -3,7 +3,10 @@
 .DS_Store
 __pycache__/
 *.pyc
-resources/
+venv/
+data/reference/
 logs/
 EN/
 translator/config.py
+translation_state.json
+character_profiles.json

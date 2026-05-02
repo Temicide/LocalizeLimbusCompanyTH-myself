@@ -1,0 +1,103 @@
+Overview
+Story
+Sprites
+*
+"Wait!"
+Managers should be reminded that this article contains **major plot synopses**, **artwork**, **and/or game data** that might spoil the story of Limbus Company.*
+**This page contains spoilers for Canto IX: The Unsevering.**
+## Saude
+LCCB Manager
+Croupier Disguise
+## Other Names
+### Korean
+소드
+### Japanese
+ソード
+## General Information
+### Gender
+Female
+### Occupation
+LCCB Manager
+LCCB Assistant Manager (pre Canto V)
+### Affiliations
+Limbus Company
+### Relations
+Effie (Co-worker)
+Pilot (Subordinate)
+The Sinners (Work associates)
+Dante (Work associate)
+### First Appearance
+Canto II: The Unloving
+### Status
+Alive
+### Voice Actor
+Song Ha-Rim
+“
+Competence is shown through action, not words.
+”
+–Saude, Intervallo V: Nocturnal Sweeping
+**Saude** (Hangul: 소드, *so-deu*) is a Manager of the LCCB Preliminary Observation Unit 3, which frequently assists the Sinners on their missions. She is a supporting character introduced in Canto II: The Unloving alongside her coworker Effie.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Gallery
+4 Trivia
+5 Navigation
+## Appearance
+Saude is a pale woman with dark brown hair tied back into a high ponytail by long, red ribbon. She is usually seen with a wide smile on her face, and with her eyes shut closed; when open, they are revealed to be a dark brown.
+Saude is usually seen in her LCCB uniform, which consists of a large turquoise jumpsuit suited on top of a black turtleneck. On top of that she wears a dark gray work vest fitted with several velcro pockets and a walkie talkie. Another, larger pocket is fastened to her right thigh. She wears black combat boots and black gloves, and carries a large turquoise pistol, which she uses with her right hand. After being promoted to an LCCB manager, her sprite shows her gun holstered and her carrying a screen device instead.
+In Canto II: The Unloving, Saude is seen wearing in a croupier disguise. She wears a white collared dress shirt with black pants and gray shoes, while on her chest lies a simple dark ribbon fastened together with a single button. On top of her collared shirt she wears a red vest with pronounced, darker-red lapels. Affixed to her left lapel is a blank name tag, while her right holds a strangely shaped gold and red pin which connects to the button holding together her ribbon with a chain.
+After the confrontation with Valencina and Lucio in Canto IX: The Unsevering, Saude her lost her left arm.
+## Personality
+Saude comes off as a gentle, amiable woman who is usually seen wearing a friendly expression. At first, Saude's personality appears to be the polar opposite of her partner Effie's, however she is an equally critical person in actuality; she simply chooses to present herself differently. Dante describes her as someone who is putting on a veil of kindness. At times her sarcasm and lack of faith can come off as even more backhanded than Effie's, considering the ingenuine smile they are paired with.
+Saude is shown to be very intelligent and committed to her work. She and Effie immediately prove themselves to be highly knowledgeable during their excursion with the Sinners at J Corp., being able to swiftly answer questions concerning the Tingtang Gang, Tieqiu Crew, and the Wing's Singularity. They also craft a plan for securing the Golden Bough so perfect that Ishmael is shocked to find lacks even a single thing to be complained about. On top of this, the two of them claim to have practiced for months to pass as bonafide croupiers for this plan, and then manage to do just that, showing great dedication and skill. Effie and Saude are described as ideal partners who can tell what the other is thinking with only a glance.
+By Canto III: The Unconfronting, Saude seems to have gained an admiration of sorts for the Sinners and their strange way of doing things. At that point, she shows off more of her actual personality, but it's considerably more like friendly teasing than any form of genuine negativity. She and Effie appear to be looking forward to working with the eccentric bunch from here on out.
+Saude's attitude appears to be the same when she reunites with the Sinners in Intervallo V: Nocturnal Sweeping, still acting friendly. She is still saddened by Effie's death but appreciates that the Sinners (Outis, specifically) are upfront with her about it. Having become a team manager, Saude has also become stricter, warning Pilot that she will chew him out for his failures with the Sinners' guide in H Corp.'s Backstreets, and following through with this later while promising further disciplinary action. Later in Canto VIII: The Surrendered Witnessing, Saude also reveals a tendency to rant about the cruelties of the City, which she claims previously was not an issue since someone (presumably Effie) used to stop her before she said too much.
+## Gallery
+**AssetsCutscene Art
+Story Log Portrait
+Story Log Portrait (Croupier Disguise)
+Story Log Portrait (LCCB Manager)
+Battle Announcer Icon
+Injured by the N Corp. Inquisition
+## Trivia
+Saude's name when combined with Effie's can be read as "Effie-Saude"*, a homophone of "episode".
+This is hinted at in the name of the "Effie―Saude, too" story episode, which is a homophone for "episode two", as this is their second time working with the Sinners.
+Their shared Battle Announcer also sorts their names in the same manner.
+## Navigation
+*Wiki Navigation
+Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

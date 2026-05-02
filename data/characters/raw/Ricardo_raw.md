@@ -1,0 +1,101 @@
+Overview
+Enemy
+Sprites
+## Ricardo
+## Other Names
+### Korean
+리카르도
+### Japanese
+リカルド
+## General Information
+### Gender
+Male
+### Occupation
+Big Brother of The Middle
+### Affiliations
+The Middle
+### Relations
+Werner (Little Brother)
+Matthias (Acquaintance)
+### First Appearance
+Canto V: The Evil Defining
+### Status
+Alive
+### Voice Actor
+Kim Ki-heung
+“
+Listen. We live in a binary world. The world that is luscious… and the world that is bristly. Are you aware of their differences?
+”
+–Ricardo, Canto V: The Evil Defining
+**Ricardo** is a Big Brother of The Middle, a gaudy Syndicate that rules a large portion of the Backstreets. He is intent on keeping a strict barrier between the separate worlds of persons; those that live bristly and those that live lusciously. He was first introduced as a minor antagonist in Canto V: The Evil Defining.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Story
+3.1 Canto V: The Evil Defining
+3.2 Intervallo V: Nocturnal Sweeping
+4 Gallery
+5 Trivia
+6 References
+7 Navigation
+## Appearance
+Ricardo is a tall man with a muscular build, with red eyes usually hidden behind his black tinted sunglasses. His hair is hot pink and combed back, with multiple intricate tattoos on his torso and face, which glow purple when using his power as a Big Brother. He wears a superfluous amount of shiny golden chains around his neck, arms, and shins. He wears a large purple fur lined coat around his shoulders with a leopard pattern, along with white dress pants with purple leopard-patterned dress shoes. His belt is adorned with gold along with the logo of the Middle in the center, with a golden chain holding a bulky copy of the Book of Vengeance.
+## Personality
+Ricardo is an extremely confident and imperious man, especially in combat, who is self-assured in his abilities with his imposing title to the Sinners as a Big Brother of the Middle. He refers to the world as binary, a part where one is luscious and one is bristly, similar to the texture of hair. Ironically, Ricardo is incredibly protective and almost obsessive about the quality and shape of his hair, with the Book of Vengeance even stating that the 'sin' of stealing hair salon coupons results in complete extermination of said 'sinner' and their other affiliates.
+Ricardo is also quick to point out any 'sins' an individual has committed, as shown when Ricardo appoints Heathcliff's sin in the Book of Vengeance for lack of respect for varying tastes when Heathcliff addresses the colorful kitty stickers on his personal safe. Ricardo seems to speak in a rather archaic and foreboding tone when addressing a 'sin' within the Book of Vengeance.
+## Story
+### Canto V: The Evil Defining
+Amidst Pilot and his LCCB Unit attempting to locate the Golden Bough in the Great Lake's Lobotomy Corporation branch, the Twinhook Pirates, alongside Ricardo, stalked the crew, finding them just as the LCCB Unit located the Bough. Following a brutal assault on the team, Ricardo leaves with the pirates as the Pallid Whale approached the branch.
+Ricardo was first seen in person by the Sinners after Rim's disappearance within the U Corp. Lobotomy Corporation branch, where he stood in the center of a massive ship with purple sails, followed by smaller ships manned by the Twinhook Pirates. After Ricardo's descent toward the Sinners, he accused Heathcliff of stealing his beloved Stingray Portship luxury hair salon coupons, which he kept in a safe at Marlin Portship.
+Following the punishment stated within the Book of Vengeance, Ricardo made quick work of the Sinners, with Dante having said he was "overwhelmingly powerful". After Ricardo had humiliated Ishmael again and again through various beatings, both Ricardo and Dante saw the Indigo Elder approach, leaving Ricardo in stunned silence. The Indigo Elder then made Ricardo and the other members of the Middle leave the area, impaling Ricardo's shoulder with his harpoon as a show of force. Ricardo left, warning that the Middle would not forget this insult, but only after the Indigo Elder tore off his shoulder by retrieving the harpoon lodged in it.
+### Intervallo V: Nocturnal Sweeping
+The Sinners encountered Ricardo again in the Backstreets of District 8 when he interrupted their fight with Zilu, a member of the Mao Branch of the Heishou Packs. Ricardo revealed that he had not given up on his vengeance against Heathcliff and the other Sinners, having pursued them all the way from District 21 and even enlisting the help of Werner, a Little Brother of the Middle's eastern branch, to help him navigate Hongyuan. However, Shi Yihua insulted him for interrupting his own plan, which caused Ricardo to mark him in the Book of Vengeance as well, remarking that Yihua had broken the record for being the person who angered him the fastest. He then briefly fought Zilu until she retreated, after which he battled the Sinners once again.
+Ricardo's battle with the Sinners was interrupted when the Night in the Backstreets began, which forced him, the other members of the Middle, and the Sinners to fight against the Sweepers instead. At the beginning of the third Wave, the buildings in Hongyuan suddenly shifted, and Ricardo was hit by one of the fast-moving buildings and sent flying into the distance, still swearing revenge on the Sinners. Werner and the other members of the Middle were also blown away soon after.
+## Gallery
+**AssetsCutscene Art
+Story Log Portrait
+Story Log Portrait (Glasses Off)
+Story Log Portrait (Glowing Tattoos)
+Story Log Portrait (Injured)
+Battle Announcer Icon
+## Trivia
+Unlike most other background music, it is implied that Ricardo's associated theme, "Middle Finger Toujou", is actually being played diegetically, as Dante notes they can hear it as he approaches.[1]
+## References
+↑ Intervallo 7.5-24 - Dante: "A… strange tune crashes through the sound of this fierce battle. Is this… electronic dance music? Something about it sounds familiar."
+## Navigation
+Wiki Navigation
+Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

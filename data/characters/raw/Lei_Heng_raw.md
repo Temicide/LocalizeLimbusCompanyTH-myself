@@ -1,0 +1,117 @@
+Overview
+Enemy
+Sprites
+*
+"Wait!"
+Managers should be reminded that this article contains **major plot synopses**, **artwork**, **and/or game data** that might spoil the story of Limbus Company.*
+**This page contains spoilers for Canto IX: The Unsevering.**
+## Lei Heng
+## Other Names
+### Korean
+뇌횡
+### Japanese
+雷横
+### AKA
+Chachihu
+Tiantui Star, the Winged Tiger
+## General Information
+### Gender
+Male
+### Occupation
+Capo IIII of the Thumb
+### Affiliations
+The Thumb
+The Pinky
+The House of Spiders
+Ten Blades of the East
+### Relations
+Ryōshū (Former associate)
+### First Appearance
+Canto VIII: The Surrendered Witnessing
+### Status
+Deceased
+### Voice Actor
+Song Joon Seok
+“
+That's right, ya shrimps. Ya gotta first wrack them teensy' brains o' yours, gotta think real hard 'bout whether you even come close to my rank before runnin' ya mouths, ya hear?
+”
+–Lei Heng, Canto VIII: The Surrendered Witnessing
+**Lei Heng** (Hangul: 뇌횡, *noe-heong*) is a Capo IIII of the Thumb, ranked directly beneath the Sottocapo, who tutored Ryōshū in the past through the House of Spiders. He is an antagonist introduced in Canto VIII: The Surrendered Witnessing.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Story
+3.1 Prior to Limbus Company
+3.2 Canto VIII: The Surrendered Witnessing
+3.3 Canto IX: The Unsevering
+4 Gallery
+5 Trivia
+6 Navigation
+## Appearance
+Lei Heng is an imposing man of strong build and tall stature, seemingly surpassing two meters. He has a tan complexion and brown eyes. He has slick black hair that reaches his shoulders, parted in the middle and partially tied back in a ponytail, and with a dyed golden strand on the left. Lei Heng sports some stubble, and is seen smoking a cigar.
+Lei Heng dons an outfit of the Thumb, consisting of rose-red trousers, a matching jacket with four golden bars over his left lapel, over a brown shirt with an open collar and golden fastenings. Over his shoulders, he wears a long overcoat that matches his suit, and wears brown gloves. His suit jacket's sleeves and the lower half of the overcoat appear to have an ornate flower pattern printed on them. He carries a large podao that features exhaust pipes for the use of propellants, attached to his hip through an ammunition belt around his waist.
+## Personality
+As a high ranking member of the Thumb, Lei Heng has a nonchalant demeanor, being used to receiving respect and carrying no regard for those beneath him. He appears confident in his role and comfortable in most situations, talking to Ryōshū in a casual way despite her obvious dislike for him, going as far as to speak down to her, knowing full well the Sinner wouldn't be able to retaliate against someone like him.
+## Story
+### Prior to Limbus Company*
+In her youth, Ryōshū, while she went by the name Yoshihide, was tutored by a wide variety of members of the Five Fingers. One of these tutors, among the overarching group, was Lei Heng. While Lei Heng acted friendly to the girl, he abused her missing memories to get her to demonstrate the Arayashiki repeatedly. In return, Ryōshū despised him, something only exacerbated more and more as he met Araya, her daughter. Recognizing the girl as his tutee's tie to the House of Spiders, he reminded her to always expect her to end up hurt, given the weakness that people will be willing to abuse.
+During interactions with Rien, Lei Heng expressed the constant worry of the Nursefather being ordered by a Prescript to kill him, though Rien took the interaction genuinely and comforted him that he wouldn't. Lei Heng was then made knowledgeable to the fact there was no point in joking with Rien.
+### Canto VIII: The Surrendered Witnessing
+Lei Heng attended the Family Hierarch Evaluation of Hongyuan, being affiliated in some way with one of the candidates that was attempting to become the next Hierarch. During the first Evaluation, he spotted Ryōshū in the crowd and walked over to say greet her, as he had not seen her in a long time. Before he reached the Sinners, Faust quickly urged Dante and the others to not speak to Lei Heng or look at him directly, as they were all too low ranking to speak to such a high ranking member of the Thumb. Unfortunately, an attendant of the Nangong family, one of the houses that was attending the Evaluation, was not aware of Lei Heng's rank and began to scold him for getting in the way of his master's view of the ongoing Evaluation. As is typical with a member of the Thumb, Lei Heng wasted no time punishing the attendant for this lack of respect, and sliced his arm off before proceeding to rip out the man's tongue. He then approached Nangong Xianhe, the young master of the Nangong family, and broke his hand off of his arm, mentioning that he was going easy on the young master due to being in a good mood from seeing Ryōshū.
+After handling the infraction, Lei Heng then caught up with Ryōshū, all while Ryōshū had to restrain her urge to attack him. Only Faust's reminders that Ryōshū needed to wait long and remember the promise she made upon her employment to Limbus Company were enough to stop a fight from breaking out between the two. Lei Heng made several remarks about his shared past with Ryōshū, implying that he taught her how to use a sword and that the two were once worked together. He also asked if her "baby" was still at the House of Spiders, a place Ryōshū used to frequent and that Lei Heng still stops by when he has to, which almost made Ryōshū unsheathe her sword in anger. Before she could be further tempted to attack him, Lei Heng received a call from the Sottocapo and had to leave to answer it. As he left, he promised that they would meet again later to talk more, and in the process referred to to Ryōshū as "Yoshihide".
+During the attempted coup against Jia Xichun making use of a power vacuum while she visits the Xianren, Lei Heng accompanies a faction of the Thumb that arrived to District 8, including his Sottocapo. While he was ordered to, alongside his men, stop Jia Xichun from reaching the Tiekan Temple and kill her prior to that, he failed. Deciding to accommodate this failure, he massacred Xichun's men, brutally maiming Wei likewise. Zilu would exchange herself to take a singular blow from Lei Heng, his promise being that Wei will be allowed to leave afterwards. Utilizing his newly learned Shin, he struck Zilu diagonally across her chest with a singular ring of Mang, nearly killing her even while she used Shin as protection. A man of his word, he kicked Wei to the Sinners, preparing himself to slaughter the rest of them. While the first moments of battle are one-sided, Lei Heng was brought to the level of the Sinners due to Dante's newfound Golden Bough resonance; despite the difficulty in now being more likely to struggle, Lei Heng acknowledges and admires the gamble. Even still, he proved too powerful and skilled for the group and nearly eradicated them, remarking that the Sinners would have won had Ryōshū unsheathed her blade, right before Jia Qiu arrived. Taking over the battle from here, he and Lin Daiyu battle the Thumb, managing the Capo while holding him off.
+As the Sinners return from their business inside the chamber, Lei Heng is all that remains of the Thumb forces. Realizing his status as both heavily wounded and outnumbered, he attempts to plead for his life, willing to grant what is needed to allow him to leave, if Jia Qiu wills it. In accordance, Jia Qiu offers him the same treatment as what he gave Zilu - a single blow he may survive. Lei Heng, understanding this implication, took a new cigar from his pocket and took a drag from it. With Jia Qiu's staff placed atop his right shoulder, he generated five rings of Mang. After taking one last reverent drag from his cigarette, defeatedly claiming "Hit me", his head is obliterated, raining gore upon all present as the pieces of his skull are sent flying.
+After his death, his status as a member of the Pinky is discussed. Within the Pinky, he was known as the Winged Tiger and held the seat of the Tiantui Star, which is now vacant following his death. Whether his status as a member of a rival Finger was known to the Thumb or not is unknown.
+### Canto IX: The Unsevering
+Despite being deceased, several memories of Lei Heng surface to Ryōshū's mutilated mind. These memories, intermingling with the recollection of her time in Hongyuan, feature him acknowledging his death, as well as reminding Ryōshū to remain gripping the thread that leads back to Araya.
+## Gallery
+**AssetsCutscene Art
+Story Log Portrait
+Battle Announcer Icon
+Featured in the background
+Injured
+Injured, smoking
+Decapitated
+## Trivia
+Lei Heng is based on the character of the same name, Lei Heng (雷横，Pinyin: *Léi Héng*) from Water Margin.
+*Water Margin* ranks alongside with *Dream of the Red Chamber* as one of the Four Great Classical Novels of Chinese Literature, following the story of the rebel of 108 outlaws (reincarnated from 108 demonic stars) against the Song government.
+Lei Heng, nicknamed the "Winged Tiger" (插翅虎), ranks 25th among the outlaws and corresponds to the Tiantui Star (天退星). He is a blacksmith/butcher who eventually took on the job of chief constable in his native County. He was eventually forced into outlawship after beating a songstress to death for humiliating his mother.
+Lei Heng's weapon appears to be strongly based on the Steel Hearts IV sword from *Phantasy Star Portable 2 Infinity*.
+Lei Heng's speech is rendered in the Jeolla dialect in the original Korean text. The English translation uses a tone reminiscent of Southern American English, while the Japanese translation uses the Kansai dialect.
+## Navigation
+*Wiki Navigation
+Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

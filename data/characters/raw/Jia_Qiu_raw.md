@@ -1,0 +1,136 @@
+Overview
+Enemy
+Sprites
+## Kong Qiu
+## Other Names
+### Korean
+가치우
+### Japanese
+ジア・チォウ
+### AKA
+Tiangang Star
+## General Information
+### Gender
+Male
+### Occupation
+Jia Family Heir, The Pinky
+### Affiliations
+Kong Family
+The Pinky
+Jia Family (Former)
+### Relations
+Hong Lu (Jia Family)
+Jia Huan (Jia Family)
+Jia Xichun (Jia Family)
+Zigong (Student)
+Zilu (Student)
+Shi Yihua (Subordinate)
+Heishou Pack - Mao Branch (Leash-holder)
+### First Appearance
+Intervallo V: Nocturnal Sweeping
+### Status
+Alive
+### Voice Actor
+Lee Gyu Chang
+“
+To embrace a fellow human as defined by the shape of humanity and righteousness you spoke of, you must walk the earth with your own two feet as a human yourself, not float by as a lofty tuft of cloud.
+”
+–Jia Qiu, Canto VIII: The Surrendered Witnessing
+**Kong Qiu**, commonly referred to as **Jia Qiu** (Hangul: 가치우, *ga-chi-u*) is an heir of the Jia Family and one of the few survivors of the Kong Family's massacre, originating from Hongyuan. He is a supporting character introduced in Intervallo V: Nocturnal Sweeping, and a major supporting character in Canto VIII: The Surrendered Witnessing.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Story
+3.1 Prior to Limbus Company
+3.2 Intervallo V: Nocturnal Sweeping
+3.3 Canto VIII: The Surrendered Witnessing
+4 Gallery
+5 Trivia
+6 Navigation
+## Appearance
+Kong Qiu is a man of imposing stature, with long black hair tied up with an intricate gold hair ornament. He has a large scar on his right cheek. He wears an intricate black hanfu with red ornaments as a trim, with a red striped pattern down the front left section, beneath the woven rope acting as a sash. He wears a long coat as his uppermost layer, draping to the ground, overtop which is a red scarf with a snakeskin pattern. Beneath his robes, he wears a matching pair of pants and dark boots, which feature thick red laces fastened into a ribbon.
+In combat, he wields a long staff that is decorated in talismans, with another layer of brown wrappings underneath.
+Years prior to the events of Limbus Company*, Kong Qiu wore his dark hair down. He did not wear any of the red accented clothing that he does now, rather opting for jet-black plain robes.
+## Personality
+Kong Qiu has a serious demeanor and strong, intimidating presence. He is a man used to violence, focusing on his goals and showing little emotion even in the face of attempted betrayal, as seen following Qingtao's and Shi Yihua's insubordination.
+Underneath his steely exterior, he cares deeply for the wellbeing of people, especially those within Hongyuan. Despite having long carried a desire for revenge against the people of Daguanyuan for the role they played in the fall of the Kong Family, he expresses a desire to see Hongyuan improve and be led justly. Kong Qiu believes, when possible, in the importance of dialoguing with others to discern their character, often caring less about the meaning of their answers, but rather being interested in the feelings that motivate them.
+When interacting with people he trusts, he displays a much more caring attitude. After understanding Hong Lu's kind temperament and his own desire for a better future for Hongyuan, Kong Qiu offers him and the Sinners his full support, protecting them during their descent to the Tiekan Temple. He is solicitous towards Hong Lu, even going as far as to refer to him as "little brother" at the climax of the story.
+## Story
+### Prior to *Limbus Company*
+The old H Corp. was lead by the Kong Family, from which Jia Qiu's mother hailed. While the Kong Family once held power, Jia Mu would gain the role of H Corp. Hierarch, beginning a plot to completely destroy the Kong Family at the hands of the Head. Following the destruction of the Kong Family, Jia Qiu was one of the only survivors remaining, the byproduct of his absence during the massacre, having been out traveling the City. Though he would later return, he was pushed to living in squalor by the greater Jia Family.
+In his squalor, he would silently observe a young Jia Baoyu attempt to save a stranger who had been grievously injured by falling during the process of one of H Corp.'s restructuring days.
+While it is left ambiguous when this happened, Jia Qiu manifested E.G.O at some point, known as Effloresced E.G.O::Érlì.
+Before the events in Intervallo V: Nocturnal Sweeping, Jia Qiu was offered the services of Shi Yihua as a subordinate, who was working as a spy for the Shi Family. Others, such as Zigong and Zilu, were put under the service of Jia Qiu.
+### Intervallo V: Nocturnal Sweeping
+As the Family Hierarch Evaluations drew near, Jia Qiu allowed the use of the Heishou Pack's Mao Branch to Shi Yihua, who intended to take out several candidates of the evaluations, including Hong Lu. While aware of Shi Yihua's traitorous plans, Jia Qiu let the aspiring lord carry on with his scheme.
+Following the attempted Sweeper-assisted destruction of the Sinners, Jia Qiu arrived at the scene, accompanied by Zigong and several members of his faction, carrying the decapitated head of Qingtao. Jia Qiu confronted Shi Yihua over his betrayal, by sending a Heishou Pack member with a serpentine appearance to behead the fledgling lord, and claiming the disembodied head for himself. While Jia Xichun attempted to confront Qiu, he spared her minimal attention, before disappearing back into the shadows, carrying off the two heads in stasis wrap.
+Discussed later, Shi Yihua's execution was conveyed to Jia Qiu by an unknown member of the Shi family.
+### Canto VIII: The Surrendered Witnessing
+During the first trial of the Family Hierarch Evaluations, Jia Qiu presented to the judges two survivors from the Library, Hanafuda and Allen, as his example of a clue toward immortality. After he and Hong Lu pass the trial, he, alongside Zigong and Zilu, approach Hong Lu, questioning him for his way of living. Receiving no proper answer, he judged him for his decision to participate in the Family Hierarch Evaluation, solely because of his 'turn' arriving. After Zigong calls Outis' bluff for pretending that Hong Lu's faction had reinforcements on the outside, he states that he has no intention to harm the group yet, before promptly leaving.
+During the second round, Jia Qiu would skyrocket into first place, gathering by far the most coins of all candidates. During the event, he would eliminate any challengers that attacked him, even managing to defeat three candidates that all attacked him at once. Despite encountering Jia Xichun in the midst of the event, he would simply glance at her, before paying her no mind yet again. While the Sinners traverse the battleground, distant memories of Hong Lu's would reveal several events involving both Jia Qiu and his family.
+At the center of the battleground, the host summoned the top three candidates to begin a parlay of words, forcing Jia Qiu to come face-to-face with Hong Lu and Jia Huan. Asking the two candidates their beliefs involving what Hongyuan needs, he accepted Jia Huan's answer despite disagreeing with its brutality. However, he was dissatisfied with Hong Lu's answer of peace in the District, knowing this to be a hollow answer. Beginning anew, Jia Qiu forced Hong Lu to a decision as the two began combat, Jia Qiu assisted by Zilu and several Heishou Pack members of the Mao Branch. Amidst the combat, Jia Qiu urged another answer from Hong Lu, who yet again delivered an answer that rung hollow. While Jia Qiu barely broke a sweat during the battle, Hong Lu and the Sinners were pushed to exhaustion. Hong Lu addressed Jia Qiu's 'Way' as one with the shape of flame; a burning and ethereal form of justice planned to restore order. For the final time, Jia Qiu prompted Hong Lu for his answer. Hong Lu's younger self resurfaces for a moment, as he declares Hongyuan needs kindness. While a lacking answer, Jia Qiu admits this to be a start, something that he can believe in alongside Hong Lu. Satisfied, he chose to forfeit the event. Despite Jia Huan's confusion, Jia Qiu convinced him to exit likewise, allowing for Hong Lu to be the successful candidate.
+Amidst the celebration for Jia Xichun's rise to hierarch, Jia Qiu, accompanied by his faction, approached Hong Lu and the Sinners while Xue Baochai attempted to warn the group of the insurrection happening within the District. Bluntly, Jia Qiu discusses the worsening extent of the District as both internal and external factions aim to topple the status quo of H Corp. Seeking Hong Lu's assistance, he requests the man to go to Tiekan Temple where he would be able to assist Jia Xichun in returning safely to the throne of Daguanyuan. While he was unsure if Hong Lu would accept this proposal, it ultimately worked, with the man willing to travel to the temple and save his sister. While Jia Qiu would not join the group, sending Zilu to meet them there, he informed them that he will be traveling to the gates of Hongyuan, where he would battle Lei Heng, a Capo IIII of the Thumb.
+Unknowingly, Lei Heng actually was located outside the temple, awaiting for Xichun to emerge from her meeting with Xianren. Jia Qiu arrived in the middle of a battle between the Capo and Sinners, where he willingly took the position of the Sinners to battle the man until they could safely return from helping Xichun.
+When the Sinners finally returned from the temple, Lei Heng realized he was at a severe disadvantage against both Jia Qiu and the complete forces of the Sinners. Attempting to work his way out of the situation, the man questions what he could do for Jia Qiu to leave the temple. In response, he was told to accept the same conditions he previously offered Zilu - a single strike. Lei Heng laments that Jia Qiu—the Tiangang Star—won't be even unwrapping his staff as he places it atop the Capo's right shoulder, manifesting five Mang rings. While Lei Heng uses Shin to protect himself, his skull is obliterated in a single strike. The Sinners are told to continue to the throne of Hongyuan, while Jia Qiu assists them reaching this point alongside handling the external factions.
+Once the group manages to handle the damages, Jia Qiu, now again using his previous name of Kong Qiu, explained the status of the Pinky among his faction and Lei Heng. Explaining he would soon travel to "Mount Liang" where he would meet and discuss matters with the Mohists, he said goodbye to the groups which assisted him, finally granting Xichun a notice as he praises her efforts.
+## Gallery
+**AssetsCutscene Art
+Story Log Portrait
+Story Log Portrait (Past)
+Past
+## Trivia
+Kong Qiu's (Mandarin: 贾丘, Pinyin: *Jǐa Qiū*) name stems from the Chinese philosopher and teacher Kong Qiu, or Confucius.
+Two of Confucius' disciples were Zigong and Zilu, which Kong Qiu's two major subordinates are named after.
+Kong Qiu's Effloresced E.G.O is named Érlì** (Mandarin: 而立), a direct reference to one of Confucius' analects:
+*吾十有五而志于学、三十**而立**、(…)* (Pinyin: *Wú shí yòu wǔ ér zhì yú xué, sānshí ér lì.*)
+The analect in English is as follows: *At fifteen my heart was set on learning; at thirty I stood firm; (…)*
+One of Kong Qiu's skills, Tiangang Star - Form (格), is a reference to the book *Water Margin* in which the Tiangang Star (天罡星) is the second star of the 36 Heavenly Spirits of the book (三十六天罡).
+The person known as the Tiangang Star itself, Lu Junyi, was nicknamed the "Jade Qilin". The title Jade Qilin was previously mentioned in a promotional Twitter thread made for Limbus Company. It is unknown if these titles are connected, with Kong Qiu himself never being referred to as the Jade Qilin.
+In *Water Margin*, Lu Junyi is said to be adept in fighting with a staff, which may be a reference for Kong Qiu's weapon in the game.
+*Deathrite【Impede】 Deathrite【Impede】Base Stack: 10
+- Deathrite
+- When this unit loses other Deathrites' Stacks due to their conditions, lose 1 Stack (max 4 per turn)
+- At 0 Stack, gain 6 Offense Level Down for the next turn, then expires
+- ※ Cannot gain additional Stacks of this effect while it is already active and Deathrite【Halt】 Deathrite【Halt】Base Stack: 4
+- Deathrite
+- When getting Rupture triggered while this unit has 3+ Bind, lose 1 Stack
+- When losing Stacks, raise this unit's Stagger Threshold by 10
+- At 0 Stack, raise this unit's Stagger Threshold by Rupture Potency on self, then expires
+- ※ Cannot gain additional Stacks of this effect while it is already active resemble 치우, the Hangul spelling of Qiu, when put together.
+## Navigation
+Wiki Navigation
+**Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

@@ -1,0 +1,139 @@
+Overview
+Enemy
+Sprites
+*
+"Wait!"
+Managers should be reminded that this article contains **major plot synopses**, **artwork**, **and/or game data** that might spoil the story of Limbus Company.*
+**This page contains spoilers for Canto IX: The Unsevering.**
+## Valencina
+## Other Names
+### Korean
+발렌치나
+### Japanese
+ヴァレンチーナ
+## General Information
+### Gender
+Female
+### Occupation
+The Thumb Nursefather
+Sottocapo of the Thumb (formerly)
+### Affiliations
+The Thumb
+The House of Spiders
+La Famiglia Bognatelli (Formerly)
+### Relations
+Ryōshū (Daughter)[1]
+Lucio (Subordinate)
+### First Appearance
+Canto IX: The Unsevering
+### Status
+Deceased
+### Voice Actor
+Jeon Sook-kyung
+“
+I was like you once. Bold… proud… feeling like I could take on the whole City all on my own. Back in my day...little shits like you wouldn't even have dared to talk to me.
+”
+–Valencina, Canto IX: The Unsevering
+**Valencina** (Hangul: 발렌치나 *bal-len-chi-na*) is a disgraced Sottocapo of the Thumb and the tutor of Lucio, as well as being one of the five parental figures assigned to training Yoshihide as a Nursefather of the House of Spiders. She is an antagonist introduced in Canto IX: The Unsevering.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Story
+3.1 Prior to Limbus Company
+3.2 Canto IX: The Unsevering
+4 Gallery
+5 Trivia
+6 References
+7 Navigation
+## Appearance
+Valencina is a tall, older woman with sea green eyes and long, dirty blonde hair that covers her right eye. She wears a Thumb uniform consisting of a rose-red jacket, trousers, wide brimmed hat and untied ribbon over an ivory shirt with the top buttons undone. The right lapel of her jacket has a golden pin with one arrow pointing rightwards. She is seen smoking a cigar, and has black gloves with light palms.
+While not visible in her sprites, she is said to have the Relic "the Eye of Odin" in place of her right eye, a mechanical eye with a sea green iris and a segmented sclera.[2] As Ryōshū damaged the Relic using Arayashiki, the wound reopens when Valencina is in its presence, at one point causing a cascade of blood to cover her face. Her death sprite suggests she wears a black eyepatch over it, which has a golden cross printed on the front.
+She carries two swords, one being a straight sword with a revolver barrel at its guard kept in a red sheath, and the other, a curved sword with yellow ribbons on its grip kept in an orange sheath. Both have golden, ribbed blades.
+## Personality
+Valencina is an arrogant, booze-loving woman with a violent, foul-mouthed personality. She has a short temper, immediately taking towards physically attacking Lucio following a perceived failure on his part, as well as frequently harming the young Yoshihide during their training sessions. While she aims to benefit greatly off the cultivation of Ryōshū's abilities, she generally regards the woman in contempt, even while she was still under the care of the House of Spiders. She remains extremely bitter about her expulsion from the Thumb and fall from grace, and is obsessed with making others give her the respect she's owed.
+In her moments of lucidity during her deployment in the Smoke War, when she was unable to indulge in alcohol, she became a more committed member of the faction and the House of Spiders, where her verbal and physical abuse of Ryōshū minimized temporarily. However, she was brought back to ruin with her demotion.
+## Story
+### Prior to Limbus Company*
+In her younger years, Valencina was a participant of the Smoke War under the Famiglia Bognatelli, where she made a name for herself as a war hero and vicious killer able to bayonet any foe, killing them before they were given a chance to fight back. She battled against the old L Corp., making express note of her time having tortured the old G Corp.'s soldiers and personally witnessing their decisive weapons. In addition to acquiring the Eye of Odin at some point, the Famiglia Bognatelli gifted her with their personal heirloom sword due to her prowess.
+Due in part to her devoutness to her Famiglia, Valencina was promoted to the rank of Sottocapo, though this lasted a measly three days before she was demoted due to her behaviors. She was then disowned by the faction, which withdrew its love for her but allowed her to keep her Relic and sword, believing them to be tainted by her ownership.
+Among the five Fingers, Valencina was the Thumb's representative in the process of raising Ryōshū into a "perfect blade". In her youth, Ryōshū was trained by Valencina in her own methods of swordplay, creating a shared protégé across the five factions. Despite her role as a mentor and parental figure, Valencina was frequently physically abusive towards Ryōshū, admonishing her for minor failures during her training. At one point during their time together, Valencina realized the value of Ryōshū, allowing her to imprint the intrinsic usefulness of the girl's role on the possibility of securing her return to the Thumb.
+In her youth, Ryōshū once messily devoured a cake, giving Valencina a spiteful moment that stuck with her. Seeing Ryōshū enjoying the sweet, Valencina reminded her that she would smash a cake if she were to see Ryōshū enjoy something so dearly again.
+While the Smoke War progressed, Valencina's abuse of Ryōshū ceased temporarily, the woman having become exponentially more focused and dedicated to the warfare. After a ferocious mission against a G Corp. soldier, she returned injured through a door which connected the warfront to the Thumb's Corridor, where Ryōshū happened to have been at the time. Seeing her mother figure injured, Ryōshū attempted to offer her bandages, which Valencina rejected, though spent little time with the child as she was soon sent out for another mission, where higher quality physical therapy would be offered.
+Soon after the War ended, the Consigliere of the Thumb ― one of Ryōshū's tutors ― had a meeting with Valencina. Following this, and seemingly the removal of Valencina from the Thumb's official ranks, she returned to being a drunkard.
+After Ryōshū's departure from the House of Spiders, Valencina began teaching an apprentice, Lucio, who would be able to act as a mentor to her "Ticket", once she found Ryōshū again. Upon finding Lucio within the Backstreets, taking him in as a method of "saving him", beginning his routine of a daily cycle of training and abuse. Though the task was, on a surface level, graciously accepted by Lucio, he came to despise the woman, considering the odds of one day killing his tutor when her guard was down.
+### Canto IX: The Unsevering
+While Vergilius was out with Charon, Saude, and Pilot, Valencina and Lucio ambushed the group with the goal of keeping the Color Fixer occupied during the House of Spider's raid on the Limbus Company HQ. Knowing of Charon's importance to Vergilius, Valencina ordered her apprentice to kidnap and use her as a hostage. During this initial skirmish, Saude's arm was severed as she held on tightly to Charon, allowing Lucio to escape with the girl and then trail after Saude as she ran for backup.
+After a short duel between the Sinners and her apprentice, Valencina arrived at the truck where Lucio had tracked Saude to. Immediately noticing the sloppiness of his training, Valencina slapped Lucio and scolded him over his failure to defeat the Sinners, mentioning that he'll be a failure of a "textbook" if Ryōshū is unable to learn anything from him. During her moment of scolding, however, she noticed that Vergilius had caught up to her, and the two began to clash again as he burst into the truck. When their battle came to a momentary standstill, Valencina's Relic eye began to leak blood, a result of being near Ryōshū's sword.
+Eventually, the Sinners were able to travel to Limbus Company HQ using the truck's Backdoor portal, and Lucio and Valencina stayed behind to continue distracting Vergilius. While Valencina related
+her twisted views on Lucio to Vergilius' relationship with Charon, Vergilius saw through her attempts to goad him into unsteadiness and focused on dismantling Lucio during the battle rather than the Nursefather of the Thumb. Lucio suffered great injuries during this encounter, as while the threat to Charon's life was severely hampering Vergilius' opportunities and cool-headedness, the Red Gaze was still more than capable of ripping through them. When Valencina eventually received the news that the Dihui Star had retrieved the Golden Boughs from the HQ, she gave Charon back to Vergilius and departed with Lucio.
+Later during Limbus Company's retaliative raid against the House of Spiders, Lucio was with his master in the Corridor of the Thumb. Vergilius, Rodion, Heathcliff, and Gregor eventually arrived, finding Lucio still injured and Valencina drunk. Telling the LCB to wait for her to finish drinking, Valencina recounted her time as a hero of her Famiglia, remembered for her skills during the Smoke War, as well as her time raising Ryōshū. After some provocations from both sides, Valencina ordered Lucio to prepare for battle in spite of his injuries. Lucio proceeded to fight against the three Sinners while Valencina fought one-on-one against Vergilius; as the battle escalated, Vergilius and Valencina joined the others, and the Limbus Company team's strength begun to overwhelm the two.
+When Lucio was wounded to the point where he could no longer fight, Valencina lambasted him and ordered him to continue attacking. As such, Lucio continued onward against Gregor, who had been growing unstable at the use of familiar phrases he'd once heard from his mother. After Lucio managed to land a hit on Gregor, the Sinner again warned him to back down, but Lucio marched ahead, and was run through by the surprise mutation of Gregor's bio-prosthetic arm, which ripped Lucio's heart out of his chest and killed him instantly. Valencina, however, deluded as she was, initially could not stomach the idea that Lucio wasn't just being lazy and continued to yell at him.
+After a few attempts to call Lucio back to battle, the reality of Lucio's death set in, leading Valencina to attack Gregor in a blind fury. The two flew off further into the Corridor, where Valencina began to torture Gregor while recounting similar excursions against other bug-augmented soldiers. Despite Gregor begging her to stay back, Valencina failed to listen and continued to provoke him. In a moment of unwilling metamorphosis, Valencina was skewered on a growth from Gregor's arm as he entered a form known as the Roach Emperor, a weapon intended for war. Skewered and unable to move, Valencina was repeatedly crushed between a set of teeth grown along the arm, finally killing her.
+## Gallery
+**AssetsCutscene ArtOther
+Story Log Portrait
+Canto IX Cutscene (Impaled)
+Valencina, Lucio, and Gregor SD
+## Trivia
+Valencina is known to drink Old Parr, a kind of whiskey. This is an actual whiskey, also known as Grand Old Parr, first made in Scotland in 1909.
+## References
+↑ All of the Nursefathers regard Yoshihide as a daughter to them, and Ryōshū called Valencina her "Mom" when she was still with the House of Spiders (Canto 9-42).
+↑ While not visible on her art, the *Imperfect Eye of Precognition
+Tier: IV**
+Cost: 400
+**Tremor TremorWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by X. Lasts Y turn(s).**
+Imperfect Eye of Precognition
+Allies' Plus Coin Skills: Gain Coin Power +(8 / # of Coins) (gains at least 1 Coin Power, includes E.G.O Skills; rounded down)
+Allies' Minus Coin Skills: Gain Final Power +(8 / # of Coins) (gains at least 1 Final Power, includes E.G.O Skills; rounded down)
+[Effects apply only to #1 Deployed Identity]
+- In a Clash, gain 1 Glimpse of Precognition Glimpse of Precognition- Max Stack: 5
+- Clash Power +2 for every Stack
+- For every 2 Stack:
+- Plus Coin Skills gain Coin Power +1
+- Minus Coin Skills gain Final Power +2
+- Expires at Skill End with every Clash. Inflict 2 Tremor TremorWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by X. Lasts Y turn(s). and Burn BurnTurn End: Take X fixed damage. Lasts Y turn(s). on target (10 times per Skill)
+- On Clash Win, trigger Amplitude Conversion Amplitude ConversionConverts Tremor or already converted Tremor on target to a different type of Tremor.
+Potency and Count values do not change over the conversion. into Tremor - Scorch Tremor - Scorch- On Tremor Burst, take Wrath Damage equal to (sum of Tremor Potency and Burn Potency / 2), and lose 1 Burn Count
+- When hit by Skills that trigger Tremor Burst, raise this unit's Stagger Threshold by the effect's Potency
+- Turn End: reduce the Count by 1
+(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count) and trigger Tremor Burst Tremor BurstRaise target's Stagger Threshold by Tremor Potency on target on the main target. Target loses 1 Tremor TremorWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by X. Lasts Y turn(s). Count
+- On Hit with a Skill, if target is Staggered, deal +30% damage
+- On Crit, trigger Tremor Burst Tremor BurstRaise target's Stagger Threshold by Tremor Potency on target. Target loses 1 Tremor TremorWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by X. Lasts Y turn(s). Count (2 times per Skill)
+E.G.O Gift replicates the appearance of the Eye of Odin.
+## Navigation
+Wiki Navigation
+**Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

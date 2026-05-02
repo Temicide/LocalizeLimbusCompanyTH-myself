@@ -1,0 +1,20 @@
+## Wang Zhao
+
+### Appearance
+Wang Zhao is a short man with cropped black hair, with his bangs shaped in cloud-like formations, sweeping to the left side of his face. He wears a small gilded crown, and has half-lidded eyes, with yellow irises and purple pupils. His hair extends behind his neck, connecting into a braid that rests across his collar. He wears a choker with a similar intricate design to his crown, and a cropped white jacket with a cloud pattern along the sleeves. Beneath this, he wears a gray top buttoned beneath a braided cross-pattern belt, which extends into a long tailcoat with the same cloud pattern as his top. His pants are white, becoming dark gray with a gradient, and he wears dark loafers on his feet. On the left side of his waist, he carries a white-and-gray sword with a gilded hilt, and carries an ornate pipe in his right hand, featuring a cloud of dark smoke emerging.
+
+### Personality
+Wang Zhao is a lax man without aspirations to acquire the title of Hongyuan hierarch, rather participating to find another candidate that is more deserving of the title, giving them his backing. He is a self-admitted introvert, preferring to remain in his quarters more commonly, contributing to his distance among even other Daguanyuan residents such as Hong Lu.
+
+### Story
+**Canto VIII: The Surrendered Witnessing**
+
+Wang Zhao participated in the Family Hierarch Evaluations. In the first round, he witnessed Dante reviving Hong Lu after being split in half by Ryōshū. He succeeded in the first round, and was met face-to-face in the second round. At the beginning of the second round, he approached Hong Lu and his entourage, interested in a temporary travelling group to spectate the man. While the group was initially skeptical of the man's intent, he willingly clarified that he would only be following others to find a candidate he deemed worth supporting, having no interest in the role of hierarch himself. Sacrificing a coin of his, he accompanied the group to their agreeance. In the midst of their early travels, he questioned Hong Lu about the rumor of Jia Xichun having lost her Heishou Pack, mentioning he may give up another coin in favor of the information, though was disappointed when Hong Lu could not offer any answer. After a brief battle with Shi Huazhen, and examination of the old Kong Family laboratory, Wang Zhao deemed he had seen enough, and that Hong Lu is not who he plans to assist. Saying goodbye, he casually severed the agreeance on accompanying one another, and wandered off.
+On his own, he would be willingly eliminated by giving his coins to Jia Qiu, who promised all that he wished for. While waiting for his elimation to be confirmed, Jia Huan came across him, shocked that he would give up that easily - especially for somebody like Jia Qiu. While Jia Huan considered brutalizing the man then and there, the nearby Heishou Pack members took Wang Zhao out of the competition.
+Briefly during Jia Xichun's celebration ceremony, Wang Zhao met again with the Sinners. Rather than joining the celebrations, he simply alluded to the storm clouds gathering over Hongyuan, in reference to both the external and internal forces looking to topple the status quo of the new hierarch. Concluding his brief reappearance, he left after delivering the ambiguous message.
+
+**Intervallo VI: Spring Cultivation**
+
+Wang Zhao was among the parties present during the hearing of Jia Xichun, held by Jia Yuanchun, who aimed to topple and belittle the newfound Hierarch.
+Amidst the training of the new Hierarch, Wang Zhao visited during his cousin's preparation, Wang Qingshan, who served as her third midterm. Wang Zhao briefly speaks with Jia Xichun, mentioning the dangers of the unfolding situation, before leaving Xichun alone with her sparring partner.
+During the end-of-training meeting, Wang Zhao voted against the vote of no confidence held, allying himself with Jia Xichun.

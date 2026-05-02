@@ -1,0 +1,105 @@
+Overview
+Sprites
+## Yuri
+## Other Names
+### Korean
+유리
+### Japanese
+ユーリ
+## General Information
+### Gender
+Female
+### Occupation
+Grade 8 Fixer
+### Affiliations
+Unnamed Fixer Office
+L Corp. (formerly)
+### Relations
+Aya (Coworker)
+Hopkins (Coworker)
+The Sinners (Work associates)
+Dante (Work associate)
+Charon (Work associate)
+### First Appearance
+Canto I: The Outcast
+### Status
+Deceased
+### Voice Actor
+Kang Sae-Bom
+“
+Is it so wrong that I survived?
+”
+–Yuri, Canto I: The Outcast
+**Yuri** (Hangul: 유리, *Yu-ri*) is a Grade 8 Fixer and former employee of Lobotomy Corporation. She is a major character in Canto I: The Outcast.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Story
+3.1 Prior to Limbus Company
+3.2 Canto I: The Outcast
+4 Gallery
+5 Trivia
+6 References
+7 Navigation
+## Appearance
+Yuri looks to be a young woman of average height. She has straight, relatively long reddish-pink hair which falls down naturally over her shoulders with the exception of a few strands tied back with a bow. Her eyes are small and gray, topped with eyebrows a bit thicker than most of the other girls. Notably, she wears a cloth eye patch over her right eye and a small bandaid on her left side of her chin.
+She wears the uniform of the unspecified Fixer office Aya and Hopkins also work for. However, while their version of the uniform has blue as its primary color, Yuri's has a reddish-pink similar to the color of her hair. The uniform consists of a long-sleeved white, black, and reddish-pink shirt with a turtleneck, overlaid with a loose fitting jacket and a backpack. They wear baggy pants tucked into black work boots. There are twin strings of cloth hanging from the bottom of the jacket and pants, and a blue belt attached to the pant thigh. Yuri also carries around some kind of long, glowing red sword.
+## Personality
+Yuri is rather normal in comparison to the eccentric sinners. While she opens up to the group over the course of the chapter, she starts off considerably mild. Yuri expresses kindness and consideration, and although she is used enough to the violence of the City to have no reaction upon witnessing Mephistopheles' source of fuel, she is distressed by Aya's death to the point of Outis expressing her disapproval. It's clear that Yuri carries a form of unresolved trauma which continues to weigh on her and sometimes result in weak-heartedness. Dante even points out that she is always slouching, describing it as if "it was her sole surviving obligation to fulfill the wills of her late colleagues." She also has a bit of an exasperated side to her, which shows when handling Charon, a bus driver with no idea how to use a map. However this situation only goes on to permeate Yuri's kindness when she later expresses wanting to properly teach her.
+## Story
+### Prior to Limbus Company*
+Before becoming a Fixer, Yuri was affiliated with Lobotomy Corporation as a member of its Control Team.[1] She worked at Branch D-02, which she would later lead the Sinners through on their search for its Golden Bough. Lobotomy Corporation workers knew well that Abnormalities simply cannot die, and are simply reduced to a condensed ovate form when defeated, which eventually hatches once enough time has passed. While employed by L Corp., Yuri's job was to take these newly-created cores and put them back in their containment unit. However, at one point the L Corp. branch was locked down, and the building was set to come crashing down so that a breach of Abnormalities could not escape into the general City. Yuri found herself in the midst of this mass burial in the making with only three minutes until everything was shut down. With the immense pressure, danger, and knowledge that the doors were about to close on her, Yuri took the chance to escape, despite the colleagues begging her not to leave them behind. She was the only one out of her many coworkers to make it out and live on. From that day on, Yuri would live in masses of silent guilt, blaming herself and wondering if it was okay for her to survive alone. Following the incident, Yuri managed to secure a job as a Fixer, although only as a contract worker. Her job was specifically to deal with requests pertaining to the old L Corp. and help to make trips through it safer. She informs the Sinners that her contract may be extended if she manages good results on her trip with them.
+### Canto I: The Outcast
+Yuri was initially introduced due to being hired by Faust to act as a guide for the Sinners during their first foray into the Lobotomy Corp. Branches. She introduced herself to the Sinners as a former member of the fallen Wing, only to later be baffled by the choice of Charon to drive without the guidance of a map. She was joined by Sinclair in an attempt to manage the driver, who would pay no heed to the two. Upon arriving closer to the Lobotomy Corp. Branch, the group was halted by members of the former G Corp., before meeting with Hopkins and Aya, who acted as accompanying Fixers.
+In the midst of their journey, the group were interrupted by an unprompted attack by Abnormalities, as well as the G Corp. Head Manager. Beyond a point, toxicity levels within the building began to rise dramatically due to anti-Abnormality gas grenades, something which brings Yuri great distress due to her currently unprepared nature. Hopkins, however, is able to put on a gasmask he brought along, managing to use this as a moment to insult Yuri, before escaping with Enkephalin modules. Gregor gave Yuri the deceased Aya's gasmask, allowing her to survive the gas levels while the Sinners would simply revive from. She was comforted by Gregor as she malaises on her past, wondering if it was truly okay to have left behind her coworkers.
+Continuing deeper into the branch, they would encounter Alex, one of the only surviving friends of Yuri, now driven insane due to her presence around the Doomsday Calendar Abnormality. The two coworkers would say their goodbyes to one another. As the Sinners would be thrust into the Smoke War through the Golden Bough's Resonance with Gregor, Yuri would firsthand experience the discomfort of the event as they continued deeper into the resonating Lobotomy Corp. Branch. The Sinners would begin to form a bond with Yuri, with Rodion jokingly raising the concept of the Fixer later being the LCB mascot. She would further be accepted into the group, before the group later encounters one of the Abnormalities stored in the branch, the Golden Apple.
+As the Sinners combat the Abnormality, Yuri attempted to support the group, with Gregor joining her, though she would be absorbed by the Abnormality. The apple replicated Yuri, with Gregor being unable to strike her down due to the fake Yuri pleading for her life. The head was ultimately removed by Hermann, completing her progeny's job as she and N Corp. claim the Golden Bough within the branch. Gregor chose to position Yuri's gasmask on the front of Mephistopheles in memento, recalling his sister at the time.
+## Gallery
+**AssetsCutscene ArtOther
+Story Log Portrait
+Battle Announcer Icon
+Beta CG
+Promotional Artwork
+2025 Online Merchandise
+## Trivia
+Yuri's name is in the pool of random names that newly hired Agents can be given in *Lobotomy Corporation*.
+Yuri also shares her name with a character from *The Distortion Detective*.
+## References
+↑ Faust's Lobotomy Corporation Remnant Identity, based on Yuri, depicts her with the Control Team armband.
+## Navigation
+*Wiki Navigation
+Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

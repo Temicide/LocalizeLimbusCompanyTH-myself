@@ -1,0 +1,19 @@
+## Ren
+
+### Appearance
+Ren is a calm-looking man with pale skin. His hair is black with a blue tint, cut to chin length, and parted cleanly down the middle. Ren's eyes are sharp and similarly dark with a blue highlight. He wears a black turtleneck with long sleeves that go all the way to his fingers, a long black hakama with three straps on it, black shoes with blue-gray laces and an open coat that has a top-to-bottom black-to-blue gradient with blue flowers patterned on it.
+Ren carries a long white ōdachi, with a metal tip on the ends of the handle and scabbard. It also has a white tassel with white and black hair attached to the handle, and a dark scratch-like patterning running along the scabbard and handle.
+
+### Personality
+Ren has a humble manner of speaking with a near deadpan delivery. He appears strict with clear priorities: taking his master's orders very seriously, doing what needs to be done without complaint, and not standing for those unwilling to obey. Ren also constantly belittles himself, constantly asserting that he is insignificant and unworthy in a way that ironically comes off as somewhat prideful. He is defined by his faithfulness to the Dihui Star, who he acted as the voice of and cared for deeply enough to follow her to her grave.
+
+### Story
+**Prior to Limbus Company**
+
+Ren was taken in by the House of Spiders as an apprentice to the Pinky Nursefather, who trained him to become an official member of the Pinky and eventually inherit her title of Dihui Star.[1] The two of them appeared to possess a very strained and distant relationship throughout their time together, to the point of physical abuse.[2]
+
+**Canto IX: The Unsevering**
+
+Ren assisted the House of Spiders in their raid on the Limbus Company HQ. As Dante, Ryōshū, Gregor, Meursault, and Yi Sang entered the LCE laboratory in search of the Golden Boughs Dante had sensed nearby, they ran into the Pinky Nursefather. Ryōshū claimed that she would take something back from the woman as the Nursefather began to move towards the Boughs, but Ren, speaking and acting for his master, stepped in to battle the group alongside the Ring apprentice Albina. Partway through the battle, half of Albina's armor slipped off, and she began insisting on a chance to let her weapon feast on the Sinners. When she refused to back down after Ren insisted that they stick to their masters' plans, he would strike her with his own weapon. This confusion allowed Ryōshū to approach where the Boughs were, only to find that they'd already been taken. After Ren had another brief exchange with Ryōshū, he continued his squabble with Albina, giving the Sinners the chance to go after the Dihui Star and the Boughs.
+Later during Limbus Company's retaliative raid against the House of Spiders, Ren was stationed alongside his master in the Corridor of the Pinky, where he eventually greeted Dante, Ryōshū, Meursault, and Outis. There, he asked if they would rather get back Araya or the Golden Boughs, reminding the group that his master does not care for greedy people. Ren eventually stepped aside as the Dihui Star took over the confrontation with Ryōshū, a clash that ended with Ryōshū fatally wounding her and the reveal that Ren's master was actually Araya.
+After some time, Ryōshū fell into the depths of her own nothingness on the rooftop of the House of Spiders, while Rien, Sora and Ren watched the events unfold. Despite Rien then telling Ren that he was free to leave given that his master would pass away soon regardless, Ren chose to join the fight anyway, claiming that he wanted to cross blades with the wielder of Muga, defeat her and carry his master away. This fight ultimately ended with Ren and Sora being erased by the awakened power of Ryōshū's sword, Arayashiki. This resulted in the two apprentices being largely stripped from existence everywhere outside of Dante's memory.

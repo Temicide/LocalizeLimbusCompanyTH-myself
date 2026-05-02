@@ -1,0 +1,115 @@
+Overview
+Enemy
+Sprites
+*
+"Wait!"
+Managers should be reminded that this article contains **major plot synopses**, **artwork**, **and/or game data** that might spoil the story of Limbus Company.*
+**This page contains spoilers for Intervallo VI: Spring Cultivation.**
+## Wei
+## Other Names
+### Korean
+웨이
+### Japanese
+ウェイ
+## General Information
+### Gender
+Male
+### Occupation
+Servant
+### Affiliations
+Jia Family
+Heishou Pack - Wu Branch (Formerly)
+### Relations
+Jia Xichun (Master)
+Hong Lu
+### First Appearance
+Canto VII: The Dream Ending
+### Status
+Alive
+### Voice Actor
+Kwon Sung-hyuk
+“
+What matters, my lady... Is patience and determination. Of course, this place had slipped my mind then, as I was quite swamped with work, but... Recovery will follow, as long as there is a steady root to rally around.
+”
+–Wei, Intervallo VI: Spring Cultivation
+**Wei** (Hangul: 웨이, *we-i*) is a servant of the Jia family who is in Jia Xichun's service. He escorts Xichun as she fulfills her goals, such as assisting her with the eradication of La Manchaland or her entry into the Family Hierarch Evaluations of Daguanyuan. He is a supporting character introduced in Canto VII: The Dream Ending, and similarly present in Intervallo V: Nocturnal Sweeping, Canto VIII: The Surrendered Witnessing and Intervallo VI: Spring Cultivation.
+*
+## Contents
+1 Appearance
+2 Personality
+3 Story
+3.1 Prior to Limbus Company
+3.2 Canto VII: The Dream Ending
+3.3 Intervallo V: Nocturnal Sweeping
+3.4 Canto VIII: The Surrendered Witnessing
+3.5 Intervallo VI: Spring Cultivation
+4 Gallery
+5 Navigation
+## Appearance
+Wei is a man with shoulder-length dark hair, parted down the center of his face, showing his face. He wears oval glasses, and a dark hanfu lined with golden trim, which is tied at the waist with a red sash and tied knot. On his shoulders, he wears a red cloak with a dark trim, with golden ornamentation lining this trim and his right shoulder. His hanfu ends at his ankles, with similar gold ornamenting being displayed on the right half. He wears dark loafers with golden soles over his feet, with white socks beneath.
+When the Wu Heishou Pack Bolus' effects activate, his lower body becomes that of a horse and he grows the ears of one, with armored legs and a long dark coat running down its sides. He wields a large, dark guandao as a weapon. In this state, his eyes glow white.
+## Personality
+Wei is a quiet and kind man, taking the time to respect Hong Lu despite the former's generally negative status within the family he works for, wishing the man well regardless. He is highly responsible, assigned to escorting Jia Xichun along the battle against La Manchaland, chosen for his formidable abilities in combat, as displayed by when he singlehandedly defeats waves of Bloodfiends. Despite this, he considers himself lesser in the scheme of things for unknown reasons.
+During Intervallo VI: Spring Cultivation, a glimpse at a more enthusiastic and excitable side of him is seen after he won a round of mahjong against Rodion, exclaiming his victory. His strength is also seen while Jia Xichun was in danger, blindly attacking anyone that tried to get to his master, including other allies such as the Sinners.
+## Story
+### Prior to Limbus Company*
+Wei was once an Adept of the Wu Branch of the Heishou Pack, which served Jia Xichun. He was eventually liberated of his status as a Heishou and became Jia Xichun's personal servant, at the cost of the latter's control over the branch.
+### Canto VII: The Dream Ending
+Wei was first met alongside Jia Xichun, who talked to the Sinners in the Backstreets of P Corp. He approached Hong Lu and briefly caught up with the Sinner, honoring the man as if he were still in service to him. He then quietly followed alongside Xichun as she leads her men to the briefing for their job.
+He was later met again in Area 2 of La Manchaland, having participated in the eradication of The Priest's men, as well as the search for the area's button. Meeting the Sinners at the confessional, he deflected one of Sansón's attacks aimed at Xichun after she attempted to kill The Priest. As an onslaught of Bloodbags and Bloodfiends approached following another play of Sansón's, Wei defeated the horde on his own, looking to protect his men who were knocked unconscious by the magician, as well as keep the path clear for his young master. He reluctantly recommended she accompany Hong Lu and the Sinners in Area 3 due to the greater odds of surviving if she did.
+### Intervallo V: Nocturnal Sweeping
+Wei once again accompanied Jia Xichun for the entirety of her appearance in the Intervallo, though his role was otherwise limited. His previous status as a member of the Heishou Pack would be briefly mentioned in this Intervallo. While he made an attempt to defend Jia Xichun against Jia Qiu's libel, she told him to stand down.
+### Canto VIII: The Surrendered Witnessing
+Wei accompanied his master on the travelling to Daguanyuan, as well as through the first two rounds of the Family Hierarch Evaluations. Prior to the events of the second round, he attempted to convince Jia Xichun a total of three times to not visit his residence, though ultimately gave up. He wished the Sinners well, and hoped they would not meet in the next round.
+In the midst of the Family Hierarch Evaluation's second round, Jia Xichun encountered both Jia Qiu and Jia Huan; the former simply ignoring her and the latter viciously attacking her faction. By the end of the confrontation, all that remained of Jia Xichun's faction was herself and Wei who were grievously injured.
+During the celebration of the Jia Xichun's newfound role as H Corp. Hierarch, Wei attempted to mitigate her bafflement. He joined his master as she traveled to the Tiekan Temple, where she would meet with the elders and have her role pronounced and later officialized as she takes the throne in Daguanyuan.
+Though she had protection, the many factions looking to topple H Corp. managed to catch up to Xichun's faction, including the Thumb's Capo IIII, Lei Heng. In a one-sided confrontation, Lei Heng massacred the majority of the group on the bridge leading to the temple, leaving solely Wei alive. The Sinners, arriving after the carnage, are given the ultimatum; if Zilu were to take a single hit from the Capo, they could ensure Wei survives. Though Hong Lu and the Sinners felt little for Wei due to not knowing him particularly well, Hong Lu wishes for Xichun's earnest happiness to return, something Wei's survival would help. Agreeing to the conditions, Zilu took a near-deadly blow from Lei Heng, who kicked Wei over to the group afterwards, living up to his word. Despite surrendering the man, he assumed he may not even survive the day, and that if he did, he would need two to three months of healing to be back to his previous level.
+Wei would be reunited with his master after his narrow survival, after she had successfully inherited the role of hierarch for the District. He joined her and the Sinners in celebration, where he lamented on the new difficulty of organizing the information that was once stored only via the Xianhuang Anamnaworm inherited between elders. The servant and his master appear to discuss this matter alongside Meursault, seen during the CG accompanying the Canto's credits.
+### Intervallo VI: Spring Cultivation
+Wei accompanied his master during her initial meeting as the newfound Hierarch of Hongyuan, where she is humiliated and belittled by Jia Yuanchun, much to their dismay. However, after Zigong and Sinclair successfully argue a case in favor of the Hierarch, she is given a month-long period of training to prove herself. Wei was among the faction that will assist with this process, most notably being one of the members required to upkeep paperwork and documents, alongside Zigong. While he is not physically present for much of the month, he sends his master a message of encouragement. Despite his growing insomnia and delirium, he continued to push through seemingly never-ending paperwork.
+Following her fourth midterm and encounter with the maddening Xue Pan, Xichun is sent into a spiralling bad mood, worrying if her efforts will be for naught given the current state of things and the opinions of her. In hopes of cheering her up, Wei mentions an old pond within H Corp. that became spoiled from the dumping of rotted corpses. Confused, Xichun questions why he discussed the decommissioned pond, to which he explained that it has since been purified by a tall tree growing from the nutrients, cleaning the water and allowing wildlife to rehabilitate. Wei asks if she'd enjoy visiting it alongside him, leading the two—joined by Sinclair and Dante—to visit the pond, where Xichun's mood greatly improves.
+Upon hearing the news of Xichun's kidnapping by a trapped palanquin, Wei was sent into a panic, racing off into the distance to find and save her. While this happens, possibly as a byproduct of his stress and busy schedule, he began to mutate back to his Heishou Pack self, becoming centaur-like in his frenzied state. At the site, he failed to find Xichun, senselessly slaughtering Si branch members while his master battled the Night Drifter. In his haze, the Sinners approach, causing his ire to turn towards them. After a brutal battle, the mutations are suppressed, though Wei is unable to continue on with the group, his previous wound from Lei Heng reopening and incapacitating him.
+During the end-of-training meeting, Wei was present alongside the factions allied with Jia Xichun. With her role effectively secured, he was able to accompany Xichun as she was given her earned respect.
+## Gallery
+**AssetsCutscene Art
+Story Log Portrait
+Story Log Portrait (Heishou Wu Mutation)
+Battle Announcer Icon
+Heishou Wu Mutation
+Featured in the background
+## Navigation
+*Wiki Navigation
+Mechanics**
+Battles - Battle Announcers - Identities - E.G.O - Events - Items - Luxcavation - Mirror Dungeons - Story Dungeon - Theater
+**Seasonal Events**
+Seasons - Limbus Pass - Refraction Railway - Dante's Notes - Walpurgis Night
+**Characters**
+**Sinners**
+#1 Yi Sang -
+#2 Faust -
+#3 Don Quixote -
+#4 Ryōshū -
+#5 Meursault -
+#6 Hong Lu
+#7 Heathcliff -
+#8 Ishmael -
+#9 Rodion -
+#10 Dante -
+#11 Sinclair -
+#12 Outis -
+#13 Gregor
+**Terminology**
+**Locations**
+The City (Districts (Nests • Backstreets)) - Outskirts - The Great Lake - Ruins
+**Lore**
+Abnormalities - E.G.O - Distortions - White Nights and Dark Days - Smoke War - Singularities - Golden Boughs - Shin and Mang - Sin
+**Factions**
+Limbus Company - Fixers (Offices • Associations) - Syndicates (the Five Fingers) - Wings - The Head
+**Other**
+**Songs**
+"In Hell We Live, Lament" - "Between Two Worlds" - "Fly, My Wings" - "Compass" - "Through Patches of Violet" - "La Mancha Carnival" - "Hero" - "TIAN TIAN" - "SAIKAI" - "Pass On"
+**Media**
+Lobotomy Corporation* - *WonderLab* - *Library of Ruina* - *The Distortion Detective* - *Leviathan* - *Limbus Company*
+Character Navigation
+**Sinners**
+**Others**

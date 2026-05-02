@@ -15,8 +15,9 @@ import sys
 import argparse
 from pathlib import Path
 
-# Add translator to path
-sys.path.insert(0, str(Path(__file__).parent))
+# Add project root to path for translator package
+PROJECT_ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
 
 from translator.engine import TranslationEngine
 from translator.context_builder import ContextBuilder

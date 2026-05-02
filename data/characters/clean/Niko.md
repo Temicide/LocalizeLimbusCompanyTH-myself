@@ -1,0 +1,11 @@
+## Niko
+
+### Appearance
+Niko appears to be an older man, with a noticeable amount of wrinkles on his face. His graying hair is parted, with the red tips of it pointing upwards. He wears bronze, diamond-shaped earrings on both ears and a black choker. On his shoulders, he wears a rose red jacket that has bronze trimming and a large Rosespanner decal on the right edge. Beneath, he wears a pale purple dress shirt, with a strap that crosses his chest perpendicularly. Along with this, he wears dark pants and heels on his lower half. His weapon is proudly displayed on his back, resembling a large hybrid of a wrench and chainsaw.
+
+### Personality
+Initially, Niko shows an aloof and confident personality, happily chatting with the Sinners about gambling in J Corp. However, once Shrenne's scheme is found out, Niko is shown to be much more confrontational and defensive, though still expressing an innate aloofness, such as declaring a timeout whilst fighting the Sinners. He is primarily driven by greed, as seen by his sole reason for taking Shrenne's deal being the money rewarded for taking the contract.
+
+### Story
+Prior to the events of Canto IV, Niko, and by proxy, the Rosespanner Workshop, were hired by Shrenne to protect the group traveling in K Corp., though on the stipulation of eliminating Dongrang and the Sinners in secrecy.
+Upon first arriving, he joked that Ran and Marile being intimidated by their arrival was the cause for the Technology Liberation Alliance fleeing. From this point, he and the Rosespanner Workshop accompany Dongrang's group, happily chatting with Rodion and Heathcliff about supposed secrets of the gambling done in J Corp. Niko stood back until the group arrived within the Lobotomy Corporation Branch located within K Corp.'s Nest, at which point he became defensive over the group's general discussion about his and Shrenne's actions, something which they noticed to be suspicious. After a short battle, Niko called for a timeout as one of his Workshop's members reminded him not to use any of the Ampoules, to which Niko criticized this man for breaching the secret contract between the group and their employers. With a complaint that he should have gambled more the day prior had he known he would be fighting, Niko resumed combat with the Sinners and was ultimately killed.
