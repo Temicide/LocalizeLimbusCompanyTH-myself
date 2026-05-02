@@ -27,7 +27,7 @@
     {
       "id": 5,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "บ้าจริง... ทำไมจู่ๆ เจ้าสิ่งนี้ถึงอืดแบบนี้เนี่ย?"
     },
@@ -40,7 +40,7 @@
     {
       "id": 7,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "อ่า ได้ละ"
     },
@@ -57,7 +57,7 @@
     {
       "id": 10,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "โอ้... ขอบใจมากนะ!"
     },
@@ -72,7 +72,7 @@
     {
       "id": 13,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "ไม่ใส่ครีมเทียมสินะ? ใส่ใจจังนะ..."
     },
@@ -95,14 +95,14 @@
     {
       "id": 17,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "ยัง... ขอดูหน่อยสิ"
     },
     {
       "id": 18,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "เมื่อกี้ฉันเพิ่งเคลียร์งานสองอย่างเสร็จในรวดเดียว เพราะงั้น... ถ้าจัดการอีกอย่างตอนเช้ามืดกับตอนรุ่งสางได้ ฉันก็น่าจะได้พักบ้างแหละ"
     },
@@ -115,7 +115,7 @@
     {
       "id": 20,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "เอาน่า... ฉันต้องขยันทำงานจะได้เงินเยอะๆ ไง อีกอย่าง ก็มีหมอนั่นที่ทำงานล่วงเวลาทุกวันเหมือนกันไม่ใช่เหรอ?"
     },
@@ -140,7 +140,7 @@
     {
       "id": 25,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "ถ้าฉันอยากจะสร้างเครื่องจักรที่ Tres ยอมรับล่ะก็... มันต้องใช้เงินมหาศาลเลยล่ะ"
     },
@@ -153,14 +153,14 @@
     {
       "id": 27,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "แน่นอนอยู่แล้วสิเพื่อน~ จะให้ฉันติดอยู่ในเวิร์กชอปเฮงซวยนี่ไปจนตายได้ยังไงกันล่ะ"
     },
     {
       "id": 28,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Rosespanner Workshop",
       "content": "ฉันต้องสร้างผลิตภัณฑ์ของตัวเอง แล้วยืนหยัดด้วยขาของตัวเองให้ได้ จริงไหมล่ะ?"
     },

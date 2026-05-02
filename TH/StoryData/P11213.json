@@ -3,21 +3,21 @@
     {
       "id": 0,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "บอส... ที่การประชุมสุดยอดของ Thumb งั้นเหรอ? ...เหอะ"
     },
     {
       "id": 1,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "รับทราบ... ขอบใจที่เตือนนะ"
     },
     {
       "id": 2,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ฉันจะเอาชื่อของนายลงหลุมไปด้วยเลย ถึงแม้ว่าสุดท้ายเราจะโดน Purge ก็ตาม"
     },
@@ -28,14 +28,14 @@
     {
       "id": 4,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "*พ่น* ฉันบอกเขาแล้วว่าให้ระวังปากไว้หน่อย เพราะ Sottocapo ของ Thumb จะมาร่วมประชุมด้วย"
     },
     {
       "id": 5,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "แต่สุดท้ายเขาก็ทำจนได้... แถมยังพังพินาศได้แบบอลังการงานสร้างสุดๆ อีกต่างหาก"
     },
@@ -50,28 +50,28 @@
     {
       "id": 8,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ถ้า Famiglia Laterano กับ Kurokumo Clan ถอนตัวออกไป Thumb ก็คงเล็งพื้นที่แถวนี้ไว้แล้วล่ะ"
     },
     {
       "id": 9,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "แต่ Sette Famiglie ไม่น่าจะถูกไล่ที่หรอก... ซึ่งนั่นหมายความว่าสมาชิกระดับนำอย่าง Syndicates ยังคงได้ส่วนแบ่งของพวกเขาอยู่"
     },
     {
       "id": 10,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "พวกบริษัทลูกอย่างเรานี่แหละที่ต้องทำงานหลังขดหลังแข็ง... *พ่นลมหายใจ* เพื่อให้ Thumb เข้ามาชุบมือเปิบยึดพื้นที่ไป"
     },
     {
       "id": 11,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ส่วนบอสเลือดร้อนของเรา... สงสัยคงอดใจไม่ไหวที่จะถามว่า <i>ทำไม</i> เราถึงต้องถอนตัวออกไปมือเปล่า"
     },
@@ -94,28 +94,28 @@
     {
       "id": 16,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "*พ่นควัน* เขาหวังจะเปลี่ยนอะไรได้จากการตั้งคำถามถึงเจตนาของ Padrino กันนะ?"
     },
     {
       "id": 17,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "แค่พูดจาไม่ระวังนิดเดียว... จู่ๆ พวกเราก็ถูกแต้มสีแดงเพื่อเตรียมโดน Purge ซะงั้น"
     },
     {
       "id": 18,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ไม่อยากจะเชื่อเลยว่าความรู้สึกไม่สบายใจแบบเดียวกับตอนที่พวกเรายังเป็น Enforcers of the Purge... กำลังจะเกิดขึ้นจริงๆ อีกครั้ง"
     },
     {
       "id": 19,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "มีใครอยู่ข้างนอกไหม?"
     },
@@ -128,14 +128,14 @@
     {
       "id": 21,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ส่งลูกน้องที่เหลือขึ้นมาที่ห้องทำงานฉัน"
     },
     {
       "id": 22,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "แล้วก็... บอกสิ่งที่ฉันกำลังจะพูดให้พวกนั้นรู้ด้วย อย่าตกหล่นแม้แต่คำเดียวล่ะ"
     },
@@ -154,14 +154,14 @@
     {
       "id": 26,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "มากันครบแล้วใช่ไหม?"
     },
     {
       "id": 27,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "พวกเธอคงได้ยินเรื่องที่เกิดขึ้น... ที่การประชุม Thumb แล้วสินะ"
     },
@@ -202,28 +202,28 @@
     {
       "id": 34,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "คิดไปก็ไม่มีประโยชน์หรอกว่าถ้าเป็นอย่างนั้นอย่างนี้จะเป็นยังไง"
     },
     {
       "id": 35,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ปฏิเสธไม่ได้หรอกว่าความมุทะลุของเขานั่นแหละ ที่ช่วยให้พวกเราขยายอำนาจมาได้ไกลขนาดนี้"
     },
     {
       "id": 36,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ส่วนฉัน... ฉันชอบออกไปลุยในสนาม ได้ปะทะบ้าง บอสอาจจะใจร้อนเป็นบ้า... แต่ให้ตายเถอะ เขารู้วิธีทำให้ธุรกิจของพวกเราเดินหน้าต่อไปได้จริงๆ"
     },
     {
       "id": 37,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "*พ่นควัน* ตอนนี้เราต้องคิดหาวิธีเอาตัวรอดก่อน เรื่องจะถ่มน้ำลายรดหลุมศพบอสน่ะ ไว้รอให้พวกเรารอดตายก่อนค่อยทำก็ยังไม่สาย"
     },
@@ -244,7 +244,7 @@
     {
       "id": 41,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "...พอจะมีความคิดไหมว่าจากตรงนี้เราจะไปไหนกันต่อดี?"
     },
@@ -269,28 +269,28 @@
     {
       "id": 45,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ก็ไม่เลวนะ..."
     },
     {
       "id": 46,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "แต่คำถามคือ เราจะไปที่นั่นได้ยังไงล่ะ?"
     },
     {
       "id": 47,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ทั้ง Nest และ Backstreets ของ L Corp... กลายเป็นขุมนรกที่พวกสวะทุกรูปแบบแห่กันเข้ามานานแล้ว"
     },
     {
       "id": 48,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ทั้งบริษัทลูกของ Thumb อย่างพวกเรา, R Corp, หรือแม้แต่ Liu Association ต่างก็กำลังรุมทึ้งที่นั่นเหมือนแร้งลงซากศพไม่มีผิด"
     },
@@ -309,14 +309,14 @@
     {
       "id": 51,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "Wing อาจจะ Collapse... แต่ก็อย่าลืมล่ะว่า Nest น่ะยังเป็นสิ่งที่ Sweepers เอื้อมไม่ถึง"
     },
     {
       "id": 52,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "การออกจาก Nest ของ L Corp. ก็เรื่องหนึ่ง แต่การหนีให้พ้นจากฝูง Sweepers ในสภาพที่เหนื่อยหอบจนแทบขาดใจเนี่ย มันคนละเรื่องกันเลย"
     },
@@ -355,7 +355,7 @@
     {
       "id": 60,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "... เราจะไปที่ Library"
     },
@@ -368,14 +368,14 @@
     {
       "id": 62,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "เปล่า มันวางอยู่บนโต๊ะของฉันแล้วตอนที่ฉันได้ยินเรื่องที่เกิดขึ้นกับ Boss..."
     },
     {
       "id": 63,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "... ราวกับว่าพวกเราถูกเรียกตัวไปที่นั่นเลยล่ะ"
     },
@@ -406,14 +406,14 @@
     {
       "id": 69,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "*สูดลมหายใจ* เลิกพิธีรีตองได้แล้ว เราลงเรือลำเดียวกัน—ตอนนี้ไม่มีเวลามานั่งสนกฎของ Thumb ระหว่างพวกเราหรอก"
     },
     {
       "id": 70,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "มีข้อเสนออะไรก็พูดมาได้เลย เราต้องการทุกไอเดียที่หาได้ถ้าอยากจะเพิ่มโอกาสรอดชีวิตให้มากขึ้น"
     },
@@ -438,28 +438,28 @@
     {
       "id": 74,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "... Index งั้นเหรอ"
     },
     {
       "id": 75,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ก็นะ ต้องเป็น Index อยู่แล้ว พอมาคิดดูแล้ว พวกนั้นก็ไปที่ Library เหมือนกัน"
     },
     {
       "id": 76,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "และถ้าข่าวลือนั่นเป็นเรื่องจริง... เราอาจจะหาข้อมูลสำคัญของ Index ใน Library ได้"
     },
     {
       "id": 77,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "หนังสือของ Index งั้นเหรอ แค่นั้นก็น่าจะคุ้มพอที่ Thumb จะยอมมองข้ามความโอหังของบอสเราได้แล้วล่ะ"
     },
@@ -472,14 +472,14 @@
     {
       "id": 79,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "เหลือเวลาอีกไม่มากก่อนที่เราจะถูก Purge จนไม่เหลือซาก ใครที่คิดจะถอนตัว ก็รีบทำตอนนี้เลย"
     },
     {
       "id": 80,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ฉัน... ฉันจะลงชื่อใน Invitation ครับ"
     },
@@ -518,21 +518,21 @@
     {
       "id": 87,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "...ออกเดินทางกันเถอะ"
     },
     {
       "id": 88,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ฉันนึกว่าข่าวลือจะพูดเกินจริงซะอีก..."
     },
     {
       "id": 89,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "สงสัยจะมีเหตุผลที่เขาเรียกที่นี่ว่า <i>the</i> Library สินะ ไม่คิดเลยว่ามันจะใหญ่โตขนาดนี้"
     },
@@ -551,21 +551,21 @@
     {
       "id": 92,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "*พ่นควัน* พอถึงวัยหนึ่งแล้ว ก็ไม่มีอะไรทำให้ตกใจได้ง่ายๆ อีกละนะ"
     },
     {
       "id": 93,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ไม่นึกเลยว่า Fixer ในเครื่องแบบของ Shi Association ส่วนใต้ จะโชว์วิชาดาบของ Kurokumo แบบนี้..."
     },
     {
       "id": 94,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "...แล้วนั่นมันสไตล์การต่อสู้ของ R Corp งั้นเหรอ? ทำเอาฉันประหลาดใจเลยแฮะ"
     },
@@ -586,7 +586,7 @@
     {
       "id": 98,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ไม่มีช่องว่างให้โจมตีเลยสักนิด..."
     },
@@ -603,21 +603,21 @@
     {
       "id": 101,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ไม่เป็นไรเลยสักนิด"
     },
     {
       "id": 102,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "นึกว่าเราจะพอมีลุ้นบ้างแล้วเชียว ตอนที่จัดการ Index Proselyte ที่ใช้เปลวไฟของ Liu Association ได้..."
     },
     {
       "id": 103,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "*ถอนหายใจ* เหลือพวกเราที่ยังยืนไหวอยู่กี่คน?"
     },
@@ -642,28 +642,28 @@
     {
       "id": 107,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "......."
     },
     {
       "id": 108,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ไอ้พวกบ้านี่... ไม่ใช่สัตว์ประหลาดหรอก"
     },
     {
       "id": 109,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "พวกมันก็เป็นมนุษย์เหมือนกับเรา มนุษย์ที่กลัวความตายเหมือนกันนั่นแหละ"
     },
     {
       "id": 110,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "มันต้องมีจุดอ่อนสักที่สองที่ให้เราโจมตีได้แน่"
     },
@@ -706,7 +706,7 @@
     {
       "id": 119,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "......."
     },
@@ -723,14 +723,14 @@
     {
       "id": 122,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "เร็วเกินไปงั้นเหรอ... เออ ก็นะ มันยังเร็วเกินไปที่จะยอมแพ้เหมือนกัน"
     },
     {
       "id": 123,
       "model": "그레고르",
-      "teller": "เกรกอร์",
+      "teller": "Gregor",
       "title": "Night Awls Capitano",
       "content": "ฉันไม่ได้ดั้นด้นมาไกลขนาดนี้... เพื่อมาตาย... *พ่นควัน* เหมือนหมาข้างถนนหรอกนะ"
     },

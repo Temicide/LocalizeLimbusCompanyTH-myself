@@ -4,7 +4,7 @@
       "id": 1,
       "personalityid": 11101,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "ชัยชนะอยู่ในกำมือเราแล้วครับ กลยุทธ์ของท่านช่างน่าเลื่อมใสยิ่งนัก",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "personalityid": 11101,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "สถานการณ์กำลังเป็นใจให้เรา โปรดปล่อยให้เป็นหน้าที่ของข้าพเจ้าเถิดครับ",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "personalityid": 11101,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "หากท่านเลือกส่งข้าพเจ้าไป ข้าพเจ้าจะไม่ทำให้ท่านต้องผิดหวังอย่างแน่นอนครับ",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "personalityid": 11101,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "แม้แผนการจะดูรัดกุมดี แต่ข้าพเจ้าเกรงว่าความสามารถของข้าพเจ้าอาจจะยังไม่เพียงพอสำหรับงานนี้ครับ",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "personalityid": 11101,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "ใครมันเป็นคนคิดแผนเฮงซวยแบ— อ่า... เมื่อครู่เป็นมุกตลกใช่ไหมครับ?",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "personalityid": 11101,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "ชัยชนะในครั้งนี้เกิดขึ้นได้เพราะการวางแผนอันยอดเยี่ยมของท่านเพียงผู้เดียวครับ",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "personalityid": 11101,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "เป็นความผิดของข้าพเจ้าเอง...",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "personalityid": 11102,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "personalityid": 11102,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
@@ -76,7 +76,7 @@
       "id": 10,
       "personalityid": 11102,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
@@ -84,7 +84,7 @@
       "id": 11,
       "personalityid": 11102,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
@@ -92,7 +92,7 @@
       "id": 12,
       "personalityid": 11102,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
@@ -100,7 +100,7 @@
       "id": 13,
       "personalityid": 11102,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
@@ -108,7 +108,7 @@
       "id": 14,
       "personalityid": 11102,
       "voiceFile": 0,
-      "teller": "อูทิส",
+      "teller": "Outis",
       "dialog": "",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     }

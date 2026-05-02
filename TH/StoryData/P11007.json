@@ -15,7 +15,7 @@
     {
       "id": 3,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "……."
     },
@@ -26,14 +26,14 @@
     {
       "id": 5,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "อื้ม... ไหนดูซิ..."
     },
     {
       "id": 6,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "ถ้าแนวเชื่อมตรงนี้ใหญ่เกินไป จะส่งผลกระทบต่อระบบอิเล็กทรอนิกส์... เขาบอกผมแบบนั้น... ต-ต้องทำให้มันน้อยที่สุดไว้ก่อน..."
     },
@@ -44,7 +44,7 @@
     {
       "id": 8,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "ฟู่... แล้วก็... ขั้นตอนต่อไปต้องทำอะไรนะ?"
     },
@@ -59,7 +59,7 @@
     {
       "id": 11,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "ใช่แล้ว... ทีนี้ก็ถึงขั้นตอนเชื่อมต่อวงจร..."
     },
@@ -78,7 +78,7 @@
     {
       "id": 15,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "แค่ก... ฟู่ แล้วตอนนี้ก็..."
     },
@@ -101,7 +101,7 @@
     {
       "id": 20,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "อึก! โธ่เอ๊ย... ทำไมกัน... มันไม่มีเหตุผลเลยที่มันจะใช้งานไม่ได้..."
     },
@@ -116,7 +116,7 @@
     {
       "id": 23,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "ไม่เป็นไร... ลอง... ลองใหม่อีกครั้งเถอะ"
     },
@@ -151,7 +151,7 @@
     {
       "id": 31,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "...อา ต้องเป็นแบบนี้แน่ๆ!"
     },
@@ -170,7 +170,7 @@
     {
       "id": 35,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "...นั่นแหละ!"
     },
@@ -181,7 +181,7 @@
     {
       "id": 37,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "เยี่ยมเลย! พรุ่งนี้ตอนออกล่าจะลองเอาไปทดสอบดู..."
     },
@@ -192,7 +192,7 @@
     {
       "id": 39,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "อืม... มันก็ใช้งานได้ล่ะมั้ง แต่ยังไม่ค่อยโดนเท่าไหร่..."
     },
@@ -207,7 +207,7 @@
     {
       "id": 42,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Molar Boatworks",
       "content": "หรือว่าอัตราทดเกียร์ตรงส่วนที่โซ่เชื่อมต่อจะผิดพลาด... เอาเถอะ ไว้กลับไปแล้วจะลองถามดูแล้วกัน"
     },

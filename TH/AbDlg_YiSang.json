@@ -60,7 +60,7 @@
       "id": 8,
       "personalityid": 10101,
       "voicefile": 0,
-      "teller": "อีซัง",
+      "teller": "Yi Sang",
       "dialog": "หากเป็นเช่นนี้ต่อไป ความล้มเหลวคงเป็นเพียงเรื่องเหนือความคาดหมาย",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "personalityid": 10101,
       "voicefile": 0,
-      "teller": "อีซัง",
+      "teller": "Yi Sang",
       "dialog": "ข้าเชื่อว่าข้ามีโอกาสประสบความสำเร็จอยู่ไม่น้อย",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
@@ -76,7 +76,7 @@
       "id": 10,
       "personalityid": 10101,
       "voicefile": 0,
-      "teller": "อีซัง",
+      "teller": "Yi Sang",
       "dialog": "หากท่านคะเนว่าสิ่งนั้นจะเป็นไปได้ บางทีมันอาจจะเป็นไปได้",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
@@ -84,7 +84,7 @@
       "id": 11,
       "personalityid": 10101,
       "voicefile": 0,
-      "teller": "อีซัง",
+      "teller": "Yi Sang",
       "dialog": "ท่านจะยอมจำนนต่อผลลัพธ์ที่ไม่น่าพึงใจงั้นหรือ?",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
@@ -92,7 +92,7 @@
       "id": 12,
       "personalityid": 10101,
       "voicefile": 0,
-      "teller": "อีซัง",
+      "teller": "Yi Sang",
       "dialog": "ข้ารู้สึกว่านี่จะเป็นเรื่องที่เปล่าประโยชน์",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
@@ -100,7 +100,7 @@
       "id": 13,
       "personalityid": 10101,
       "voicefile": 0,
-      "teller": "อีซัง",
+      "teller": "Yi Sang",
       "dialog": "ข้าได้รับความรื่นรมย์กลับมา",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
@@ -108,7 +108,7 @@
       "id": 14,
       "personalityid": 10101,
       "voicefile": 0,
-      "teller": "อีซัง",
+      "teller": "Yi Sang",
       "dialog": "มนุษย์ย่อมต้องเผชิญกับความสิ้นหวัง",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     }

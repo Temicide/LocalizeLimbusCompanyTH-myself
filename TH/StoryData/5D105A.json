@@ -78,21 +78,21 @@
     {
       "id": 14,
       "model": "퀴케그",
-      "teller": "ควีเควก",
+      "teller": "Queequeg",
       "title": "Pequod Town",
       "content": "สีผมของเจ้า ข้าจำได้ไม่ลืม"
     },
     {
       "id": 15,
       "model": "퀴케그",
-      "teller": "ควีเควก",
+      "teller": "Queequeg",
       "title": "Pequod Town",
       "content": "ชื่อของเจ้า ข้ารู้จักดี"
     },
     {
       "id": 16,
       "model": "퀴케그",
-      "teller": "ควีเควก",
+      "teller": "Queequeg",
       "title": "Pequod Town",
       "content": "แต่ห้ามทำร้าย Captain"
     },
@@ -104,7 +104,7 @@
     {
       "id": 18,
       "model": "퀴케그",
-      "teller": "ควีเควก",
+      "teller": "Queequeg",
       "title": "Pequod Town",
       "content": "ถ้าเจ้าทำร้าย Captain อีก ข้าจะจัดการเจ้าเอง"
     },

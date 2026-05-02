@@ -30,7 +30,7 @@
     {
       "id": 5,
       "model": "앵두",
-      "teller": "เองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "เขาคือ..."
     },
@@ -42,7 +42,7 @@
     {
       "id": 7,
       "model": "앵두",
-      "teller": "เองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "งั้นก็...!"
     },
@@ -53,7 +53,7 @@
     {
       "id": 9,
       "model": "앵두",
-      "teller": "เองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "แกคงจะเป็น Captain ของ Kurokumo Clan สินะ!"
     },
@@ -67,7 +67,7 @@
     {
       "id": 11,
       "model": "앵두",
-      "teller": "แองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "อยากจะล่าพวก Blade Lineage นักงั้นเหรอ? ก็ได้ ฉันยืนอยู่ตรงนี้แล้วไง! เข้ามาเผชิญหน้ากับคมดาบของฉันซะ!"
     },
@@ -102,14 +102,14 @@
     {
       "id": 16,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "ฉันชื่อจุน เป็น Captain ของพวกเด็ก ๆ ที่พวกแกเพิ่งฆ่าไป"
     },
     {
       "id": 17,
       "model": "앵두",
-      "teller": "แองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "...แองดู Salsu แห่ง Blade Lineage ผู้ติดตามของท่านอาจารย์ Bamboo-hatted Kim"
     },
@@ -124,7 +124,7 @@
     {
       "id": 20,
       "model": "앵두",
-      "teller": "แองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "ฮ่า!"
     },
@@ -139,14 +139,14 @@
     {
       "id": 23,
       "model": "앵두",
-      "teller": "แองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "... อึก"
     },
     {
       "id": 24,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "เฮ้ย แค่นี้เองเหรอ?! หะ?!"
     },
@@ -209,14 +209,14 @@
     {
       "id": 35,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "หัวแกนี่เป็นนาฬิกาที่เสียงดังชะมัด มันคืออะไรกันแน่? นี่เป็นแฟชั่นอวัยวะเทียมรูปนาฬิกาของพวก T Corp แถวนี้หรือไง?"
     },
     {
       "id": 36,
       "model": "시계쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "... มันคือนางฬิกาใช่ไหม? เฮ้ แกน่ะ นาฬิกาบนหัวนั่นบอกเวลาตรงหรือเปล่า?"
     },
@@ -228,7 +228,7 @@
     {
       "id": 38,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "หือ? งั้นแกจะตัดหัวตัวเองทิ้งเพื่ออะไรวะ? เป็นนาฬิกาที่ไร้ประโยชน์ชะมัด..."
     },
@@ -240,7 +240,7 @@
     {
       "id": 40,
       "model": "시계쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "โอเค งั้นพวกแกคนไหนมีเครื่องบอกเวลาบ้างไหม? นาฬิกาตั้งโต๊ะ... นาฬิกาข้อมือ... ใครก็ได้? นาฬิกาเฮงซวยของฉันมันพังอีกแล้ว"
     },
@@ -251,14 +251,14 @@
     {
       "id": 42,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "สงสัยจะไม่แฮะ พวกแกมีใครใส่ฬิกามาบ้างหรือเปล่าเนี่ย?"
     },
     {
       "id": 43,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "พวกแกต้องบ้าไปแล้วแน่ ๆ เดินทอดน่องไปมาโดยไม่มีนาฬิกาติดตัวเนี่ยนะ..."
     },
@@ -270,21 +270,21 @@
     {
       "id": 45,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "พวกแกนี่มันกวนประสาทชะมัด...!"
     },
     {
       "id": 46,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "รู้ไหม? พอละ ยังไงซะถ้าฉันปล่อยให้ใครเข้าไปข้างใน ฉันก็ซวยหนักอยู่ดี"
     },
     {
       "id": 47,
       "model": "쥰",
-      "teller": "จุน",
+      "teller": "Jun",
       "title": "Kurokumo Clan Captain",
       "content": "เข้ามาเลยสิ! ฉันจะฟันแกให้ยับ ต่อให้ต้องแลกด้วยชีวิตก็ตาม!"
     }

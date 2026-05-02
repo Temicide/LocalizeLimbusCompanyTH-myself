@@ -102,7 +102,7 @@
     },
     {
       "id": 22,
-      "teller": "มามัง",
+      "teller": "Maman",
       "title": "Kindred ลำดับที่ 3",
       "content": "...เมอร์โซ ฟังฉันนะ"
     },
@@ -117,7 +117,7 @@
     {
       "id": 25,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Fourth Kindred",
       "content": "……."
     },
@@ -131,109 +131,109 @@
     },
     {
       "id": 28,
-      "teller": "มามัง",
+      "teller": "Maman",
       "title": "Kindred ลำดับที่ 3",
       "content": "... เฮ้อ ในเวลาแบบนี้ ฉันเริ่มสงสัยแล้วว่าทำไมฉันถึงเข้าใจลูกของตัวเองได้น้อยเหลือเกิน"
     },
     {
       "id": 29,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "... โอ้ เจ้าชายผู้สูงศักดิ์"
     },
     {
       "id": 30,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Fourth Kindred",
       "content": "ท่านมีอะไรจะกล่าวหรือ เจ้าหญิง?"
     },
     {
       "id": 31,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "ตอนนี้เรากำลังยืนอยู่บนซากปรักหักพังชิ้นสุดท้ายของอาณาจักรเรา พวกที่ริษยาจนหน้าเขียวได้ปล้นชิงและกวาดล้างแผ่นดินของเราจนหมดสิ้น"
     },
     {
       "id": 32,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "ท่านคือเจ้าชายลำดับที่หนึ่ง โชคชะตาของมันจึงขึ้นอยู่กับมือของท่านเพียงผู้เดียว ดังนั้น—"
     },
     {
       "id": 33,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Fourth Kindred",
       "content": "ท่านกำลังแนะนำให้ผมหนีงั้นหรือ เจ้าหญิง?"
     },
     {
       "id": 34,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "แล้วฉันจะแนะนำทางเลือกอื่นอะไรได้อีกเล่า?"
     },
     {
       "id": 35,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Fourth Kindred",
       "content": "เจ้าชายผู้สูงศักดิ์ต้องยืนหยัดในจุดที่ตนอยู่ให้ถูกต้อง ไม่ว่าอะไรจะเกิดขึ้นก็ตาม เขาจะต้องต่อสู้จนถึงวาระสุดท้าย..."
     },
     {
       "id": 36,
-      "teller": "มามัง",
+      "teller": "Maman",
       "title": "Kindred ลำดับที่ 3",
       "content": "... เข้าใจแล้ว ถ้านั่นคือกฎของคุณ ฉันก็คิดว่าคงไม่มีคำพูดของใครหน้าไหนที่จะทำให้คุณเปลี่ยนใจจากตรงนี้ได้"
     },
     {
       "id": 37,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "ขออนุญาตเปลี่ยนคำพูดใหม่นะคะ เจ้าชายผู้สูงศักดิ์"
     },
     {
       "id": 38,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "ท่านทราบกฎดีใช่ไหมคะ ว่าการเดินขบวนนี้จะต้องไม่มีวันหยุดนิ่ง"
     },
     {
       "id": 39,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Fourth Kindred",
       "content": "ถูกต้องค่ะ เพราะนี่คือ Carnival อันได้รับพรชั่วนิรันดร์ที่ไม่มีวันสิ้นสุด"
     },
     {
       "id": 40,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "เจ้าชายของหม่อมฉัน ท่านคือทัพหน้าของขบวนนี้ หากท่านหยุดลง ท่านจะพรากความเป็นนิรันดร์ไปจากมัน"
     },
     {
       "id": 41,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "ดังนั้น หม่อมฉันขอวิงวอนให้ท่านก้าวเดินต่อไปเถิด เจ้าชายที่รัก จงเดินข้ามซากปรักหักพังของอาณาจักรนี้และมุ่งหน้าต่อไป—เพื่อก่อตั้งอาณาจักรแห่งใหม่ ที่จะถูกเกิดใหม่และเขียนขึ้นด้วยน้ำมือของท่านเอง"
     },
     {
       "id": 42,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Fourth Kindred",
       "content": "... หมายความว่า...?"
     },
     {
       "id": 43,
-      "teller": "เจ้าหญิง",
+      "teller": "The Princess",
       "title": "La Manchaland",
       "content": "จงขึ้นเป็นราชาเถิด เจ้าชายของหม่อมฉัน"
     },
     {
       "id": 44,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Fourth Kindred",
       "content": "... หากนั่นคือความประสงค์ของท่าน เจ้าหญิงผู้เลอโฉมและปรีชาสามารถที่สุดในอาณาจักร ถ้าเช่นนั้น..."
     },
@@ -247,7 +247,7 @@
     },
     {
       "id": 47,
-      "teller": "มามัง",
+      "teller": "Maman",
       "title": "Kindred ลำดับที่ 3",
       "content": "... จงมีชีวิตอยู่"
     },
@@ -264,7 +264,7 @@
     {
       "id": 50,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "... อืม"
     },
@@ -275,7 +275,7 @@
     {
       "id": 52,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "รายงานมา"
     },
@@ -294,7 +294,7 @@
     {
       "id": 55,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "อืม"
     },
@@ -305,7 +305,7 @@
     {
       "id": 57,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "เราได้ Bloodbags ใหม่มาเท่าไหร่แล้ว?"
     },
@@ -324,7 +324,7 @@
     {
       "id": 60,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "ทำได้ดีมาก ฉันขอชมเชยในความพยายามของเธอ"
     },
@@ -375,21 +375,21 @@
     {
       "id": 71,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "เจ้าไม่จำเป็นต้องกลัว"
     },
     {
       "id": 72,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "เพราะครั้งหนึ่ง ข้าก็เคยเป็นมนุษย์"
     },
     {
       "id": 73,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "หืม แต่ถ้าพิจารณาจากมาตรฐานของ The City ว่าอะไรคือมนุษย์และอะไรไม่ใช่ ฉันก็ยังจัดอยู่ในประเภทแรก ดังนั้น หากปรับเกณฑ์การแบ่งเป็น \"ก่อนที่ลักษณะของ Bloodfiend จะปรากฏ\" และ \"หลังจากนั้น\"..."
     },
@@ -402,21 +402,21 @@
     {
       "id": 75,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "แต่สำหรับฉัน การมีอยู่ของมนุษย์และการมีอยู่ของเจ้าชาย..."
     },
     {
       "id": 76,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "...นั้นไม่ต่างกันเลย"
     },
     {
       "id": 77,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Kindred ลำดับที่ 3",
       "content": "ดังนั้น สิ่งเดียวกันนี้จะเกิดขึ้นกับเจ้าเช่นกัน"
     },

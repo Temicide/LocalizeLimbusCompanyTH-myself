@@ -15,7 +15,7 @@
     {
       "id": 3,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "อืม... ดูเหมือนจะเสียสมดุลไปนิดหน่อยนะ"
     },
@@ -45,7 +45,7 @@
     {
       "id": 9,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "จำเป็นต้องกางร่มคันนั้นไว้ในร่มด้วยหรือ? มันทำให้สีบนผลงานของฉันดูเพี้ยนไปหมด"
     },
@@ -67,14 +67,14 @@
     {
       "id": 13,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "...หึ ฉันไม่ปฏิเสธหรอก"
     },
     {
       "id": 14,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "แล้วอะไรนำพาเธอมาที่ห้องช่างตัดเสื้อล่ะ? ขบวนพาเหรดใกล้จะเริ่มแล้วไม่ใช่เหรอ?"
     },
@@ -88,7 +88,7 @@
     {
       "id": 16,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "โอเค แต่นั่นก็ยังไม่ใช่คำตอบของคำถามฉันอยู่ดี"
     },
@@ -102,7 +102,7 @@
     {
       "id": 18,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "ปัญหา?!"
     },
@@ -128,7 +128,7 @@
     {
       "id": 23,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "เป็นไปไม่ได้เด็ดขาด! ฉันวัดขนาดและตรวจสอบทุกเส้นด้ายที่ผ่านมือฉันอย่างละเอียด ยิ่งไม่ต้องพูดถึงว่าชุดของเธอน่ะ ฉันทุ่มเทให้แบบสุด—"
     },
@@ -149,7 +149,7 @@
     {
       "id": 26,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "อะไรนะ—"
     },
@@ -160,7 +160,7 @@
     {
       "id": 28,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "ม-มัน... จริงเหรอ? นี่เธอแอบอดอาหารมางั้นเหรอ...?"
     },
@@ -174,14 +174,14 @@
     {
       "id": 30,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "...เอาเถอะ มองในแง่ดี นี่อาจเป็นโอกาสที่จะช่วยปรับลุคชุดเดรสตัวนั้นให้ดูดีขึ้นก็ได้"
     },
     {
       "id": 31,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "แต่ฉันกังวลว่าใบหน้าอันงดงามของเธอจะซูบผอมลงนะ"
     },
@@ -202,14 +202,14 @@
     {
       "id": 34,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "...ฉันคิดว่าเรื่องนั้นพอจะทำได้นะ"
     },
     {
       "id": 35,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "ฉันเห็นด้วยว่ามันเริ่มจะประทังชีวิตด้วยแท่งเลือดได้ยากขึ้นเรื่อยๆ โดยเฉพาะหลังจาก... มื้ออาหารล่าสุดของเรา"
     },
@@ -228,14 +228,14 @@
     {
       "id": 39,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "ฉันเคยทึกทักเอาเองมาตลอดว่าพวกเราถูกสาปให้ดูน่าเกลียดถ้าไม่มีหน้ากาก... ดูเหมือนว่าฉันจะคิดผิด"
     },
     {
       "id": 40,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "เรื่องรสชาตินี่ก็ส่วนหนึ่ง แต่... ฉันแทบไม่เชื่อเลยว่าพวกเราทนอยู่ได้ยังไงตั้งนานโดยไม่มีอาหารดีๆ ทาน"
     },
@@ -256,7 +256,7 @@
     {
       "id": 43,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "เหอะ เพราะงั้นตอนนี้กรรไกรนี่ถึงได้ใช้งานได้ดีสุดๆ ไงล่ะ"
     },
@@ -271,14 +271,14 @@
     {
       "id": 46,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "ฉันไม่คิดว่า... ท่านพ่อจะกลับมาในเร็วๆ นี้หรอกนะ"
     },
     {
       "id": 47,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "จากการผจญภัยครั้งนั้น... เพื่อแย่งชิงหางเสือ"
     },
@@ -299,7 +299,7 @@
     {
       "id": 50,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "...อย่างน้อยก็ในตอนนี้ ใช่"
     },
@@ -313,7 +313,7 @@
     {
       "id": 52,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "The Barber of La Manchaland",
       "content": "……."
     },

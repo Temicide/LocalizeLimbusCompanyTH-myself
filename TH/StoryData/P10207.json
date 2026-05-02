@@ -3,322 +3,322 @@
     {
       "id": 0,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เริ่มต้นการบันทึกเสียง"
     },
     {
       "id": 1,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "นี่คือ Agent เฟาสท์ ตำแหน่ง Control Team Captain กำลังบันทึกรายงานการทำงานของวันนี้"
     },
     {
       "id": 2,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ตำแหน่งปัจจุบันของฉันคือ... สำนักงานใหญ่ Lobotomy Corporation ชั้นบน แผนก Control Team"
     },
     {
       "id": 3,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เป็นเวลา 9 วันแล้วนับตั้งแต่ Manager เริ่มงานวันแรก และผ่านไป 3 วันหลังจากที่แผนก Information Team เปิดทำการ"
     },
     {
       "id": 4,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เหล่า Clerk เกือบทั้งหมดมาพร้อมกันแล้ว... ค่อนข้างวุ่นวายทีเดียว"
     },
     {
       "id": 5,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "การบันทึกเสียงนี้จะดำเนินต่อเมื่อเริ่มงานบริหารจัดการ ขอระงับการบันทึกไว้ชั่วคราว"
     },
     {
       "id": 6,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "... กลับมาบันทึกเสียงต่อ"
     },
     {
       "id": 7,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ขณะนี้ฉัน... กำลังมุ่งหน้าไปอบรมพนักงานใหม่"
     },
     {
       "id": 8,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "นอกจากนี้ Manager ยังมีคำสั่งให้ฉันรับหน้าที่ดูแล Abnormality ตัวใหม่ที่ได้รับมาเมื่อวาน ดูเหมือนว่าบุคลากรที่เพิ่งประจำการใน Control Team จะเสียชีวิตลงแล้ว"
     },
     {
       "id": 9,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ดูเหมือนว่าเราจะจ้างพนักงานใหม่มาเพิ่ม..."
     },
     {
       "id": 10,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "โอ๊ะ ขออภัยด้วย... (เสียงขยับสิ่งของ)"
     },
     {
       "id": 11,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "สวัสดี เจคอบ มีอะไรหรือเปล่า? เห็นคุณยืนลังเลอยู่หน้าหน่วยกักกัน"
     },
     {
       "id": 12,
       "model": "제이콥",
-      "teller": "เจคอบ",
+      "teller": "Jacob",
       "title": "Agent ระดับ 1",
       "content": "อ๊ะ หัวหน้าทีม เฟาสท์... ค-คือว่า นี่เป็นภารกิจแรกของผม แล้วผมก็... รู้สึกกลัวนิดหน่อยครับ..."
     },
     {
       "id": 13,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ไม่มีเหตุให้ต้องกังวลหรอก เจคอบ Abnormality ที่ได้รับมอบหมายให้คุณดูแล น่าจะเป็น Abnormality ที่ปลอดภัยที่สุดในที่แห่งนี้แล้ว"
     },
     {
       "id": 14,
       "model": "제이콥",
-      "teller": "เจคอบ",
+      "teller": "Jacob",
       "title": "Agent ระดับ 1",
       "content": "แต่ว่า... ดูชื่อของมันตรงนี้สิครับ... มันฟังดูน่ากลัวมากเลยนะ..."
     },
     {
       "id": 15,
       "model": "제이콥",
-      "teller": "เจคอบ",
+      "teller": "Jacob",
       "title": "Agent ระดับ 1",
       "content": "One Sin and Hundreds of Good Deeds..."
     },
     {
       "id": 16,
       "model": "제이콥",
-      "teller": "เจคอบ",
+      "teller": "Jacob",
       "title": "Agent ระดับ 1",
       "content": "หัวหน้าทีมครับ! ถ-ถ้าผมโชคร้ายแล้วมันตัดสินใจทำบาปหนึ่งประการนั่นใส่ผมขึ้นมาล่ะ? ผ-ผมยังไม่... ผมยังไม่ได้..."
     },
     {
       "id": 17,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ทำใจให้สบายเถอะ นั่นไม่ใช่พฤติกรรมของ Abnormality ตนนี้"
     },
     {
       "id": 18,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "อ่านรายละเอียดของ Abnormality ให้ถี่ถ้วน แล้วดำเนินการ Work ประเภท Insight หรือ Attachment เสีย แล้วจะไม่มีอะไรเกิดขึ้นทั้งนั้น"
     },
     {
       "id": 19,
       "model": "제이콥",
-      "teller": "เจคอบ",
+      "teller": "Jacob",
       "title": "Agent ระดับ 1",
       "content": "จ-จริงเหรอครับ...?"
     },
     {
       "id": 20,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เฟาสท์ ไม่พูดโกหก"
     },
     {
       "id": 21,
       "model": "제이콥",
-      "teller": "เจคอบ",
+      "teller": "Jacob",
       "title": "Agent ระดับ 1",
       "content": "ต-ตกลงครับ ขอบคุณมากครับหัวหน้าทีม"
     },
     {
       "id": 22,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "...พวกเราเริ่มจะล่าช้ากว่ากำหนดการเล็กน้อยแล้ว เจคอบเป็นหนึ่งในพนักงานใหม่ที่เพิ่งถูกรับเข้ามาใน Control Team ดูเหมือนว่าเขาจะตื่นตระหนกเกินกว่าเหตุเพียงเพราะคำอธิบายสั้นๆ ของ Abnormality"
     },
     {
       "id": 23,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ฉันคิดว่านี่ก็เป็นส่วนหนึ่งในหน้าที่ของหัวหน้าทีม และฉันมั่นใจว่า Manager จะเข้าใจในเรื่องนี้"
     },
     {
       "id": 24,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ถ้าอย่างนั้น... ฉันจะบันทึกเสียงต่อเมื่อไปถึงหน้าห้องกักกันแล้ว"
     },
     {
       "id": 25,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ทดสอบ ทดสอบ เริ่มบันทึกเสียงต่อ"
     },
     {
       "id": 26,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "การมาถึงของฉันล่าช้ากว่าที่คาดการณ์ไว้ในตอนแรก... ฉันบังเอิญพบกับคุณ Malkuth และได้มีโอกาสแลกเปลี่ยนบทสนทนากับเธอเล็กน้อย"
     },
     {
       "id": 27,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เธอสอบถามเกี่ยวกับ Work ที่เราวางแผนไว้สำหรับวันนี้ ฉันจึงได้ทำการรายงานแบบปัจจุบันทันด่วนไป"
     },
     {
       "id": 28,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "แม้จะเป็นเรื่องที่คาดไม่ถึงที่เธอต้องการทราบเวลาเสร็จสิ้นที่แน่นอนไปจนถึงระดับวินาที แต่ฉันเชื่อว่าบันทึกข้อมูลที่มีอยู่ช่วยให้ฉันสามารถให้คำตอบที่น่าพึงพอใจแก่เธอได้"
     },
     {
       "id": 29,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "อย่างไรเสีย เธอก็เป็นถึง Sephirah ผู้รับผิดชอบดูแลแผนกทั้งแผนก ข้อเรียกร้องของเธอจึงไม่ใช่เรื่องที่ไร้เหตุผลเสียทีเดียว"
     },
     {
       "id": 30,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ต่อไป... นี่คือห้องกักกันของ T-01-54 หรือที่รู้จักกันในชื่อ Forsaken Murderer"
     },
     {
       "id": 31,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "อ้างอิงจากบันทึกก่อนหน้า... ตราบใดที่ผลลัพธ์ของ Work ออกมาดี ก็ไม่น่าจะมีอุปสรรคใดๆ ในการจัดการกับ Abnormality ตนนี้"
     },
     {
       "id": 32,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "หืม... (เสียงพลิกหน้ากระดาษ) บันทึกการทำงานระบุว่าพนักงานที่ได้รับมอบหมายให้ดูแล Abnormality ตนนี้ก่อนหน้า ได้ทำการทดลองแบบ Repression Works"
     },
     {
       "id": 33,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "... ซึ่งส่งผลให้เกิดการผลิต NE-Box มากเกินความจำเป็น ส่วนหัวของ Abnormality ได้เปลี่ยนรูปกลายเป็นสสารที่คล้ายกับโลหะ และมันใช้ส่วนนั้นบดขยี้พนักงานจนเสียชีวิต... หืม"
     },
     {
       "id": 34,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "คงมีไม่กี่คนนักที่จะเข้าใจกระบวนการที่ศีรษะของมนุษย์เปลี่ยนจากเนื้อหนังกลายเป็นโลหะ แต่ความลึกลับที่ไม่อาจหาคำอธิบายได้นั้น คือธรรมชาติของ Abnormalities"
     },
     {
       "id": 35,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "อย่างน้อยบันทึกนี้ก็ทำให้ฉันทราบว่า การหลีกเลี่ยง Repression Work กับ Abnormality ตนนี้เป็นทางเลือกที่เหมาะสมกว่า"
     },
     {
       "id": 36,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ต่อให้มีอะไรเกิดขึ้น... ฉันก็มี E.G.O Suit ที่มีพลังป้องกันความเสียหายประเภท RED ดังนั้นฉันจึงคาดการณ์ว่าคงไม่มีปัญหาอะไรเกิดขึ้น"
     },
     {
       "id": 37,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ฉันจะบันทึกข้อมูลนี้ต่อเมื่อ Work เสร็จสิ้นลง"
     },
     {
       "id": 38,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "... นี่คือ เฟาสท์"
     },
     {
       "id": 39,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "การดำเนิน Work ประสบความสำเร็จ"
     },
     {
       "id": 40,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "มีการตรวจพบว่า Abnormality พึมพำบางอย่างกับตัวเอง มันสั่นเทาด้วยความวิตกกังวลและไม่ยอมละสายตาไปจากพื้น การสื่อสารอย่างเหมาะสมจึงถูกประเมินว่าเป็นไปได้ยาก"
     },
     {
       "id": 41,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ดูเหมือนว่ามันจะค่อนข้างซูบผอม ฉันจึงลองทำ Instinct Work โดยการให้อาหารที่มนุษย์เห็นว่ามีประโยชน์แก่ตัวมัน"
     },
     {
       "id": 42,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ผลลัพธ์ที่ได้นั้นน่าพึงพอใจ ฉันจะบันทึกเอาไว้ว่า Instinct Work มีประสิทธิภาพสำหรับ Abnormality ตนนี้"
     },
     {
       "id": 43,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "แต่ว่า... ฉันยังไม่พบสัญญาณว่าส่วนหัวของมันจะกลายเป็นโลหะเลย และยังไม่เข้าใกล้การทำความเข้าใจกลไกเบื้องหลังปรากฏการณ์นั้นด้วย"
     },
     {
       "id": 44,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เมื่อพิจารณาว่าอาวุธ E.G.O ชิ้นนี้ถูกสกัดออกมาจาก Abnormality ตนดังกล่าว จึงเห็นได้ชัดว่าลักษณะเฉพาะของ Abnormality จะถูกถ่ายทอดมายังรูปร่างและคุณสมบัติพิเศษของอาวุธ E.G.O อย่างน้อยก็ในบางส่วน"
     },
     {
       "id": 45,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "อ่า เสียงไซเรน..."
     },
@@ -331,70 +331,70 @@
     {
       "id": 47,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "คำสั่งของ Manager ส่งมาถึงอุปกรณ์แล้ว ... ถึงเวลาของ Ordeals แล้วสินะ"
     },
     {
       "id": 48,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "พนักงานแต่ละคนจะได้รับอุปกรณ์ที่แสดงคำสั่งจาก Manager ในรูปแบบข้อความ เราต้องตรวจสอบอุปกรณ์บ่อยครั้งเนื่องจากมีคำสั่งส่งมาค่อนข้างถี่"
     },
     {
       "id": 49,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ฉันต้องไปช่วยพวกเขาทำการ Suppressing Ordeal นี้แล้ว"
     },
     {
       "id": 50,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "ฉันไม่ได้กังวลเป็นพิเศษ บางที Ordeal นี้อาจจะถูก Suppressed ก่อนที่ เฟาสท์ จะไปถึงที่นั่นด้วยซ้ำ"
     },
     {
       "id": 51,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "Manager ยังไม่รู้... แต่ Ordeal of Green Dawn นั้นถือว่าเล็กน้อยมากเมื่อเทียบกับสิ่งที่จะตามมาหลังจากนี้"
     },
     {
       "id": 52,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "... หืม ไม่สิ ฉันควรเงียบไว้ก่อน เพื่อไม่ให้เป็นการสร้างความสับสนแก่บุคคลอื่นที่จะมาฟังบันทึกนี้"
     },
     {
       "id": 53,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เฟาสท์... ตัดสินใจแล้วว่าจะดิ้นรน เพื่อเอาชีวิตรอดจาก Work ที่เหลืออีก 41 วันให้ได้"
     },
     {
       "id": 54,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "และเฟาสท์จะขอจบการรายงานไว้เพียงเท่านี้"
     },
     {
       "id": 55,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เอาละ ถ้าอย่างนั้น..."
     },
     {
       "id": 56,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Control Team Captain",
       "content": "เฟาสท์ ขอจบการบันทึก Voice Log"
     }

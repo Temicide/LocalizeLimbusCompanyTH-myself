@@ -3,28 +3,28 @@
     {
       "id": 0,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "ฮัลโหล~?"
     },
     {
       "id": 1,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Zwei Section 5",
       "content": "……."
     },
     {
       "id": 2,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "ฉันพูดกับนายอยู่นะ ฮีธคลิฟฟ์"
     },
     {
       "id": 3,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Zwei Section 5",
       "content": "...อะไร"
     },
@@ -43,42 +43,42 @@
     {
       "id": 7,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "นายนึกว่าทำตัวแบบนั้นแล้วจะไม่ดูน่าสงสัยจริงๆ เหรอเนี่ย?"
     },
     {
       "id": 8,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Zwei Section 5",
       "content": "...ตราบใดที่เธอไม่หยุดพล่ามกวนใจฉันก็พอ อะไร มีปัญหาหรือไง?"
     },
     {
       "id": 9,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "ใช่ มีปัญหาแน่ๆ สมัยนี้ยังมีใครเขาอ่านหนังสือพิมพ์พร้อมกันทั้งสองหน้าแบบนั้นอีกเหรอ?"
     },
     {
       "id": 10,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Zwei Section 5",
       "content": "...ชิ"
     },
     {
       "id": 11,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "ถ้าจะทำแบบนั้น อย่างน้อยก็เลิกแอบมองข้ามหน้ากระดาษซะทีเถอะนะ"
     },
     {
       "id": 12,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "เดี๋ยวก็ทำให้ VIP ของเราตกใจกลัวจนหนีไปหรอก เข้าใจไหม?"
     },
@@ -101,7 +101,7 @@
     {
       "id": 17,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "เฮ้อ... จะมีอะไรเกิดขึ้นบ้างไหมนะ? มัวแต่มาอืดอาดอยู่ตรงนี้เริ่มจะน่าเบื่อแล้วสิ"
     },
@@ -120,7 +120,7 @@
     {
       "id": 21,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "เฮ้อ... ฉันน่าจะเลือกงานอื่นนะ แต่ตอนอ่านในใบสมัครมันดูเท่มากเลยนี่นา..."
     },
@@ -131,14 +131,14 @@
     {
       "id": 23,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Zwei Section 5",
       "content": "...เดี๋ยวก่อน เขากำลังเคลื่อนไหวแล้ว"
     },
     {
       "id": 24,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "อะไรนะ? ตามแผนเขาต้องเดินเตร่แถวนี้อีกสักชั่วโมงหรือ... เฮ้ย!"
     },
@@ -149,14 +149,14 @@
     {
       "id": 26,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "วู้ววว~ ในที่สุดก็มีอะไรให้ทำสักที!"
     },
     {
       "id": 27,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Zwei Section 5",
       "content": "ให้ตายสิ พูดถึงผี ผีก็มาเลย..."
     },
@@ -213,7 +213,7 @@
     {
       "id": 37,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "เอาล่ะ ใจเย็นๆ ก่อน!"
     },
@@ -230,7 +230,7 @@
     {
       "id": 40,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "ใช่แล้ว~ ไม่ได้เจอกันเลยนะตั้งแต่เซ็นสัญญาเนี่ย จริงไหมล่ะ?"
     },
@@ -243,28 +243,28 @@
     {
       "id": 42,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "ฟังนะ ช่วยทำตามกิจวัตรเดิมที่เคยบอกพวกเราไว้หน่อยได้ไหม~?"
     },
     {
       "id": 43,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "มันไม่ง่ายเลยนะที่จะลอบติดตามคุณตอนที่คุณออกนอกเส้นทางปกติแบบนี้..."
     },
     {
       "id": 44,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "ช่างเถอะ! ตั้งแต่ตอนนี้เป็นต้นไป Zwei จะคอยปกป้องคุณเอง!"
     },
     {
       "id": 45,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "ฮีธ! ลากเจ้าคนหยาบคายคนนี้ออกไปจากที่นี่เดี๋ยวนี้เลย~!"
     },
@@ -275,7 +275,7 @@
     {
       "id": 47,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Zwei Section 5",
       "content": "เอาล่ะ ใครจะเป็นรายต่อไป? ออกมาได้แล้ว!"
     },

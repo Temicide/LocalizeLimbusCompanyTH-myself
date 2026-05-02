@@ -15,7 +15,7 @@
     {
       "id": 3,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ไอ้พวกสวะหน้าไม่อาย แอบย่องมาในความมืด คิดว่ามีปัญญาจะงัดกับพวกเราหรือไง?"
     },
@@ -44,14 +44,14 @@
     {
       "id": 9,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "เฮ้ย! คิดว่าฉันเป็นเป้านิ่งหรือไง เพียงเพราะยัย Mao Adept เพี้ยนๆ นั่นเคยชนะฉัน <i>ครั้งหนึ่ง</i>? เรื่องมันเป็นแบบนี้ใช่ไหม!"
     },
     {
       "id": 10,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "แกไม่มีสิทธิ์มาชิงการต่อสู้ไปจากพวกเราโว้ย! ไม่มีวันซะหรอก!"
     },
@@ -70,14 +70,14 @@
     {
       "id": 13,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "เออ ไปบอก Xianren ของพวกเราด้วยสิ ตาแก่นั่นบอกว่าพวกเราควรทำตัวให้เหมือนไก่ชน"
     },
     {
       "id": 14,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "บอกว่าเขาจะช่วยพูดกับท่านเจ้าเมืองให้ ว่าพวกเราควรรับภารกิจนี้ไปทำ"
     },
@@ -90,7 +90,7 @@
     {
       "id": 16,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ที่ฉัน \"หงุดหงิด\" ก็เพราะพวกแกได้สนุกกันหมด แล้วทิ้งให้พวกเรานั่งกระดิกนิ้วรอเนี่ยไง! ไอ้พวกสารเลว ไม่เหลือเศษอะไรไว้ให้พวกเรากินเลยสักนิด!"
     },
@@ -125,7 +125,7 @@
     {
       "id": 23,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "อะไรวะ? อยากจะลองดีกับฉันงั้นเหรอ?"
     },
@@ -152,7 +152,7 @@
     {
       "id": 28,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "จากท่านผู้นำเหรอ? ชิ... ทำเอาตื่นเต้นหมด นึกว่าจะโดนรุมสกรัมซะอีก"
     },
@@ -163,7 +163,7 @@
     {
       "id": 30,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "แล้วมัดไม้ไผ่พวกนั้นคืออะไร?"
     },
@@ -192,21 +192,21 @@
     {
       "id": 36,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ให้กำจัดพวกที่เหลือของ Jialan Guards งั้นเหรอ...?"
     },
     {
       "id": 37,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "...เฮ้ย แกมาถูกที่แน่หรือเปล่า? พวก Jialan Guards ที่พอจะสู้ได้น่ะ ไม่ยอมแพ้ก็โดนประหารไปหมดแล้ว!"
     },
     {
       "id": 38,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ท่านผู้นำส่งพวกเราที่เป็นไก่ชน มาทำงานจิปาถะอย่างการตามเก็บพวกที่หลงเหลือเนี่ยนะ? เอาจริงดิ? นี่เรากำลังพูดถึงท่านผู้นำคนเดียวกันอยู่ใช่ไหม?"
     },
@@ -219,7 +219,7 @@
     {
       "id": 40,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "……."
     },
@@ -254,7 +254,7 @@
     {
       "id": 47,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "...เฮ้ย เพื่อน ฉันบอกตอนไหนว่าไม่เอางานนี้วะ? ไปได้แล้วไป ถ้าแกกล้าแย่งการต่อสู้ครั้งนี้ไปจากพวกเราล่ะก็ ฉันจะฉีกร่างแกเป็นสองซีกด้วยมือตัวเองเลย คอยดูเถอะ จะฉีกตามแนวตั้งด้วย"
     },
@@ -279,21 +279,21 @@
     {
       "id": 52,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "หึ... ฮ่ะๆๆ...!!"
     },
     {
       "id": 53,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ฉันรู้อยู่แล้วว่านายท่านของฉันต้องมีอะไรพิเศษ เพราะขนาดหน้ากวนประสาทแบบนั้นยังไม่ทำให้ฉันโมโหเลย..."
     },
     {
       "id": 54,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "นี่เขา... ทำได้ยังไง... ถึงได้หา... การต่อสู้ที่ยอดเยี่ยมแบบนี้มาให้พวกเราได้ตลอดเลยนะ?"
     },
@@ -320,14 +320,14 @@
     {
       "id": 60,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "พวกลูกน้องหัวขนนกของฉันที่ถูกส่งไปทำภารกิจไกลๆ เห็นแล้วต้องอิจฉาจนตัวสั่นแน่ๆ ให้ตายสิ!"
     },
     {
       "id": 61,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "นี่แหละคือสิ่งที่ฉันต้องการ... พวกแกมีกันทั้งหมดเท่าไหร่กันแน่? ร้อย? พัน? หรือ... หมื่นคน?"
     },
@@ -340,21 +340,21 @@
     {
       "id": 63,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ใช่... ใช่เลย...! นี่แหละที่ฉันพูดถึง! นี่แหละคือเหตุผลที่ฉันยอมทนอยู่ใน Daguanyuan! คุ้มค่าจริงๆ ที่ยอมพลาดคืนหนึ่งใน Backstreets ไป!"
     },
     {
       "id": 64,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "เข้ามาเลยไอ้พวกสวะ! ฉันยังมีเรื่องให้ต้องระบายอีกเยอะ! พวกแกจะไปรู้อะไรเกี่ยวกับการเป็น Adept ที่ต้องยอมปล่อยให้พวกผู้หญิงแย่งสู้ไปหมดแบบฉัน!"
     },
     {
       "id": 65,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "Bloodtalons...! Conflagrate...!"
     },
@@ -433,42 +433,42 @@
     {
       "id": 84,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "เหอะ... ตลกชะมัด สรุปว่าเทคนิคดัดแปลงที่เราใช้อยู่นี่คือเวอร์ชันลดสเปกงั้นดิ?"
     },
     {
       "id": 85,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Heishou Pack - สาขา You",
       "content": "...Adept พูดบ้าอะไรของนายเนี่ย?"
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "หือ? อ่า... เออ ช่างมันเถอะ แล้วไอ้หมอนั่นที่เหลือหายไปไหนหมด? เมื่อกี้ยังเห็นมีตัวเยอะกว่านี้ตั้งเยอะ"
     },
     {
       "id": 87,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Heishou Pack - สาขา You",
       "content": "ไอ้สัตว์ประหลาดที่แบ่งตัวได้นั่นน่ะเหรอ? นายฆ่ามันตายเรียบแล้วล่ะ Adept"
     },
     {
       "id": 88,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ฉัน... ทำอะไรนะ...?"
     },
     {
       "id": 89,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Heishou Pack - สาขา You",
       "content": "โอเค สงสัยจะไม่จำ งั้นจำได้ไหมว่านายเริ่มโจมตีพวกเราเพราะคลั่งการต่อสู้ได้ยังไง?"
     },
@@ -479,35 +479,35 @@
     {
       "id": 91,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ก-ก็บอกแล้วไงพวกแก ว่าอย่าสะเออะเข้ามาในระยะของฉันตอนกำลังสู้กัน ฉันเตือนแล้วใช่ไหม?"
     },
     {
       "id": 92,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Heishou Pack - สาขา You",
       "content": "นายนั่นแหละที่เป็นฝ่ายวิ่งเข้ามาหาพวกเราแล้วเริ่มเปิดฉากสู้ก่อน Adept..."
     },
     {
       "id": 93,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "หุบปากไปเลย เอาตัวพวกนี้ไปส่งที่ร้านยา ฉันจะแบกไปสองคน ที่เหลือพวกนายจัดการซะ"
     },
     {
       "id": 94,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Heishou Pack - สาขา You",
       "content": "ครับผม..."
     },
     {
       "id": 95,
       "model": "히스클리프",
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "Heishou Pack - You Branch Adept",
       "content": "ต้องใช้ยา Boluses พวกนี้ให้คุ้มหน่อยแล้วว่าไหม? ให้ตายสิ นานๆ ทีจะได้ใช้ เพราะปกติไม่ตายก็ไม่ระคายผิวเลยหลังจบภารกิจ พวกนายนี่มันไม่มีคำว่าพอดีเลยจริงๆ ให้ตายเถอะ"
     }

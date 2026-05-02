@@ -4,42 +4,42 @@
       "id": 0,
       "place": "สำนักงาน L Corp.",
       "model": "김삿갓",
-      "teller": "คิมหมวกไม้ไผ่?",
+      "teller": "Bamboo-hatted Kim?",
       "title": "Blade Lineage?",
       "content": "……."
     },
     {
       "id": 1,
       "model": "앵두",
-      "teller": "เองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "... ท่านอาจารย์ นี่มันเรื่องอะไรกัน?"
     },
     {
       "id": 2,
       "model": "김삿갓",
-      "teller": "คิมหมวกไม้ไผ่?",
+      "teller": "Bamboo-hatted Kim?",
       "title": "Blade Lineage?",
       "content": "……."
     },
     {
       "id": 3,
       "model": "앵두",
-      "teller": "เองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "ข้าจำแผลพวกนี้ได้ นี่มันวิชาของท่าน...!"
     },
     {
       "id": 4,
       "model": "앵두",
-      "teller": "เองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "ท่าน... ท่านหันคมดาบใส่พวกพ้องของเราได้ยังไงกัน!!"
     },
     {
       "id": 5,
       "model": "김삿갓",
-      "teller": "คิมหมวกไม้ไผ่?",
+      "teller": "Bamboo-hatted Kim?",
       "title": "Blade Lineage งั้นเหรอ?",
       "content": "……."
     },
@@ -67,7 +67,7 @@
     {
       "id": 11,
       "model": "앵두",
-      "teller": "เองดู",
+      "teller": "Aeng-du",
       "title": "Blade Lineage",
       "content": "หยุดคำรามเหมือนสัตว์ป่าแล้วคุยกับฉันเถอะ! ได้โปรดพูดอะไรสั—"
     },
@@ -79,7 +79,7 @@
     {
       "id": 13,
       "model": "김삿갓",
-      "teller": "คิมหมวกไม้ไผ่?",
+      "teller": "Bamboo-hatted Kim?",
       "title": "Blade Lineage งั้นเหรอ?",
       "content": "...!"
     },

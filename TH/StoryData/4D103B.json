@@ -14,14 +14,14 @@
     {
       "id": 2,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "อะแฮ่ม..."
     },
     {
       "id": 3,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "ยองจี... นี่มันคืออะไรกัน?"
     },
@@ -43,7 +43,7 @@
     {
       "id": 7,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "นี่นาย... ชุบชีวิตมันขึ้นมางั้นเหรอ? ฉันนึกว่าเทคโนโลยีแบบนั้นเป็นเรื่องต้องห้ามตามสนธิสัญญาของ The Head ซะอีก..."
     },
@@ -111,21 +111,21 @@
     {
       "id": 19,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "นั่นไม่ใช่ความหมายและเสน่ห์ของการประชุมเหล่านักประดิษฐ์ที่ League ของเราเคยมีหรอกเหรอ?"
     },
     {
       "id": 20,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "แต่สิ่งนี้... สำหรับฉันแล้ว มันดูไม่เหมือนแค่งานอดิเรกธรรมดา ๆ เลยนะ"
     },
     {
       "id": 21,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "เธอยัง... ไม่ลืมเรื่องที่เกิดขึ้นตอนนั้นอีกเหรอ..."
     },

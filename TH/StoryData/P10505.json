@@ -10,7 +10,7 @@
     {
       "id": 1,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "กำลังดำเนินการอยู่ครับ จะเสร็จภายในอีกประมาณสามชั่วโมง"
     },
@@ -24,7 +24,7 @@
     {
       "id": 3,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "วางไว้บนกองเอกสารชุดที่สามนับจากทางขวาครับ"
     },
@@ -43,7 +43,7 @@
     {
       "id": 7,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "สวัสดีครับ ผมเมอร์โซจาก Rosespanner Workshop Office มีเรื่องจะปรึกษาด้วยครับ..."
     },
@@ -54,7 +54,7 @@
     {
       "id": 9,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "ครับ ถูกต้องแล้วครับ เช่นเคย เราอยากให้ Tres Association ช่วยทดสอบเครื่องมือที่พัฒนาขึ้นมาใหม่..."
     },
@@ -92,7 +92,7 @@
     {
       "id": 17,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "ครับ ตามที่ได้รับแจ้งมา มันเป็นอุปกรณ์ที่ไม่ซับซ้อน ตอนนี้เลยอยู่ในขั้นตอนการจดทะเบียนครับ"
     },
@@ -106,7 +106,7 @@
     {
       "id": 19,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "มีเอกสารที่ต้องกรอกเพื่อขออนุมัติเพิ่มเติมด้วย เริ่มจากกองเอกสารชุดที่สองจากด้านบนนะ..."
     },
@@ -120,7 +120,7 @@
     {
       "id": 21,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "...รับทราบครับ"
     },
@@ -147,7 +147,7 @@
     {
       "id": 27,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "อื้ม!"
     },
@@ -162,7 +162,7 @@
     {
       "id": 30,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "...เหนื่อยจัง"
     },
@@ -181,7 +181,7 @@
     {
       "id": 34,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "ฉัน... ต้องเขียนมันใหม่อีกรอบ สิ่งนี้ทำให้เวลาที่คาดว่าจะเสร็จล่าช้าออกไป 2 ชั่วโมง 17 นาที"
     },
@@ -200,7 +200,7 @@
     {
       "id": 38,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "Rosespanner Workshop",
       "content": "...ครับ ผม เมอร์โซ จาก Rosespanner Workshop Office กรุณาแจ้งธุระของคุณด้วยครับ"
     },

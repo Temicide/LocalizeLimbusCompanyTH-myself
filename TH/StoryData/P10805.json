@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "...อย่าหัวเราะนะ พูดจริง ๆ"
     },
@@ -42,35 +42,35 @@
     {
       "id": 9,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "ให้ตายสิ ทำไมฉันถึงเป็นคนเดียวที่ถูกบังคับให้ใส่ไอ้นี่? ฉันขอเปลี่ยนไปใส่ชุดที่มี... ไอ้พวกยันต์นั่นไม่ได้เหรอ?"
     },
     {
       "id": 10,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Technology Liberation Alliance",
       "content": "น่าจะเลือกให้เร็วกว่านี้หน่อยนะสาวน้อย~ มันเหลือแค่สามชุดสุดท้ายแล้ว จะให้ทำยังไงได้ล่ะ?"
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "Technology Liberation Alliance",
       "content": "จากการอ่านเอกสารที่ทิ้งไว้ที่นี่... บอกว่าแต่ละชุดผลิตออกมาได้จำนวนจำกัด..."
     },
     {
       "id": 12,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Technology Liberation Alliance",
       "content": "เห็นไหมล่ะ~ จะบอกว่าเธอถูกลิขิตมาให้ใส่มันก็คงได้นะ จริงไหมจ๊ะที่รัก? ฟุฟุ"
     },
     {
       "id": 13,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "บ้าเอ๊ย..."
     },
@@ -89,7 +89,7 @@
     {
       "id": 17,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "คือ... เราต้องใช้ไอ้นี่สู้จริงๆ เหรอคะ?"
     },
@@ -100,21 +100,21 @@
     {
       "id": 19,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "เจ้าหน้าที่รักษาความปลอดภัยจาก K Corp... ที่เรียกว่าเจ้าหน้าที่กำจัด (excision staff) น่ะเหรอ? ยอมรับนะว่ารับมือยาก แต่ฉันไม่แน่ใจว่าเราจำเป็นต้องใช้ของพวกนี้ทั้งหมดหรือเปล่า..."
     },
     {
       "id": 20,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Technology Liberation Alliance",
       "content": "ไม่อยากใช้เหรอ? ถ้าอย่างนั้น... ก็ลองสู้โดยไม่มีมันดูสิ~"
     },
     {
       "id": 21,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "ฮึ่ม..."
     },
@@ -129,21 +129,21 @@
     {
       "id": 24,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "ว้าว... อาวุธชิ้นนี้ดูหนักมาก แต่กลับกวัดแกว่งได้คล่องตัวสุดๆ ไปเลยนะเนี่ย?"
     },
     {
       "id": 25,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Technology Liberation Alliance",
       "content": "นี่... การมานั่งชื่นชมของแบบนั้นในขณะที่กำลังอัดคนอื่นอยู่น่ะ... มันดูพิลึกไปหน่อยไหม?"
     },
     {
       "id": 26,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "คือ ดูนี่สิ!"
     },
@@ -154,14 +154,14 @@
     {
       "id": 28,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "...โดนเต็มๆ เลย! ฮ่าฮ่า กลับไปถึงแล้วเรามาดื่มไวน์ฉลองกั—"
     },
     {
       "id": 29,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Technology Liberation Alliance",
       "content": "อึก"
     },

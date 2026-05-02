@@ -435,7 +435,7 @@
     {
       "id": 91,
       "model": "언쇼",
-      "teller": "คุณ Earnshaw",
+      "teller": "Mr. Earnshaw",
       "title": "Wuthering Heights",
       "content": "พ่อขอโทษนะเด็กๆ รอนานกันหรือเปล่า?"
     },
@@ -452,7 +452,7 @@
     {
       "id": 94,
       "model": "언쇼",
-      "teller": "คุณ Earnshaw",
+      "teller": "Mr. Earnshaw",
       "title": "Wuthering Heights",
       "content": "พ่อขอโทษอีกครั้งนะ พ่อไม่มีที่ว่างพอจะใส่ทั้งไวโอลินและประแจมาด้วยน่ะ"
     },
@@ -469,7 +469,7 @@
     {
       "id": 97,
       "model": "언쇼",
-      "teller": "คุณ Earnshaw",
+      "teller": "Mr. Earnshaw",
       "title": "Wuthering Heights",
       "content": "พ่อเจอเด็กคนนี้กำลังจะตายอยู่ลำพังบนถนน เขาไม่มีทั้งพ่อแม่และบ้าน... ถ้าปล่อยไว้ในสภาพอากาศแบบนี้ เด็กคนนี้คงไม่รอดแน่ๆ"
     },
@@ -485,7 +485,7 @@
     },
     {
       "id": 100,
-      "teller": "ฮีธคลิฟฟ์",
+      "teller": "Heathcliff",
       "title": "???",
       "content": "...มองอะไรของแกวะ?"
     },
@@ -507,14 +507,14 @@
     {
       "id": 104,
       "model": "언쇼",
-      "teller": "คุณ Earnshaw",
+      "teller": "Mr. Earnshaw",
       "title": "Wuthering Heights",
       "content": "เพราะไม่มีใครคอยดูแลเขายังไงล่ะลูก... น่าสงสารจริงๆ..."
     },
     {
       "id": 105,
       "model": "언쇼",
-      "teller": "คุณ Earnshaw",
+      "teller": "Mr. Earnshaw",
       "title": "Wuthering Heights",
       "content": "ยังมีเด็กคนอื่นๆ เหมือนเขาอยู่ใน Backstreets ไม่มีทั้งพ่อแม่หรือญาติที่จะคอยดูแล ไม่มีแม้แต่บ้านให้หลบภัย..."
     },
@@ -526,7 +526,7 @@
     {
       "id": 107,
       "model": "언쇼",
-      "teller": "คุณ Earnshaw",
+      "teller": "Mr. Earnshaw",
       "title": "Wuthering Heights",
       "content": "ก็นะ แคธี ตอนนี้เขามีพวกเราคอยดูแลแล้ว และมีที่นี่เป็นบ้านของเขาไงล่ะ"
     },

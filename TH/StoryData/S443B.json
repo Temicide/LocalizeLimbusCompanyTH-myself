@@ -3,21 +3,21 @@
     {
       "id": 0,
       "model": "삼조",
-      "teller": "ซัมโจ",
+      "teller": "Samjo",
       "title": "K Corp แผนกพัฒนาทรัพยากรอาหาร",
       "content": "อย่างที่คุณอาจจะเห็นก่อนหน้านี้... นั่นคือมาริล จริงๆ แล้วผมเคยเจอเขาครั้งหนึ่งตอนสัมภาษณ์งานที่ B Corp น่ะครับ"
     },
     {
       "id": 1,
       "model": "동랑",
-      "teller": "ดงรัง",
+      "teller": "Dongrang",
       "title": "K Corp แผนกพัฒนาทรัพยากรอาหาร",
       "content": "จริงเหรอ? ซัมโจ... นายสมัครเข้า B Corp ด้วยเหรอ?"
     },
     {
       "id": 2,
       "model": "삼조",
-      "teller": "ซัมโจ",
+      "teller": "Samjo",
       "title": "K Corp แผนกพัฒนาทรัพยากรอาหาร",
       "content": "...แน่นอนสิครับ K Corp คือตัวเลือกแรกของผมเลย... คนธรรมดาๆ อย่างผมต้องส่งใบสมัครไปทุก Wing เพื่อหวังว่าจะมีสักที่ที่ยอมรับเข้าทำงาน"
     },
@@ -28,14 +28,14 @@
     {
       "id": 4,
       "model": "삼조",
-      "teller": "ซัมโจ",
+      "teller": "Samjo",
       "title": "K Corp แผนกพัฒนาทรัพยากรอาหาร",
       "content": "……"
     },
     {
       "id": 5,
       "model": "삼조",
-      "teller": "ซัมโจ",
+      "teller": "Samjo",
       "title": "K Corp แผนกพัฒนาทรัพยากรอาหาร",
       "content": "โอ๊ย ขอประทานโทษครับ ผมขอตัวไปเข้าห้องน้ำก่อน..."
     },
@@ -46,14 +46,14 @@
     {
       "id": 7,
       "model": "동랑",
-      "teller": "ดงรัง",
+      "teller": "Dongrang",
       "title": "K Corp แผนกพัฒนาทรัพยากรอาหาร",
       "content": "เหล่านักวิจัยของเรา... คงไม่มีโอกาสได้ต่อสู้กลับเลยแม้แต่นิดเดียว"
     },
     {
       "id": 8,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "ดูเหมือนพนักงานของ K Corp จะไม่มีปัญหาเลยกับการทุบตีเพื่อนร่วมงานของผมที่ไม่ได้แม้แต่จะเหวี่ยงหมัดสู้ด้วยซ้ำ"
     },
@@ -65,7 +65,7 @@
     {
       "id": 10,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "สิ่งที่ฉันอยากรู้คือ เธอรอดมาได้ยังไง"
     },
@@ -77,14 +77,14 @@
     {
       "id": 12,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "ไม่ ระเบิดลูกนั้นไม่ได้มีไว้เพื่อทำลายล้าง แต่มันคือวิธีการ"
     },
     {
       "id": 13,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "มีตัวแปรที่ไม่ได้คาดคิดเกิดขึ้นในแผนของรันกับชเรน... เธอเป็นตัวอะไรกันแน่?"
     },
@@ -110,7 +110,7 @@
     {
       "id": 18,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "...แล้วไง? ฉันไม่ชอบคนพูดมาก และไม่ชอบอธิบายอะไรให้เธอฟังด้วย"
     },
@@ -122,21 +122,21 @@
     {
       "id": 20,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "...พวกเราไม่มีใครขึ้นรถไฟ WARP"
     },
     {
       "id": 21,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "และพวกเราก็ไม่กินเนื้อที่มีให้เลือกใน The City ด้วย"
     },
     {
       "id": 22,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "เมื่อเธอรู้ความจริงแล้ว เธอจะไม่แม้แต่จะคิดถึงเรื่องฉาบฉวยอย่างการเดินทางไป Backstreets เลยล่ะ"
     },
@@ -148,7 +148,7 @@
     {
       "id": 24,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "พวกคนส่วนใหญ่น่ะเขลา ต่อให้เธอเอามาวางให้เห็นกับตา พวกเขาก็ไม่มีวันเชื่อหรอก"
     },
@@ -165,7 +165,7 @@
     {
       "id": 27,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "คุณไม่เข้าใจ—"
     },
@@ -192,21 +192,21 @@
     {
       "id": 32,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "……"
     },
     {
       "id": 33,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "ถ้าเราต้องรับสมาชิกใหม่ล่ะก็..."
     },
     {
       "id": 34,
       "model": "마리르",
-      "teller": "มาริล",
+      "teller": "Marile",
       "title": "Technology Liberation Alliance",
       "content": "ฉันจะลองตัดเรื่องวุฒิการศึกษาออกจากคุณสมบัติที่จำเป็นดู"
     },

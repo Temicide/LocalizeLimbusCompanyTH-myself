@@ -4,7 +4,7 @@
       "id": 1,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "ฟังนะ ถ้าฉันทำพลาดล่ะก็ ฉันยอมตัดมือตัวเองทิ้งเลยเอ้า ตกลงไหม?",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "โอกาสชนะดูดีทีเดียวล่ะ ปล่อยให้เป็นหน้าที่ฉันเองนะ",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "ได้สิ ทำไมจะไม่ได้ล่ะ เธอเชื่อใจฉันใช่ไหมล่ะ?",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "งานนี้อาจจะต้องพึ่งดวงสักนิ้-ด-ด-ดนึงถึงจะรอดล่ะนะ",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "อย่าดึงฉันเข้าไปเกี่ยวด้วยเลยนะ โอเคไหม?",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "ฉันพนันได้เลยว่าถ้าเป็นคนอื่นคงเจ๊งไม่เป็นท่าไปแล้ว",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "personalityid": 10902,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "ก็เตือนแล้วไงล่ะ",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "ฟังนะ ถ้าฉันทำพลาดล่ะก็ ฉันยอมตัดมือตัวเองทิ้งเลย เอามั้ยล่ะ?",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "โอกาสชนะดูดีทีเดียว ปล่อยให้เป็นหน้าที่ฉันเถอะนะ",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
@@ -76,7 +76,7 @@
       "id": 10,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "ได้สิ ทำไมจะไม่ได้ล่ะ เธอเชื่อใจฉันใช่ไหม?",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
@@ -84,7 +84,7 @@
       "id": 11,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "งานนี้อาจจะต้องพึ่งดวงนิดดดดเดียวเท่านั้นแหละถึงจะรอด",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
@@ -92,7 +92,7 @@
       "id": 12,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "อย่าดึงฉันเข้าไปเกี่ยวด้วยเลยนะ โอเคมั้ย?",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
@@ -100,7 +100,7 @@
       "id": 13,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "ฉันพนันได้เลยว่าถ้าเป็นคนอื่นคงเจ๊งไปแล้วล่ะ",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
@@ -108,7 +108,7 @@
       "id": 14,
       "personalityid": 10901,
       "voicefile": 0,
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "dialog": "ก็เตือนแล้วไงล่ะ",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     }

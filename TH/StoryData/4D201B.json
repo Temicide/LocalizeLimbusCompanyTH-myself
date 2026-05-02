@@ -14,14 +14,14 @@
     {
       "id": 2,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "ที่นี่ไม่ใช่ตลาดนัดกลางเมืองหรืออะไรทำนองนั้นสักหน่อย แต่มันเริ่มจะเสียงดังเกินไปแล้วนะ"
     },
     {
       "id": 3,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "...เก้าคนน่ะ เป็นจำนวนที่เหมาะสมที่สุดแล้ว"
     },
@@ -33,7 +33,7 @@
     {
       "id": 5,
       "model": "과거동백",
-      "teller": "ดงแบก",
+      "teller": "Dongbaek",
       "title": "League of Nine Littérateurs",
       "content": "...ช่วยหุบปากหน่อยได้ไหม?"
     },
@@ -50,7 +50,7 @@
     {
       "id": 8,
       "model": "동랑",
-      "teller": "ดงรัง",
+      "teller": "Dongrang",
       "title": "K Corp. แผนกพัฒนาทรัพยากรอาหาร",
       "content": "อย่าทำหน้าบูดบึ้งไปหน่อยเลยน่า ดงแบก ความร่าเริงน่ะมีไว้ก็ดีออก"
     },

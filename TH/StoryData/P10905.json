@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "เอาล่ะ... ฉันจะทุ่มหมดตัวเลย~ เข้ามาเลยถ้าแน่จริง!"
     },
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "ใช่เลย...! แบบนี้แหละที่ฉันต้องการ~"
     },
@@ -37,7 +37,7 @@
     {
       "id": 7,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "เอาล่ะ... ขอไพ่ดีๆ แค่ใบเดียวเท่านั้น..."
     },
@@ -51,7 +51,7 @@
     {
       "id": 9,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "...หือ? ฉันกำลังใช้สมาธิอยู่นะ รอแป๊บได้ไหม?"
     },
@@ -69,7 +69,7 @@
     {
       "id": 12,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "โธ่ เอาน่า..."
     },
@@ -83,7 +83,7 @@
     {
       "id": 14,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "HE มาแล้ววววววว!!!!!!"
     },
@@ -94,7 +94,7 @@
     {
       "id": 16,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "ได้แล้ว ได้ของที่ต้องการแล้ว! ดูนี่สิที่รัก! รอยัล สเตรท ฟลัช!"
     },
@@ -108,14 +108,14 @@
     {
       "id": 18,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "อยากรู้เหรอ? นี่คือเสียงของเงินเดือนสามเดือนของทุกคนที่นี่ที่กำลังไหลเข้าบัญชีฉันยังไงล่ะ!"
     },
     {
       "id": 19,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "เอาล่ะ~ ฟังทางนี้ทุกคน! ฉันเพิ่งจะ..."
     },
@@ -137,7 +137,7 @@
     {
       "id": 23,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "ยึย ให้ตายสิ เสียงดังจังเลยนะ! ทำไมถึงเป็นแบบนี้ล่ะ~"
     },
@@ -148,7 +148,7 @@
     {
       "id": 25,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "ไหนดูซิ... อนุมัติเหรอ? ก็รู้อยู่แล้วว่าปกติฉันก็อนุมัติเกือบหมดนั่นแหละ จริงไหมล่ะ? ฉันถึงขั้นให้ตราประทับกับเธอไปแล้วด้วยนะ!"
     },
@@ -162,14 +162,14 @@
     {
       "id": 27,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "เหอะ ขั้นตอนการทำงานจะมีประโยชน์อะไรในเวิร์กชอปเล็กจิ๋วของเรากันล่ะ? เราต้องจ้างข้างนอกทำแทบทุกอย่าง เพราะที่นี่ไม่มีที่ว่างพอจะทำเองเลยด้วยซ้ำ!"
     },
     {
       "id": 28,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "แล้วฉันจะบอกให้นะ... คิดว่าฉันไม่ได้ทำงานงั้นเหรอ? ฉันนี่แหละเป็นคนหาโปรเจกต์เข้ามาให้พวกเธอทำนะจะบอกให้~"
     },
@@ -183,7 +183,7 @@
     {
       "id": 30,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "นั่นไม่ใช่หน้าที่ของตัวแทนที่ต้องมาใส่ใจหรอกนะ~ ฉันน่ะเชื่อใจพนักงานที่น่ารักของฉันที่สุดเลยล่ะ~"
     },
@@ -197,7 +197,7 @@
     {
       "id": 32,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "อีกอย่าง ฉันไม่เคยค้างจ่ายเงินเดือนพวกเธอเลยสักครั้งเดียว! แค่นี้ยังไม่พออีกเหรอ?"
     },
@@ -208,7 +208,7 @@
     {
       "id": 34,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "อุ๊ย ได้เวลาออกไปทำงานข้างนอกแล้ว เอาล่ะ หลีกทางให้บอสหน่อย~ ฉันจะออกไปจัดการงานตามที่พวกเธอร้องขอแล้วนะ!"
     },
@@ -231,7 +231,7 @@
     {
       "id": 39,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "ไชโย~!"
     },
@@ -254,7 +254,7 @@
     {
       "id": 44,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "เอาล่ะ... งานนี้เรียบร้อย... เฮ้อ อยากได้งานที่ค่าตอบแทนดีกว่านี้จัง..."
     },
@@ -273,14 +273,14 @@
     {
       "id": 48,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "เอ๊ะ? K Corp... คำขอจาก Nest งั้นเหรอ?"
     },
     {
       "id": 49,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Rosespanner Workshop",
       "content": "...หืม งานนี้เป็นคำขอให้ไป \"รื้อซาก\" ไม่ใช่การปรับจูน... หึ สงสัยถึงเวลาต้องออกกำลังกายสักหน่อยแล้วสิ~"
     },

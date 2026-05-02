@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "หยุดนะ หยุดเดี๋ยวนี้!"
     },
@@ -14,21 +14,21 @@
     {
       "id": 2,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "ห-หา? เหตุใดท่านจึงต้องตะโกนถึงเพียงนั้น...?"
     },
     {
       "id": 3,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "พวกเราไม่ใช่ชาวบ้านธรรมดานะ ดอนกิโฮเต้ พวกเรา *ไม่* ดื่มเหล้าจากขวดโดยตรง"
     },
     {
       "id": 4,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "ม-ไม่เหรอ...?"
     },
@@ -47,21 +47,21 @@
     {
       "id": 8,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "ต้องดื่มจากแก้ว ไม่ใช่จากขวด นั่นคือมารยาทการดื่มที่ถูกต้อง"
     },
     {
       "id": 9,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "เมื่อดื่มจนหมดแก้ว และต้องหมดแก้วเท่านั้น ถึงจะรินเพิ่มเพื่อดื่มต่อได้"
     },
     {
       "id": 10,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "...แต่ว่า... เพราะเหตุใดกัน?"
     },
@@ -72,21 +72,21 @@
     {
       "id": 12,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "มันต้องออกแรงดื่มมากกว่าเดิมเพื่อให้ได้ปริมาณแอลกอฮอล์เท่าเดิมไม่ใช่หรือ? การดื่มจากถ้วยใบจ้อยแบบนี้..."
     },
     {
       "id": 13,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "...มันก็เพื่อป้องกันไม่ให้เมาจนขาดสติ ในขณะที่ยังคงรักษาความสำรว—"
     },
     {
       "id": 14,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "กึ้ด! แค่ก แค่ก!"
     },
@@ -109,7 +109,7 @@
     {
       "id": 19,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "……."
     },
@@ -120,98 +120,98 @@
     {
       "id": 21,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "ฉ-ฉัน...! ฉันไม่ได้ตั้งใจจะ—"
     },
     {
       "id": 22,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "รสชาติมัน... ต่างจากที่ฉันคิดไว้มากเลย..."
     },
     {
       "id": 23,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "……."
     },
     {
       "id": 24,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "...มันทำมาจากข้าวไม่ใช่หรือ? ฉันมั่นใจมากว่ารสชาติของมันคงไม่ต่างจาก sikhye หรือ gamju..."
     },
     {
       "id": 25,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "ฉันพูดว่าอะไรนะ? เมื่อกี้ฉันพูดว่าอะไร?"
     },
     {
       "id": 26,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "อี๊ด!"
     },
     {
       "id": 27,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "ฉันเพิ่งบอกให้เธอค่อยๆ จิบจากถ้วยทีละนิดไงเล่า!"
     },
     {
       "id": 28,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "ถ้าคุณยอมฟัง เรื่องแบบนี้ก็คงไม่เกิดขึ้น"
     },
     {
       "id": 29,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "ฉ-ฉันหมายถึง..."
     },
     {
       "id": 30,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "พูดจาให้มันดีๆ หน่อย! ถึงเราจะมีระดับยศเท่ากัน แต่ในวินาทีนี้ ฉันคือครูฝึกและผู้บังคับบัญชาของเธอ! จะเป็นการดีกว่าถ้าเธอจะปฏิบัติกับฉันในฐานะผู้เหนือกว่า!"
     },
     {
       "id": 31,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "ข-ขอรับ!"
     },
     {
       "id": 32,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "อย่างแรก! เธอใช้ตะเกียบได้ไม่ถูกต้องอย่างแรง!"
     },
     {
       "id": 33,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "เอ่อ คือฉันแค่จะเว้นมืออีกข้างไว้ถือขวด—"
     },
     {
       "id": 34,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "ดูซะ! แบบนี้! คือวิธีการใช้ตะเกียบที่ถูกต้อง! เทคนิคห่วยๆ ของเธอมันน่าอับอายสิ้นดี..."
     },
@@ -230,49 +230,49 @@
     {
       "id": 38,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "...ฉันจะหยุดไว้เพียงเท่านี้แล้วกัน"
     },
     {
       "id": 39,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "เฮ้อ..."
     },
     {
       "id": 40,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "คุณทำภารกิจลาดตระเวนเสร็จสิ้นแล้วหรือ? ฉันรอฟังรายงานของคุณมาหลายวันแล้ว"
     },
     {
       "id": 41,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "เอ่อ... จากการเดินทางของฉัน ฉันได้พบสถานที่ที่น่าสนใจประมาณ 5 แห่งใน Backstreets ครับ"
     },
     {
       "id": 42,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "หืม เป็นข่าวดีจริงๆ แต่ฉันต้องสอบถามคุณเกี่ยวกับเรื่องของ Kurokumo Clan—"
     },
     {
       "id": 43,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "อะแฮ่ม! อย่าได้กังวลไปเลย! ข้าได้แอบส่องพวกสุนัขรับใช้จาก Kurokumo Clan ตอนพวกมันกำลังกินมื้อค่ำมาแล้ว!"
     },
     {
       "id": 44,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "... อีกสองวันถึงเวลา"
     },
@@ -283,35 +283,35 @@
     {
       "id": 46,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "จริงด้วย... ไม้ขีดจะติดไฟได้ ก็ต่อเมื่อถูกขีดเท่านั้น"
     },
     {
       "id": 47,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "แต่เราต้องรอดให้ได้ อดทนไว้ และสักวัน... เราจะพบโอกาสของเรา นั่นคือสิ่งที่อาจารย์บอกกับพวกเราไว้"
     },
     {
       "id": 48,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "ทำได้ดีมาก ดอนกิโฮเต้ ที่กล้าบุกเข้าไปลึกในเขตศัตรูขนาดนั้น..."
     },
     {
       "id": 49,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "ฮิฮิ มีพวกมันไม่กี่คนที่สังเกตเห็นร่องรอยของข้า..."
     },
     {
       "id": 50,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Blade Lineage Salsu",
       "content": "... แต่ตอนนี้จัดการเรียบร้อยหมดแล้วล่ะ"
     },
@@ -334,7 +334,7 @@
     {
       "id": 55,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Blade Lineage Salsu",
       "content": "……."
     },

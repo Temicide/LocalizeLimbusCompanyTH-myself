@@ -27,7 +27,7 @@
     {
       "id": 5,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "N Corp. Großhammer",
       "content": "……"
     },
@@ -38,7 +38,7 @@
     {
       "id": 7,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "N Corp. Großhammer",
       "content": "กลับไปได้แล้ว"
     },
@@ -59,7 +59,7 @@
     {
       "id": 11,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "N Corp. Großhammer",
       "content": "ฉันมีหน้าที่ต้องทำให้มันสำเร็จลุล่วง เพราะเป็นคำสั่งของ One Who Grips"
     },
@@ -80,7 +80,7 @@
     {
       "id": 15,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "N Corp. Großhammer",
       "content": "แฮ่ก..."
     },
@@ -103,7 +103,7 @@
     {
       "id": 20,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "N Corp. Großhammer",
       "content": "ศรัทธาของฉัน... กำลังเหือดแห้งไป"
     },
@@ -118,7 +118,7 @@
     {
       "id": 23,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "N Corp. Großhammer",
       "content": "อึก!"
     },
@@ -133,7 +133,7 @@
     {
       "id": 26,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "N Corp. Großhammer",
       "content": "ข้า... คือความบริสุทธิ์..."
     },
@@ -144,7 +144,7 @@
     {
       "id": 28,
       "model": "뫼르소",
-      "teller": "เมอร์โซ",
+      "teller": "Meursault",
       "title": "N Corp. Großhammer",
       "content": "ค้อน... ผู้ซื่อสัตย์ต่อผู้กุมบังเหียน..."
     },

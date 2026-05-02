@@ -3,35 +3,35 @@
     {
       "id": 0,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "เร็วเข้า อิชชี่! ทางนี้ๆ~"
     },
     {
       "id": 1,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "เฮ้อ... Director คะ เราวิ่งรอกเปลี่ยนร้านอาหารกันมาสี่ชั่วโมงแล้วนะ"
     },
     {
       "id": 2,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "ไม่ใช่ 'Director' แต่เป็น 'โรเดีย' ต่างหาก โรเดีย! นี่จะทำท่าเย็นชากับฉันไปถึงเมื่อไหร่กันเนี่ย?"
     },
     {
       "id": 3,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "ร-โรด... โรเดียน"
     },
     {
       "id": 4,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "ฮ่า... เอาเถอะ ถือว่าพัฒนาขึ้นละกันนะ ฉันยอมรับได้!"
     },
@@ -46,28 +46,28 @@
     {
       "id": 7,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "อื้ออออ—"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "โรเดียน กรุณาเคี้ยวให้เสร็จก่อนพูดด้วยค่ะ"
     },
     {
       "id": 9,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "อื้ม... ฮ่า เอาเป็นว่า... งั้น!"
     },
     {
       "id": 10,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "แล้วเราจะต้องทำแบบนี้ไปอีกนานแค่ไหนคะ?"
     },
@@ -86,14 +86,14 @@
     {
       "id": 14,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "คุณแวะที่ร้าน HamHamPangPang ตรงหัวมุมนี้เพื่อซื้อเกี๊ยวแบบจำกัดเวลา คุณหยิบ Menbosha ทอดใหม่ๆ ห่อใหญ่ที่มีประมาณยี่สิบชิ้นขึ้นมา และ—"
     },
     {
       "id": 15,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "องุ่นเขียว ส้ม หรือสตรอว์เบอร์รี่ดี?"
     },
@@ -104,14 +104,14 @@
     {
       "id": 17,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "...ว่าไงนะ?"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "เลือกมาสักอย่างสิ อิชี่ องุ่นเขียว ส้ม หรือสตรอว์เบอร์รี่?"
     },
@@ -126,56 +126,56 @@
     {
       "id": 21,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "ให้ตายสิ ถ้าเธอคิดว่าจะใช้ของกินมาติดสินบนฉันล่ะก็—"
     },
     {
       "id": 22,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "ฉันรู้อยู่แล้วล่ะ อิชี่"
     },
     {
       "id": 23,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "...ว่าเธอจ้องถุงถังหูลู่ใบนี้มาตลอดเลย"
     },
     {
       "id": 24,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "ฮึบ..."
     },
     {
       "id": 25,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "เอาน่า ฉันให้เธอเลือกก่อนเลยนะ"
     },
     {
       "id": 26,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "อ้อ แล้วเดี๋ยวเราแวะร้านข้าวหน้าเนื้อกันด้วยนะ... แบบนี้โอเคไหม?"
     },
     {
       "id": 27,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "... ฉันขอส้มแล้วกัน"
     },
     {
       "id": 28,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "ถ้าอย่างนั้นล่ะก็~ นี่จ้ะ! ทานให้ให้อร่อยนะ!"
     },
@@ -202,7 +202,7 @@
     {
       "id": 34,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "ฮึบ!"
     },
@@ -225,21 +225,21 @@
     {
       "id": 39,
       "model": "료슈",
-      "teller": "Ryoshu",
+      "teller": "Ryōshū",
       "title": "Liu Section 4",
       "content": "T.A.D."
     },
     {
       "id": 40,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "Director! ไม่ต้องห่วงพวกลูกกระจ๊อกหรอกค่ะ พวกเราจัดการได้เหมือนปกติเลย!"
     },
     {
       "id": 41,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "เฮ้อ~ บอกแล้วไงว่าให้เรียกชื่อฉันน่ะ? ให้ตายสิ ยัยหนู..."
     },
@@ -250,7 +250,7 @@
     {
       "id": 43,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "ก็นะ ถ้าจะให้เรียกฉันว่า Director ล่ะก็ ฉันคงต้องโชว์ฝีมือให้สมตำแหน่งหน่อยแล้วล่ะมั้ง?"
     },
@@ -261,7 +261,7 @@
     {
       "id": 45,
       "model": "이스마엘",
-      "teller": "อิชมาเอล",
+      "teller": "Ishmael",
       "title": "Liu Section 4",
       "content": "เอาล่ะ... บอสของพวกนายตายแล้ว ทีนี้จะเอายังไงต่อ? อยากจะลุยต่อไหมล่ะ?"
     },
@@ -283,7 +283,7 @@
     {
       "id": 49,
       "model": "로쟈",
-      "teller": "โรเดียน",
+      "teller": "Rodion",
       "title": "Director ของ Liu Section 4",
       "content": "ฟู่ว~ เสร็จไปอีกงานแล้วนะ!"
     },

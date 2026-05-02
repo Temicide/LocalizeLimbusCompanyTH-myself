@@ -341,7 +341,7 @@
     {
       "id": 72,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "……."
     },
@@ -354,7 +354,7 @@
     {
       "id": 74,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "ใช่ การประชุมครั้งนี้ถูกเรียกโดย Naive เฟาสท์ มีคำถามหนึ่งที่ต้องการคำตอบจากเหล่า Administrator เฟาสท์ ของฝ่ายบริหาร Gesellschaft"
     },
@@ -385,21 +385,21 @@
     {
       "id": 79,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "……."
     },
     {
       "id": 80,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "ความพยายามในการตรวจสอบข้อมูลเกี่ยวกับเหตุการณ์ล่าสุดที่ House of Spiders ถูกปฏิเสธการเข้าถึงในหลายขั้นตอน"
     },
     {
       "id": 81,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "ขออนุญาตเข้าถึงข้อมูลข่าวกรองของบุคคลที่จงใจเจาะระบบรักษาความปลอดภัยของสำนักงานใหญ่ Limbus Company"
     },
@@ -424,14 +424,14 @@
     {
       "id": 85,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "การตรวจสอบข้อมูลของ Gesellschaft จำเป็นต้องใช้สิทธิ์การเข้าถึงที่สูงกว่านี้อีกหลายระดับ ใช่แล้ว"
     },
     {
       "id": 86,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "ที่ฉันหมา—ที่ เฟาสท์ หมายถึงคือ..."
     },
@@ -456,7 +456,7 @@
     {
       "id": 90,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "*เฮ้อ* แน่นอนว่าไม่ เฟาสท์ ไม่ต้องการไปรวมกลุ่มกับเหล่า เฟาสท์ ที่ตายไปแล้ว เฟาสท์ แค่สงสัยเท่านั้นเอง"
     },
@@ -475,7 +475,7 @@
     {
       "id": 93,
       "model": "파우스트",
-      "teller": "Naive Faust งั้นเหรอ?",
+      "teller": "Naive Faust?",
       "title": "Gesellschaft",
       "content": "... ยอมรับ"
     },
@@ -646,7 +646,7 @@
     {
       "id": 120,
       "model": "구보",
-      "teller": "กูโบ",
+      "teller": "Gubo",
       "title": "N Corp. New League of Nine Littérateurs",
       "content": "\"ยีน\" งั้นเหรอ... หมายความว่าในที่สุดลูกชายของฉันก็แกะสิ่งที่เธอให้ไว้แล้วสินะ?"
     },
@@ -681,7 +681,7 @@
     {
       "id": 125,
       "model": "아세아",
-      "teller": "อาเซอาห์",
+      "teller": "Aseah",
       "title": "N Corp. New League of Nine Littérateurs",
       "content": "ว่าแต่ กัปตันอยู่ที่ไหนเหรอ? ฉันไม่เห็นเธอเลยตั้งแต่ H Corp"
     },
@@ -694,7 +694,7 @@
     {
       "id": 127,
       "model": "가환",
-      "teller": "เจีย ฮวน",
+      "teller": "Jia Huan",
       "title": "N Corp. New League of Nine Littérateurs",
       "content": "เห้อ... เราต้องติดอยู่ในตึกสีขาวโพลนนี่ไปอีกนานแค่ไหนกัน?"
     },
@@ -757,14 +757,14 @@
     {
       "id": 136,
       "model": "아세아",
-      "teller": "อาเซอาห์",
+      "teller": "Aseah",
       "title": "N Corp. New League of Nine Littérateurs",
       "content": "...เพื่อมุ่งเป้าไปยังทุก Mirror World ที่มีอยู่"
     },
     {
       "id": 137,
       "model": "가환",
-      "teller": "เจีย ฮวน",
+      "teller": "Jia Huan",
       "title": "N Corp. New League of Nine Littérateurs",
       "content": "หึ กัปตันต้องชอบแน่ๆ มันคงเหมือนกับการที่เธอได้ออกไปล่า Whale ในทุกโลกที่เป็นไปได้ด้วยตัวเองเลยล่ะ"
     },
@@ -798,7 +798,7 @@
     {
       "id": 142,
       "model": "구보",
-      "teller": "กูโบ",
+      "teller": "Gubo",
       "title": "N Corp. New League of Nine Littérateurs",
       "content": "ต้องยอมรับเลยว่า มันน่าประหม่าไม่น้อยที่ต้องรับมือกับพวก Ones Who Grip ผู้ฉาวโฉ่ใน Nest ของพวกเขาเอง"
     },

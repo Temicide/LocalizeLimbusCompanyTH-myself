@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "ดิฉันขอตัวก่อนนะคะ ขอให้ทุกท่านเพลิดเพลินกับอาหารมื้อนี้ค่ะ"
     },
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "... เฮ้อ"
     },
@@ -49,35 +49,35 @@
     {
       "id": 10,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "... ทั้งสองฝ่ายกำลังอยู่ระหว่างการเจรจา"
     },
     {
       "id": 11,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "อืม"
     },
     {
       "id": 12,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ฉันเชื่อว่าการบริการของคุณนั้น... ยอดเยี่ยมมาก แต่การถามคุณคงเป็นเรื่องที่ไม่จำเป็น เพราะคุณไม่เคยทำให้ฉันผิดหวังเลยแม้แต่ครั้งเดียว"
     },
     {
       "id": 13,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "ขอบพระคุณสำหรับคำชมอันสูงส่งครับ"
     },
     {
       "id": 14,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ฉันเพียงแค่ประเมินผลงานของคุณตามความเหมาะสมเท่านั้น อย่างไรก็ตาม..."
     },
@@ -92,7 +92,7 @@
     {
       "id": 17,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ดูเหมือนว่า Butler คนอื่นๆ จะต้องได้รับ... การอบรมเพิ่มเติมเสียหน่อยแล้ว"
     },
@@ -107,42 +107,42 @@
     {
       "id": 20,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "ต้องขออภัยเป็นอย่างสูงครับ"
     },
     {
       "id": 21,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "คุณเป็น Butler ที่รับผิดชอบส่วนห้องครัว ไม่จำเป็นต้องขอโทษหรอก"
     },
     {
       "id": 22,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "อย่างไรก็ตาม ฉันเชื่อว่ามันคงเป็นหน้าที่ของคุณที่จะต้องนำความเห็นของฉันไปแจ้งให้พวก Butler ที่รับผิดชอบการทำความสะอาดได้รับทราบ"
     },
     {
       "id": 23,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "รับทราบครับ ท่าน"
     },
     {
       "id": 24,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ดีมาก ตอนนี้ลงไปข้างล่างได้แล้ว พวกเขายังคงฝึกซ้อมอย่างหนักเพื่อการล่าอยู่ใช่ไหม?"
     },
     {
       "id": 25,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "ครับ ทุกอย่างกำลังดำเนินไปตามที่คุณสั่ง"
     },
@@ -171,7 +171,7 @@
     {
       "id": 31,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "การฝึกการต่อสู้โดยใช้แขกที่ไม่ได้รับเชิญก่อนหน้านี้เป็นอย่างไรบ้าง?"
     },
@@ -185,21 +185,21 @@
     {
       "id": 33,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "ดีมาก เชิญทำต่อไปเถอะ"
     },
     {
       "id": 34,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "อ้อ แล้วก็อีกเรื่องหนึ่ง..."
     },
     {
       "id": 35,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "Chief Butler ท่าน อูทิส มีความเห็นเกี่ยวกับการ 'เก็บกวาด' ของเธอ"
     },
@@ -213,7 +213,7 @@
     {
       "id": 37,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "กรุณาใส่ใจในบริเวณที่ปกติไม่ค่อยมีใครสังเกตเห็นด้วย เพื่อไม่ให้แขกของเราต้องลำบาก"
     },
@@ -227,7 +227,7 @@
     {
       "id": 39,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "ถ้าอย่างนั้น..."
     },

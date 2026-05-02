@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "The One Who Grips",
       "content": "ซินแคลร์"
     },
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "The One Who Grips",
       "content": "มองมาทางนี้สิ ซินแคลร์"
     },
@@ -29,7 +29,7 @@
     {
       "id": 5,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "The One Who Grips",
       "content": "คิเคะ... คาฮะ! นี่มันไม่ใช่ภาพที่งดงามหรอกหรือ?"
     },
@@ -48,7 +48,7 @@
     {
       "id": 9,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "The One Who Grips",
       "content": "รู้สึกยังไงบ้างล่ะ ซินแคลร์? รู้สึกยังไงที่ได้เห็นภาพการแผดเผานี้ด้วยตาตัวเอง?!"
     },
@@ -59,7 +59,7 @@
     {
       "id": 11,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "The One Who Shall Grip",
       "content": "…อา"
     },
@@ -90,7 +90,7 @@
     {
       "id": 18,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "The One Who Shall Grip",
       "content": "มันช่างงดงาม... เฟาสท์ งดงามเหลือเกินที่ได้เห็นสิ่งโสโครกและน่ารังเกียจพวกนั้นถูกกำจัดไป"
     },
@@ -113,14 +113,14 @@
     {
       "id": 23,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "The One Who Shall Grip",
       "content": "ทำไมฉันถึงไม่ปล่อยวางให้เร็วกว่านี้กันนะ เฟาสท์?"
     },
     {
       "id": 24,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "The One Who Shall Grip",
       "content": "ฉันไม่จำเป็นต้องลำบากพยายามคิดหรือไตร่ตรองอะไรให้มากมาย ในเมื่อมีคำตอบที่ชัดเจนวางอยู่ตรงหน้าแท้ๆ"
     },
@@ -143,14 +143,14 @@
     {
       "id": 29,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "The One Who Grips",
       "content": "ไม่ใช่ใครก็ได้ที่จะเป็นเหมือน เฟาสท์ ได้หรอกนะ ซินแคลร์"
     },
     {
       "id": 30,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "The One Who Grips",
       "content": "แต่ว่า ไม่เป็นไรหรอก... หึๆ"
     },
@@ -165,7 +165,7 @@
     {
       "id": 33,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "The One Who Shall Grip",
       "content": "อ่า... อ๊าก!"
     },
@@ -200,7 +200,7 @@
     {
       "id": 41,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "The One Who Shall Grip",
       "content": "หึ... ฮ่าๆ"
     },
@@ -211,7 +211,7 @@
     {
       "id": 43,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "The One Who Grips",
       "content": "ยินดีด้วยนะ ซินแคลร์ ตอนนี้เธอกลายเป็นคนที่สามารถหัวเราะให้กับภาพตรงหน้านี้ได้แล้ว"
     },
@@ -234,14 +234,14 @@
     {
       "id": 48,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "The One Who Grips",
       "content": "เอาล่ะ เริ่มกันเถอะ ซินแคลร์ การชำระล้างโลกใบนี้"
     },
     {
       "id": 49,
       "model": "싱클레어",
-      "teller": "ซินแคลร์",
+      "teller": "Sinclair",
       "title": "The One Who Shall Grip",
       "content": "...ตกลงครับ"
     },

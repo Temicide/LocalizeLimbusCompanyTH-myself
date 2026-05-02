@@ -124,7 +124,7 @@
     {
       "id": 21,
       "model": "범블",
-      "teller": "บัมเบิล",
+      "teller": "Bumble",
       "title": "T Corp.",
       "content": "ทุกคนช้ากันจังเลย-ฮะ! เลิกขี้เกียจแล้วกลับไปทำงานกันได้แล้วนะ-ฮะ? เร็วเข้าๆ-ฮ้า~"
     },
@@ -339,7 +339,7 @@
       "id": 63,
       "place": "L Corp.",
       "model": "마이",
-      "teller": "ไม",
+      "teller": "Mai",
       "title": "T Corp.",
       "content": "Chief Executive Director ได้เวลาแล้วค่ะ"
     },
@@ -570,7 +570,7 @@
     {
       "id": 99,
       "model": "마이",
-      "teller": "ไม",
+      "teller": "Mai",
       "title": "T Corp.",
       "content": "ค่ะ ผู้อำนวยการ Herbert"
     },

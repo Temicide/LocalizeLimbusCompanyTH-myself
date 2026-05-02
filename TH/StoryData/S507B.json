@@ -23,7 +23,7 @@
       "id": 4,
       "place": "ทางเข้า L Corp.",
       "model": "클럽손님",
-      "teller": "แขก",
+      "teller": "Guest",
       "title": "U Corp.",
       "content": "เฮ้... มากับใครหรือเปล่า?"
     },
@@ -35,7 +35,7 @@
     {
       "id": 6,
       "model": "클럽손님",
-      "teller": "แขก",
+      "teller": "Guest",
       "title": "U Corp.",
       "content": "สิ-สิบสอง...?"
     },
@@ -49,7 +49,7 @@
     {
       "id": 8,
       "model": "클럽손님",
-      "teller": "แขก",
+      "teller": "Guest",
       "title": "U Corp.",
       "content": "อ๊าก! ข-ขอโทษที่รบกวนนะครับ!"
     },

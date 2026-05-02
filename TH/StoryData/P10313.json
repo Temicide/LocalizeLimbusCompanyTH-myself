@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "โอ้, โอ้ว...!"
     },
@@ -22,56 +22,56 @@
     {
       "id": 4,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "เจ้าเห็นสิ่งนั้นหรือไม่ โอ้ Adept แห่งกระต่าย! ปราสาทที่อยู่ตรงโน้น ช่างสง่างามยิ่งนัก!"
     },
     {
       "id": 5,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "แท้จริงแล้ว มันช่างคล้ายคลึงกับจุดหมายที่ท่านลอร์ดได้กล่าวไว้... เราจักต้องมุ่งหน้าไปยังที่แห่งนั้น...!"
     },
     {
       "id": 6,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ถ้าอย่างนั้นก็นับว่าโชคดี ที่เราไม่จำเป็นต้องออกสำรวจรอบบริเวณเพื่อตามหามัน"
     },
     {
       "id": 7,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ผู้ใช้ Psychoment ที่ท่านลอร์ดสั่งให้ไปนำตัวกลับมา จะต้องอยู่ในปราสาทหลังนั้น"
     },
     {
       "id": 8,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ทว่ามัน... มัน... อ่า..."
     },
     {
       "id": 9,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ฮัดเชิ้ว! *ฟืด* มันมิใช่สิ่งใดอื่น นอกจาก Backstreets แห่ง Hongyuan"
     },
     {
       "id": 10,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ปราสาทที่ตั้งตระหง่านอยู่เบื้องหน้าเรานี้—ถูกสร้างขึ้นอย่างกว้างขวางและสูงชัน เพื่อโอ้อวดความยิ่งใหญ่ของมันโดยแท้!"
     },
     {
       "id": 11,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ข้าพเจ้ามิเชื่อว่ายอดวีรบุรุษแห่งความยุติธรรมที่ท่านลอร์ดตามหานั้น จะพำนักอยู่ในคฤหาสน์ที่หรูหราฟู่ฟ่าถึงเพียงนี้!"
     },
@@ -108,7 +108,7 @@
     {
       "id": 18,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ฮิฮิ... โรซินันเต้ ข้าขอฝากความหวังไว้กับเจ้าในการผจญภัยครั้งนี้อีกครั้งเถิด!"
     },
@@ -123,77 +123,77 @@
     {
       "id": 21,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "แม้แต่ผู้ที่ไม่เคยย่างกรายบนเส้นทางแห่งความยุติธรรม ก็จักได้รับแสงสว่างนำทางสู่มรรคาแห่งมนุษยธรรมและความถูกต้อง ภายใต้ธงนำของท่านลอร์ดของข้าพเจ้า!"
     },
     {
       "id": 22,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "...!"
     },
     {
       "id": 23,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ให้สัตย์ปฏิญาณเลยว่า ท่านเหล่า Adept ผู้สูงส่งช่างมีสายตายาวไกลกว่าพวกข้าเสียจริง! โปรดบอกข้าเถิด ข้าได้ยินมาว่าผู้ที่ปฏิบัติตามคำสอนของท่านเจ้าเหนือหัวล้วนจะถูกขัดเกลาจนกลายเป็นแบบอย่างแห่งความยุติธรรม... เรื่องนี้เป็นความจริงแท้แน่นอนหรือไม่... อ๊า... อ๊า..."
     },
     {
       "id": 24,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "อ๊าาา... อ๊า... *ฟุดฟิด* จามไม่ออกแฮะ"
     },
     {
       "id": 25,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "......."
     },
     {
       "id": 26,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "เอาเถิด... สิ่งที่ท่านกล่าวมานั้นเป็นความจริงหรือไม่?"
     },
     {
       "id": 27,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ใช่แล้ว จงดำเนินตามวิถีของท่านเจ้าเหนือหัว แล้วความยุติธรรมจะปรากฏในเวลาที่เหมาะสม"
     },
     {
       "id": 28,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "อืม... ข้านึกออกแล้วว่าท่านเจ้าเหนือหัวได้รวบรวมเหล่า Heishou และถ่ายทอดคำสอนเมื่อวันก่อน แม้จะใช้ภาษาที่เรียบง่ายกว่านี้ก็ตาม"
     },
     {
       "id": 29,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "โอ... ท่านกำลังพูดถึงตอนนั้น... ตอนที่พวกข้าชาว Wei ไม่ได้ยินสิ่งใดเลย"
     },
     {
       "id": 30,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "เหมันต์อันโหดร้ายในวันนั้นทำให้หูของพวกข้าแข็งจนแดงก่ำ จนมิอาจได้ยินคำพูดใดๆ เลยแม้แต่คำเดียว..."
     },
     {
       "id": 31,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "... ฉันรู้ว่าแกะแพ้ความหนาว แต่ใส่เสื้อผ้าหลายชั้นขนาดนี้ในสภาพอากาศแบบนี้ คุณไม่รู้สึกร้อนเกินไปหน่อยเหรอ?"
     },
@@ -212,14 +212,14 @@
     {
       "id": 35,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "หนาวเหลือเกิน... หนาวเหลือเกิน... หนาวเสียจนจับใจ"
     },
     {
       "id": 36,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ความเย็นยะเยือกนี้ช่างเกาะกินไปถึงกระดูก... ข้าเกรงว่าในไม่ช้า ข้าคงจะกลายเป็นรูปปั้นน้ำแข็งไปเสียแล้ว..."
     },
@@ -242,14 +242,14 @@
     {
       "id": 41,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "... ข้าได้ค้นพบว่าความทนทานต่อความหนาวของ Wei นั้นต่ำกว่าที่ข้าคาดไว้มาก ข้าได้เรียนรู้สิ่งใหม่ในทุกวันจริงๆ"
     },
     {
       "id": 42,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ข้าขอขอบพระคุณในไมตรีที่ท่านร่วมเผชิญความทุกข์ยากนี้ไปกับข้า... โอ้ ข้าคงไม่ปฏิเสธน้ำชาร้อนๆ สักถ้วยในวันที่เช่นนี้หรอก..."
     },
@@ -268,7 +268,7 @@
     {
       "id": 46,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "*ฟุดฟิด* โอ้! นั่นมัน...!"
     },
@@ -279,7 +279,7 @@
     {
       "id": 48,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "เอ้อ... คือว่า..."
     },
@@ -290,63 +290,63 @@
     {
       "id": 50,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ด-ได้โปรดเถิด จะมีผู้ใจบุญท่านใดพอจะซื้อเกี๊ยวให้ข้าสักห้าลูกได้หรือไม่...? เพียงห้าลูกเท่านั้น..."
     },
     {
       "id": 51,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ซื้อเอาเองสิ"
     },
     {
       "id": 52,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "... เสื้อผ้าเหล่านี้รัดตัวข้าเหลือเกิน ข้ามิอาจเอื้อมมือไปถึงกระเป๋าได้"
     },
     {
       "id": 53,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "จริงแท้แน่นอน หากข้าถอดออกเพียงชั้นเดียว... ข้าคงต้องสิ้นใจด้วยความหนาวเหน็บในทันทีเป็นแน่..."
     },
     {
       "id": 54,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "......."
     },
     {
       "id": 55,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ฉันซื้อให้ได้นะ แต่ไม่คิดว่ามันจะช่วยให้เธอรู้สึกอุ่นขึ้นหรอก"
     },
     {
       "id": 56,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ความร้อนจากอาหารจะถูกลบล้างไปในทันทีด้วยผลของ Wei Bolus"
     },
     {
       "id": 57,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "*สั่น* อะ-อืม ข้ารู้... แต่จิตวิญญาณของข้านั้นจักต้อง... ฮัดเชิ้ว!"
     },
     {
       "id": 58,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ว่าแต่ ท่าน Sir Rooster จักมุ่งหน้าไปที่ใดหรือ?"
     },
@@ -377,7 +377,7 @@
     {
       "id": 63,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "เอ๋...? พวกท่านทุกคนช่างเย็นชาราวกับลมหายใจแห่งเหมันต์... ศึกของพวกเราจักเริ่มต้นขึ้นในยามวิกาล แล้วข้าจักพบกับพวกท่านในตอนนั้น...!"
     },
@@ -392,28 +392,28 @@
     {
       "id": 66,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "...อะแฮ่ม ท่าน Lady Adept... ข้าพเจ้าขอวิงวอนขอความเมตตาจากท่าน..."
     },
     {
       "id": 67,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "......."
     },
     {
       "id": 68,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "หาก... หากห้าชิ้นมันมากเกินไป เช่นนั้นสองชิ้นได้หรือไม่...? ม-ไม่สิ ชิ้นเดียวก็ได้! ขอเพียงท่านซื้อเกี๊ยวให้ข้าพเจ้าเพียงชิ้นเดียว ข้าพเจ้าจักขอบพระคุณท่านเป็นอย่างยิ่ง!"
     },
     {
       "id": 69,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ฉัน... ไม่ใช่คนขี้เหนียวหรอกนะ กินเกี๊ยวตามที่เธอต้องการได้เลย"
     },
@@ -424,77 +424,77 @@
     {
       "id": 72,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "โอ้ ปราสาทนั่น! ช่างยิ่งใหญ่เกินกว่าที่ข้าคาดการณ์ไว้เสียอีก!"
     },
     {
       "id": 73,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "แ-แต่ว่า อากาศยังคงหนาวเหน็บยิ่งนัก... จริงแท้แน่นอน..."
     },
     {
       "id": 74,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ข-ขอท่านโปรดบอกข้าที มีเพียงข้าผู้เดียวหรือที่รู้สึกถึง... ความยะเยือกนี้?"
     },
     {
       "id": 75,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "อากาศร้อนจนแค่เดินนิดเดียวก็รู้สึกหายใจไม่ออก... แต่อยู่ดีๆ ตอนนี้กลับมีหิมะตกซะงั้น"
     },
     {
       "id": 76,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ข้ารู้ว่าการผจญภัยของพวกเราจะเริ่มต้นขึ้นยามราตรี... แต่การพังปราสาทลง <i>ตอนนี้</i> จะเป็นเรื่องที่ชาญฉลาดงั้นหรือ?"
     },
     {
       "id": 77,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ไม่น่าจะมีปัญหาอะไรหรอก ปราสาทหลังนี้... ไม่ใช่เขตที่พักอาศัยที่ได้รับการรับรอง"
     },
     {
       "id": 78,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "มันจะไม่ถูกถือว่าเป็นการละเมิดกฎของ The City Taboo"
     },
     {
       "id": 79,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ช่างน่ายินดียิ่งนัก ที่เหล่าไก่ตัวผู้จะช่วยสกัดกั้น Sweepers เอาไว้..."
     },
     {
       "id": 80,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ทว่าปราสาทที่เกรียงไกรเช่นนี้... ลำพังแกะเพียง 10 ตัว คงมิอาจหวังจะทลายมันลงได้อย่างรวดเร็วเป็นแน่"
     },
     {
       "id": 81,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ไม่ต้องกังวล คุณไม่จำเป็นต้องทำลายปราสาททั้งหลัง เดี๋ยว Mao Branch จะนำทางคุณไปยังกำแพงส่วนที่ต้องพังทลายเอง"
     },
     {
       "id": 82,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "และหากมีความจำเป็น Chou Branch จะเข้ามาช่วยคุณปฏิบัติภารกิจ"
     },
@@ -525,28 +525,28 @@
     {
       "id": 88,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "...มันถูกสร้างขึ้นจากเพียงหิมะและหิน... ทว่ากลับทนทานต่อการโจมตีของพวกเรา ราวกับสิ่งก่อสร้างที่ถูกปกป้องด้วย Singularities เลยทีเดียว"
     },
     {
       "id": 89,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ไม่นึกเลยว่าผู้ที่ไร้ซึ่งตำแหน่งใน Wing หรือบริษัทใดๆ จะครอบครองปราสาทเช่นนี้ และสามารถบงการสภาพอากาศได้ตามใจปรารถนา... เรื่องเช่นนี้เป็นไปได้อย่างไรกัน?"
     },
     {
       "id": 90,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ถูกต้องแล้ว นั่นคือเหตุผลที่นายท่านของพวกเราจำเป็นต้องใช้พวกเขานั่นเอง—"
     },
     {
       "id": 91,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ผู้ใช้ Psychoment"
     },
@@ -565,21 +565,21 @@
     {
       "id": 95,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "...ท่านจะสามารถรับมือกับเรื่องนี้ได้หรือไม่?"
     },
     {
       "id": 96,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "อืม..."
     },
     {
       "id": 97,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "หืมมม..."
     },
@@ -590,28 +590,28 @@
     {
       "id": 99,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "...ข้าคิดเช่นนั้น ขอท่านโปรดแจ้งคำบัญชาของนายท่านให้พวกเราได้รับรู้เถิด!"
     },
     {
       "id": 100,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "ตกลง... นี่คือโองการของนายท่าน"
     },
     {
       "id": 101,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Heishou Pack - Mao Branch Adept",
       "content": "\"เหล่า Heishou แห่งสาขา Wei... จงน้อมรับคำสั่งของผู้ถือสายจูง และจงเปิดทางซะ\""
     },
     {
       "id": 102,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "...!"
     },
@@ -622,7 +622,7 @@
     {
       "id": 104,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ฮึก... ก๊า...!"
     },
@@ -641,14 +641,14 @@
     {
       "id": 108,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "โองการแห่งนายท่าน... กำลังจะมาถึงแล้ว"
     },
     {
       "id": 109,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "จ-จงฟัง...! มันใกล้เข้ามาแล้ว! ร-เราต้องรีบเร่งฝีเท้า!"
     },
@@ -667,7 +667,7 @@
     {
       "id": 113,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "จงรุดหน้า... Battering Ram Horns(衝破角)!"
     },
@@ -680,14 +680,14 @@
     {
       "id": 115,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "จงแหลกสลาย...! *โครม*"
     },
     {
       "id": 116,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "จงถูกบดขยี้...! *โครม*"
     },
@@ -706,14 +706,14 @@
     {
       "id": 120,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ข้าต้องรีบมุ่งหน้าต่อไป..."
     },
     {
       "id": 121,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Heishou Pack - สาขา Wei",
       "content": "ให้ไกลขึ้น... มุ่งหน้าต่อไปให้ไกลยิ่งกว่านี้!"
     }

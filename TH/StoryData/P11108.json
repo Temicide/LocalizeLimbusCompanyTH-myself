@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ดิฉันเตรียมน้ำชาตามที่ท่านต้องการเรียบร้อยแล้วค่ะ ภายในคฤหาสน์ค่อนข้างเย็น โปรดดื่มน้ำชาในขณะที่ยังร้อนอยู่เถอะค่ะ"
     },
@@ -32,7 +32,7 @@
     {
       "id": 6,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ตอนนี้ดิฉันต้องขอตัวลาจากท่าน เพื่อไปเตรียมการต้อนรับแขกที่มีกำหนดการจะเดินทางมาถึงในวันนี้ ขออภัยที่ต้องขอตัวลาค่ะ"
     },
@@ -47,7 +47,7 @@
     {
       "id": 9,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "Chief Butler เลดี้อูทิส"
     },
@@ -58,14 +58,14 @@
     {
       "id": 11,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "อื้ม เฟาสท์"
     },
     {
       "id": 12,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ฉันเชื่อว่าการเตรียมการต้อนรับแขกกำลังดำเนินไปด้วยดีใช่ไหม?"
     },
@@ -80,28 +80,28 @@
     {
       "id": 15,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "ทุกสิ่งที่หัวหน้า Butler ท่าน อูทิส สั่งการ ได้รับการดำเนินการเรียบร้อยแล้วค่ะ"
     },
     {
       "id": 16,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "สิ่งของทุกชิ้นที่ฝากให้ทาง Devyat จัดการ ก็ถูกส่งมาถึงโดยไม่มีการล่าช้า ทุกอย่างพร้อมสำหรับการใช้งานในงานเลี้ยงคืนนี้แล้วค่ะ"
     },
     {
       "id": 17,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "มีประสิทธิภาพเหมือนเดิมเลยนะ"
     },
     {
       "id": 18,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "แต่ฉันจะไม่ให้คำชมเธอหรอกนะ เฟาสท์ เธอคงเข้าใจเหตุผลดีใช่ไหม?"
     },
@@ -116,14 +116,14 @@
     {
       "id": 21,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "ใช่ ความสมบูรณ์แบบเช่นนี้... คือสิ่งที่ถูกคาดหวังจากเหล่า Butler แห่ง Wuthering Heights ผู้ผูกพันกับดินแดนแห่งนี้"
     },
     {
       "id": 22,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ใช่ค่ะ อีกอย่าง..."
     },
@@ -134,21 +134,21 @@
     {
       "id": 24,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "...ในฐานะหนึ่งใน Butler ผู้รับใช้ท่านนายหญิง มันคงเป็นเรื่องน่าอับอายหากจะมอบสิ่งใดที่ต่ำกว่าความยอดเยี่ยมที่สุด"
     },
     {
       "id": 25,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "...รับทราบอย่างครบถ้วน"
     },
     {
       "id": 26,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ดีมาก ฉันจะแจ้งให้ท่านนายหญิงทราบถึงความทุ่มเทของเธอเอง"
     },
@@ -175,42 +175,42 @@
     {
       "id": 32,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ฉันได้ยินมาว่า Chief Butler ของพวกเขาติดต่อเรามา"
     },
     {
       "id": 33,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "คุณคงหมายถึง Chief Butler เลดี้ เรียวชู ที่จากไปเพื่อรับใช้ตระกูล Edgar สินะ"
     },
     {
       "id": 34,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "หึ เธอออกจากคฤหาสน์หลังนี้ไปนานแล้ว ไม่จำเป็นต้องใช้คำยกย่องหรอก"
     },
     {
       "id": 35,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "... Chief Butler เรียวชู บอกเราว่าการล่าหมาป่าใกล้จะเริ่มขึ้นแล้ว"
     },
     {
       "id": 36,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "งั้นรึ เจ้าหมาจรจัดกลับมาในคราบหมาป่า... กลับมาทำให้ Wuthering Heights และชื่อเสียงอันทรงเกียรติของนายหญิงต้องมัวหมองอีกครั้ง ดีเลย จะได้ไม่ต้องลำบากออกไปตามล่าสัตว์ป่าตัวนี้ข้างนอกนั่น"
     },
     {
       "id": 37,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "……."
     },
@@ -221,28 +221,28 @@
     {
       "id": 39,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "... มีปัญหาอะไรกับเรื่องนั้นงั้นเหรอ?"
     },
     {
       "id": 40,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "... เป็นที่ทราบกันดีว่าครั้งหนึ่งหมาป่าตัวนั้นเคยเป็น... คนรู้จักที่ใกล้ชิดมากของผู้อยู่เบื้องหลังการล่าครั้งนี้ ซึ่งก็คือ เรียวชู แห่งตระกูล Edgar"
     },
     {
       "id": 41,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "เฟาสท์ กังวลว่าอารมณ์เช่นนั้นอาจทำให้กลยุทธ์ของเธอไขว้เขว แม้แต่ เฟาสท์ เองก็ไม่เคยประสบกับสถานการณ์เฉพาะแบบนี้มาก่อน"
     },
     {
       "id": 42,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "หึ เรื่องมันง่ายนิดเดียว"
     },
@@ -253,21 +253,21 @@
     {
       "id": 44,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ฉันไม่ได้มีความรู้สึกดีๆ ให้กับคนที่ทิ้งดินแดนแห่งนี้เพื่อไปรับใช้เจ้านายของตัวเองหรอก แต่ถึงอย่างนั้น Chief Butler ก็ยังคงเป็น Chief Butler"
     },
     {
       "id": 45,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "เธอไม่ใช่คนประเภทที่จะมามัวยึดติดกับสายสัมพันธ์เก่าๆ ในเรื่องที่สำคัญขนาดนี้หรอก ไม่เลย เธอจะยังคงจงรักภักดีต่อการล่าครั้งนี้อย่างเต็มที่ เพราะมันคือสิ่งที่เธอต้องทำให้สำเร็จจนถึงที่สุด บางทีมันอาจจะช่วยปลุกปั้นความทุ่มเทที่ยิ่งใหญ่กว่าเดิมในตัวเธอขึ้นมาก็ได้"
     },
     {
       "id": 46,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "...รับทราบ"
     },
@@ -282,21 +282,21 @@
     {
       "id": 49,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "น่าสนใจ แล้วทั้งหมดนี้มีไว้เพื่ออะไรกัน?"
     },
     {
       "id": 50,
       "model": "파우스트",
-      "teller": "เฟาสท์",
+      "teller": "Faust",
       "title": "Wuthering Heights",
       "content": "...มีแขกที่ไม่ได้รับเชิญมาถึงก่อนเริ่มงานเลี้ยงค่ะ เหล่า Butler จึงเตรียมพร้อมที่จะรับมือกับผู้บุกรุก"
     },
     {
       "id": 51,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "ดีมาก... งั้นเรามาใช้โอกาสนี้เป็นการวอร์มอัพก่อนเริ่มการล่ากันเถอะ"
     },
@@ -311,14 +311,14 @@
     {
       "id": 54,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "อ่า ต้องขออภัยที่ต้อนรับล่าช้านะคะ ท่านผู้มาเยือนที่รัก"
     },
     {
       "id": 55,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "แม้ว่ามันอาจจะดูเสียมารยาทไปสักหน่อยที่ฉันต้องแนะนำแบบนี้ แต่ฉันจำเป็นต้องแจ้งให้ทราบว่า ขณะนี้ทางคฤหาสน์ไม่เปิดรับแขกที่ไม่ได้รับเชิญค่ะ"
     },
@@ -333,7 +333,7 @@
     {
       "id": 58,
       "model": "오티스",
-      "teller": "อูทิส",
+      "teller": "Outis",
       "title": "Wuthering Heights",
       "content": "เอาละ เหล่าแขกที่ไม่ได้รับเชิญทั้งหลาย... ช่วยกรุณาออกไปจากพื้นที่นี้ด้วยเถอะค่ะ"
     }

@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "อา! เชิญท่านก้าวเข้ามาทางนี้เถิด!"
     },
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "ท่านกำลังเรียนรู้อยู่อย่างไรเล่า ในวินาทีนี้เลยเชียว!"
     },
@@ -47,7 +47,7 @@
     {
       "id": 8,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "จุ๊ จุ๊ ท่านนี่ยังไม่เข้าใจอะไรเอาเสียเลย!"
     },
@@ -58,7 +58,7 @@
     {
       "id": 10,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "ข้าขอถามท่าน! ท่านคิดว่าหน้าที่หลักของ Cinq Association คือสิ่งใดกันรึ?"
     },
@@ -77,7 +77,7 @@
     {
       "id": 13,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "ฮ่า ฮ่า! จริงแท้แน่นอน ท่านยังมิตระหนักถึงแก่นแท้สินะ!"
     },
@@ -102,7 +102,7 @@
     {
       "id": 17,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "อะแฮ่ม! ขึม..."
     },
@@ -113,7 +113,7 @@
     {
       "id": 19,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "หามิได้... แน่นอนอยู่แล้ว ข้าขอบอกเลยว่า แรงจูงใจของข้านั้นเป็นเรื่องที่เน้นการใช้งานจริงเสียมากกว่า"
     },
@@ -134,7 +134,7 @@
     {
       "id": 23,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "มิใช่! ข้าได้ส่งต่อคำร้องที่มีอยู่ทั้งหมดให้แก่สมาชิกคนอื่นๆ ของ Association ไปสิ้นแล้ว"
     },
@@ -147,14 +147,14 @@
     {
       "id": 25,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "ท่านเห็นหรือยังเล่า? เรื่องวุ่นวายเช่นนี้ช่างเป็นเหตุการณ์ที่พบเห็นได้ดาษดื่นยิ่งนักในตรอกเหล่านี้"
     },
     {
       "id": 26,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "เพราะฉะนั้น~"
     },
@@ -179,7 +179,7 @@
     {
       "id": 30,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "เอาละ เอาละ สงบสติอารมณ์ของพวกเจ้าก่อน! ไหนจงอธิบายมาสิ—ว่าเกิดเรื่องอันใดขึ้นที่นี่?"
     },
@@ -190,7 +190,7 @@
     {
       "id": 32,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "อะแฮ่ม เช่นนั้นผู้ว่าจ้างของข้าก็ได้ถูกตัดสินแล้ว!"
     },
@@ -201,14 +201,14 @@
     {
       "id": 34,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "การจะขอท้าประลองอย่างเป็นทางการนั้น ย่อมมีกฎเกณฑ์และมารยาทที่พึงกระทำ!"
     },
     {
       "id": 35,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "ข้ามิอาจให้อภัยเจ้าได้ เจ้าคนพาล ผู้ซึ่งตะโกนโวยวายโดยมิสนหัวกฎเกณฑ์เช่นนี้!"
     },
@@ -221,14 +221,14 @@
     {
       "id": 37,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "อนิจจา ข้าล่ะสงสัยนักว่าส่วนใดในคำขอประลองอันทรงเกียรตินี้ที่ทำให้เจ้าขุ่นเคืองใจได้ถึงเพียงนี้"
     },
     {
       "id": 38,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "บัดนี้ ถอยไปก่อนเถิด ท่านผู้สัมภาษณ์!"
     },
@@ -239,7 +239,7 @@
     {
       "id": 40,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "Allez!"
     },
@@ -256,7 +256,7 @@
     {
       "id": 43,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "เรื่องเพียงเท่านี้มิเห็นมีอันใดน่าตกใจ อ้อ... จงจ่ายค่าจ้างสำหรับคำไหว้วานมาตามที่อยู่นี้เถิด"
     },
@@ -267,21 +267,21 @@
     {
       "id": 45,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "เหล่าวีรบุรุษผู้ต่อสู้ในนามแห่งความยุติธรรม... จริงอยู่ที่แนวคิดเช่นนั้นอาจดูเหมือนเรื่องเพ้อฝันของเด็กน้อยใน The City"
     },
     {
       "id": 46,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "ทว่า หากกระทำในรูปแบบของ \"ธุรกิจ\" เช่นนี้แล้ว พวกเขาย่อมถือว่ามันเป็นผลลัพธ์ที่จับต้องได้และมีค่าควรแก่การนับผล"
     },
     {
       "id": 47,
       "model": "돈키호테",
-      "teller": "ดอนกิโฮเต้",
+      "teller": "Don Quixote",
       "title": "Cinq Section 5 Director",
       "content": "และนั่นคือการประนีประนอมของข้าพเจ้า ท่านว่าอย่างไรเล่า มันยังเป็นเพียงความเพ้อฝันของเด็กน้อยอยู่อีกหรือไม่?"
     },
