@@ -1,0 +1,7064 @@
+{
+  "tellers": {
+    "Yuri": {
+      "th": "Yuri",
+      "count": 101,
+      "total": 101,
+      "confidence": 1.0
+    },
+    "Hopkins": {
+      "th": "Hopkins",
+      "count": 28,
+      "total": 28,
+      "confidence": 1.0
+    },
+    "Aya": {
+      "th": "Aya",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Decrepit G Corp. Head Manager": {
+      "th": "Decrepit G Corp. Head Manager",
+      "count": 8,
+      "total": 14,
+      "confidence": 0.57
+    },
+    "???": {
+      "th": "???",
+      "count": 992,
+      "total": 992,
+      "confidence": 1.0
+    },
+    "Announcement": {
+      "th": "ประกาศ",
+      "count": 50,
+      "total": 50,
+      "confidence": 1.0
+    },
+    "Alex": {
+      "th": "Alex",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Statuehead": {
+      "th": "Statuehead",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Tomah": {
+      "th": "Tomah",
+      "count": 19,
+      "total": 19,
+      "confidence": 1.0
+    },
+    "Disgruntled Citizen": {
+      "th": "พลเมืองผู้ไม่พอใจ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Kind Citizen": {
+      "th": "พลเมืองผู้ใจดี",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Security Guard": {
+      "th": "Security Guard",
+      "count": 2,
+      "total": 3,
+      "confidence": 0.67
+    },
+    "Hermann": {
+      "th": "Hermann",
+      "count": 74,
+      "total": 74,
+      "confidence": 1.0
+    },
+    "Gubo": {
+      "th": "Gubo",
+      "count": 24,
+      "total": 24,
+      "confidence": 1.0
+    },
+    "Jia Huan": {
+      "th": "Jia Huan",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Captive Debtor": {
+      "th": "Captive Debtor",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Rigid Security": {
+      "th": "Rigid Security",
+      "count": 7,
+      "total": 8,
+      "confidence": 0.88
+    },
+    "You Want To Get Beat? Hurtily?": {
+      "th": "อยากโดนอัดเหรอ? เอาแบบเจ็บๆ เลยไหม?",
+      "count": 5,
+      "total": 8,
+      "confidence": 0.62
+    },
+    "Sonya": {
+      "th": "Sonya",
+      "count": 110,
+      "total": 110,
+      "confidence": 1.0
+    },
+    "Wicked Tax Collector": {
+      "th": "Wicked Tax Collector",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Resident": {
+      "th": "Resident",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Saude": {
+      "th": "Saude",
+      "count": 83,
+      "total": 83,
+      "confidence": 1.0
+    },
+    "Guido": {
+      "th": "Guido",
+      "count": 41,
+      "total": 41,
+      "confidence": 1.0
+    },
+    "Corroded Inquisitor": {
+      "th": "Corroded Inquisitor",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Kromer": {
+      "th": "Kromer",
+      "count": 143,
+      "total": 143,
+      "confidence": 1.0
+    },
+    "An Inquisitor": {
+      "th": "An Inquisitor",
+      "count": 4,
+      "total": 5,
+      "confidence": 0.8
+    },
+    "Fellow Inquisitor": {
+      "th": "Fellow Inquisitor",
+      "count": 4,
+      "total": 8,
+      "confidence": 0.5
+    },
+    "Reminisced Classmate": {
+      "th": "เพื่อนร่วมชั้นในความทรงจำ",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Reminisced Schoolmate": {
+      "th": "เพื่อนนักเรียนในความทรงจำ",
+      "count": 1,
+      "total": 2,
+      "confidence": 0.5
+    },
+    "Demian": {
+      "th": "Demian",
+      "count": 78,
+      "total": 78,
+      "confidence": 1.0
+    },
+    "Sister": {
+      "th": "พี่สาว",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Father": {
+      "th": "ท่านพ่อ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Dongbaek": {
+      "th": "Dongbaek",
+      "count": 141,
+      "total": 141,
+      "confidence": 1.0
+    },
+    "Dongrang": {
+      "th": "Dongrang",
+      "count": 416,
+      "total": 416,
+      "confidence": 1.0
+    },
+    "Sang Yi": {
+      "th": "Sang Yi",
+      "count": 45,
+      "total": 45,
+      "confidence": 1.0
+    },
+    "Unknown Boy": {
+      "th": "เด็กชายปริศนา",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Stephanette": {
+      "th": "Stephanette",
+      "count": 20,
+      "total": 20,
+      "confidence": 1.0
+    },
+    "Class 4 Collector": {
+      "th": "Collector ระดับ 4",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Class 2 Collector": {
+      "th": "Collector ระดับ 2",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Prudish K Corp. Executive": {
+      "th": "Prudish Executive แห่ง K Corp.",
+      "count": 2,
+      "total": 5,
+      "confidence": 0.4
+    },
+    "Alfonso": {
+      "th": "Alfonso",
+      "count": 43,
+      "total": 43,
+      "confidence": 1.0
+    },
+    "Impulsive K Corp. Executive": {
+      "th": "Executive ผู้หุนหันพลันแล่น K Corp",
+      "count": 4,
+      "total": 5,
+      "confidence": 0.8
+    },
+    "Class 3 Collector": {
+      "th": "Collector ระดับ 3",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Dongrang, Who Denies All": {
+      "th": "Dongrang ผู้ปฏิเสธทุกสรรพสิ่ง",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Deranged Employee": {
+      "th": "พนักงานสติหลุด",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Indigo Elder": {
+      "th": "The Indigo Elder",
+      "count": 46,
+      "total": 46,
+      "confidence": 1.0
+    },
+    "Captain?": {
+      "th": "Captain?",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Blinded Pequod Town Villager": {
+      "th": "ชาวบ้าน Pequod Town ผู้มืดบอด",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Gagged Pequod Town Villager": {
+      "th": "ชาวบ้าน Pequod Town ผู้ถูกปิดปาก",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Queequeg": {
+      "th": "Queequeg",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Hanging Villager": {
+      "th": "ชาวบ้านที่ถูกแขวนคอ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Despairing Villager": {
+      "th": "ชาวบ้านผู้สิ้นหวัง",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Falling Villager": {
+      "th": "ชาวบ้านที่กำลังร่วงหล่น",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Shocked Villager": {
+      "th": "ชาวบ้านที่กำลังตื่นตระหนก",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Hesitating Villager": {
+      "th": "ชาวบ้านที่ลังเล",
+      "count": 2,
+      "total": 3,
+      "confidence": 0.67
+    },
+    "Ahab": {
+      "th": "Ahab",
+      "count": 30,
+      "total": 30,
+      "confidence": 1.0
+    },
+    "Defiant Bloodfiend": {
+      "th": "Bloodfiend ผู้ดื้อรั้น",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corroded Bloodfiend": {
+      "th": "Corroded Bloodfiend",
+      "count": 18,
+      "total": 25,
+      "confidence": 0.72
+    },
+    "Camille?": {
+      "th": "Camille?",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Townsfolk": {
+      "th": "Townsfolk",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Horrified Bloodfiend": {
+      "th": "Horrified Bloodfiend",
+      "count": 3,
+      "total": 5,
+      "confidence": 0.6
+    },
+    "Don Quixote?": {
+      "th": "Don Quixote?",
+      "count": 32,
+      "total": 32,
+      "confidence": 1.0
+    },
+    "Genuflecting Bloodfiend": {
+      "th": "คุกเข่าคำนับ Bloodfiend",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Sancho": {
+      "th": "Sancho",
+      "count": 22,
+      "total": 22,
+      "confidence": 1.0
+    },
+    "Quixote": {
+      "th": "Quixote",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Don Quixote": {
+      "th": "Don Quixote",
+      "count": 152,
+      "total": 152,
+      "confidence": 1.0
+    },
+    "Rocinante": {
+      "th": "Rocinante",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Relative": {
+      "th": "Relative",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Relative's Child": {
+      "th": "Relative's Child",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Cool-headed Clan Member": {
+      "th": "สมาชิกตระกูลผู้เยือกเย็น",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Anxious Clan Member": {
+      "th": "สมาชิกตระกูลผู้ลนลาน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The Elders": {
+      "th": "The Elders",
+      "count": 10,
+      "total": 12,
+      "confidence": 0.83
+    },
+    "Sinners": {
+      "th": "Sinners",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Stephan": {
+      "th": "Stephan",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Leader": {
+      "th": "ผู้นำ",
+      "count": 1,
+      "total": 2,
+      "confidence": 0.5
+    },
+    "Magical Girl?": {
+      "th": "Magical Girl?",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Magical Girl": {
+      "th": "Magical Girl",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "The Queen of Hatred": {
+      "th": "The Queen of Hatred",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Samjo": {
+      "th": "Samjo",
+      "count": 136,
+      "total": 136,
+      "confidence": 1.0
+    },
+    "Bodhisattva Chicken’s Manager": {
+      "th": "Manager ร้าน Bodhisattva Chicken",
+      "count": 5,
+      "total": 15,
+      "confidence": 0.33
+    },
+    "Nest Resident": {
+      "th": "ชาวเมือง Nest",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Eunbong’s Bar & Fryers Owner?": {
+      "th": "เจ้าของร้าน Eunbong’s Bar & Fryers?",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Chicken-headed K Corp. Security": {
+      "th": "หน่วยรักษาความปลอดภัย K Corp หัวไก่",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Gregor & Ryōshū": {
+      "th": "Gregor & Ryōshū",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Raw Chicken": {
+      "th": "ไก่ดิบ",
+      "count": 2,
+      "total": 3,
+      "confidence": 0.67
+    },
+    "Heathcliff?": {
+      "th": "Heathcliff?",
+      "count": 72,
+      "total": 72,
+      "confidence": 1.0
+    },
+    "Chickenhead": {
+      "th": "Chickenhead",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Eunbong’s Bar & Fryers Owner": {
+      "th": "เจ้าของร้าน Eunbong’s Bar & Fryers",
+      "count": 46,
+      "total": 49,
+      "confidence": 0.94
+    },
+    "Owner’s Momma": {
+      "th": "แม่ของเจ้าของร้าน",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Mika": {
+      "th": "Mika",
+      "count": 45,
+      "total": 45,
+      "confidence": 1.0
+    },
+    "Rain": {
+      "th": "Rain",
+      "count": 34,
+      "total": 34,
+      "confidence": 1.0
+    },
+    "King Trash Crab": {
+      "th": "King Trash Crab",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Olga": {
+      "th": "Olga",
+      "count": 33,
+      "total": 33,
+      "confidence": 1.0
+    },
+    "Trash Crabs": {
+      "th": "Trash Crabs",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Cherry Gnome": {
+      "th": "Cherry Gnome",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Leafy Gnome": {
+      "th": "Leafy Gnome",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Shadowy Gnome": {
+      "th": "Shadowy Gnome",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Caiman": {
+      "th": "Caiman",
+      "count": 35,
+      "total": 35,
+      "confidence": 1.0
+    },
+    "Aeng-du": {
+      "th": "Aeng-du",
+      "count": 100,
+      "total": 100,
+      "confidence": 1.0
+    },
+    "Defeated Henchman": {
+      "th": "Henchman ที่พ่ายแพ้",
+      "count": 1,
+      "total": 2,
+      "confidence": 0.5
+    },
+    "Radio": {
+      "th": "วิทยุ",
+      "count": 63,
+      "total": 72,
+      "confidence": 0.88
+    },
+    "Jun": {
+      "th": "Jun",
+      "count": 36,
+      "total": 36,
+      "confidence": 1.0
+    },
+    "Bamboo-hatted Kim?": {
+      "th": "Bamboo-hatted Kim?",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Bamboo-hatted Kim": {
+      "th": "Bamboo-hatted Kim",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "Ezra": {
+      "th": "Ezra",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Reticent Employee": {
+      "th": "พนักงานผู้เงียบขรึม",
+      "count": 11,
+      "total": 20,
+      "confidence": 0.55
+    },
+    "Brisk Employee": {
+      "th": "Employee ผู้กระตือรือร้น",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Class 2 Collection Staff": {
+      "th": "Class 2 Collection Staff",
+      "count": 12,
+      "total": 30,
+      "confidence": 0.4
+    },
+    "Don Quixote & T Corp. Staff": {
+      "th": "Don Quixote & T Corp. Staff",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Class 4 Collection Staff": {
+      "th": "Class 4 Collection Staff",
+      "count": 7,
+      "total": 18,
+      "confidence": 0.39
+    },
+    "Class 2 Clerical Staff": {
+      "th": "Clerical Staff ระดับ 2",
+      "count": 7,
+      "total": 10,
+      "confidence": 0.7
+    },
+    "Employee?": {
+      "th": "พนักงาน?",
+      "count": 9,
+      "total": 16,
+      "confidence": 0.56
+    },
+    "Class 5 Audit Staff?": {
+      "th": "พนักงานตรวจสอบระดับ 5 งั้นเหรอ?",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Mai": {
+      "th": "Mai",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Assistant": {
+      "th": "Assistant",
+      "count": 92,
+      "total": 108,
+      "confidence": 0.85
+    },
+    "Watch Factory Owner": {
+      "th": "เจ้าของโรงงานนาฬิกา",
+      "count": 3,
+      "total": 4,
+      "confidence": 0.75
+    },
+    "Bumble": {
+      "th": "Bumble",
+      "count": 40,
+      "total": 40,
+      "confidence": 1.0
+    },
+    "Factory Laborer": {
+      "th": "Factory Laborer",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Passerby": {
+      "th": "คนเดินถนน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Meticulous Activist": {
+      "th": "นักกิจกรรมผู้ละเอียดรอบคอบ",
+      "count": 1,
+      "total": 2,
+      "confidence": 0.5
+    },
+    "Aggressive Activist": {
+      "th": "นักกิจกรรมผู้ก้าวร้าว",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Fainted Activist": {
+      "th": "Activist ที่สลบอยู่",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Fleeing Activist": {
+      "th": "นักเคลื่อนไหวที่กำลังหลบหนี",
+      "count": 4,
+      "total": 5,
+      "confidence": 0.8
+    },
+    "Irate Activist": {
+      "th": "นักเคลื่อนไหวผู้โกรธเกรี้ยว",
+      "count": 4,
+      "total": 8,
+      "confidence": 0.5
+    },
+    "T Corp. Reporter": {
+      "th": "T Corp. Reporter",
+      "count": 2,
+      "total": 4,
+      "confidence": 0.5
+    },
+    "Chief Executive?": {
+      "th": "Chief Executive?",
+      "count": 23,
+      "total": 25,
+      "confidence": 0.92
+    },
+    "Younger Brother": {
+      "th": "น้องชาย",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Candy-suckling T Corp. Citizen": {
+      "th": "T Corp อมลูกกวาด. Citizen",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Listless T Corp. Citizen": {
+      "th": "พลเมือง T Corp ผู้เฉื่อยชา",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "T Corp. Watch Factory Owner": {
+      "th": "เจ้าของโรงงานนาฬิกา T Corp",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Fixer from the North": {
+      "th": "Fixer จากทางเหนือ",
+      "count": 6,
+      "total": 7,
+      "confidence": 0.86
+    },
+    "Train Announcer": {
+      "th": "Train Announcer",
+      "count": 2,
+      "total": 3,
+      "confidence": 0.67
+    },
+    "Sasha": {
+      "th": "Sasha",
+      "count": 60,
+      "total": 60,
+      "confidence": 1.0
+    },
+    "Rattled Passenger": {
+      "th": "ผู้โดยสารที่ขวัญเสีย",
+      "count": 1,
+      "total": 2,
+      "confidence": 0.5
+    },
+    "Unhinged Passenger": {
+      "th": "ผู้โดยสารที่เสียสติ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Curious Child": {
+      "th": "เด็กน้อยขี้สงสัย",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Cleanup Agent": {
+      "th": "Cleanup Agent",
+      "count": 16,
+      "total": 16,
+      "confidence": 1.0
+    },
+    "Cassetti": {
+      "th": "Cassetti",
+      "count": 63,
+      "total": 63,
+      "confidence": 1.0
+    },
+    "Bloodbags": {
+      "th": "Bloodbags",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Faust & Vergilius": {
+      "th": "Faust & Vergilius",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Johann": {
+      "th": "Johann",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Shan San": {
+      "th": "Shan San",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Singing Voice": {
+      "th": "เสียงเพลง",
+      "count": 2,
+      "total": 3,
+      "confidence": 0.67
+    },
+    "Sweeper": {
+      "th": "Sweeper",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Ricardo": {
+      "th": "Ricardo",
+      "count": 40,
+      "total": 40,
+      "confidence": 1.0
+    },
+    "Jia Qiu": {
+      "th": "Jia Qiu",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Zilu": {
+      "th": "Zilu",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Werner": {
+      "th": "Werner",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Zigong": {
+      "th": "Zigong",
+      "count": 23,
+      "total": 23,
+      "confidence": 1.0
+    },
+    "Flustered Board Member": {
+      "th": "Board Member ผู้ลนลาน",
+      "count": 3,
+      "total": 4,
+      "confidence": 0.75
+    },
+    "Obsequious Board Member": {
+      "th": "Board Member ผู้ประจบสอพลอ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Shi Huazhen": {
+      "th": "Shi Huazhen",
+      "count": 19,
+      "total": 19,
+      "confidence": 1.0
+    },
+    "Sinclair & Jia Xichun": {
+      "th": "Sinclair & Jia Xichun",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wei?": {
+      "th": "Wei?",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Benoît": {
+      "th": "Benoît",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Ishmael": {
+      "th": "Ishmael",
+      "count": 142,
+      "total": 142,
+      "confidence": 1.0
+    },
+    "Outis": {
+      "th": "Outis",
+      "count": 167,
+      "total": 167,
+      "confidence": 1.0
+    },
+    "Rodya": {
+      "th": "Rodya",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Saru": {
+      "th": "Saru",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Instructor": {
+      "th": "ผู้ฝึกสอน",
+      "count": 6,
+      "total": 8,
+      "confidence": 0.75
+    },
+    "Miffed Child": {
+      "th": "Miffed Child",
+      "count": 3,
+      "total": 4,
+      "confidence": 0.75
+    },
+    "Picky Child": {
+      "th": "Picky Child",
+      "count": 1,
+      "total": 2,
+      "confidence": 0.5
+    },
+    "Araya": {
+      "th": "Araya",
+      "count": 41,
+      "total": 41,
+      "confidence": 1.0
+    },
+    "Anonymous": {
+      "th": "Anonymous",
+      "count": 46,
+      "total": 52,
+      "confidence": 0.88
+    },
+    "Sinner #1": {
+      "th": "Sinner #1",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Yi Sang & Sinclair": {
+      "th": "Yi Sang & Sinclair",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Preoccupied Coworker": {
+      "th": "Preoccupied Coworker",
+      "count": 3,
+      "total": 5,
+      "confidence": 0.6
+    },
+    "Yi Sang": {
+      "th": "Yi Sang",
+      "count": 186,
+      "total": 186,
+      "confidence": 1.0
+    },
+    "Diligent Member": {
+      "th": "สมาชิกผู้ขยันขันแข็ง",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Captured Thief": {
+      "th": "หัวขโมยที่ถูกจับ",
+      "count": 6,
+      "total": 12,
+      "confidence": 0.5
+    },
+    "Sailors": {
+      "th": "เหล่ากะลาสี",
+      "count": 7,
+      "total": 8,
+      "confidence": 0.88
+    },
+    "Confused Sailor": {
+      "th": "กะลาสีผู้สับสน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Flabbergasted Sailor": {
+      "th": "กะลาสีผู้อึ้งกิมกี่",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Ryōshū": {
+      "th": "Ryōshū",
+      "count": 176,
+      "total": 176,
+      "confidence": 1.0
+    },
+    "Researcher": {
+      "th": "Researcher",
+      "count": 28,
+      "total": 34,
+      "confidence": 0.82
+    },
+    "@!($&$2w!": {
+      "th": "@!($&$2w!",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Man Tied to a Chair": {
+      "th": "ชายที่ถูกมัดกับเก้าอี้",
+      "count": 24,
+      "total": 50,
+      "confidence": 0.48
+    },
+    "Faust": {
+      "th": "Faust",
+      "count": 222,
+      "total": 222,
+      "confidence": 1.0
+    },
+    "Rodion": {
+      "th": "Rodion",
+      "count": 178,
+      "total": 178,
+      "confidence": 1.0
+    },
+    "Sinclair": {
+      "th": "Sinclair",
+      "count": 103,
+      "total": 103,
+      "confidence": 1.0
+    },
+    "Shady Dealer": {
+      "th": "พ่อค้าหน้าเลือด",
+      "count": 4,
+      "total": 6,
+      "confidence": 0.67
+    },
+    "The Client": {
+      "th": "The Client",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Jacob": {
+      "th": "Jacob",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Prosthetic Fixer": {
+      "th": "Prosthetic Fixer",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Henchman": {
+      "th": "ลูกสมุน",
+      "count": 4,
+      "total": 7,
+      "confidence": 0.57
+    },
+    "Novice Researcher": {
+      "th": "นักวิจัยหน้าใหม่",
+      "count": 16,
+      "total": 30,
+      "confidence": 0.53
+    },
+    "Interviewer": {
+      "th": "ผู้สัมภาษณ์",
+      "count": 102,
+      "total": 131,
+      "confidence": 0.78
+    },
+    "Faint-hearted Messenger": {
+      "th": "Messenger ผู้ขวัญอ่อน",
+      "count": 22,
+      "total": 22,
+      "confidence": 1.0
+    },
+    "Tailor": {
+      "th": "Tailor",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Stern Inquisitor": {
+      "th": "Stern Inquisitor",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Solemn Inquisitor": {
+      "th": "Solemn Inquisitor",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Captive Prosthesis": {
+      "th": "Captive Prosthesis",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Terrified Prosthesis": {
+      "th": "Terrified Prosthesis",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Fight Spectator": {
+      "th": "ผู้ชมการต่อสู้",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Bullied Citizen": {
+      "th": "พลเมืองผู้ถูกรังแก",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Agitated Citizen": {
+      "th": "พลเมืองผู้เกรี้ยวกราด",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Tired Little Brother": {
+      "th": "Little Brother ผู้เหนื่อยหน่าย",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Chill Little Brother": {
+      "th": "Little Brother ผู้ใจเย็น",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Big Brother": {
+      "th": "พี่ชาย",
+      "count": 41,
+      "total": 61,
+      "confidence": 0.67
+    },
+    "The Big Brother": {
+      "th": "พี่ใหญ่",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Little Brothers": {
+      "th": "พี่น้องตัวน้อย",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Time Tax Evader": {
+      "th": "ภาษีเวลา Evader",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Gamefowl": {
+      "th": "Gamefowl",
+      "count": 3,
+      "total": 6,
+      "confidence": 0.5
+    },
+    "Oxlord": {
+      "th": "Oxlord",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Pack of Sheep": {
+      "th": "Pack of Sheep",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Curious Coworker": {
+      "th": "เพื่อนร่วมงานผู้ขี้สงสัย",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Hosa": {
+      "th": "Hosa",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "New Hires": {
+      "th": "พนักงานใหม่",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Frail Pirate": {
+      "th": "Frail Pirate",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Timid Junior Butler": {
+      "th": "Timid Junior Butler",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Scared Junior Butler": {
+      "th": "Scared Junior Butler",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Merchant": {
+      "th": "Merchant",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Hong Lu": {
+      "th": "Hong Lu",
+      "count": 84,
+      "total": 84,
+      "confidence": 1.0
+    },
+    "Another Hare": {
+      "th": "กระต่ายอีกตัว",
+      "count": 18,
+      "total": 18,
+      "confidence": 1.0
+    },
+    "Old Lady": {
+      "th": "Old Lady",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "Vera": {
+      "th": "Vera",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Clumsy Newcomer": {
+      "th": "เด็กใหม่จอมซุ่มซ่าม",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Irked Teammate": {
+      "th": "เพื่อนร่วมทีมที่หงุดหงิด",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Faithful Inquisitor": {
+      "th": "Faithful Inquisitor",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Meursault": {
+      "th": "Meursault",
+      "count": 204,
+      "total": 204,
+      "confidence": 1.0
+    },
+    "Angry Employee": {
+      "th": "พนักงานขี้โมโห",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Mooching Employee": {
+      "th": "พนักงานจอมเนียน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Imploring Employee": {
+      "th": "พนักงานผู้อ้อนวอน",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Friendly Little Brother": {
+      "th": "น้องชายผู้น่ารัก",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Smooth Little Brother": {
+      "th": "น้องชายผู้ราบรื่น",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Second State Councilor": {
+      "th": "Second State Councilor",
+      "count": 21,
+      "total": 21,
+      "confidence": 1.0
+    },
+    "Third State Councilor": {
+      "th": "สมาชิกสภาแห่งรัฐลำดับที่ 3",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Challenger": {
+      "th": "ผู้ท้าชิง",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Maman": {
+      "th": "Maman",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "The Princess": {
+      "th": "The Princess",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Squire": {
+      "th": "Squire",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Terrified Human": {
+      "th": "มนุษย์ที่หวาดผวา",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Amber": {
+      "th": "Amber",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "Kashira": {
+      "th": "Kashira",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Disciplined Lackey": {
+      "th": "Disciplined Lackey",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Wincing Intruder": {
+      "th": "Wincing Intruder",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Excision Management Staff": {
+      "th": "Excision Management Staff",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Tense Colleague": {
+      "th": "เพื่อนร่วมงานผู้ตึงเครียด",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "Bloodfiend": {
+      "th": "Bloodfiend",
+      "count": 20,
+      "total": 20,
+      "confidence": 1.0
+    },
+    "Commander": {
+      "th": "ผู้บัญชาการ",
+      "count": 32,
+      "total": 32,
+      "confidence": 1.0
+    },
+    "Backstreets Resident Going Insane": {
+      "th": "ผู้อยู่อาศัยของ Backstreets กำลังเสียสติ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Insane Backstreets Resident": {
+      "th": "Resident ผู้คลุ้มคลั่ง Backstreets",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Jia Baoyu": {
+      "th": "Jia Baoyu",
+      "count": 68,
+      "total": 68,
+      "confidence": 1.0
+    },
+    "Chronicler": {
+      "th": "ผู้บันทึก",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Elder in a Jar": {
+      "th": "ผู้อาวุโสในโหลแก้ว",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Elder in Monk Robes": {
+      "th": "ผู้อาวุโสในชุดจีวร",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Elder in a Machine": {
+      "th": "ผู้อาวุโสในเครื่องจักร",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Fearful Employee": {
+      "th": "พนักงานผู้หวาดกลัว",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Leading Inquisitor": {
+      "th": "Leading Inquisitor",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Heathcliff": {
+      "th": "Heathcliff",
+      "count": 112,
+      "total": 112,
+      "confidence": 1.0
+    },
+    "Terrified Party": {
+      "th": "ฝ่ายที่กำลังหวาดกลัว",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Angry Party": {
+      "th": "ฝ่ายที่กำลังโกรธ",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Fixer Colleague": {
+      "th": "Fixer เพื่อนร่วมงาน",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Nekomata Mafia Henchman": {
+      "th": "Nekomata Mafia Henchman",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Tepuu Family Henchman": {
+      "th": "Tepuu Family Henchman",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Knots Henchman": {
+      "th": "The Knots Henchman",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Assassin": {
+      "th": "Assassin",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Hare": {
+      "th": "Hare",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Panicking Colleague": {
+      "th": "เพื่อนร่วมงานที่กำลังตื่นตระหนก",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Anxious Colleague": {
+      "th": "เพื่อนร่วมงานที่วิตกกังวล",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Kind Restaurant Owner": {
+      "th": "เจ้าของร้านผู้ใจดี",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Puny Thug": {
+      "th": "นักเลงกระจอก",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Panicked Thug": {
+      "th": "Thug ที่ตื่นตระหนก",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Fearful Thug": {
+      "th": "Thug ที่หวาดกลัว",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Thundering Sailor": {
+      "th": "Thundering Sailor",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Butler Colleague": {
+      "th": "เพื่อนร่วมงาน Butler",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Gregor": {
+      "th": "Gregor",
+      "count": 192,
+      "total": 192,
+      "confidence": 1.0
+    },
+    "Fixer on the Podium": {
+      "th": "Fixer บนโพเดียม",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Disgruntled Colleague": {
+      "th": "เพื่อนร่วมงานที่หงุดหงิด",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Whiny Colleague": {
+      "th": "เพื่อนร่วมงานที่ขี้บ่น",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Terrified Citizen": {
+      "th": "พลเมืองผู้หวาดกลัว",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Monster of the Tunnels": {
+      "th": "Monster แห่งอุโมงค์",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Underling": {
+      "th": "ลูกน้อง",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Loudmouthed Gambler": {
+      "th": "นักพนันปากดี",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Grumbling Gambler": {
+      "th": "นักพนันขี้บ่น",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Loudmouthed & Grumbling Gamblers": {
+      "th": "เหล่านักพนันจอมโวยวายและขี้บ่น",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Little Brother": {
+      "th": "น้องชาย",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Strict Junior": {
+      "th": "รุ่นพี่จอมเฮี้ยบ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Another Colleague": {
+      "th": "เพื่อนร่วมงานอีกคน",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Concerned Employee": {
+      "th": "พนักงานผู้กังวล",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Clumsy VIP": {
+      "th": "VIP จอมซุ่มซ่าม",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Backstreets Inventor": {
+      "th": "Backstreets Inventor",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Poludnitsa": {
+      "th": "Poludnitsa",
+      "count": 18,
+      "total": 18,
+      "confidence": 1.0
+    },
+    "Thief": {
+      "th": "หัวขโมย",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Fearful Villager": {
+      "th": "ชาวบ้านผู้หวาดกลัว",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Defiant Villager": {
+      "th": "ชาวบ้านผู้ดื้อรั้น",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Child": {
+      "th": "เด็กน้อย",
+      "count": 6,
+      "total": 8,
+      "confidence": 0.75
+    },
+    "Tactless Employee": {
+      "th": "พนักงานผู้ไร้มารยาท",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Finicky Student": {
+      "th": "นักเรียนจู้จี้",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Meticulous Student": {
+      "th": "นักเรียนเจ้าระเบียบ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Fellow Docent": {
+      "th": "เพื่อน Docent",
+      "count": 18,
+      "total": 18,
+      "confidence": 1.0
+    },
+    "Mariachi Novato": {
+      "th": "Mariachi Novato",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Mariachi Alegre": {
+      "th": "Mariachi Alegre",
+      "count": 18,
+      "total": 18,
+      "confidence": 1.0
+    },
+    "Mariachi Vivaz": {
+      "th": "Mariachi Vivaz",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Brave Association Member": {
+      "th": "สมาชิก Association ผู้กล้าหาญ",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Cold Association Member": {
+      "th": "Cold Association Member",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Well-dressed Citizen": {
+      "th": "พลเมืองผู้แต่งกายภูมิฐาน",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Fixer from the South": {
+      "th": "Fixer จากทางใต้",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Citizen at Risk": {
+      "th": "พลเมืองที่ตกอยู่ในอันตราย",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Terrified Child": {
+      "th": "เด็กที่หวาดกลัว",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Panicked Henchman": {
+      "th": "ลูกกระจ๊อกที่ตื่นตระหนก",
+      "count": 5,
+      "total": 8,
+      "confidence": 0.62
+    },
+    "Calm Henchman": {
+      "th": "ลูกสมุนที่ใจเย็น",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Vengeance Fugitive": {
+      "th": "Vengeance Fugitive",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Bungling Little Brother": {
+      "th": "Little Brother จอมซุ่มซ่าม",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Terrified Civilian": {
+      "th": "พลเรือนที่หวาดกลัว",
+      "count": 5,
+      "total": 8,
+      "confidence": 0.62
+    },
+    "Anxious Civilian": {
+      "th": "พลเรือนที่วิตกกังวล",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Young Master of a House": {
+      "th": "นายน้อยแห่งตระกูล",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Architectural Engineer": {
+      "th": "วิศวกรสถาปัตยกรรม",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Attendant": {
+      "th": "ผู้ติดตาม",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Soldier": {
+      "th": "Soldier",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Honored Guest": {
+      "th": "Honored Guest",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Judge Presiding": {
+      "th": "ผู้พิพากษาประธานศาล",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Fauvist Henchman": {
+      "th": "ลูกสมุน Fauvist",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Cubist Henchman": {
+      "th": "ลูกสมุน Cubist",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Bowing Civilian": {
+      "th": "พลเรือนกำลังก้มหัว",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Class 1 Collection Staff": {
+      "th": "Collection Staff ระดับ 1",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Determined Henchman": {
+      "th": "ลูกกระจ๊อกที่เด็ดเดี่ยว",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Violent Henchman": {
+      "th": "Violent Henchman",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Henchmen": {
+      "th": "ลูกสมุน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Udjat Agent": {
+      "th": "Udjat Agent",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "Wincing Ruffian": {
+      "th": "Ruffian ที่กำลังนิ่วหน้า",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Daft Thug": {
+      "th": "นักเลงสมองนิ่ม",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Kind Employee": {
+      "th": "พนักงานผู้ใจดี",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Troubled VIP": {
+      "th": "VIP ผู้มีปัญหา",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Intense Bodyguard": {
+      "th": "บอดี้การ์ดจอมดุ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Nervous Pirate": {
+      "th": "Pirate ขี้ระแวง",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Perceptive Pirate": {
+      "th": "Pirate ช่างสังเกต",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Pirates": {
+      "th": "Pirates",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Handy Pirate": {
+      "th": "โจรสลัดจอมขยัน",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Loyal Underling": {
+      "th": "ลูกน้องผู้ซื่อสัตย์",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Underlings": {
+      "th": "ลูกน้อง",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Bloodfiend Hunter": {
+      "th": "Bloodfiend Hunter",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Big Sis": {
+      "th": "พี่สาว",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Participating Fixer": {
+      "th": "เข้าร่วม Fixer",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "P Corp. Staff": {
+      "th": "P Corp. Staff",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Firefist Office Fixer": {
+      "th": "Firefist Office Fixer",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Veteran Snake": {
+      "th": "Veteran Snake",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Novice Snakes": {
+      "th": "เหล่า Snake มือใหม่",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Committed Subordinate": {
+      "th": "ลูกน้องผู้ซื่อสัตย์",
+      "count": 23,
+      "total": 23,
+      "confidence": 1.0
+    },
+    "Desperate Subordinate": {
+      "th": "ลูกน้องผู้สิ้นหวัง",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Decorous Subordinate": {
+      "th": "ลูกน้องผู้สำรวม",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Aggressive Subordinate": {
+      "th": "ลูกน้องผู้ก้าวร้าว",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Assistant Librarian": {
+      "th": "Assistant Librarian",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Despairing Subordinate": {
+      "th": "ลูกน้องผู้สิ้นหวัง",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Patron Librarian": {
+      "th": "บรรณารักษ์ผู้อุปถัมภ์",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Team Leader": {
+      "th": "หัวหน้าทีม",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Village Chief": {
+      "th": "ผู้ใหญ่บ้าน",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Inquisitor": {
+      "th": "Inquisitor",
+      "count": 53,
+      "total": 53,
+      "confidence": 1.0
+    },
+    "Mon3tr": {
+      "th": "Mon3tr",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Fellow Researcher": {
+      "th": "เพื่อนร่วม Researcher",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Panther": {
+      "th": "Panther",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Wolf": {
+      "th": "Wolf",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Lion": {
+      "th": "Lion",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "Dante": {
+      "th": "Dante",
+      "count": 33,
+      "total": 33,
+      "confidence": 1.0
+    },
+    "Man with Red Eyes": {
+      "th": "Man with Red Eyes",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "Me": {
+      "th": "Me",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Number-nuts Hooligan": {
+      "th": "Number-nuts Hooligan",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Sharp Hooligan": {
+      "th": "Sharp Hooligan",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Famished Hooligan": {
+      "th": "Famished Hooligan",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Head Hooligan": {
+      "th": "Head Hooligan",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Fiery Veteran": {
+      "th": "Fiery Veteran",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Puzzled Veteran": {
+      "th": "ทหารผ่านศึกผู้สับสน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Vergilius": {
+      "th": "Vergilius",
+      "count": 40,
+      "total": 40,
+      "confidence": 1.0
+    },
+    "Crooked Veteran": {
+      "th": "Crooked Veteran",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Vulgar Veteran": {
+      "th": "ทหารผ่านศึกปากเสีย",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Pawnbroker": {
+      "th": "เจ้าของโรงรับจำนำ",
+      "count": 15,
+      "total": 22,
+      "confidence": 0.68
+    },
+    "Effie": {
+      "th": "Effie",
+      "count": 58,
+      "total": 58,
+      "confidence": 1.0
+    },
+    "Rustic-sounding Tingtanger": {
+      "th": "Tingtanger สำเนียงบ้านนอก",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Chest-puffing Tingtanger": {
+      "th": "นักเลง Tingtang ผู้ยืดอก",
+      "count": 6,
+      "total": 11,
+      "confidence": 0.55
+    },
+    "Bean-hating Tingtanger": {
+      "th": "ชาว Tingtang ผู้เกลียดถั่ว",
+      "count": 5,
+      "total": 7,
+      "confidence": 0.71
+    },
+    "Tingtang Boss": {
+      "th": "หัวหน้า Tingtang",
+      "count": 4,
+      "total": 8,
+      "confidence": 0.5
+    },
+    "One Casinogoer": {
+      "th": "Casinogoer คนหนึ่ง",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Another Casinogoer": {
+      "th": "Casinogoer อีกคน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Security Chief": {
+      "th": "Security Chief",
+      "count": 4,
+      "total": 5,
+      "confidence": 0.8
+    },
+    "Bawling Casinogoer": {
+      "th": "นักพนันคาสิโนผู้ร่ำไห้",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Threatening Crewman": {
+      "th": "ลูกเรือจอมข่มขู่",
+      "count": 2,
+      "total": 4,
+      "confidence": 0.5
+    },
+    "Flexing Crewman": {
+      "th": "Flexing Crewman",
+      "count": 4,
+      "total": 6,
+      "confidence": 0.67
+    },
+    "Aida": {
+      "th": "Aida",
+      "count": 26,
+      "total": 26,
+      "confidence": 1.0
+    },
+    "Crew Boss": {
+      "th": "หัวหน้าแก๊ง",
+      "count": 15,
+      "total": 21,
+      "confidence": 0.71
+    },
+    "Checkpoint Official": {
+      "th": "เจ้าหน้าที่จุดตรวจ",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "People in Line": {
+      "th": "ผู้คนที่เข้าแถว",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Siegfried": {
+      "th": "Siegfried",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Effie?": {
+      "th": "Effie?",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "A Prosthetic Head": {
+      "th": "A Prosthetic Head",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Tortured Prosthesis": {
+      "th": "อวัยวะเทียมผู้ถูกทรมาน",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Scourging Inquisitor": {
+      "th": "Inquisitor ผู้ลงทัณฑ์",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Interrogative Inquisitor": {
+      "th": "Inquisitor ผู้สอบสวน",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Running Civilian": {
+      "th": "พลเรือนที่กำลังวิ่ง",
+      "count": 4,
+      "total": 5,
+      "confidence": 0.8
+    },
+    "Mysterious Drone": {
+      "th": "โดรนปริศนา",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Shrenne": {
+      "th": "Shrenne",
+      "count": 44,
+      "total": 44,
+      "confidence": 1.0
+    },
+    "Faust & Samjo": {
+      "th": "Faust & Samjo",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Intimidating Machine": {
+      "th": "เครื่องจักรข่มขวัญ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "K Corp. Security": {
+      "th": "K Corp. Security",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Ampule Helper": {
+      "th": "ผู้ช่วยแอมพูล",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Niko": {
+      "th": "Niko",
+      "count": 19,
+      "total": 19,
+      "confidence": 1.0
+    },
+    "Melted Machine": {
+      "th": "เครื่องจักรหลอมละลาย",
+      "count": 8,
+      "total": 13,
+      "confidence": 0.62
+    },
+    "Ran": {
+      "th": "Ran",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Assistant Fixer": {
+      "th": "ผู้ช่วย Fixer",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Hurrying Researcher": {
+      "th": "นักวิจัยที่กำลังรีบร้อน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Dying Researcher": {
+      "th": "นักวิจัยที่กำลังจะตาย",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Alliance Member": {
+      "th": "สมาชิกพันธมิตร",
+      "count": 5,
+      "total": 8,
+      "confidence": 0.62
+    },
+    "Class 2 Excision Staff": {
+      "th": "Class 2 Excision Staff",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Nervous Employee": {
+      "th": "พนักงานผู้ลนลาน",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Class 3 Excision Staff": {
+      "th": "Excision Staff ระดับ 3",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Marile": {
+      "th": "Marile",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Announcer": {
+      "th": "Announcer",
+      "count": 3,
+      "total": 4,
+      "confidence": 0.75
+    },
+    "Young-ji": {
+      "th": "Young-ji",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Revived? Liberation Alliance Member": {
+      "th": "ฟื้นคืนชีพ? สมาชิก Liberation Alliance",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Kidnapper": {
+      "th": "โจรลักพาตัว",
+      "count": 7,
+      "total": 8,
+      "confidence": 0.88
+    },
+    "Kidnapper 2": {
+      "th": "โจรกดขี่ 2",
+      "count": 5,
+      "total": 7,
+      "confidence": 0.71
+    },
+    "Bouncer": {
+      "th": "Bouncer",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Guest": {
+      "th": "Guest",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "The Twinhooks?": {
+      "th": "พวก Twinhooks งั้นเหรอ?",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Twinhook Pirates?": {
+      "th": "โจรสลัด Twinhook งั้นเหรอ?",
+      "count": 6,
+      "total": 7,
+      "confidence": 0.86
+    },
+    "Club DJ": {
+      "th": "Club DJ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Smee": {
+      "th": "Smee",
+      "count": 29,
+      "total": 29,
+      "confidence": 1.0
+    },
+    "Shouting Thug": {
+      "th": "Thug ตะโกน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Pilot": {
+      "th": "Pilot",
+      "count": 83,
+      "total": 83,
+      "confidence": 1.0
+    },
+    "Panicked Pirate": {
+      "th": "โจรสลัดตื่นตระหนก",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Ishmael & Outis": {
+      "th": "Ishmael & Outis",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Whale of the Porous Hand Mermaid": {
+      "th": "Mermaid แห่ง Whale of the Porous Hand",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Embedded... Agent": {
+      "th": "เอเจนท์... ฝังตัว",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCCB Agent?": {
+      "th": "LCCB Agent?",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Rim": {
+      "th": "Rim",
+      "count": 36,
+      "total": 36,
+      "confidence": 1.0
+    },
+    "Jolly Pirate": {
+      "th": "Jolly Pirate",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Pallid Whale": {
+      "th": "The Pallid Whale",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Urgent T Corp. Gangster": {
+      "th": "เร่งรีบ T Corp. Gangster",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Scared T Corp. Gangster": {
+      "th": "หวาดกลัว T Corp. Gangster",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Overdramatic Civilian": {
+      "th": "พลเรือนจอมโวยวาย",
+      "count": 9,
+      "total": 12,
+      "confidence": 0.75
+    },
+    "Overdue T Corp. Gang": {
+      "th": "แก๊ง Overdue T Corp",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Hindley's Lackey": {
+      "th": "Hindley's Lackey",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Dead Rabbits Boss": {
+      "th": "Dead Rabbits Boss",
+      "count": 19,
+      "total": 40,
+      "confidence": 0.47
+    },
+    "Discreet Butler": {
+      "th": "พ่อบ้านผู้สุขุม",
+      "count": 12,
+      "total": 19,
+      "confidence": 0.63
+    },
+    "Öufi Assoc. Director": {
+      "th": "ผู้อำนวยการ Öufi Assoc.",
+      "count": 16,
+      "total": 29,
+      "confidence": 0.55
+    },
+    "Mr. Earnshaw": {
+      "th": "Mr. Earnshaw",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Strange Dead Rabbits Henchman": {
+      "th": "Strange Dead Rabbits Henchman",
+      "count": 3,
+      "total": 6,
+      "confidence": 0.5
+    },
+    "Firm Butler": {
+      "th": "Firm Butler",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Aseah": {
+      "th": "Aseah",
+      "count": 29,
+      "total": 29,
+      "confidence": 1.0
+    },
+    "Researcher?": {
+      "th": "นักวิจัยเหรอ?",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Heathcliff, The Heartbroken": {
+      "th": "Heathcliff, The Heartbroken",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Erlking Heathcliff": {
+      "th": "Erlking Heathcliff",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "Every Catherine": {
+      "th": "Every Catherine",
+      "count": 23,
+      "total": 23,
+      "confidence": 1.0
+    },
+    "Former Ring Researcher": {
+      "th": "อดีต Ring Researcher",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Overdramatic Fixer": {
+      "th": "Fixer จอมดราม่า",
+      "count": 11,
+      "total": 15,
+      "confidence": 0.73
+    },
+    "Crowd of Fixers": {
+      "th": "กลุ่มของ Fixers",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Intimidating Fixer": {
+      "th": "น่าเกรงขาม Fixer",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Muttering Fixer": {
+      "th": "พึมพำเรื่อง Fixer",
+      "count": 7,
+      "total": 8,
+      "confidence": 0.88
+    },
+    "Amazed Fixer": {
+      "th": "Fixer ที่กำลังตกตะลึง",
+      "count": 4,
+      "total": 5,
+      "confidence": 0.8
+    },
+    "Narrator": {
+      "th": "ผู้บรรยาย",
+      "count": 102,
+      "total": 102,
+      "confidence": 1.0
+    },
+    "Murmuring Fixer": {
+      "th": "Fixer ที่กำลังพึมพำ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Delighted Fixer": {
+      "th": "Fixer ผู้ดีใจ",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Survivor?": {
+      "th": "ผู้รอดชีวิตเหรอ?",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Bloodbag": {
+      "th": "Bloodbag",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Scissors-holding Bloodfiend": {
+      "th": "Bloodfiend ผู้ถือกรรไกร",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "The Knight of the White Moon": {
+      "th": "The Knight of the White Moon",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Angry Bloodfiend": {
+      "th": "Bloodfiend ผู้เกรี้ยวกราด",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Surprised Bloodfiend": {
+      "th": "Bloodfiend ตกใจ",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "Praying Bloodfiend": {
+      "th": "Praying Bloodfiend",
+      "count": 12,
+      "total": 18,
+      "confidence": 0.67
+    },
+    "Captive Victim": {
+      "th": "เหยื่อผู้ถูกจองจำ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Bloodfiend with a Parasol": {
+      "th": "Bloodfiend พร้อมร่มกันแดด",
+      "count": 6,
+      "total": 8,
+      "confidence": 0.75
+    },
+    "Bloodfiend holding a Parasol": {
+      "th": "Bloodfiend กำลังถือร่มกันแดด",
+      "count": 5,
+      "total": 9,
+      "confidence": 0.56
+    },
+    "Fixer in the Poster": {
+      "th": "Fixer ในโปสเตอร์",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Starved Bloodfiend": {
+      "th": "Starved Bloodfiend",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Craving Bloodfiend": {
+      "th": "Craving Bloodfiend",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Busy-looking Servant": {
+      "th": "Servant ท่าทางยุ่ง",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daiyu?": {
+      "th": "Daiyu?",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Crowd": {
+      "th": "Crowd",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Jia Mu's Servant": {
+      "th": "Jia Mu's Servant",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Stunned Audience": {
+      "th": "ผู้ชมที่กำลังตกตะลึง",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Suspicious Audience": {
+      "th": "ผู้ชมที่สงสัย",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Whispering Audience": {
+      "th": "ผู้ชมที่กำลังซุบซิบ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Disappointed Audience": {
+      "th": "ผู้ชมที่ผิดหวัง",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Excited Audience": {
+      "th": "ผู้ชมที่ตื่นเต้น",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Audience": {
+      "th": "ผู้ชม",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Fleeing Candidate": {
+      "th": "ผู้สมัครที่กำลังหลบหนี",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Stumbling Candidate": {
+      "th": "ผู้สมัครที่กำลังโซเซ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Furious Attendant": {
+      "th": "ผู้ติดตามที่เกรี้ยวกราด",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Gossiping Audience": {
+      "th": "ผู้ชมที่กำลังซุบซิบ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Gabbing Audience": {
+      "th": "ผู้ชมที่กำลังจ้อ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Night Drifter": {
+      "th": "Night Drifter",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Generous Clan Member": {
+      "th": "สมาชิกตระกูลผู้ใจกว้าง",
+      "count": 9,
+      "total": 12,
+      "confidence": 0.75
+    },
+    "Kong Qiu": {
+      "th": "Kong Qiu",
+      "count": 31,
+      "total": 31,
+      "confidence": 1.0
+    },
+    "Loudspeaker": {
+      "th": "ลำโพง",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "A Rather Unwelcoming Voice": {
+      "th": "น้ำเสียงที่ไม่ค่อยน่าต้อนรับเท่าไหร่",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "LCA Agent": {
+      "th": "เอเจนท์ LCA",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Dihui Star": {
+      "th": "Dihui Star",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "LCA Reconnaissance Team?": {
+      "th": "ทีมสอดแนมของ LCA งั้นเหรอ?",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The Human Thunderbolt": {
+      "th": "The Human Thunderbolt",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Old-model TV": {
+      "th": "ทีวีรุ่นเก่า",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Terrified Victim": {
+      "th": "เหยื่อผู้หวาดผวา",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Dying Victim": {
+      "th": "เหยื่อที่กำลังสิ้นใจ",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Mall Shopkeeper": {
+      "th": "พนักงานร้านในห้าง",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Target of the House of Spiders": {
+      "th": "เป้าหมายของ House of Spiders",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Rational and Brilliant Faust": {
+      "th": "Faust ผู้มีเหตุผลและชาญฉลาด",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Unbending, Proactive, and Resourceful Faust": {
+      "th": "Faust ผู้เด็ดเดี่ยว เชิงรุก และเปี่ยมทรัพยากร",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "August and Dignified Faust": {
+      "th": "Faust ผู้สง่างามและภูมิฐาน",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Lovely and Guileful Faust": {
+      "th": "Faust ผู้เลอโฉมและเจ้าเล่ห์",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Naive Faust?": {
+      "th": "Naive Faust?",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Astute and Intelligent Faust": {
+      "th": "Faust ผู้เฉลียวฉลาดและทรงปัญญา",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Stupid Faust?": {
+      "th": "Faust ผู้โง่เขลา?",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    }
+  },
+  "titles": {
+    "Grade 8 Fixer": {
+      "th": "Fixer ระดับ 8",
+      "count": 140,
+      "total": 142,
+      "confidence": 0.99
+    },
+    "G Corp. Remnant": {
+      "th": "G Corp. ผู้หลงเหลือ",
+      "count": 15,
+      "total": 29,
+      "confidence": 0.52
+    },
+    "???": {
+      "th": "???",
+      "count": 1844,
+      "total": 1844,
+      "confidence": 1.0
+    },
+    "L Corp.": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "L Corp. Employee": {
+      "th": "พนักงาน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "A Survivor?": {
+      "th": "ผู้รอดชีวิตงั้นเหรอ?",
+      "count": 3,
+      "total": 7,
+      "confidence": 0.43
+    },
+    "Reminisced Soldier": {
+      "th": "Reminisced Soldier",
+      "count": 10,
+      "total": 19,
+      "confidence": 0.53
+    },
+    "Reminisced Person": {
+      "th": "บุคคลในความทรงจำ",
+      "count": 8,
+      "total": 9,
+      "confidence": 0.89
+    },
+    "J Corp. Casino": {
+      "th": "J Corp. Casino",
+      "count": 21,
+      "total": 25,
+      "confidence": 0.84
+    },
+    "Have You Become Strong": {
+      "th": "แข็งแกร่งขึ้นแล้วงั้นเหรอ",
+      "count": 4,
+      "total": 8,
+      "confidence": 0.5
+    },
+    "Yurodivy": {
+      "th": "Yurodivy",
+      "count": 105,
+      "total": 105,
+      "confidence": 1.0
+    },
+    "N Corp.": {
+      "th": "N Corp.",
+      "count": 105,
+      "total": 105,
+      "confidence": 1.0
+    },
+    "District 25": {
+      "th": "District 25",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "LCCB": {
+      "th": "LCCB",
+      "count": 167,
+      "total": 167,
+      "confidence": 1.0
+    },
+    "Nagel und Hammer": {
+      "th": "Nagel und Hammer",
+      "count": 173,
+      "total": 173,
+      "confidence": 1.0
+    },
+    "Student": {
+      "th": "นักเรียน",
+      "count": 23,
+      "total": 39,
+      "confidence": 0.59
+    },
+    "Mysterious Transfer Student": {
+      "th": "นักเรียนใหม่ผู้ลึกลับ",
+      "count": 18,
+      "total": 18,
+      "confidence": 1.0
+    },
+    "My Dear Family": {
+      "th": "ครอบครัวที่รักของผม",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Student?": {
+      "th": "นักเรียน?",
+      "count": 7,
+      "total": 12,
+      "confidence": 0.58
+    },
+    "LCCA": {
+      "th": "LCCA",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "League of Nine Littérateurs": {
+      "th": "League of Nine Littérateurs",
+      "count": 70,
+      "total": 84,
+      "confidence": 0.83
+    },
+    "K Corp. Dept. of Food Resource Development": {
+      "th": "K Corp. แผนกพัฒนาทรัพยากรอาหาร",
+      "count": 325,
+      "total": 541,
+      "confidence": 0.6
+    },
+    "Yeonsim": {
+      "th": "Yeonsim",
+      "count": 23,
+      "total": 45,
+      "confidence": 0.51
+    },
+    "T Corp.": {
+      "th": "T Corp.",
+      "count": 415,
+      "total": 415,
+      "confidence": 1.0
+    },
+    "K Corp.": {
+      "th": "K Corp.",
+      "count": 95,
+      "total": 95,
+      "confidence": 1.0
+    },
+    "Effloresced E.G.O::Farmwatch": {
+      "th": "Effloresced E.G.O::Farmwatch",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Pequod Town": {
+      "th": "Pequod Town",
+      "count": 23,
+      "total": 23,
+      "confidence": 1.0
+    },
+    "Effloresced E.G.O::GasHarpoon": {
+      "th": "Effloresced E.G.O::GasHarpoon",
+      "count": 26,
+      "total": 26,
+      "confidence": 1.0
+    },
+    "District 21 Resident": {
+      "th": "เขต 21 Resident",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Father": {
+      "th": "ท่านพ่อ",
+      "count": 82,
+      "total": 110,
+      "confidence": 0.75
+    },
+    "Family": {
+      "th": "ครอบครัว",
+      "count": 55,
+      "total": 64,
+      "confidence": 0.86
+    },
+    "Relative": {
+      "th": "ญาติสนิท",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "La Manchaland": {
+      "th": "La Manchaland",
+      "count": 251,
+      "total": 251,
+      "confidence": 1.0
+    },
+    "Shepherds' Ranch": {
+      "th": "ไร่ของเหล่าคนเลี้ยงแกะ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "LCB": {
+      "th": "LCB",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Bloodfiend": {
+      "th": "Bloodfiend",
+      "count": 92,
+      "total": 92,
+      "confidence": 1.0
+    },
+    "Daguanyuan": {
+      "th": "Daguanyuan",
+      "count": 36,
+      "total": 59,
+      "confidence": 0.61
+    },
+    "Hongyuan's Laboratory": {
+      "th": "ห้องปฏิบัติการของ Hongyuan",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Hongyuan": {
+      "th": "Hongyuan",
+      "count": 38,
+      "total": 40,
+      "confidence": 0.95
+    },
+    "Jia Family": {
+      "th": "ตระกูล Jia",
+      "count": 168,
+      "total": 323,
+      "confidence": 0.52
+    },
+    "Xichun's Clan": {
+      "th": "ตระกูล Xichun",
+      "count": 24,
+      "total": 110,
+      "confidence": 0.22
+    },
+    "Bodyguard": {
+      "th": "Bodyguard",
+      "count": 19,
+      "total": 19,
+      "confidence": 1.0
+    },
+    "Dietitian": {
+      "th": "Dietitian",
+      "count": 46,
+      "total": 54,
+      "confidence": 0.85
+    },
+    "Driver": {
+      "th": "Driver",
+      "count": 11,
+      "total": 12,
+      "confidence": 0.92
+    },
+    "Distortion": {
+      "th": "Distortion",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Training Team Sephirah": {
+      "th": "Sephirah แผนกฝึกหัด",
+      "count": 6,
+      "total": 9,
+      "confidence": 0.67
+    },
+    "The Church of Gears": {
+      "th": "ลัทธิแห่งฟันเฟือง (The Church of Gears)",
+      "count": 1,
+      "total": 2,
+      "confidence": 0.5
+    },
+    "Central Command Sephirah": {
+      "th": "Central Command Sephirah",
+      "count": 12,
+      "total": 16,
+      "confidence": 0.75
+    },
+    "O-01-04": {
+      "th": "O-01-04",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Bodhisattva Chicken": {
+      "th": "Bodhisattva Chicken",
+      "count": 12,
+      "total": 15,
+      "confidence": 0.8
+    },
+    "Eunbong’s Bar & Fryers?": {
+      "th": "Eunbong’s Bar & Fryers?",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Distorted Thing": {
+      "th": "สิ่งมีชีวิตบิดเบี้ยว",
+      "count": 2,
+      "total": 6,
+      "confidence": 0.33
+    },
+    "Dueling Chefs": {
+      "th": "เชฟประจันบาน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Distorted Thing?": {
+      "th": "สิ่งมีชีวิตที่บิดเบี้ยว?",
+      "count": 4,
+      "total": 8,
+      "confidence": 0.5
+    },
+    "Sinners": {
+      "th": "Sinners",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Eunbong’s Bar & Fryers": {
+      "th": "Eunbong’s Bar & Fryers",
+      "count": 53,
+      "total": 53,
+      "confidence": 1.0
+    },
+    "K Corp. Dept. of Food Resource Development?": {
+      "th": "K Corp แผนกพัฒนาทรัพยากรอาหารหรือครับ?",
+      "count": 3,
+      "total": 8,
+      "confidence": 0.38
+    },
+    "Molar Boatworks": {
+      "th": "Molar Boatworks",
+      "count": 128,
+      "total": 128,
+      "confidence": 1.0
+    },
+    "The LCB": {
+      "th": "เหล่า LCB",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Gift Factory": {
+      "th": "Gift Factory",
+      "count": 22,
+      "total": 22,
+      "confidence": 1.0
+    },
+    "Blade Lineage": {
+      "th": "Blade Lineage",
+      "count": 114,
+      "total": 114,
+      "confidence": 1.0
+    },
+    "Kurokumo Clan": {
+      "th": "Kurokumo Clan",
+      "count": 95,
+      "total": 95,
+      "confidence": 1.0
+    },
+    "LCCA Team Leader": {
+      "th": "หัวหน้าทีม LCCA",
+      "count": 17,
+      "total": 35,
+      "confidence": 0.49
+    },
+    "LCD?": {
+      "th": "LCD?",
+      "count": 16,
+      "total": 16,
+      "confidence": 1.0
+    },
+    "Kurokumo Clan Captain": {
+      "th": "Kurokumo Clan Captain",
+      "count": 77,
+      "total": 100,
+      "confidence": 0.77
+    },
+    "Blade Lineage?": {
+      "th": "Blade Lineage?",
+      "count": 5,
+      "total": 7,
+      "confidence": 0.71
+    },
+    "Blade Lineage Mentor": {
+      "th": "Blade Lineage Mentor",
+      "count": 14,
+      "total": 15,
+      "confidence": 0.93
+    },
+    "LCD": {
+      "th": "LCD",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "LCA": {
+      "th": "LCA",
+      "count": 28,
+      "total": 28,
+      "confidence": 1.0
+    },
+    "LCB & T Corp.": {
+      "th": "LCB & T Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "District 20": {
+      "th": "District 20",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "District 20 Yurodivy": {
+      "th": "เขต 20 Yurodivy",
+      "count": 74,
+      "total": 74,
+      "confidence": 1.0
+    },
+    "W Corp.": {
+      "th": "W Corp.",
+      "count": 36,
+      "total": 36,
+      "confidence": 1.0
+    },
+    "MultiCrack Office": {
+      "th": "MultiCrack Office",
+      "count": 104,
+      "total": 104,
+      "confidence": 1.0
+    },
+    "Bloodbag": {
+      "th": "Bloodbag",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Tri-axe Office": {
+      "th": "Tri-axe Office",
+      "count": 10,
+      "total": 11,
+      "confidence": 0.91
+    },
+    "Shi Family": {
+      "th": "ตระกูล Shi",
+      "count": 61,
+      "total": 77,
+      "confidence": 0.79
+    },
+    "Heishou Pack - Mao Branch": {
+      "th": "Heishou Pack - สาขา Mao",
+      "count": 59,
+      "total": 63,
+      "confidence": 0.94
+    },
+    "The Middle's Big Brother": {
+      "th": "พี่ใหญ่แห่ง The Middle",
+      "count": 23,
+      "total": 40,
+      "confidence": 0.57
+    },
+    "Little Brother": {
+      "th": "Little Brother",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Jia Family?": {
+      "th": "ตระกูล Jia?",
+      "count": 13,
+      "total": 23,
+      "confidence": 0.57
+    },
+    "H Corp. Merchant Representative": {
+      "th": "H Corp. ตัวแทนพ่อค้า",
+      "count": 1,
+      "total": 4,
+      "confidence": 0.25
+    },
+    "H Corp. Administrative Representative": {
+      "th": "H Corp. ตัวแทนฝ่ายบริหาร",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Hierarch of Hongyuan": {
+      "th": "Hierarch แห่ง Hongyuan",
+      "count": 292,
+      "total": 414,
+      "confidence": 0.71
+    },
+    "The Pinky": {
+      "th": "The Pinky",
+      "count": 110,
+      "total": 110,
+      "confidence": 1.0
+    },
+    "Students": {
+      "th": "เหล่านักเรียน",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wayfarer Company": {
+      "th": "Wayfarer Company",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Radio": {
+      "th": "วิทยุ",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "The House of Spiders": {
+      "th": "The House of Spiders",
+      "count": 6,
+      "total": 10,
+      "confidence": 0.6
+    },
+    "The Ring": {
+      "th": "The Ring",
+      "count": 8,
+      "total": 9,
+      "confidence": 0.89
+    },
+    "First Note": {
+      "th": "บันทึกฉบับที่ 1",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Second Note": {
+      "th": "บันทึกฉบับที่ 2",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Third Note": {
+      "th": "บันทึกฉบับที่ 3",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Fourth Note": {
+      "th": "บันทึกฉบับที่ 4",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Fifth Note": {
+      "th": "บันทึกฉบับที่ 5",
+      "count": 4,
+      "total": 8,
+      "confidence": 0.5
+    },
+    "Sixth Note": {
+      "th": "บันทึกฉบับที่ 6",
+      "count": 2,
+      "total": 4,
+      "confidence": 0.5
+    },
+    "Seventh Note": {
+      "th": "ตัวโน้ตที่เจ็ด",
+      "count": 3,
+      "total": 4,
+      "confidence": 0.75
+    },
+    "\"One of Them\"": {
+      "th": "\"หนึ่งในนั้น\"",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Eighth Note": {
+      "th": "Eighth Note",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Ninth Note": {
+      "th": "ตัวโน้ตที่เก้า",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Tenth Note": {
+      "th": "ตัวโน้ตลำดับที่ 10",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Eleventh Note": {
+      "th": "โน้ตฉบับที่ 11",
+      "count": 6,
+      "total": 9,
+      "confidence": 0.67
+    },
+    "Twelfth Note": {
+      "th": "บันทึกฉบับที่ 12",
+      "count": 2,
+      "total": 3,
+      "confidence": 0.67
+    },
+    "Seven Section 6": {
+      "th": "Seven Section 6",
+      "count": 14,
+      "total": 18,
+      "confidence": 0.78
+    },
+    "Blade Lineage Salsu": {
+      "th": "Blade Lineage Salsu",
+      "count": 59,
+      "total": 59,
+      "confidence": 1.0
+    },
+    "Technology Liberation Alliance": {
+      "th": "Technology Liberation Alliance",
+      "count": 156,
+      "total": 186,
+      "confidence": 0.84
+    },
+    "Molar Office": {
+      "th": "Molar Office",
+      "count": 21,
+      "total": 21,
+      "confidence": 1.0
+    },
+    "The Pequod": {
+      "th": "The Pequod",
+      "count": 14,
+      "total": 22,
+      "confidence": 0.64
+    },
+    "Safety Team Agent": {
+      "th": "Safety Team Agent",
+      "count": 33,
+      "total": 36,
+      "confidence": 0.92
+    },
+    "Safety Team Captain": {
+      "th": "Safety Team Captain",
+      "count": 53,
+      "total": 53,
+      "confidence": 1.0
+    },
+    "Lobotomy Corporation": {
+      "th": "Lobotomy Corporation",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Control Team Sephirah": {
+      "th": "Control Team Sephirah",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "LCE Research Team": {
+      "th": "ทีมวิจัย LCE",
+      "count": 66,
+      "total": 134,
+      "confidence": 0.49
+    },
+    "Limbus Company": {
+      "th": "Limbus Company",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "N Corp. New League of Nine Littérateurs": {
+      "th": "N Corp. League of Nine Littérateurs กลุ่มใหม่",
+      "count": 62,
+      "total": 81,
+      "confidence": 0.77
+    },
+    "The Index Nursefather": {
+      "th": "The Index Nursefather",
+      "count": 58,
+      "total": 93,
+      "confidence": 0.62
+    },
+    "W Corp. Cleanup Agent": {
+      "th": "W Corp. Cleanup Agent",
+      "count": 93,
+      "total": 141,
+      "confidence": 0.66
+    },
+    "Lobotomy Corp. Remnant": {
+      "th": "Lobotomy Corp. Remnant",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "The One Who Grips": {
+      "th": "The One Who Grips",
+      "count": 30,
+      "total": 30,
+      "confidence": 1.0
+    },
+    "Zwei Section 4": {
+      "th": "Zwei Section 4",
+      "count": 28,
+      "total": 45,
+      "confidence": 0.62
+    },
+    "Zwei Section 5": {
+      "th": "Zwei Section 5",
+      "count": 26,
+      "total": 26,
+      "confidence": 1.0
+    },
+    "Zwei Section 6": {
+      "th": "Zwei Section 6",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Seven Section 4": {
+      "th": "Seven Section 4",
+      "count": 10,
+      "total": 20,
+      "confidence": 0.5
+    },
+    "Control Team Captain": {
+      "th": "Control Team Captain",
+      "count": 50,
+      "total": 50,
+      "confidence": 1.0
+    },
+    "Level 1 Agent": {
+      "th": "Agent ระดับ 1",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Wuthering Heights": {
+      "th": "Wuthering Heights",
+      "count": 62,
+      "total": 62,
+      "confidence": 1.0
+    },
+    "Heishou Pack - Mao Branch Adept": {
+      "th": "Heishou Pack - Mao Branch Adept",
+      "count": 90,
+      "total": 90,
+      "confidence": 1.0
+    },
+    "Shi East Section 3": {
+      "th": "Shi สาขาตะวันออก Section 3",
+      "count": 36,
+      "total": 36,
+      "confidence": 1.0
+    },
+    "The Index Messenger": {
+      "th": "Messenger แห่ง Index",
+      "count": 22,
+      "total": 22,
+      "confidence": 1.0
+    },
+    "The Index Proselyte": {
+      "th": "Proselyte แห่ง Index",
+      "count": 32,
+      "total": 32,
+      "confidence": 1.0
+    },
+    "The Carnival": {
+      "th": "The Carnival",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The Ring Apprentice": {
+      "th": "The Ring Apprentice",
+      "count": 44,
+      "total": 44,
+      "confidence": 1.0
+    },
+    "The Index Apprentice": {
+      "th": "The Index Apprentice",
+      "count": 68,
+      "total": 68,
+      "confidence": 1.0
+    },
+    "N Corp. Mittelhammer": {
+      "th": "N Corp. Mittelhammer",
+      "count": 22,
+      "total": 31,
+      "confidence": 0.71
+    },
+    "N Corp. Großhammer": {
+      "th": "N Corp. Großhammer",
+      "count": 14,
+      "total": 23,
+      "confidence": 0.61
+    },
+    "Cinq Section 5 Director": {
+      "th": "Cinq Section 5 Director",
+      "count": 21,
+      "total": 21,
+      "confidence": 1.0
+    },
+    "The Middle": {
+      "th": "The Middle",
+      "count": 166,
+      "total": 166,
+      "confidence": 1.0
+    },
+    "District 20 Resident": {
+      "th": "เขต 20 ผู้อยู่อาศัย",
+      "count": 5,
+      "total": 10,
+      "confidence": 0.5
+    },
+    "The Manager of La Manchaland": {
+      "th": "Manager แห่ง La Manchaland",
+      "count": 51,
+      "total": 51,
+      "confidence": 1.0
+    },
+    "The Barber of La Manchaland": {
+      "th": "ช่างตัดผมแห่ง La Manchaland",
+      "count": 35,
+      "total": 55,
+      "confidence": 0.64
+    },
+    "The Priest of La Manchaland": {
+      "th": "นักบวชแห่ง La Manchaland",
+      "count": 20,
+      "total": 36,
+      "confidence": 0.56
+    },
+    "The Princess of La Manchaland": {
+      "th": "เจ้าหญิงแห่ง La Manchaland",
+      "count": 18,
+      "total": 33,
+      "confidence": 0.55
+    },
+    "Cinq East\nSection 3": {
+      "th": "Cinq East ส่วนที่ 3",
+      "count": 30,
+      "total": 30,
+      "confidence": 1.0
+    },
+    "Heishou Pack - Wei Branch": {
+      "th": "Heishou Pack - สาขา Wei",
+      "count": 48,
+      "total": 48,
+      "confidence": 1.0
+    },
+    "Heishou Pack - You Branch": {
+      "th": "Heishou Pack - สาขา You",
+      "count": 26,
+      "total": 26,
+      "confidence": 1.0
+    },
+    "Heishou Pack - Chou Branch": {
+      "th": "Heishou Pack - สาขา Chou",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "The Index Proxy": {
+      "th": "Proxy ของ Index",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "LCE": {
+      "th": "LCE",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Kurokumo Wakashu": {
+      "th": "Kurokumo Wakashu",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "District 23 Backstreets": {
+      "th": "District 23 Backstreets",
+      "count": 27,
+      "total": 27,
+      "confidence": 1.0
+    },
+    "LCCB Assistant Manager": {
+      "th": "LCCB ผู้ช่วยผู้จัดการ",
+      "count": 18,
+      "total": 21,
+      "confidence": 0.86
+    },
+    "Twinhook Pirates": {
+      "th": "โจรสลัด Twinhook",
+      "count": 27,
+      "total": 56,
+      "confidence": 0.48
+    },
+    "Chief Butler": {
+      "th": "Chief Butler",
+      "count": 23,
+      "total": 23,
+      "confidence": 1.0
+    },
+    "Edgar Family": {
+      "th": "ตระกูลเอ็ดการ์",
+      "count": 34,
+      "total": 49,
+      "confidence": 0.69
+    },
+    "Safety Team Sephirah": {
+      "th": "Sephirah ทีม Safety",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Training Team Agent": {
+      "th": "Training Team Agent",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Training Team Captain": {
+      "th": "Training Team Captain",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Welfare Team Agent": {
+      "th": "เจ้าหน้าที่ Welfare Team",
+      "count": 39,
+      "total": 76,
+      "confidence": 0.51
+    },
+    "Abnormality": {
+      "th": "Abnormality",
+      "count": 14,
+      "total": 14,
+      "confidence": 1.0
+    },
+    "Information Team Agent": {
+      "th": "Agent ทีมข้อมูล",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Liu Section 6": {
+      "th": "Liu Section 6",
+      "count": 9,
+      "total": 17,
+      "confidence": 0.53
+    },
+    "Rosespanner Workshop": {
+      "th": "Rosespanner Workshop",
+      "count": 71,
+      "total": 88,
+      "confidence": 0.81
+    },
+    "S Corp.": {
+      "th": "S Corp.",
+      "count": 29,
+      "total": 29,
+      "confidence": 1.0
+    },
+    "Protector": {
+      "th": "Protector",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "Dieci Section 4 Director": {
+      "th": "Director ของ Dieci เซกชัน 4",
+      "count": 20,
+      "total": 20,
+      "confidence": 1.0
+    },
+    "Cinq West\nSection 3": {
+      "th": "Cinq ฝั่งตะวันตก ส่วนที่ 3",
+      "count": 18,
+      "total": 18,
+      "confidence": 1.0
+    },
+    "The Thumb's Capo ⅠⅠⅠⅠ": {
+      "th": "Capo ระดับ Ⅳ ของ Thumb",
+      "count": 47,
+      "total": 47,
+      "confidence": 1.0
+    },
+    "Bloodfiend Hunter": {
+      "th": "Bloodfiend Hunter",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Firefist Office": {
+      "th": "Firefist Office",
+      "count": 47,
+      "total": 47,
+      "confidence": 1.0
+    },
+    "Third Kindred": {
+      "th": "Kindred ลำดับที่ 3",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "Fourth Kindred": {
+      "th": "Fourth Kindred",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Welfare Team Captain": {
+      "th": "หัวหน้าทีมสวัสดิการ",
+      "count": 49,
+      "total": 49,
+      "confidence": 1.0
+    },
+    "Welfare Team Clerk": {
+      "th": "เสมียนทีมสวัสดิการ",
+      "count": 19,
+      "total": 19,
+      "confidence": 1.0
+    },
+    "The Ring Fauvist Student": {
+      "th": "นักเรียน Fauvist แห่ง Ring",
+      "count": 5,
+      "total": 10,
+      "confidence": 0.5
+    },
+    "Tingtang Boss": {
+      "th": "Tingtang Boss",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Tingtang Gang": {
+      "th": "Tingtang Gang",
+      "count": 18,
+      "total": 33,
+      "confidence": 0.55
+    },
+    "Liu Section 5": {
+      "th": "Liu ส่วนที่ 5",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "K Corp. Class 3 Excision Staff": {
+      "th": "K Corp. Excision Staff ระดับ 3",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Hook Office": {
+      "th": "Hook Office",
+      "count": 35,
+      "total": 35,
+      "confidence": 1.0
+    },
+    "Dieci Section 4": {
+      "th": "Dieci ส่วนที่ 4",
+      "count": 26,
+      "total": 40,
+      "confidence": 0.65
+    },
+    "Fanghunt Office": {
+      "th": "Fanghunt Office",
+      "count": 44,
+      "total": 44,
+      "confidence": 1.0
+    },
+    "Full-Stop Office": {
+      "th": "หยุดยิง Office",
+      "count": 33,
+      "total": 56,
+      "confidence": 0.59
+    },
+    "R Corp. 4th Pack Reindeer": {
+      "th": "R Corp. Reindeer ฝูงที่ 4",
+      "count": 107,
+      "total": 110,
+      "confidence": 0.97
+    },
+    "R Corp. 4th Pack": {
+      "th": "R Corp. หน่วยที่ 4",
+      "count": 24,
+      "total": 32,
+      "confidence": 0.75
+    },
+    "District 8": {
+      "th": "District 8",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "R Corp. 4th Pack Rabbit": {
+      "th": "R Corp. กระต่ายกลุ่มที่ 4",
+      "count": 5,
+      "total": 6,
+      "confidence": 0.83
+    },
+    "R Corp. 4th Pack Rhino": {
+      "th": "R Corp. Rhino ฝูงที่ 4",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The Master of Hongyuan": {
+      "th": "นายเหนือแห่งหงหยวน",
+      "count": 22,
+      "total": 22,
+      "confidence": 1.0
+    },
+    "H Corp. Board Member": {
+      "th": "H Corp. Board Member",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Master of Twelve Beasts": {
+      "th": "นายเหนือหัวแห่งสิบสองอสูร",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "The Lord": {
+      "th": "ท่านลอร์ด",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "The Ring Nursefather": {
+      "th": "The Ring Nursefather",
+      "count": 57,
+      "total": 57,
+      "confidence": 1.0
+    },
+    "Uninvited Guest?": {
+      "th": "แขกที่ไม่ได้รับเชิญงั้นเหรอ?",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "Shi Section 5": {
+      "th": "ส่วน Shi 5",
+      "count": 9,
+      "total": 17,
+      "confidence": 0.53
+    },
+    "N Corp. Kleinhammer": {
+      "th": "N Corp. Kleinhammer",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Öufi South Section 3": {
+      "th": "Öufi South Section 3",
+      "count": 23,
+      "total": 23,
+      "confidence": 1.0
+    },
+    "Nekomata Mafia": {
+      "th": "Nekomata Mafia",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Tepuu Family": {
+      "th": "Tepuu Family",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Knots": {
+      "th": "The Knots",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Heishou Pack - You Branch Adept": {
+      "th": "Heishou Pack - You Branch Adept",
+      "count": 28,
+      "total": 28,
+      "confidence": 1.0
+    },
+    "Heishou Pack -\nYou Branch": {
+      "th": "Heishou Pack - สาขา You",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Liu Section 4": {
+      "th": "Liu Section 4",
+      "count": 26,
+      "total": 26,
+      "confidence": 1.0
+    },
+    "Beef Noodle Restaurant": {
+      "th": "ร้านบะหมี่เนื้อ",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Captain of the Pequod": {
+      "th": "กัปตันแห่งเรือ Pequod",
+      "count": 32,
+      "total": 32,
+      "confidence": 1.0
+    },
+    "Zwei West Section 3 Director": {
+      "th": "Director ของ Zwei West Section 3",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Zwei West Section 3": {
+      "th": "Zwei West Section 3",
+      "count": 23,
+      "total": 37,
+      "confidence": 0.62
+    },
+    "District 24": {
+      "th": "District 24",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Syndicate Rep": {
+      "th": "Syndicate Rep",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Ishmael's Clan": {
+      "th": "เผ่าพันธุ์ของ Ishmael",
+      "count": 22,
+      "total": 22,
+      "confidence": 1.0
+    },
+    "J Corp. Resident": {
+      "th": "J Corp. ผู้อยู่อาศัย",
+      "count": 21,
+      "total": 21,
+      "confidence": 1.0
+    },
+    "Jeong's Office Rep": {
+      "th": "Rep ของ Jeong Office",
+      "count": 27,
+      "total": 27,
+      "confidence": 1.0
+    },
+    "The Middle Apprentice": {
+      "th": "The Middle Apprentice",
+      "count": 25,
+      "total": 25,
+      "confidence": 1.0
+    },
+    "The Middle Nursefather": {
+      "th": "The Middle Nursefather",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Liu Section 4 Director": {
+      "th": "Director ของ Liu Section 4",
+      "count": 16,
+      "total": 16,
+      "confidence": 1.0
+    },
+    "Devyat' North Section 3": {
+      "th": "Devyat' North Section 3",
+      "count": 47,
+      "total": 78,
+      "confidence": 0.6
+    },
+    "Courier Trunk": {
+      "th": "Courier Trunk",
+      "count": 18,
+      "total": 18,
+      "confidence": 1.0
+    },
+    "Heishou Pack - Si Branch": {
+      "th": "กลุ่ม Heishou - สาขา Si",
+      "count": 43,
+      "total": 77,
+      "confidence": 0.56
+    },
+    "The Ring Fauvist Docent": {
+      "th": "Ring Fauvist Docent",
+      "count": 56,
+      "total": 56,
+      "confidence": 1.0
+    },
+    "Wayfarer Doorbreach Team 5": {
+      "th": "Wayfarer Doorbreach Team 5",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Wayfarer Doorbreach Team 5 Leader": {
+      "th": "หัวหน้า Doorbreach Team 5 แห่ง Wayfarer",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Los Mariachis": {
+      "th": "Los Mariachis",
+      "count": 59,
+      "total": 59,
+      "confidence": 1.0
+    },
+    "The One Who Shall Grip": {
+      "th": "The One Who Shall Grip",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Cinq Section 4 Director": {
+      "th": "ผู้อำนวยการ Cinq ส่วนที่ 4",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "Cinq Section 4": {
+      "th": "Cinq แผนก 4",
+      "count": 16,
+      "total": 29,
+      "confidence": 0.55
+    },
+    "Dawn Office": {
+      "th": "รุ่งสาง Office",
+      "count": 22,
+      "total": 22,
+      "confidence": 1.0
+    },
+    "The Client": {
+      "th": "ผู้ว่าจ้าง",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "P Corp.": {
+      "th": "P Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Protection Target": {
+      "th": "เป้าหมายของ Protection",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Military Court": {
+      "th": "ศาลทหาร",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "G Corp. Head Manager": {
+      "th": "G Corp. หัวหน้าผู้จัดการ",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Seven Section 6 Director": {
+      "th": "ผู้อำนวยการ Section 6 ระดับ 7",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "The Ring Pointillist Student": {
+      "th": "นักเรียน Pointillist แห่ง The Ring",
+      "count": 21,
+      "total": 21,
+      "confidence": 1.0
+    },
+    "The Ring Cubist Student": {
+      "th": "นักเรียน Cubist แห่ง The Ring",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "District 22 Backstreets": {
+      "th": "District 22 Backstreets",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "LCA Vanguard Team 3": {
+      "th": "LCA Vanguard Team 3",
+      "count": 59,
+      "total": 59,
+      "confidence": 1.0
+    },
+    "Twinhook Pirates First Mate": {
+      "th": "ต้นหนกลุ่มโจรสลัด Twinhook",
+      "count": 27,
+      "total": 27,
+      "confidence": 1.0
+    },
+    "Night Awls Capitano": {
+      "th": "Night Awls Capitano",
+      "count": 56,
+      "total": 56,
+      "confidence": 1.0
+    },
+    "Night Awls": {
+      "th": "Night Awls",
+      "count": 31,
+      "total": 31,
+      "confidence": 1.0
+    },
+    "Library Director": {
+      "th": "Library Director",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Floor of History": {
+      "th": "Floor of History",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "LCE Research Team Chief": {
+      "th": "หัวหน้าทีมวิจัย LCE",
+      "count": 32,
+      "total": 62,
+      "confidence": 0.52
+    },
+    "LCA HR Management Team 2": {
+      "th": "LCA ทีมบริหารทรัพยากรบุคคล 2",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Faro Muerto": {
+      "th": "Faro Muerto",
+      "count": 24,
+      "total": 24,
+      "confidence": 1.0
+    },
+    "Ægir": {
+      "th": "Ægir",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Iberia": {
+      "th": "Iberia",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Me": {
+      "th": "ฉัน",
+      "count": 33,
+      "total": 33,
+      "confidence": 1.0
+    },
+    "■■■": {
+      "th": "■■■",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "District 4 Backstreets": {
+      "th": "District 4 Backstreets",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Guide": {
+      "th": "Guide",
+      "count": 27,
+      "total": 37,
+      "confidence": 0.73
+    },
+    "J Corp. Pawnshop": {
+      "th": "J Corp. โรงรับจำนำ",
+      "count": 22,
+      "total": 22,
+      "confidence": 1.0
+    },
+    "Chump": {
+      "th": "เจ้าโง่",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Tieqiu Crew": {
+      "th": "Tieqiu Crew",
+      "count": 27,
+      "total": 31,
+      "confidence": 0.87
+    },
+    "K Corp. Checkpoint": {
+      "th": "จุดตรวจ K Corp",
+      "count": 2,
+      "total": 3,
+      "confidence": 0.67
+    },
+    "Sinner #3": {
+      "th": "Sinner #3",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "District 11": {
+      "th": "District 11",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "A Fixer?": {
+      "th": "Fixer งั้นเหรอ?",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Calw Townsfolk": {
+      "th": "ชาวเมือง Calw",
+      "count": 5,
+      "total": 9,
+      "confidence": 0.56
+    },
+    "Nest K": {
+      "th": "Nest K",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "K Corp. Laboratory": {
+      "th": "K Corp. ห้องแล็บ",
+      "count": 48,
+      "total": 53,
+      "confidence": 0.91
+    },
+    "Both": {
+      "th": "ทั้งคู่",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Terrorist Organization?": {
+      "th": "องค์กรก่อการร้ายงั้นเหรอ?",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "Shi Association": {
+      "th": "Shi Association",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Effloresced E.G.O::Spicebush": {
+      "th": "Effloresced E.G.O::Spicebush",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "U Corp.": {
+      "th": "U Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Twinhook Pirates?": {
+      "th": "Twinhook Pirates งั้นเหรอ?",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCCB P-Obs. Unit 3": {
+      "th": "LCCB P-Obs. Unit 3",
+      "count": 83,
+      "total": 83,
+      "confidence": 1.0
+    },
+    "The Great Lake of U Corp.": {
+      "th": "Great Lake ของ U Corp",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Mermaid": {
+      "th": "Mermaid",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Outskirts": {
+      "th": "The Outskirts",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Sinner #6": {
+      "th": "Sinner #6",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "T Corp. Gang": {
+      "th": "T Corp. แก๊ง",
+      "count": 21,
+      "total": 40,
+      "confidence": 0.53
+    },
+    "Öufi Association": {
+      "th": "Öufi Association",
+      "count": 23,
+      "total": 23,
+      "confidence": 1.0
+    },
+    "The Dead Rabbits": {
+      "th": "The Dead Rabbits",
+      "count": 4,
+      "total": 6,
+      "confidence": 0.67
+    },
+    "Öufi": {
+      "th": "Öufi",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Öufi? The Ring?": {
+      "th": "Öufi? The Ring งั้นเหรอ?",
+      "count": 4,
+      "total": 8,
+      "confidence": 0.5
+    },
+    "A Distant World": {
+      "th": "โลกอันห่างไกล",
+      "count": 54,
+      "total": 70,
+      "confidence": 0.77
+    },
+    "A Certain Every World": {
+      "th": "ในโลกบางแห่ง",
+      "count": 12,
+      "total": 23,
+      "confidence": 0.52
+    },
+    "Hana Assoc. North": {
+      "th": "Hana Assoc. สาขาเหนือ",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "P Corp. Staff": {
+      "th": "Staff ของ P Corp",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Bloodfiends?": {
+      "th": "Bloodfiends?",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Zwei Association": {
+      "th": "Zwei Association",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Hana Association": {
+      "th": "ฮานะ Association",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Qiu's Clan": {
+      "th": "ตระกูล Qiu",
+      "count": 40,
+      "total": 49,
+      "confidence": 0.82
+    },
+    "LCE Department": {
+      "th": "แผนก LCE",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Broadcast Sector": {
+      "th": "Broadcast Sector",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "LCD Research Team": {
+      "th": "LCD Research Team",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daughter": {
+      "th": "ลูกสาว",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Limbus Company HQ": {
+      "th": "HQ ของLimbus Company",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "The Ring's Art Ingredient": {
+      "th": "วัตถุดิบงานศิลป์แห่งวงแหวน",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Gesellschaft": {
+      "th": "Gesellschaft",
+      "count": 41,
+      "total": 41,
+      "confidence": 1.0
+    }
+  },
+  "places": {
+    "District 4 - LC Branch Entryway": {
+      "th": "ทางเข้า L Corp. สาขาเขต 4",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "District 4 - LC Branch Interior": {
+      "th": "ภายในศูนย์ L Corp. สาขาเขต 4",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "Midst of the Smoke War": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Central Front in the Smoke War": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Aboard Mephistopheles": {
+      "th": "L Corp.",
+      "count": 58,
+      "total": 58,
+      "confidence": 1.0
+    },
+    "Casino Mine B1": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Casino Mine B2": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Casino Mine B3": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Ice Castle Where Neighbors Lie": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Somewhere in the Backstreets": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Within the Ice Castle": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "District 11 - LC Branch Interior": {
+      "th": "ภายในศูนย์ L Corp. สาขาเขต 11",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Unending Hill of Corpses": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Rowdy Classroom": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Classroom": {
+      "th": "ห้อง L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Middle of an Alleyway": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Blossoming League of Nine Littérateurs": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Outreaches of the Outskirts": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Nest T’s Roads": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Rowdy League of Nine Littérateurs": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Withering League of Nine Littérateurs": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Emptied League of Nine Littérateurs": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Screening Room": {
+      "th": "ห้อง L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "K Corp. Laboratory": {
+      "th": "L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "N Corp. Cubic Room": {
+      "th": "ห้อง L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "A Hallway in N Corp.": {
+      "th": "ทางเดิน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Nest K’s Alleyways": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "???": {
+      "th": "L Corp.",
+      "count": 32,
+      "total": 32,
+      "confidence": 1.0
+    },
+    "Cabins of Mephistopheles": {
+      "th": "L Corp.",
+      "count": 17,
+      "total": 17,
+      "confidence": 1.0
+    },
+    "Inside the Pallid Whale": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "The Pallid Whale's Stomach": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Pequod Town": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Ahab's Office": {
+      "th": "สำนักงาน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Pallid Whale's Right Atrium Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The Pequod": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "The Pallid Whale's Right Atrium": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "The Pallid Whale's Right Ventricle": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Thumping of the Heart": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Rendezvous Area Before the Heart": {
+      "th": "พื้นที่ L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Pallid Whale's Heart": {
+      "th": "L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Aboard Mephistopheles's Deck": {
+      "th": "L Corp.",
+      "count": 16,
+      "total": 16,
+      "confidence": 1.0
+    },
+    "The Great Lake": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Somewhere in U Corp.'s Marlin Portship": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Fathoms of Ego": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Fathoms of Ego - Maze": {
+      "th": "L Corp.",
+      "count": 15,
+      "total": 15,
+      "confidence": 1.0
+    },
+    "An Ancient Battlefield": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "A Certain Castle, Past": {
+      "th": "L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "La Manchaland, Past": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Confessional, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "-1": {
+      "th": -1,
+      "count": 128,
+      "total": 128,
+      "confidence": 1.0
+    },
+    "Shepherds' Village, Past": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "The Cave, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Outskirts, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Fathoms of Ego - La Mancha Eye": {
+      "th": "L Corp.",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Inside the Abandoned Lighthouse": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "A few days later...": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Several days later...": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Another few days later...": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Several days later, again...": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Aboard Mephistopheles's Deck, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Gregor's Fathoms, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "K Corp. Laboratory, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Pawnshop, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Lobotomy Corp. Drilling Ship Entrance, Past": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Backstreets of District 10, Past": {
+      "th": "L Corp. สาขาเขต 10",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Disintegrating Ruins of La Manchaland": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Near the Empty Lot under La Manchaland": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Buried in Ashes, Somewhere, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Evaluation Arena 1F": {
+      "th": "L Corp.",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Kong Family Building, Past": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Evaluation Arena 1F - Lab Ruins": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Hongyuan's Laboratory, Past": {
+      "th": "L Corp.",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Palanquin Interior, Past": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Evaluation Arena - Chamber of the Condemned 1F": {
+      "th": "ห้อง L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Evaluation Arena Interior B1": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Yihongyuan Interior, Past": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "B1 - Lab Ruins": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Evaluation Arena B1": {
+      "th": "L Corp.",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "A Certain Day at Daguanyuan": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Somewhere, Sometime in Daguanyuan": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Evaluation Arena B2": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "A Certain Day in Daguanyuan, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Final Room of the Family Hierarch Evaluation": {
+      "th": "ห้อง L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Path to the Revered Xianren": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Hongyuan, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Aojingguan Banquet Hall": {
+      "th": "L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Yihongyuan Yard, Past": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "#*% of #&*()!#%": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Backstreets": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Dante's Room": {
+      "th": "ห้อง L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Bus’s Corridor": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Limbus Kindergarten?": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Kindergarten Kitchen?": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Inside Mephistopheles": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Inside Mephistopheles?": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Bus’s Backdoor": {
+      "th": "L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "L Corp. Branch?": {
+      "th": "สาขา L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "L Corp. HQ Control Team Hallway": {
+      "th": "ทางเดิน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The Library - A Space Within a Book": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Refraction Railway Platform": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "L Corp. Headquarters?": {
+      "th": "สำนักงานใหญ่ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "L Corp. HQ Information Team Hallway": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "L Corp. HQ Training Team Lobby": {
+      "th": "ล็อบบี้ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The Church of Gears Meeting House": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Daguanyuan Pavilion": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Daguanyuan Front Gates": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "LCE Research Vehicle": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "L Corp. HQ Hallway": {
+      "th": "ทางเดิน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "L Corp. HQ Central Command Hallway": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "L Corp. HQ Central Command": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "LCE Research Team\nLab. Sector": {
+      "th": "ภาคส่วน L Corp.",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "LCE Research Team\nLab. Sector, Past": {
+      "th": "ภาคส่วน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "L Corp. HQ Welfare Team Hallway": {
+      "th": "ทางเดิน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "L Corp. HQ Welfare Team Lobby": {
+      "th": "ล็อบบี้ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Bodhisattva Chicken": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Front of Eunbong’s Bar & Fryers": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Nest K Downtown Alley": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Eunbong’s Bar & Fryers Kitchen": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Eunbong’s Bar & Fryers": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Eunbong’s Bar & Fryers - The Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Backstreets of District 21": {
+      "th": "L Corp. สาขาเขต 21",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Inside Molar Boatworks": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Molar Boatworks Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Molar Boatworks Bay": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Gift Factory Reception Hall": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Gift Factory": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Gift Factory Packaging Line": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Gift Factory Collection Line": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Gift Assembly": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Backstreets of T Corp.": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Yong-jin Building Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yong-jin Building 1F": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yong-jin Building 2F": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yong-jin Building 4F": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yong-jin Building 6F": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Yong-jin Building 6F Office": {
+      "th": "สำนักงาน L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Mirror Dungeon of the Fathoms": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Alleyways of T Corp.": {
+      "th": "L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Aboard Mephistopheles, Past": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Local Time Collections Office": {
+      "th": "สำนักงาน L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "T Corp. Watch Factory": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Dark Alleyways of T Corp.": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "An Alleyway of T Corp.": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Yurodiviye Hideout": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yurodiviye Hideout Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "T Corp. Watch Factory Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Alleyways of T Corp. Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Clock Tower": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "T Corp. Alleyway, 30 Minutes Ago": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Clock Tower Again": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "T Corp. WARP train platform": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "WARP Train First Class Cabin": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "WARP Train Economy Class Cabin": {
+      "th": "L Corp.",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Dante's Room, Past": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "P Corp. WARP train platform": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Mysterious Vehicle": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCE Research Team Lab. Unit": {
+      "th": "L Corp.",
+      "count": 18,
+      "total": 18,
+      "confidence": 1.0
+    },
+    "Lobotomy Corp. Branch, Past?": {
+      "th": "สาขา L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Hohenheim's Laboratory, Past": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Lobotomy Corp. Branch, Past": {
+      "th": "สาขา L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Aboard Mephistopheles, Yesterday": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Backstreets of District 8, Entrance": {
+      "th": "ทางเข้า L Corp. สาขาเขต 8",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Backstreets of District 8, Somewhere": {
+      "th": "L Corp. สาขาเขต 8",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Kezhan Lounge": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Kezhan Lobby": {
+      "th": "ล็อบบี้ L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Melted Kezhan Chamber": {
+      "th": "ห้อง L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Melted Kezhan Lobby": {
+      "th": "ล็อบบี้ L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Kezhan Chamber": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Kezhan Lobby?": {
+      "th": "ล็อบบี้ L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Backstreets of District 8, Kezhan Ruins": {
+      "th": "L Corp. สาขาเขต 8",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Backstreets of District 8": {
+      "th": "L Corp. สาขาเขต 8",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Heishou Houses Assembly": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Yihongyuan Interior": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Special Lecture Hall": {
+      "th": "L Corp.",
+      "count": 25,
+      "total": 25,
+      "confidence": 1.0
+    },
+    "Nearby Pingan Residential Support Zone": {
+      "th": "เขต L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Pingan Residential Support Zone Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Pingan Residential Support Zone": {
+      "th": "เขต L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Dahuating Banquet Hall": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "LCE Morgue": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCE Recovery Ward": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corridor of the Ring Nursefather": {
+      "th": "ทางเดิน L Corp.",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "Fauvist Gallery, Somewhere": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The House of Spiders Forward Base": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "A Park, Somewhere": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Corridor of the Ring Nursefather, Past": {
+      "th": "ทางเดิน L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Corridor of the Middle Nursefather": {
+      "th": "ทางเดิน L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Giant Stingray Portship": {
+      "th": "L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Corridor of the Index Nursefather, Past": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The Ring's Subsidiary Art Academy": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Corridor of the Middle Nursefather, Past": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Crumbling Corridor of the Thumb Nursefather": {
+      "th": "ทางเดิน L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Fathoms of Ego - La Mancha Eye, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corridor of the Thumb Nursefather, Past": {
+      "th": "ทางเดิน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "An Office Building, Somewhere": {
+      "th": "สำนักงาน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Rien's Dungeon, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corridor of the Index Nursefather": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "A Dungeon, Somewhere": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Rien's Dungeon": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Rien's Home": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corridor of the Pinky Nursefather": {
+      "th": "ทางเดิน L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Ryōshū's Room, Past": {
+      "th": "ห้อง L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Nuanxiangwu Interior": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Special Lecture Hall, Recent Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yanyun City Kezhan?": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yinzhi Mountain?": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yuyuan City Front Gates?": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yuyuan City?": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daguanyuan Streets": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Daguanyuan Sparring Grounds": {
+      "th": "L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Daguanyuan Training Grounds": {
+      "th": "L Corp.",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Nuanxiangwu, Past": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Luxue Hermitage": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Iberian Coastline": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "A Certain Coast": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Iberian Village?": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Faro Muerto, Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Faro Muerto, Clearing": {
+      "th": "L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Faro Muerto, Yesterday": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Faro Muerto Clearing": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Faro Muerto, Unoccupied Building": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Faro Muerto, Coast": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Vessel Masas Bridge Interior": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Eye of Iberia, Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Eye of Iberia, Control Room": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Vessel Masas Decks": {
+      "th": "L Corp.",
+      "count": 13,
+      "total": 13,
+      "confidence": 1.0
+    },
+    "Mayors's Dungeon of the Fathoms": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Yihongyuan Yard": {
+      "th": "L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Ægir, Mayors's House": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Vessel Masas Control Room, Past": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Faro Muerto, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "A Dark Forest": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Some Backstreets of District 4": {
+      "th": "L Corp. สาขาเขต 4",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "District 4 - L Corp. Branch Entrance": {
+      "th": "สาขา L Corp. สาขาเขต 4",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "District 4 - L Corp. Branch Exterior": {
+      "th": "ภายนอก L Corp. สาขาเขต 4",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "District 4 - L Corp. Branch Interior": {
+      "th": "ภายในศูนย์ L Corp. สาขาเขต 4",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "A Pawnshop": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Pawn Avenue": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Backstreets of District 10": {
+      "th": "L Corp. สาขาเขต 10",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Casino Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Casino 1F": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Topsy-turvy Casino 1F": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Casino 2F": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Casino 3F": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "High Rollers Floor": {
+      "th": "ชั้น L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Private Room": {
+      "th": "ห้อง L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Elevator Interior": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "K Corp. Checkpoint": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Path towards Calw": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Calw - Town Square": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "The Old Sinclair Estate": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Basement Area": {
+      "th": "พื้นที่ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Underground Passage": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Nest K’s Ruined Streets": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Nest K’s Streets": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "K Corp. Laboratory Lobby": {
+      "th": "ล็อบบี้ L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "K Corp. Laboratory Hallway": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "K Corp. Laboratory Room": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "K Corp. Laboratory - Modification Lab": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Invaded K Corp. Laboratory": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Way to Lobotomy Corp. Branch in Nest K": {
+      "th": "สาขา L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Nest K - LC Branch Interior": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Nest K - LC Branch Manager's Office": {
+      "th": "สำนักงาน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Ruined K Corp. Laboratory Hallway": {
+      "th": "ทางเดิน L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Reconstructing K Corp. Laboratory": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "U Corp.'s Marlin Portship": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Dark Corners of U Corp.": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Marlin Port Club Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Marlin Port Club": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Marlin Port Club VIP Room": {
+      "th": "ห้อง L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Twinhook Pirates' Hideout": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "The Twinhook Pirate Ship": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Mephistopheles' Skiff": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Cruise Ship": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Abandoned Lobotomy Corp. Drilling Ship": {
+      "th": "L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Lobotomy Corp. Drilling Ship Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "T Corp.’s Streets": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Approach": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Front Gate": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Gardens": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Hall": {
+      "th": "L Corp.",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Corridors": {
+      "th": "ทางเดิน L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Catherine's Room": {
+      "th": "ห้อง L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Fireplace": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Basement Stairs": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Basement Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Basement": {
+      "th": "L Corp.",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Wuthering Heights of a Distant World": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Abo*#d Mep@istopheles": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Ab&#$* M#$%ito@#eles": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "&*@#!#$ @#%&@@&#^%les": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Past": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "&*%@#!#$% @#~*": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Gardens of an Uncertain Time": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Laboratory": {
+      "th": "L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Stairwell to the Rooftop": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Past?": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Wuthering Heights Rooftop": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Wuthering Heights of a Certain Future": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "P Corp. WARP train platform Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Backstreets of P Corp., Outside the Tent": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Makeshift Command Tent": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Backstreets of P Corp., an Empty Lot": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "La Manchaland Front Gates": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "La Manchaland, Area 1": {
+      "th": "พื้นที่ L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Fantasy Blood-shooting": {
+      "th": "L Corp.",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "Shepherds' Village": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Where None Shall Tread": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Before the Cave": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Cave's Deepest Fathoms": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "La Manchaland, Area 2": {
+      "th": "พื้นที่ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Haunted: Bloody Mary": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Confessional": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "A Certain Castle": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Carnival Parade": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Lethe, the River of Oblivion": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "La Manchaland": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Daguanyuan Banquet Hall": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Palanquin Interior": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 6,
+      "total": 6,
+      "confidence": 1.0
+    },
+    "Somewhere in Daguanyuan, Past": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Yihongyuan": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Palanquin Interior, A Few Hours Ago": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daguanyuan, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Yihongyuan Yard, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Yihongyuan Interior, Past": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Tubitang": {
+      "th": "L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Tubitang - Atop the Platform": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Yihongyuan Interior, Last Night": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Round 2 Evaluations Assembly": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Grand Lift": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Somewhere in Hongyuan": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Ruins of the Kong Family Building": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Final Room of the Evaluation, Recent Past": {
+      "th": "ห้อง L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Evaluation Arena B2, Recent Past": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Daguanyuan - Aojingguan Banquet Hall, Recent Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Way Down to Tiekan Temple": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Passageway to Tiekan Temple": {
+      "th": "L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Bridge to Tiekan Temple": {
+      "th": "L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "Tiekan Temple Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Tiekan Temple Entrance, Past": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Tiekan Temple Interior, Past": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Tiekan Temple Interior": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Backstreets of District 8, Recent Past": {
+      "th": "L Corp. สาขาเขต 8",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Front Gates of Daguanyuan, Past": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Tiekan Temple Interior, Recent Past": {
+      "th": "ภายในศูนย์ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Tiekan Temple Exterior": {
+      "th": "ภายนอก L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Daguanyuan Gardens": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCCB Transporter Truck": {
+      "th": "L Corp.",
+      "count": 12,
+      "total": 12,
+      "confidence": 1.0
+    },
+    "LCE 연구팀 실험동": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCE Research Team Broadcast Sector Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCE Research Team Broadcast Sector": {
+      "th": "ภาคส่วน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "LCE Research Team Hallway": {
+      "th": "ทางเดิน L Corp.",
+      "count": 27,
+      "total": 27,
+      "confidence": 1.0
+    },
+    "LCE Research Team Security Unit": {
+      "th": "L Corp.",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "LCE Research Team Laboratory Entrance": {
+      "th": "ทางเข้า L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "LCE Research Team Laboratory": {
+      "th": "L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "LCE Research Team Laboratory, Some time ago": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Somewhere in the House of Spiders, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCE Research Team Components Storage": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "LCE Research Team Quarantine Zone": {
+      "th": "เขต L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "LCE Research Team\nElevator": {
+      "th": "L Corp.",
+      "count": 10,
+      "total": 10,
+      "confidence": 1.0
+    },
+    "LCE Research Team\nFacility Management Room": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Limbus Company Portal Monitoring Room": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corridor of the Ring": {
+      "th": "ทางเดิน L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Limbus Company Portal Monitoring Room, some time ago": {
+      "th": "ห้อง L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corridor of the Middle": {
+      "th": "ทางเดิน L Corp.",
+      "count": 5,
+      "total": 5,
+      "confidence": 1.0
+    },
+    "Some time ago, prior to entering the Backdoor": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Somewhere in a mall, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "A Corridor somewhere": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corridor of the Index": {
+      "th": "ทางเดิน L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Corridor of the Index, Past": {
+      "th": "ทางเดิน L Corp.",
+      "count": 8,
+      "total": 8,
+      "confidence": 1.0
+    },
+    "Corridor of the Pinky": {
+      "th": "ทางเดิน L Corp.",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Bioengineering Research Facility": {
+      "th": "สถานที่ L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Corridor of the Thumb": {
+      "th": "ทางเดิน L Corp.",
+      "count": 7,
+      "total": 7,
+      "confidence": 1.0
+    },
+    "Ryōshū and Araya's Room, Past": {
+      "th": "ห้อง L Corp.",
+      "count": 9,
+      "total": 9,
+      "confidence": 1.0
+    },
+    "Corridor of the Thumb, Past": {
+      "th": "ทางเดิน L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Corridor of the Ring, Past": {
+      "th": "ทางเดิน L Corp.",
+      "count": 4,
+      "total": 4,
+      "confidence": 1.0
+    },
+    "U Corp.'s Marlin Portship Shop Alley, Past": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "??? of the Thumb": {
+      "th": "L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "Corridor of the Pinky, Past": {
+      "th": "ทางเดิน L Corp.",
+      "count": 3,
+      "total": 3,
+      "confidence": 1.0
+    },
+    "Corridor of the Index, Long Ago": {
+      "th": "ทางเดิน L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "The House of Spiders Rooftop": {
+      "th": "L Corp.",
+      "count": 11,
+      "total": 11,
+      "confidence": 1.0
+    },
+    "Ryōshū and Araya's Room, a Certain Day": {
+      "th": "ห้อง L Corp.",
+      "count": 2,
+      "total": 2,
+      "confidence": 1.0
+    },
+    "The House of Spiders Rooftop, a Certain Day": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "A Beach, Once Upon a Time": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "Somewhere in the City": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    },
+    "N Corp.": {
+      "th": "L Corp.",
+      "count": 1,
+      "total": 1,
+      "confidence": 1.0
+    }
+  }
+}

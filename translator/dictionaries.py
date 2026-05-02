@@ -61,6 +61,7 @@ KOREAN_TO_THAI_TELLER = {
 
 # English teller -> Thai teller (for cases where teller is already in English)
 ENGLISH_TO_THAI_TELLER = {
+    # 12 Sinners
     "Dante": "ดันเต้",
     "Faust": "เฟาสท์",
     "Don Quixote": "ดอนกิโฮเต้",
@@ -75,20 +76,118 @@ ENGLISH_TO_THAI_TELLER = {
     "Outis": "อูทิส",
     "Gregor": "เกรกอร์",
     "Yi Sang": "อีซัง",
+    # Main NPCs
     "Vergilius": "เวอร์จิลิอุส",
+    "Charon": "แครอน",
     "Yuri": "ยูริ",
     "Hopkins": "ฮอปกินส์",
-    "Charon": "แครอน",
+    "Kromer": "โครเมอร์",
+    "Dongrang": "ทงรัง",
+    "Dongbaek": "ทงแบ็ก",
+    "Aseah": "อาเซีย",
+    "Demian": "เดเมียน",
+    "Effie": "เอฟฟี",
+    "Samjo": "ซัมโจ",
+    "Moses": "โมเสส",
+    "Ezra": "เอสรา",
+    "Hermann": "แฮร์มันน์",
+    "Catherine": "แคทเธอรีน",
+    "Hindley": "ฮินด์ลีย์",
+    "Linton": "ลินตัน",
+    "Nelly": "เนลลี",
+    "Ahab": "อาแฮบ",
+    "Queequeg": "ควีควีก",
+    "Starbuck": "สตาร์บัก",
+    "Stubb": "สตับบ์",
+    "Bari": "บารี",
+    "Sansón": "ซองซง",
+    "Dulcinea": "ดุลซิเนีย",
+    "Hohenheim": "โฮเอนไฮม์",
+    "Guido": "กวีโด",
+    "Ricardo": "ริการ์โด",
+    "Alfonso": "อัลฟองโซ",
+    "Vespa": "เวสปา",
+    "Josephine": "โจเซฟีน",
+    "Paula": "เพาลา",
+    "Siegfried": "ซิกฟรีด",
+    "Cassetti": "คาสเซตตี",
+    "Caiman": "ไคแมน",
+    "Bumble": "บัมเบิล",
+    "Alan": "อลัน",
+    "Aida": "ไอดา",
+    "Camille": "คามิลล์",
+    "Shrenne": "ชเรนเนอ",
+    "Araya": "อารายา",
+    "Han-ul": "ฮันอึล",
+    "Wei": "เหวย",
+    "Gubo": "กูโป",
+    "Zilu": "จือหลู",
+    "Zigong": "จื่อกง",
+    "Xiren": "ซีเหริน",
+    "Lin Daiyu": "หลินได้อวี่",
+    "Xue Baochai": "เซวะเป่าฉาย",
+    "Xue Pan": "เซวะพาน",
+    "Jia Huan": "เจี่ยฮวน",
+    "Jia Mu": "เจี่ยมู่",
+    "Jia Yuanchun": "เจี่ยหยวนชุน",
+    "Jia Qiu": "เจี่ยชิว",
+    "Jia Zheng": "เจี่ยเจิ้ง",
+    "Lady Wang": "หวางไท่ไท่",
+    "Wang Ren": "หวันเหริน",
+    "Wang Dawei": "หวันต้าเวย",
+    "Wang Qingshan": "หวันชิงชาน",
+    "Wang Zhao": "หวันเจ้า",
+    "Lei Heng": "เหลยเหิง",
+    "Kong Youjin": "ขงหยูจิน",
+    "Kong Sihui": "ขงซีฮุย",
+    "Shi Huazhen": "ซีหัวเจิ้น",
+    "Shi Sijing": "ซีซี่จิ้ง",
+    "Shi Yihua": "ซีอี้หัว",
+    "Lion": "ไลออน",
+    "Panther": "แพนเทอร์",
+    "Wolf": "วูลฟ์",
+    "Rain": "เรน",
+    "Ran": "รัน",
+    "Ravi": "ราวี",
+    "Ren": "เรน",
+    "Rien": "เรียน",
+    "Rim": "ริม",
+    "Niko": "นีโก",
+    "Marile": "มาริเลอ",
+    "Cesara": "เชซารา",
+    "Tomah": "โทมาห์",
+    "Callisto": "แคลลิสโต",
+    "Alex": "อเล็กซ์",
+    "Alessio": "อาเลสซีโอ",
+    "Night Drifter": "ผู้พเนจรแห่งราตรี",
+    "The Barber": "ช่างตัดผม",
+    "The Priest": "บาทหลวง",
+    "The Indigo Elder": "ผู้เฒ่าคราบน้ำเงิน",
+    "The Time Ripper": "ผู้ฉีกเวลา",
+    "Erlking Heathcliff": "เอิร์ลคิง ฮีธคลิฟฟ์",
+    "Every Catherine": "แคทเธอรีนทุกคน",
+    "Bamboo-hatted Kim": "คิมหมวกไม้ไผ่",
+    "Fiddler": "ฟิดเลอร์",
+    # Identity variants
     "W. Faust": "เฟาสท์",
     "Liu Gregor": "หลิว เกรกอร์",
     "Seven Ryoshu": "เรียวชู",
     "Seven Ryōshū": "เรียวชู",
+    "Seven Yi Sang": "อีซัง",
     "Blade Lineage Outis": "อูทิส",
     "Blade Lineage Sinclair": "ซินแคลร์",
     "Kurokumo Rodion": "โรเดียน",
     "Kurokumo Hong Lu": "หงลู่",
     "Shi Heathcliff": "ฮีธคลิฟฟ์",
     "Liu Meursault": "หลิว เมอร์โซ",
+    "R Corp. Ishmael": "อิชมาเอล",
+    "Don Quixote & T Corp. Staff": "ดอนกิโฮเต้",
+    "Heathcliff, The Heartbroken": "ฮีธคลิฟฟ์",
+    "Magical Girl": "ดอนกิโฮเต้",
+    "A Prosthetic Head": "ดันเต้",
+    "Dongrang, Who Denies All": "ทงรัง",
+    "Narrator": "ผู้บรรยาย",
+    "Researcher": "นักวิจัย",
 }
 
 # Title word-order fixes: Pattern -> Replacement
@@ -224,8 +323,18 @@ def fix_title_word_order(text: str) -> str:
 
 
 def translate_place_name(text: str) -> str:
-    """Translate place names while keeping proper nouns and reordering to Thai syntax."""
+    """Translate place names while keeping proper nouns and reordering to Thai syntax.
+    
+    This is now a FALLBACK function - the glossary is checked first in engine.py.
+    Only called when the glossary doesn't have a match.
+    """
     if not text:
+        return text
+    
+    # Handle non-place values
+    if text == "-1" or text == -1:
+        return "-1"
+    if text == "???" or text == "???":
         return text
     
     original = text
@@ -249,7 +358,6 @@ def translate_place_name(text: str) -> str:
             break
     
     # Reconstruct in Thai order: [Location] [Corp] [Branch] [District]
-    # Example: "District 4 - LC Branch Entryway" -> "ทางเข้า L Corp. สาขาเขต 4"
     parts = []
     if location_thai:
         parts.append(location_thai)

@@ -80,28 +80,41 @@ class OllamaClient:
                 return False
     
     def translate_batch(self, items: List[Tuple[str, str, str]], 
-                       context: str = "", file_type: str = "general") -> Dict[str, str]:
+                       context: str = "", file_type: str = "general",
+                       entry_contexts: Dict[str, str] = None) -> Dict[str, str]:
         """
         Translate a batch of related text items together.
+        
+        Args:
+            items: List of (path, field, text) tuples
+            context: Base context string (worldbuilding, scene info)
+            file_type: Type of file for few-shot examples
+            entry_contexts: Optional dict mapping path -> character voice guide string
+                           for per-entry character context injection
         """
         if not items:
             return {}
         
         if self.use_openrouter:
-            return self._translate_batch_openrouter(items, context, file_type)
+            return self._translate_batch_openrouter(items, context, file_type, entry_contexts)
         else:
-            return self._translate_batch_ollama(items, context, file_type)
+            return self._translate_batch_ollama(items, context, file_type, entry_contexts)
     
     def _translate_batch_openrouter(self, items: List[Tuple[str, str, str]], 
-                                     context: str, file_type: str) -> Dict[str, str]:
+                                     context: str, file_type: str,
+                                     entry_contexts: Dict[str, str] = None) -> Dict[str, str]:
         """Translate using OpenRouter Gemini."""
         
         few_shots = self._get_few_shot_examples(file_type)
         
-        # Build numbered list of items to translate
+        # Build numbered list of items to translate, with per-entry character context
         items_text = []
         for i, (path, field, text) in enumerate(items):
-            items_text.append(f"[{i}] {text}")
+            # Add character context annotation if available
+            char_ctx = ""
+            if entry_contexts and path in entry_contexts:
+                char_ctx = f" [{entry_contexts[path]}]"
+            items_text.append(f"[{i}]{char_ctx} {text}")
         
         items_str = "\n".join(items_text)
         
@@ -122,6 +135,10 @@ CRITICAL RULES:
 7. Translate naturally, NOT word-for-word
 8. WORD ORDER RULE: When translating titles with English nouns + Thai numbers, put the English noun FIRST. Examples: "Fixer grade 8" -> "Fixer ระดับ 8". "Manager high-level" -> "Manager ระดับสูง". English noun always comes before Thai classifier/number.
 9. For stuttering/repetition like "T-to" or "N-no", preserve the pattern in Thai: "ก-ก็", "ม-ไม่"
+10. CHARACTER VOICE: When a line is annotated with [กำลังพูด: ...], translate that line using that character's voice and personality. Match their tone, pronouns, speech register, and mannerisms.
+11. PLACE NAMES: Keep proper nouns in English (Wuthering Heights, La Manchaland, Mephistopheles, Daguanyuan). Translate location descriptors to Thai: Hall -> ห้องโถง, Hallway/Corridor -> ทางเดิน, Interior -> ภายใน, Entrance -> ทางเข้า, Room -> ห้อง. Word order: [Thai descriptor] + [proper noun]. Examples: "Wuthering Heights Hall" -> "ห้องโถง Wuthering Heights", "K Corp. Laboratory" -> "ห้องปฏิบัติการ K Corp."
+12. TELLER NAMES: Character names in teller/title fields are already translated by the system. Do NOT retranslate them. If you see Thai text in a teller/title field, keep it as-is.
+13. TITLES: Keep organization names in English (The Middle, The Index, The Thumb, etc.). Translate role descriptors into Thai. Examples: "Class 2 Collection Staff" -> "เจ้าหน้าที่เก็บกู้ ระดับ 2", "Öufi Assoc. Director" -> "ผู้อำนวยการ Öufi Assoc."
 
 {few_shots}
 
@@ -165,7 +182,8 @@ Return results in this format (each line must start with [N]):
             return {}
     
     def _translate_batch_ollama(self, items: List[Tuple[str, str, str]], 
-                                 context: str, file_type: str) -> Dict[str, str]:
+                                 context: str, file_type: str,
+                                 entry_contexts: Dict[str, str] = None) -> Dict[str, str]:
         """Translate using local Ollama (fallback)."""
         import requests
         
@@ -173,7 +191,10 @@ Return results in this format (each line must start with [N]):
         
         items_text = []
         for i, (path, field, text) in enumerate(items):
-            items_text.append(f"[{i}] {text}")
+            char_ctx = ""
+            if entry_contexts and path in entry_contexts:
+                char_ctx = f" [{entry_contexts[path]}]"
+            items_text.append(f"[{i}]{char_ctx} {text}")
         
         items_str = "\n".join(items_text)
         
@@ -186,13 +207,18 @@ Your role:
 
 CRITICAL RULES:
 1. Characters inside §§§...§§§ are placeholders - NEVER translate or modify them
-2. Game terms keep English: Sinner, Sinners, Abnormality, E.G.O, Golden Bough, The City, The Head, Fixer, Wing, District, Nest, Backstreets, Mirror Dungeon, Railway Dungeon, WARP, Limbus Company
+2. Game terms keep English: Sinner, Sinners, Abnormality, E.G.O, Golden Bough, The City, The Head, Fixer, Wing, District, Nest, Backstreets, Mirror Dungeon, Railway Dungeon, WARP, Limbus Company, Feather
 3. Bracketed status/effect names like [Breath], [Charge], [Agility] must stay in English
 4. HTML/Unity tags like <color=#...>, <sprite...>, <b>, </b>, <ruby=...> must not be translated
 5. Variables like [{{0}}], [{{1}}], %s must not be translated
 6. Preserve formatting (newlines, spacing, quotes)
 7. Translate naturally, NOT word-for-word
-8. WORD ORDER RULE: When translating titles with English nouns + Thai numbers, put the English noun FIRST. Examples: "Fixer grade 8" NOT "grade 8 Fixer". English noun always comes before Thai classifier/number.
+8. WORD ORDER RULE: When translating titles with English nouns + Thai numbers, put the English noun FIRST. Examples: "Fixer grade 8" -> "Fixer ระดับ 8". "Manager high-level" -> "Manager ระดับสูง". English noun always comes before Thai classifier/number.
+9. For stuttering/repetition like "T-to" or "N-no", preserve the pattern in Thai: "ก-ก็", "ม-ไม่"
+10. CHARACTER VOICE: When a line is annotated with [กำลังพูด: ...], translate that line using that character's voice and personality. Match their tone, pronouns, speech register, and mannerisms.
+11. PLACE NAMES: Keep proper nouns in English (Wuthering Heights, La Manchaland, Mephistopheles, Daguanyuan). Translate location descriptors to Thai: Hall -> ห้องโถง, Hallway/Corridor -> ทางเดิน, Interior -> ภายใน, Entrance -> ทางเข้า, Room -> ห้อง. Word order: [Thai descriptor] + [proper noun]. Examples: "Wuthering Heights Hall" -> "ห้องโถง Wuthering Heights", "K Corp. Laboratory" -> "ห้องปฏิบัติการ K Corp."
+12. TELLER NAMES: Character names in teller/title fields are already translated by the system. Do NOT retranslate them. If you see Thai text in a teller/title field, keep it as-is.
+13. TITLES: Keep organization names in English (The Middle, The Index, The Thumb, etc.). Translate role descriptors into Thai. Examples: "Class 2 Collection Staff" -> "เจ้าหน้าที่เก็บกู้ ระดับ 2", "Öufi Assoc. Director" -> "ผู้อำนวยการ Öufi Assoc."
 
 {few_shots}
 
@@ -246,10 +272,35 @@ Return results in this format (each line must start with [N]):
         """Get few-shot examples from stlinx reference translations."""
         
         story_examples = """--- Translation examples from professional translator (Story/Narrative) ---
-[Source]
+[Source - PLACE]
 District 4 - LC Branch Entryway
-[Translation]
+[Translation - PLACE]
 ทางเข้า L Corp. สาขาเขต 4
+
+[Source - PLACE]
+Wuthering Heights Hall
+[Translation - PLACE]
+ห้องโถง Wuthering Heights
+
+[Source - PLACE]
+K Corp. Laboratory Hallway
+[Translation - PLACE]
+ทางเดินห้องปฏิบัติการ K Corp.
+
+[Source - PLACE]
+Aboard Mephistopheles
+[Translation - PLACE]
+บนรถเมฆิสโตเฟเลส
+
+[Source - PLACE]
+Daguanyuan - Special Lecture Hall
+[Translation - PLACE]
+ต้ากวนอวน - ห้องบรรยายพิเศษ
+
+[Source - PLACE]
+Catherine's Room
+[Translation - PLACE]
+ห้องของแคทเธอรีน
 
 [Source]
 Gregor lights his cigarette and takes a drag before sighing a long plume of smoke.

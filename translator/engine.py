@@ -1,5 +1,6 @@
 """Main translation engine with batch processing."""
 import json
+import re
 import time
 from pathlib import Path
 from typing import List, Dict, Optional
@@ -18,6 +19,8 @@ from .dictionaries import (
     post_process_translation, fix_character_names_in_content, get_character_voice_guide,
     KOREAN_TO_THAI_TELLER, ENGLISH_TO_THAI_TELLER
 )
+from .glossary import get_glossary
+from .translation_memory import TranslationMemory
 
 
 class TranslationEngine:
@@ -31,6 +34,9 @@ class TranslationEngine:
         self.logger.log_info(f"Created {len(self.clients)} API clients for parallel processing")
         self.context_builder = ContextBuilder(self.logger)
         self.file_processor = FileProcessor(self.logger)
+        self.translation_memory = TranslationMemory(self.logger)
+        self.glossary = None
+        self._title_glossary_values = set()
         self.state = load_state()
         
     def initialize(self) -> bool:
@@ -45,6 +51,22 @@ class TranslationEngine:
         
         self.context_builder.build_all_context()
         TH_DIR.mkdir(exist_ok=True)
+        
+        # Initialize translation memory: load from cache or build from existing translations
+        if not self.translation_memory.load():
+            self.translation_memory.build_from_translations(self.context_builder)
+            self.translation_memory.save()
+        
+        stats = self.translation_memory.get_stats()
+        self.logger.log_info(f"Translation memory ready: {stats['total_entries']} entries across "
+                           f"{stats['total_characters']} characters")
+        
+        self.glossary = get_glossary()
+        self._title_glossary_values = set(self.glossary.titles.values())
+        self.logger.log_info(f"Glossary loaded: {len(self.glossary.tellers)} tellers, "
+                           f"{len(self.glossary.places)} places, "
+                           f"{len(self.glossary.titles)} titles, "
+                           f"{len(self.glossary.terms)} terms")
         
         self.logger.log_info("Initialization complete")
         return True
@@ -113,16 +135,45 @@ class TranslationEngine:
             # 3. Pre-process title fields to fix word order before AI sees them
             data = self._apply_title_preprocessing(data)
             
-            # Build context with character voice guide
+            # Build base context (worldbuilding)
             context = self.context_builder.get_context_for_file(filepath.name, teller)
+            
+            # === CHARACTER-AWARE CONTEXT: Add scene-level character list ===
+            # For StoryData files, extract ALL characters in the scene and add their voice guides
+            scene_context = self.context_builder.get_scene_context_string(data)
+            if scene_context:
+                context += f"\n\n{scene_context}"
+            
+            # Add per-file character voice guide (legacy for AbDlg files)
             character_notes = self.context_builder.get_character_notes(teller)
             if character_notes:
                 context += f"\n\nTRANSLATION NOTES: {character_notes}"
             
-            # Add character voice guide
-            voice_guide = get_character_voice_guide(teller)
-            if voice_guide:
-                context += f"\n\nบุคลิกตัวละคร:\n{voice_guide}"
+            # Add MD-based voice guide for the main character (if AbDlg file)
+            if teller and "AbDlg_" in filepath.name:
+                voice_guide = self.context_builder.get_voice_guide_for_model("", teller)
+                if voice_guide:
+                    context += f"\n\n{voice_guide}"
+            
+            # Add translation memory examples for characters in this scene
+            scene_chars = self.context_builder.get_characters_in_scene(data)
+            if scene_chars:
+                char_names = list(scene_chars.keys())
+                tm_examples = self.translation_memory.get_examples_for_scene(char_names, n_per_char=3)
+                if tm_examples:
+                    context += f"\n\n{tm_examples}"
+                
+                # Add character vocabulary consistency notes
+                vocab_notes = []
+                for char_name in char_names:
+                    vocab_str = self.translation_memory.get_vocabulary_string(char_name)
+                    if vocab_str:
+                        vocab_notes.append(f"  {char_name}: {vocab_str}")
+                if vocab_notes:
+                    context += "\n\nความสม่ำเสมอของรูปแบบภาษาตัวละคร:\n" + "\n".join(vocab_notes)
+            
+            # Build per-entry character map (which character speaks each line)
+            entry_characters = self._build_entry_character_map(data)
             
             # Extract translatable texts
             texts_to_translate = self.file_processor.extract_translatable_texts(data)
@@ -132,18 +183,57 @@ class TranslationEngine:
                 self.file_processor.save_json(data, output_path)
                 return True
             
-            # === DEDUPLICATION: Group identical texts to save API tokens ===
+            # Build per-entry character context annotations for content/dialog lines
+            entry_contexts = {}
+            if entry_characters:
+                for path, field, original_text in texts_to_translate:
+                    idx_match = re.search(r'dataList\[(\d+)\]', path)
+                    if idx_match:
+                        idx = int(idx_match.group(1))
+                        if idx in entry_characters:
+                            entry_contexts[path] = entry_characters[idx]
+            
+# === DEDUPLICATION: Group identical texts to save API tokens ===
             # Map unique text -> list of (path, field) that share it
             unique_texts_map: Dict[str, List[Tuple[str, str]]] = {}
             # Keep original order for path->token_map
             path_to_token_map: Dict[str, Dict[str, str]] = {}
+            # Track pre-mapped teller/place/title fields that were already translated by static dicts
+            # These should be skipped entirely (not sent to AI)
+            statically_mapped_paths: Dict[str, str] = {}
             
             dedup_skipped = 0
             for path, field, original_text in texts_to_translate:
-                # Skip if already handled by static dictionary (teller/place)
-                if field == "teller" and original_text in ENGLISH_TO_THAI_TELLER:
+                if field == "teller":
+                    if original_text in ENGLISH_TO_THAI_TELLER:
+                        statically_mapped_paths[path] = original_text
+                        dedup_skipped += 1
+                        continue
+                    if original_text in ENGLISH_TO_THAI_TELLER.values():
+                        statically_mapped_paths[path] = original_text
+                        dedup_skipped += 1
+                        continue
+                    if original_text in KOREAN_TO_THAI_TELLER.values():
+                        statically_mapped_paths[path] = original_text
+                        dedup_skipped += 1
+                        continue
+                    if self.glossary and (self.glossary.lookup_teller(original_text) or original_text in self.glossary.tellers.values()):
+                        statically_mapped_paths[path] = original_text
+                        dedup_skipped += 1
+                        continue
+                elif field == "place":
+                    statically_mapped_paths[path] = original_text
                     dedup_skipped += 1
                     continue
+                elif field == "title":
+                    if self.glossary and self.glossary.lookup_title(original_text):
+                        statically_mapped_paths[path] = original_text
+                        dedup_skipped += 1
+                        continue
+                    if self.glossary and original_text in self._title_glossary_values:
+                        statically_mapped_paths[path] = original_text
+                        dedup_skipped += 1
+                        continue
                 
                 protected_text, token_map = self.file_processor.protect_special_tokens(original_text)
                 path_to_token_map[path] = token_map
@@ -176,7 +266,7 @@ class TranslationEngine:
                                    f"({len(batch)} items)")
                 
                 # Translate batch using the assigned client
-                batch_translations = ollama.translate_batch(batch, context, file_type)
+                batch_translations = ollama.translate_batch(batch, context, file_type, entry_contexts)
                 
                 if batch_translations:
                     all_translations.update(batch_translations)
@@ -210,34 +300,36 @@ class TranslationEngine:
             
             # Apply post-processing per-path to expanded translations
             for path, field, original_text in texts_to_translate:
-                if field == "teller" and original_text in ENGLISH_TO_THAI_TELLER:
-                    continue  # Already handled by static dictionary
+                if path in statically_mapped_paths:
+                    continue  # Already handled by static dictionary (teller/place/title)
                 
-                if path in final_translations:
-                    translated = final_translations[path]
-                    
-                    # === POST-TRANSLATION FIXES ===
-                    # Fix title word order
-                    if field == "title":
-                        translated = fix_title_word_order(translated)
-                    
-                    # Fix character names in content and titles
-                    if field in ("content", "dlg", "dialog", "title"):
-                        translated = fix_character_names_in_content(translated)
-                    
-                    # General post-processing
-                    translated = post_process_translation(translated)
-                    
-                    final_translations[path] = translated
-                    
-                    self.logger.log_translation(
-                        filepath.name,
-                        field,
-                        original_text,
-                        translated
-                    )
-                else:
-                    final_translations[path] = original_text
+                translated = final_translations.get(path, original_text)
+                
+                # === POST-TRANSLATION FIXES ===
+                # Fix title word order
+                if field == "title":
+                    translated = fix_title_word_order(translated)
+                
+                # Fix character names in content and titles
+                if field in ("content", "dlg", "dialog", "title"):
+                    translated = fix_character_names_in_content(translated)
+                
+                # Apply term glossary replacements in content
+                if field in ("content", "dlg", "dialog") and self.glossary:
+                    for en_term, th_term in self.glossary.terms.items():
+                        translated = translated.replace(en_term, th_term)
+                
+                # General post-processing
+                translated = post_process_translation(translated)
+                
+                final_translations[path] = translated
+                
+                self.logger.log_translation(
+                    filepath.name,
+                    field,
+                    original_text,
+                    translated
+                )
             
             # Update JSON with translations
             translated_data = self.file_processor.update_json_with_translations(data, final_translations)
@@ -263,8 +355,12 @@ class TranslationEngine:
             new_data = {}
             for key, value in data.items():
                 if key == "teller" and isinstance(value, str):
-                    # Map teller name
-                    new_data[key] = get_thai_teller("", value)
+                    mapped = get_thai_teller("", value)
+                    if mapped == value and self.glossary:
+                        glossary_result = self.glossary.lookup_teller(value)
+                        if glossary_result:
+                            mapped = glossary_result
+                    new_data[key] = mapped
                 elif key == "dataList" and isinstance(value, list):
                     new_data[key] = [self._apply_teller_mapping(item) for item in value]
                 elif isinstance(value, (dict, list)):
@@ -282,6 +378,11 @@ class TranslationEngine:
             new_data = {}
             for key, value in data.items():
                 if key == "place" and isinstance(value, str):
+                    if self.glossary:
+                        glossary_result = self.glossary.lookup_place(value)
+                        if glossary_result:
+                            new_data[key] = glossary_result
+                            continue
                     new_data[key] = translate_place_name(value)
                 elif key == "dataList" and isinstance(value, list):
                     new_data[key] = [self._apply_place_translation(item) for item in value]
@@ -295,14 +396,16 @@ class TranslationEngine:
         return data
     
     def _apply_title_preprocessing(self, data):
-        """Pre-process title fields to fix English word order before AI translation."""
-        import re
+        """Pre-process title fields: use glossary for deterministic lookup or fix word order."""
         if isinstance(data, dict):
             new_data = {}
             for key, value in data.items():
                 if key == "title" and isinstance(value, str):
-                    # Fix "Grade/Class/Level N Fixer" -> "Fixer grade N" 
-                    # so AI sees correct word order and translates grade->ระดับ
+                    if self.glossary:
+                        glossary_result = self.glossary.lookup_title(value)
+                        if glossary_result:
+                            new_data[key] = glossary_result
+                            continue
                     value = re.sub(r'Grade\s+(\d+)\s+Fixer', r'Fixer grade \1', value, flags=re.IGNORECASE)
                     value = re.sub(r'Class\s+(\d+)\s+Fixer', r'Fixer class \1', value, flags=re.IGNORECASE)
                     value = re.sub(r'Level\s+(\d+)\s+Fixer', r'Fixer level \1', value, flags=re.IGNORECASE)
@@ -317,6 +420,36 @@ class TranslationEngine:
         elif isinstance(data, list):
             return [self._apply_title_preprocessing(item) for item in data]
         return data
+    
+    def _build_entry_character_map(self, data) -> dict:
+        """Build a map from entry indices to character voice guide strings.
+        
+        For each entry in dataList that has a 'model' or 'teller' field,
+        look up the character and get their voice guide. This allows us
+        to annotate each dialogue line with who is speaking.
+        
+        Returns: {index: character_annotation_string}
+        """
+        entry_map = {}
+        
+        if not isinstance(data, dict) or "dataList" not in data:
+            return entry_map
+        
+        for i, entry in enumerate(data["dataList"]):
+            if not isinstance(entry, dict):
+                continue
+            
+            model = entry.get("model", "")
+            teller = entry.get("teller", "")
+            
+            if not model and not teller:
+                continue
+            
+            voice = self.context_builder.get_voice_guide_for_model(model, teller)
+            if voice:
+                entry_map[i] = voice
+        
+        return entry_map
     
     def process_batch(self, files: List[Path], batch_num: int) -> tuple:
         """Process a batch of files in parallel using multiple API keys."""
