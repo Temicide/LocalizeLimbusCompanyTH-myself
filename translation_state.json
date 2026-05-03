@@ -1407,7 +1407,12 @@
     "E903A.json",
     "E812B.json",
     "E902B.json",
-    "E901B.json"
+    "E901B.json",
+    "E906A.json",
+    "E905B.json",
+    "E906B.json",
+    "E904B.json",
+    "E903B.json"
   ],
-  "current_batch": 51
+  "current_batch": 52
 }
