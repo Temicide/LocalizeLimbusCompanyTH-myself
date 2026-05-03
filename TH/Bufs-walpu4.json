@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": "RedEyeFirst",
+      "name": "Red Eyes",
+      "desc": "- เอฟเฟกต์ของ Base Skill Coin จะมอบ Bleed เพิ่มขึ้น +1 - ค่าสูงสุด : 20 - Charge เฉพาะตัว (Potency คงที่) - ทรัพยากรที่ใช้โดยบาง Skill เพื่อผลเพิ่มเติม - เพิ่มระดับ Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Red Eyes · Stage 2 (8~15) : Red Eyes - Alert · Stage 3 (16~20) : Red Eyes - Devouring - ปริมาณ Bleed เพิ่มเติมที่มอบโดยบรรทัดแรกของบัฟนี้ จะเท่ากับระดับ Stage ของการเสริมพลังบัฟ (สูงสุด 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeSecond",
+      "name": "Red Eyes - Alert",
+      "desc": "- เอฟเฟกต์ของ Base Skill Coin จะมอบ Bleed เพิ่มขึ้น +2 - ค่าสูงสุด : 20 - Charge เฉพาะตัว (Potency คงที่) - ทรัพยากรที่ใช้โดยบาง Skill เพื่อผลเพิ่มเติม - เพิ่มระดับ Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Red Eyes · Stage 2 (8~15) : Red Eyes - Alert · Stage 3 (16~20) : Red Eyes - Devouring - ปริมาณ Bleed เพิ่มเติมที่มอบโดยบรรทัดแรกของบัฟนี้ จะเท่ากับระดับ Stage ของการเสริมพลังบัฟ (สูงสุด 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeThird",
+      "name": "Red Eyes - Devouring",
+      "desc": "- เอฟเฟกต์ของ Base Skill Coin จะมอบ Bleed เพิ่มขึ้น +3 - ค่าสูงสุด : 20 - Charge เฉพาะตัว (Potency คงที่) - ทรัพยากรที่ใช้โดยบาง Skill เพื่อผลเพิ่มเติม - เพิ่มระดับ Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Red Eyes · Stage 2 (8~15) : Red Eyes - Alert · Stage 3 (16~20) : Red Eyes - Devouring - ปริมาณ Bleed เพิ่มเติมที่มอบโดยบรรทัดแรกของบัฟนี้ จะเท่ากับระดับ Stage ของการเสริมพลังบัฟ (สูงสุด 3)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceFirst",
+      "name": "Penitence",
+      "desc": "- เมื่อโจมตีด้วย Base Skill Coin ที่ได้รับ Penitence จะฟื้นฟู SP 2 หน่วย - ค่าสูงสุด : 20 - Charge เฉพาะตัว (Potency คงที่) - เริ่มเทิร์น: ได้รับ Shield เท่ากับ (Penitence)% ของค่าสูงสุดของ HP - ทรัพยากรที่ใช้โดยบาง Skill เพื่อผลเพิ่มเติม - เพิ่มระดับ Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Penitence · Stage 2 (8~15) : Penitence - Periphery · Stage 3 (16~20) : Penitence - Confession - ปริมาณการฟื้นฟู SP โดยบรรทัดแรกของบัฟนี้ จะขึ้นอยู่กับระดับ Stage ของการเสริมพลัง (Stage การเสริมพลัง x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceSecond",
+      "name": "Penitence - Periphery",
+      "desc": "- เมื่อโจมตีด้วย Base Skill Coin ที่ได้รับ Penitence จะฟื้นฟู SP 4 หน่วย - ค่าสูงสุด : 20 - Charge เฉพาะตัว (Potency คงที่) - เริ่มเทิร์น: ได้รับ Shield เท่ากับ (Penitence)% ของค่าสูงสุดของ HP - ทรัพยากรที่ใช้โดยบาง Skill เพื่อผลเพิ่มเติม - เพิ่มระดับ Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Penitence · Stage 2 (8~15) : Penitence - Periphery · Stage 3 (16~20) : Penitence - Confession - ปริมาณการฟื้นฟู SP โดยบรรทัดแรกของบัฟนี้ จะขึ้นอยู่กับระดับ Stage ของการเสริมพลัง (Stage การเสริมพลัง x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceThird",
+      "name": "Penitence - Confession",
+      "desc": "- เมื่อโจมตีด้วย Base Skill Coin ที่ได้รับ Penitence จะฟื้นฟู SP 6 หน่วย - ค่าสูงสุด : 20 - Charge เฉพาะตัว (Potency คงที่) - เริ่มเทิร์น: ได้รับ Shield เท่ากับ (Penitence)% ของค่าสูงสุดของ HP - ทรัพยากรที่ใช้โดยบาง Skill เพื่อผลเพิ่มเติม - เพิ่มระดับ Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Penitence · Stage 2 (8~15) : Penitence - Periphery · Stage 3 (16~20) : Penitence - Confession - ปริมาณการฟื้นฟู SP โดยบรรทัดแรกของบัฟนี้ จะขึ้นอยู่กับระดับ Stage ของการเสริมพลัง (Stage การเสริมพลัง x 2)",
+      "summary": ""
+    },
+    {
+      "id": "Emptiness",
+      "name": "Only Ashes Remain",
+      "desc": "- ไม่สามารถคงสถานะ Red Eyes & Penitence ได้ - เมื่อได้รับ Red Eyes จากเอฟเฟกต์ของ Base Skill จะฟื้นฟูตัวเองและเพื่อนร่วมทีม 1 คนที่มีเปอร์เซ็นต์ HP ต่ำที่สุด โดยฟื้นฟู (Red Eyes ที่ได้รับ)% ของค่าสูงสุดของ HP ของยูนิตนี้ (2 ครั้งต่อเทิร์น) - เมื่อได้รับ Penitence จากเอฟเฟกต์ของ Base Skill จะฟื้นฟูตัวเองและเพื่อนร่วมทีม 1 คนที่มี SP น้อยที่สุด โดยฟื้นฟู ((Penitence ที่ได้รับ)/2) SP (2 ครั้งต่อเทิร์น) - จบเทิร์น: เอฟเฟกต์นี้จะหมดลง",
+      "summary": ""
+    },
+    {
+      "id": "SinkingWhite",
+      "name": "Butterfly",
+      "desc": "- Unique Sinking - ค่าพื้นฐาน: 0, ค่าสูงสุด: 15 - เมื่อถูกโจมตี ผู้โจมตีจะฟื้นฟู {2} SP - เมื่อถูกโจมตี และหาก SP ของยูนิตนี้มีค่าน้อยกว่า 0 จะได้รับความเสียหาย Gloom {3} หน่วย - จบเทิร์น: รีเซ็ตค่า The Departed ของเอฟเฟกต์นี้เป็น 0; ได้รับ Sinking เท่ากับ The Living(Potency) และเปลี่ยน The Living ให้เป็น The Departed(Count) - เอฟเฟกต์นี้จะหมดลงเมื่อทั้ง The Living และ The Departed มีค่าเป็น 0",
+      "summary": ""
+    },
+    {
+      "id": "SinkingBlack",
+      "name": "!!!เอฟเฟกต์ล้าสมัย!!!",
+      "desc": "",
+      "summary": ""
+    },
+    {
+      "id": "BulletLament",
+      "name": "The Living & The Departed",
+      "desc": "- Unique Ammo - Potency + Count = สูงสุด 20 - ถูกใช้สำหรับ Skill บางอย่าง - เมื่อถูกใช้ จะสุ่มเลือกระหว่าง The Living(Potency) หรือ The Departed(Count) - การโจมตีบางอย่างจะถูกยกเลิกหากขาด Ammo",
+      "summary": ""
+    },
+    {
+      "id": "TrainTeamCaptain",
+      "name": "กัปตันทีมฝึกซ้อม",
+      "desc": "Skill Slot +1 ปรับเปลี่ยน Skill pool: ได้รับการใช้งาน Skill 3 เพิ่มขึ้น 1 ครั้ง แต่เสียการใช้งาน Skill 1 ไป 1 ครั้ง เริ่มเทิร์น: ฟื้นฟู 15 SP เพิ่มจำนวนของ Burn, Bleed, Rupture, Sinking, หรือ Tremor ที่สร้างขึ้น +1 หน่วย (รวมถึง 'Unique Status Effects') เพิ่มจำนวนของ Poise หรือ Charge (รวมถึง 'Unique Charge') ที่ได้รับ +1 หน่วย เมื่อสังหารศัตรู ได้รับทรัพยากร E.G.O +2 หน่วย ให้กับ Affinity ของ Skill ที่กำจัดศัตรู; ได้รับทรัพยากร E.G.O +1 หน่วย ให้กับ Affinity ที่เหลือทั้งหมด",
+      "summary": ""
+    },
+    {
+      "id": "VioletUnderstand",
+      "name": "Understanding",
+      "desc": "- สร้างความเสียหาย +5% ต่อ Stack - ได้รับความเสียหาย +5% ต่อ Stack (ค่าสูงสุด: 5)",
+      "summary": ""
+    },
+    {
+      "id": "MentalCrack",
+      "name": "Mental Fracture",
+      "desc": "ประสิทธิภาพการสูญเสีย SP +1 ต่อ Stack (สูงสุด 5) เอฟเฟกต์หมดลงเมื่อครบ 5 Stack และได้รับความเสียหาย SP 10 หน่วย ลดลง 1 Stack ต่อเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "ImpendingCollapse",
+      "name": "Imminent Decay",
+      "desc": "จบเทิร์น: ลดลง 1 Stack เริ่มเทิร์น: เมื่อมี 1- Stack จะใช้ Skill พิเศษ",
+      "summary": ""
+    },
+    {
+      "id": "ReloadLament",
+      "name": "Reload",
+      "desc": "- ใช้ SP จำนวน (30 - (The Living + The Departed))/2 (ปัดเศษลง) - รีเซ็ตทั้งค่า The Living และ The Departed ของตนเองเป็น 0 และได้รับค่าสูงสุดของผลรวมตามความน่าจะเป็นที่ระบุไว้ใน Passive 'ISeeTheDyingButterfly' - เมื่อ Reload จะได้รับ The Living และ The Departed อย่างน้อย 1 หน่วย",
+      "summary": ""
+    }
+  ]
+}

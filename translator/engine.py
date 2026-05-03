@@ -73,16 +73,15 @@ class TranslationEngine:
     
     def get_files_to_process(self) -> List[Path]:
         """Get list of JSON files that need to be processed."""
-        # Only process EN/StoryData/ files for now
-        story_dir = EN_DIR / "StoryData"
-        all_files = list(story_dir.glob("*.json"))
+        # Process ALL EN/*.json files recursively
+        all_files = list(EN_DIR.rglob("*.json"))
         
         completed = set(self.state.get("completed_files", []))
         pending = [f for f in all_files if f.name not in completed]
         
-        pending.sort()
+        pending.sort(key=lambda p: str(p))
         
-        self.logger.log_info(f"Found {len(all_files)} StoryData files, {len(pending)} pending")
+        self.logger.log_info(f"Found {len(all_files)} total JSON files, {len(pending)} pending")
         return pending
     
     def detect_file_type(self, filepath: Path) -> str:

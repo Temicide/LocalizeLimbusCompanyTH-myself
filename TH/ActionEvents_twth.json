@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 971104,
+      "name": "กู้คืนผลงานศิลปะของ The Ring",
+      "desc": "เหล่านักวิจัยของ LCE กำลังวิ่งวุ่นไปมา ในมือของแต่ละคนถือสิ่งของต่างๆ ที่กู้คืนมาจาก House of Spiders เมื่อเราสังเกตเห็นบางอย่างในกองสิ่งของนั้น พวกเราจึงยืนจ้องมองมันอยู่พักหนึ่ง จนกระทั่งมีนักวิจัยคนหนึ่งตัดสินใจเข้ามาคุยกับเรา \"อ๋อ พวกนั้นเป็นตัวอย่างที่เก็บมาจากทางเดินที่ดูเหมือนหอศิลป์ของ The Ring น่ะครับ เราวิเคราะห์ส่วนประกอบเสร็จหมดแล้ว เชิญหยิบไปได้ตามสบายเลย\" เราควรทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Grab something made of bones and musculature.",
+          "messageDesc": "Lust & Envy Advantage check. Pass to gain a Charge E.G.O Gift."
+        },
+        {
+          "message": "Grab something made of flesh and animal hide.",
+          "messageDesc": "Lust & Gloom Advantage check. Pass to gain a Sinking E.G.O Gift."
+        },
+        {
+          "message": "Turn back.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "Why would anyone even think of taking these piles of meat and fur?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971105,
+      "name": "หอศิลป์ของ The Ring สำนัก Fauvism",
+      "desc": "เสียงดนตรีที่นุ่มนวลและเงียบสงบดังมาจากแหล่งที่มาที่ไม่ปรากฏ แว่วเข้ามาให้เราได้ยิน เมื่อเดินตามเสียงนั้นไป เราก็พบกับพื้นที่ซึ่งมีผลงานศิลปะตั้งอยู่มากมาย พวกเราเริ่มสำรวจรอบๆ อย่างระมัดระวัง และตระหนักได้ว่าเราน่าจะหลุดเข้ามาในหนึ่งในหอศิลป์ของ The Ring... และได้พบกับแท่นวางผลงานศิลปะชิ้นหนึ่ง เพียงแต่ว่าบนนั้นไม่มีงานศิลปะวางอยู่เลย มันมีขนาดเล็กพอที่จะยกได้ด้วยมือเดียว ดังนั้นการนำติดตัวไปด้วยคงไม่ใช่เรื่องลำบากอะไร เราควรทำไหม?",
+      "options": [
+        {
+          "message": "Take it.",
+          "messageDesc": "Lust Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Leave it.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There doesn't seem to be any immediate use for it. No need to slow ourselves down with this paperweight.\n\nWe decided to leave the pedestal behind."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971106,
+      "name": "ทางเดินอันเงียบสงบของ The Middle",
+      "desc": "พวกเราสำรวจห้องโถงที่เต็มไปด้วยตู้จัดแสดงทอดยาวสุดลูกหูลูกตา เพดานนั้นสูงเสียจนเรามองไม่เห็นจุดสิ้นสุด ตอนแรก ฉันลองนับดูว่าเราเดินผ่านกล่องของเล่นไปกี่กล่องแล้ว แต่ไม่นานก็ลืมนับ... \"นี่อะไรน่ะ?\" ... และแล้วเราก็พบกับโมเดลมือแบบข้อต่อ ซึ่งตั้งตระหง่านอยู่อย่างโดดเดี่ยว นิ้วมือถูกกำเป็นหมัด ราวกับว่ากำลังกำบางสิ่งไว้ภายใน—นั่นคือสนับมือ บางทีเราอาจจะนำมันมาใช้ประโยชน์ได้ ถ้าสามารถงัดมันออกมาจากกำปั้นนั้นได้?",
+      "options": [
+        {
+          "message": "Take it.",
+          "messageDesc": "Envy Advantage check. Pass to gain a Blunt E.G.O Gift."
+        },
+        {
+          "message": "Leave it.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "Not sure what we can use that for, though...\n\nSomething about the way it sat outside the toy boxes all on its own struck me as quite suspicious as well. We decided to leave it there."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971107,
+      "name": "หอศิลป์ของ The Ring สำนัก Fauvism",
+      "desc": "เสียงดนตรีที่นุ่มนวลและเงียบสงบดังมาจากแหล่งที่มาที่ไม่ปรากฏ แว่วเข้ามาให้เราได้ยิน เมื่อเดินตามเสียงนั้นไป เราก็พบกับพื้นที่ซึ่งมีผลงานศิลปะตั้งอยู่มากมาย พวกเราเริ่มสำรวจรอบๆ อย่างระมัดระวัง และตระหนักได้ว่าเราน่าจะหลุดเข้ามาในหนึ่งในหอศิลป์ของ The Ring... และได้พบกับแท่นวางผลงานศิลปะชิ้นหนึ่ง เพียงแต่ว่าบนนั้นไม่มีงานศิลปะวางอยู่เลย มันมีขนาดเล็กพอที่จะยกได้ด้วยมือเดียว ดังนั้นการนำติดตัวไปด้วยคงไม่ใช่เรื่องลำบากอะไร เราควรทำไหม?",
+      "options": [
+        {
+          "message": "Take it.",
+          "messageDesc": "Lust Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Leave it.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There doesn't seem to be any immediate use for it. No need to slow ourselves down with this paperweight.\n\nWe decided to leave the pedestal behind."
+          ]
+        }
+      ]
+    }
+  ]
+}

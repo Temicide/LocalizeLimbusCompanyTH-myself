@@ -1,0 +1,53 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePbBa",
+      "name": "Pallid Noise",
+      "desc": "SP Loss Efficiency +2 หากมี SP น้อยกว่าหรือเท่ากับ -45 และติดบัฟนี้ จะได้รับ Noise Panic ในเทิร์นถัดไป จบเทิร์น: ลดผลของเอฟเฟกต์นี้ลง 1",
+      "summary": "SP Loss Efficiency +2",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBb",
+      "name": "Noise Panic",
+      "desc": "ทุกครั้งที่ Coin ของยูนิตนี้พลิกเหรียญ จะออกก้อย หมดผลในเทิร์นถัดไป",
+      "summary": "ทุกครั้งที่ Coin ออกก้อย",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBc",
+      "name": "Impurity",
+      "desc": "- Low Morale - ได้รับ Fragile 1 หน่วย หากยูนิตนี้แพ้การ Clash เป้าหมายจะเสีย SP 2 หน่วย",
+      "summary": "เป้าหมายเสีย SP 2 หน่วย หากยูนิตนี้แพ้การ Clash",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBd",
+      "name": "Impurity",
+      "desc": "- Panic - ได้รับ Fragile 2 หน่วย หากยูนิตนี้แพ้การ Clash เป้าหมายจะเสีย SP 5 หน่วย",
+      "summary": "เป้าหมายเสีย SP 5 หน่วย หากยูนิตนี้แพ้การ Clash",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBi",
+      "name": "Test of the Big Brother",
+      "desc": "จบเทิร์น: ลดค่าลง 1 ในขณะที่เอฟเฟกต์นี้ทำงาน จะได้รับความเสียหายจาก Skill เพิ่มเป็นสองเท่า และเพิ่มค่า Stagger threshold จาก Tremor Burst เป็นสองเท่า เอฟเฟกต์นี้จะหมดลงเมื่อยูนิตนี้ติด Stagger หากยูนิตนี้ไม่ติด Stagger เมื่อเอฟเฟกต์นี้หมดลง จะได้รับ Damage Up 5 หน่วยเมื่อเริ่มเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBe",
+      "name": "Vengeance",
+      "desc": "- Low Morale - เริ่มเทิร์น: ได้รับ Attack Power Up 1 หน่วย และ Defense Level Down 3 หน่วย ได้รับ Damage Up ตามจำนวนความเสียหายที่ได้รับในเทิร์นที่แล้ว (1 Damage Up ต่อทุกๆ 3% ของ Max HP ที่เสียไป)",
+      "summary": "เพิ่ม Damage Up ตามจำนวนความเสียหายทั้งหมดที่ได้รับในเทิร์นที่แล้ว",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBf",
+      "name": "Vengeance",
+      "desc": "- Panic - เริ่มเทิร์น: ได้รับ Attack Power Up 2 หน่วย และ Defense Level Down 6 หน่วย ได้รับ Damage Up ตามจำนวนความเสียหายที่ได้รับในเทิร์นที่แล้ว (ได้รับ 1 Damage Up ต่อทุกๆ 3% ของ Max HP ที่เสียไป)",
+      "summary": "เพิ่ม Damage Up ตามจำนวนความเสียหายทั้งหมดที่ได้รับในเทิร์นที่แล้ว",
+      "undefined": "-"
+    }
+  ]
+}

@@ -233,8 +233,8 @@ class FileProcessor:
         return True
     
     def load_json(self, filepath: Path) -> Any:
-        """Load JSON file."""
-        with open(filepath, 'r', encoding='utf-8') as f:
+        """Load JSON file (handles UTF-8 BOM)."""
+        with open(filepath, 'r', encoding='utf-8-sig') as f:
             return json.load(f)
     
     def save_json(self, data: Any, filepath: Path):

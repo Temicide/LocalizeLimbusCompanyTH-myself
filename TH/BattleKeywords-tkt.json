@@ -1,0 +1,129 @@
+{
+  "dataList": [
+    {
+      "id": "FusionVibration",
+      "name": "Amplitude Entanglement",
+      "desc": "- ผสานเอฟเฟกต์ของประเภท Tremor ที่เพิ่มโดย Amplitude Entanglement และประเภท Tremor ที่มีอยู่บนเป้าหมายเข้าด้วยกันภายใต้ Tremor - Superposition - ค่า Potency และ Count จะไม่เปลี่ยนแปลงระหว่างการ Entanglement - เมื่อเกิด Amplitude Conversion บน Tremor - Superposition จะทำงานเป็น Amplitude Entanglement แทน - จบเทิร์น: เปลี่ยนเป็น Tremor พื้นฐาน",
+      "summary": ""
+    },
+    {
+      "id": "VibrationNesting",
+      "name": "Tremor - Superposition",
+      "desc": "- ได้รับผ่าน Amplitude Entanglement - เมื่อเกิด Amplitude Conversion ให้เพิ่มเอฟเฟกต์ของประเภท Tremor ที่เกิดขึ้นเข้าสู่รายการเอฟเฟกต์ Tremor ที่ทำงานอยู่ภายใต้ Tremor - Superposition",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationDistribution",
+      "name": "Tremor - Distribution",
+      "desc": "- จบเทิร์น: ในเทิร์นถัดไปได้รับ Offense Level Up เท่ากับ ((ผลรวมของ Tremor Count ของพันธมิตรทั้งหมด) / (จำนวนพันธมิตรที่รอดชีวิต)) (สูงสุด 5) - เมื่อถูกโจมตีด้วย Skill ที่ทำให้เกิด Tremor Burst จะเพิ่ม Stagger Threshold ตามค่า Potency ของเอฟเฟกต์นั้น - จบเทิร์น: ลด Count ลง 1 - (มีปฏิสัมพันธ์กับเอฟเฟกต์ที่เพิ่มหรือลด Tremor Potency/Count ในแบบเดียวกับที่ Tremor ปกติทำ)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TcorpSpecialInvestigator",
+      "name": "T Corp. Special Investigator Badge",
+      "desc": "- เมื่อยูนิตนี้ได้รับความเสียหายถึงตาย HP จะไม่ลดลงต่ำกว่า 1, ฟื้นฟู 80% ของ HP สูงสุดทันที และฟื้นตัวจาก Stagger (หนึ่งครั้งต่อการ Encounter) - เมื่อเอฟเฟกต์บัฟนี้ทำงาน ตั้งแต่เทิร์นถัดไป ยูนิตนี้จะได้รับ Attack Power Up 2 หน่วย ทุกครั้งที่เริ่มเทิร์น เป็นเวลา 5 เทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationChain",
+      "name": "Tremor - Chain",
+      "desc": "- เสีย Clash Power 1 หน่วย ต่อทุกๆ 10 Tremor Potency ของตนเอง (สูงสุด 3) - เมื่อถูกโจมตีด้วย Skill ที่ทำให้เกิด Tremor Burst จะเพิ่ม Stagger Threshold ตามค่า Potency ของเอฟเฟกต์นั้น - จบเทิร์น: ลด Count ลง 1 - (มีปฏิสัมพันธ์กับเอฟเฟกต์ที่เพิ่มหรือลด Tremor Potency/Count ในแบบเดียวกับที่ Tremor ปกติทำ)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeRentalTwo",
+      "name": "T Corp. Borrowed Time",
+      "desc": "จบเทิร์น: - ในเทิร์นถัดไป ได้รับ Haste, Clash Power Up และ Fragile เท่ากับ (Borrowed Time Count - 1) - เมื่อเหลือ 1 Count จะได้รับ Bind (2 x (Borrowed Time Stack - 1)) ในเทิร์นถัดไปแทน - ได้รับ 1 Stack และเสีย 1 Count - หากยูนิตนี้มี Bind มากกว่า Haste เอฟเฟกต์ Borrowed Time จะสิ้นสุดลงและยูนิตนี้จะติด Stagger",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAccumulation",
+      "name": "Time Delay",
+      "desc": "ตราบใดที่เอฟเฟกต์นี้ยังทำงาน ความเสียหายที่ทำต่อยูนิตนี้จะถูกกักเก็บไว้และไม่ได้รับความเสียหาย จบเทิร์น: ลดค่าลง 1 จบเทิร์น: หากเหลือค่าของเอฟเฟกต์นี้เพียง 1 เอฟเฟกต์จะสิ้นสุดลงหลังจากสร้างความเสียหาย Sloth เท่ากับ (2 x ความเสียหายที่กักเก็บไว้) แก่ยูนิตนี้ เมื่อเอฟเฟกต์นี้ทำงาน จะไม่สามารถเพิ่มค่าหรือรีเฟรชค่าได้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultDown",
+      "name": "Clash Power Down",
+      "desc": "ใน Clash, เสีย Power Clash ตามจำนวนค่าที่มี",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultUp",
+      "name": "Clash Power Up",
+      "desc": "ใน Clash, ได้รับ Power Clash ตามจำนวนค่าที่มี",
+      "summary": "ใน Clash, ได้รับ Power Clash ตามจำนวนค่าที่มี",
+      "undefined": "-"
+    },
+    {
+      "id": "LimitedTime",
+      "name": "เวลาที่ถูกขโมย",
+      "desc": "- เริ่มเทิร์น: เมื่อมีค่า 200+ หน่วย, ได้รับ Offense Level Up และ Defense Level Up จำนวน (ค่าที่มี - 200)/50 - เริ่มเทิร์น: เมื่อมีค่าต่ำกว่า 200 หน่วย, ได้รับ Offense Level Down และ Defense Level Down จำนวน (200 - ค่าที่มี)/50",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OwnTime",
+      "name": "เวลาร่วม",
+      "desc": "- เริ่มเทิร์น: เมื่อมีค่า 40+ หน่วย, ได้รับ Offense Level Up และ Defense Level Up จำนวน (ค่าที่มี - 40)/10 - เริ่มเทิร์น: เมื่อมีค่าต่ำกว่า 40 หน่วย, ได้รับ Offense Level Down และ Defense Level Down จำนวน (40 - ค่าที่มี)/10",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EquitableDistribution",
+      "name": "การใช้เวลาร่วมกัน",
+      "desc": "เมื่อใช้ Shared Time, Brains จะใช้เวลาในจำนวนที่เท่ากันทั้งหมด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfairDistribution",
+      "name": "การทะเลาะภายใน",
+      "desc": "เมื่อใช้ Shared Time, Brains จะไม่ใช้เวลาในจำนวนที่เท่ากันทั้งหมดอีกต่อไป เริ่มเทิร์น: ทุกส่วนจะเสีย Protection ตามจำนวน Parts ที่มีค่า Time คงเหลือแตกต่างกัน",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAcceleration",
+      "name": "การเร่งเวลา",
+      "desc": "- ได้รับ Speed 5 - เสริมพลัง Skills ของยูนิตนี้ - ได้รับ Fragile 1 หน่วย; เมื่อ Burst ของ Tremor, Skill หรือเอฟเฟกต์ของ Coin เพิ่ม Stagger Threshold ของยูนิตนี้ จะเพิ่มขึ้นอีก +50%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_LowMorale",
+      "name": "ความสามัคคีที่แตกสลาย",
+      "desc": "- ขวัญกำลังใจต่ำ ได้รับ Fragile 1 หน่วย. ได้รับ Tremor Count 1 หน่วยเมื่อถูกโจมตี (สูงสุด 3 ครั้ง)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_Panic",
+      "name": "ความสามัคคีที่แตกสลาย",
+      "desc": "- Panic ได้รับ Fragile 2 หน่วย ได้รับ Tremor Count 2 หน่วยเมื่อถูกโจมตี (สูงสุด 3 ครั้ง)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeKillerWatch",
+      "name": "เป้าหมายกู้คืนเวลา",
+      "desc": "ถูกเล็งเป้าโดย Time Ripper ในขณะที่ Time Acceleration ทำงานอยู่",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UltraPrecisionTimeAcceleration",
+      "name": "Microprecision Time Acceleration",
+      "desc": "ยูนิตนี้จะได้รับ Min และ Max Speed พื้นฐานตามจำนวน Stack สกิลที่ทำให้เกิด Tremor Potency, Count หรือทำให้เกิด Tremor Burst: จะได้รับ Base Power +(Stack), สร้างความเสียหายแก่ศัตรู +(Stack x 10)% และเมื่อเพิ่ม Stagger Threshold ผ่าน Tremor Burst จะเพิ่มจำนวนที่ได้รับขึ้นอีก (Stack x 10)% (รวมถึงสกิล E.G.O) ลดลง 1 หน่วยเมื่อจบเทิร์น เมื่อเหลือ 1 Stack, จำนวน Stack จะไม่ลดลงต่ำกว่า 0 และจะคงอยู่ตลอดการต่อสู้ (Encounter)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

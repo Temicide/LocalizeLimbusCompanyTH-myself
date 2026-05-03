@@ -1,0 +1,26 @@
+{
+  "dataList": [
+    {
+      "id": 877401,
+      "name": "อีเวนต์เลือกตัวเลือกเทดดี้ที่กำลังเจ็บปวด",
+      "subDesc": "ข้อความที่ไม่ได้ใช้งาน",
+      "desc": "ตุ๊กตาหมีตัวหนึ่งมองมาที่พวกเราด้วยสีหน้าเศร้าสร้อย ร่างกายของมันถูกตะปูแหลมคมหลายตัวตอกทะลุไว้",
+      "options": [
+        {
+          "message": "Hug the teddy bear.",
+          "messageDesc": "Select to reduce the Abnormality's Clash Power. Pass a Lust check, and the selected Identity loses some HP but greatly heals SP",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Look away.",
+          "messageDesc": "All Identities lose SP",
+          "result": [
+            "Perhaps the nails looked too threatening.\n\nNo one wanted to get close to the bear plush.\n\nIt slumps its shoulders, clearly hurt.\n\nIt's clear that most Sinners felt bad about this decision."
+          ]
+        }
+      ]
+    }
+  ]
+}

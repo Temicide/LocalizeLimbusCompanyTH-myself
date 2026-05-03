@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "Vengeance_LowMorale",
+      "name": "การล้างแค้น",
+      "desc": "- ขวัญกำลังใจต่ำ - ได้รับ Defense Level Down 3 หน่วย และ Damage Up 3 หน่วย",
+      "summary": "ได้รับ Defense Level Down 3 หน่วย และ Damage Up 3 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "Vengeance_Panic",
+      "name": "การล้างแค้น",
+      "desc": "- ตื่นตระหนก - ได้รับ Defense Level Down 6 หน่วย และ Damage Up 5 หน่วย",
+      "summary": "ได้รับ Defense Level Down 6 หน่วย และ Damage Up 5 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBe",
+      "name": "เหยื่อที่ถูกหมายหัว",
+      "desc": "- หากยูนิตนี้ไม่ได้รับความเสียหายในเทิร์นนี้ จะมอบ Inferiority Complex 1 หน่วย ให้กับ Attack เมื่อจบเทิร์น จากนั้นเอฟเฟกต์จะหายไป - Stack สูงสุด: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "ปมด้อย (Inferiority Complex)",
+      "desc": "- ทุกครั้งที่ยูนิตนี้ถูกโจมตี จะได้รับความเสียหาย ((20% ของความเสียหายที่ HP ได้รับ) * {0}) - ค่าสูงสุด: 5",
+      "summary": "ได้รับความเสียหาย ((20% ของความเสียหายที่ HP ได้รับ) * {0})",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "ความหดหู่ที่ระเบิดออก",
+      "desc": "- ความต้านทาน Affinity Gloom +0.3 - ความต้านทาน Affinity อื่นๆ -0.5 - เมื่อถูกโจมตี: มอบความเสียหาย SP 3 หน่วย แก่ผู้โจมตี, ได้รับ Sinking Count 1 หน่วย และได้รับ Offense Level Up 1 หน่วย ในเทิร์นถัดไป (สูงสุด 9 ครั้งต่อเทิร์น)",
+      "summary": "ความต้านทานต่อ Gloom (และ Gloom เท่านั้น) กลายเป็น Fatal เมื่อถูกโจมตี: มอบความเสียหาย SP 3 หน่วย แก่ผู้โจมตี, ได้รับ Sinking Count 1 หน่วย และได้รับ Offense Level Up 1 หน่วย ในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "ความริษยาที่ระเบิดออก",
+      "desc": "- ความต้านทาน Affinity Envy +0.3 - ความต้านทาน Affinity อื่นๆ -0.5 - เมื่อถูกโจมตี: มอบ Offense Level Up 1 หน่วย, มอบ Bleed 2 หน่วย และ Bleed Count 2 หน่วย แก่ผู้โจมตี และได้รับ Defense Level Down 1 หน่วย ในเทิร์นถัดไป (สูงสุด 9 ครั้งต่อเทิร์น)",
+      "summary": "การต้านทาน Envy (และเฉพาะ Envy เท่านั้น) จะกลายเป็น Fatal เมื่อถูกโจมตี: มอบ Offense Level Up 1 ระดับ, Bleed 2 หน่วย, และ Bleed 2 Count ให้แก่เป้าหมาย และได้รับ Defense Level Down 1 ระดับในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Explosive Wrath",
+      "desc": "- การต้านทาน Affinity Wrath +0.3 - การต้านทาน Affinity อื่นๆ -0.5 - เมื่อถูกโจมตี: ได้รับ Offense Level Up 1 ระดับ และ Defense Level Down 1 ระดับในเทิร์นถัดไป (สูงสุด 9 ครั้งต่อเทิร์น)",
+      "summary": "การต้านทาน Wrath (และเฉพาะ Wrath เท่านั้น) จะกลายเป็น Fatal เมื่อถูกโจมตี จะได้รับ Offense Level Up 1 ระดับ และ Defense Level Down 1 ระดับ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Deep Bereavement",
+      "desc": "เริ่มเทิร์น: ลด Speed 5 หน่วย และได้รับ Defense Level Down 5 ระดับ",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBg",
+      "name": "Misshapen Painting",
+      "desc": "- Low Morale - ได้รับ Attack Power Up 1 ระดับ และ Fragile 1 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBh",
+      "name": "Misshapen Painting",
+      "desc": "- Panic - ได้รับ Plus Coin Boost 1 ระดับ และ Fragile 3 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBi",
+      "name": "Hatred",
+      "desc": "- Low Morale - เมื่อชนะ Clash: ได้รับ Offense Level Up 1 ระดับในเทิร์นถัดไป (สูงสุด 3 ครั้งต่อเทิร์น) - เมื่อแพ้ Clash: ได้รับ Defense Level Up 1 ระดับ (สูงสุด 3 ครั้งต่อเทิร์น)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBj",
+      "iconID": "Vengeanse_LowMoral",
+      "name": "Hatred",
+      "desc": "- Panic - เมื่อชนะ Clash: ได้รับ Offense Level Up 1 ระดับในเทิร์นนี้และเทิร์นถัดไป (สูงสุด 3 ครั้งต่อเทิร์น) - เมื่อแพ้ Clash: ได้รับ Defense Level Up 1 ระดับ (สูงสุด 3 ครั้งต่อเทิร์น) จบเทิร์น: ได้รับ Haste 2 หน่วยในเทิร์นถัดไป",
+      "undefined": "-"
+    }
+  ]
+}

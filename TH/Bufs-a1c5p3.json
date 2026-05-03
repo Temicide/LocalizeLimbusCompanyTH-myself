@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePcBa",
+      "name": "Marked",
+      "desc": "จะตกเป็นเป้าหมายหลัก เมื่อถูกโจมตี จะได้รับ Potency ของ Burn และ Count ของ Burn เพิ่มเติมเป็นจำนวน 2 เท่าของค่าที่ได้รับปกติ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBb",
+      "name": "Fluorescence Shard",
+      "desc": "เริ่มเทิร์น: ได้รับ Poise 3 หน่วย และ Poise Count +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBc",
+      "name": "Blind Obsession",
+      "desc": "เมื่อมีค่า 3+ หน่วย ยูนิตนี้จะติด Stagger",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBg",
+      "name": "Larva",
+      "desc": "จบเทิร์น: ย้าย Larva ไปยังพันธมิตรที่มีค่า HP สูงที่สุด เริ่มเทิร์น: เสีย SP ตามจำนวนค่า Larva ที่มีอยู่บนตัวเอง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBh",
+      "name": "Green Slime",
+      "desc": "สร้าง Green Slime ในเทิร์นถัดไปทุกครั้งที่ค่านี้ลดลง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBi",
+      "name": "Uneven Breathing",
+      "desc": "จบเทิร์น: เสีย Poise 5 หน่วย สร้างความเสียหาย +50% และได้รับความเสียหาย +50%",
+      "summary": "สร้างความเสียหาย +50% และได้รับความเสียหาย +50%",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBj",
+      "name": "Prey Mark",
+      "desc": "ลูกเรือ Pequod ทั้งหมดจะเล็งเป้าหมายมาที่ยูนิตนี้ ได้รับความเสียหาย +50% จากลูกเรือ Pequod",
+      "summary": "ได้รับความเสียหายเพิ่มขึ้น +50% จากลูกเรือ Pequod",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBk",
+      "name": "Tangle",
+      "desc": "หากโจมตีเป้าหมายที่มี Capture, ทำให้เป้าหมาย Stagger",
+      "summary": "ทำให้เป้าหมาย Stagger ภายใต้เงื่อนไขที่กำหนด",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBl",
+      "name": "Capture",
+      "desc": "หากโจมตีเป้าหมายที่มี Tangle, ทำให้เป้าหมาย Stagger",
+      "summary": "ทำให้เป้าหมาย Stagger ภายใต้เงื่อนไขที่กำหนด",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBn",
+      "name": "Undefiable Command",
+      "desc": "เสีย HP ปัจจุบัน 10% เมื่อใช้ Skill. Skill Final Power +1 เมื่อโจมตีโดน, Ahab ฟื้นฟู SP 8 หน่วย; มอบ Poise 2 หน่วย ให้กับตัวเองและ Ahab",
+      "summary": "เสีย HP เมื่อใช้ Skill; Final Power +1",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBo",
+      "name": "Pip's Ego",
+      "desc": "เริ่มเทิร์น: ฟื้นฟู SP 3 หน่วย ต่อค่าสถานะ 1 หน่วย ค่าสถานะจะลดลงเมื่อใช้ Weight of Guilt หลังจาก Evade ล้มเหลว จบเทิร์น: หากค่าสถานะเป็น 0 จะติด Stagger",
+      "summary": "ฟื้นฟู SP ตามค่าสถานะ. ลดค่าสถานะเมื่อ Evade ล้มเหลว หรือหลังจากใช้ Skill บางอย่าง",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBp",
+      "name": "Starbuck's Ego",
+      "desc": "เริ่มเทิร์น: ได้รับ Protection 1 หน่วย ต่อค่าสถานะทุกๆ 5 หน่วย ค่าสถานะจะลดลงตามจำนวน Coin ที่ถูกทำลายใน Clash เมื่อโจมตีเป้าหมายที่มี Prey Mark จบเทิร์น: หากค่าสถานะเป็น 0 จะติด Stagger",
+      "summary": "ได้รับ Protection ตามค่าสถานะ. ลดค่าสถานะเมื่อเสีย Clash ในการต่อสู้กับเป้าหมายบางประเภท",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBq",
+      "name": "E.G.O ของ Queequeg",
+      "desc": "จบเทิร์น: เพิ่มค่าหากถูก Shield จบเทิร์น: ลดค่าหากไม่มี Shield หรือเมื่อใช้ Bleached Atonement จบเทิร์น: หากค่าเป็น 0 จะติด Staggered",
+      "summary": "จบเทิร์น: ลดหรือเพิ่มค่า ขึ้นอยู่กับว่ายูนิตนี้ถูก Shield หรือไม่",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBe",
+      "iconID": "AaCePbBb",
+      "name": "Pallid Panic",
+      "desc": "ประสิทธิภาพการลด SP +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBf",
+      "name": "Pallid Panic",
+      "iconID": "AaCePbBb",
+      "desc": "ได้รับ Bind 2 หน่วยเมื่อจบเทิร์น ทุกๆ Coin ยูนิตนี้จะพลิกเหรียญออกก้อย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBr",
+      "name": "Assist Barrier",
+      "desc": "ลดค่าลงตามจำนวนความเสียหายที่ได้รับ ผลนี้จะไม่หายไปเมื่อจบเทิร์น จบเทิร์น: หากค่านี้กลายเป็น 0 ในระหว่างเฟส 1 ของ Ahab จะติด Staggered ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBs",
+      "name": "Assist Defense",
+      "desc": "ดึงสกิลที่เล็งเป้าหมายไปที่ Ahab มายัง Slot ของยูนิตนี้ ยูนิตที่มีเอฟเฟกต์นี้จะมี Slot Weight ไม่จำกัด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBt",
+      "name": "Assist Attack",
+      "desc": "หลังจาก Ahab โจมตี จะเริ่มการโจมตีแบบไร้การต้านทานต่อเป้าหมายเดียวกับที่ Ahab โจมตี สกิลที่ใช้ในการกระทำนี้จะมี Offense Level, ค่า Coin และเอฟเฟกต์ แบบเดียวกับสกิล 'I Follow Orders...' ของยูนิตนี้",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

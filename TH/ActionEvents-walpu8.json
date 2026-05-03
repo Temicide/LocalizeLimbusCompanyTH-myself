@@ -1,0 +1,235 @@
+{
+  "dataList": [
+    {
+      "id": 971090,
+      "name": "Punishing Bird",
+      "desc": "เสียงไซเรนแจ้งเตือน Qliphoth Overload ดังสนั่นไปทั่วทางเดิน เรามองเห็นนกตัวเล็กน่ารักผ่านหน้าต่างของห้องกักกันที่เกิด Overload มีโน้ตแปะไว้ที่ผนังข้างห้องกักกันนี้—\"Insight Work ได้ผลดี\" ค่า Qliphoth Counter ลดลงเหลือ 10 แล้ว แต่เรากลับไม่เห็น Agent อยู่แถวนี้เลย \"ฉันคิดว่า เอ่อ คุณ Hod หรือใครสักคนเคยเตือนเราเรื่องแบบนี้ตอนที่มาครั้งก่อนๆ หรือเปล่านะ...?\" \"อืม เราได้รับแจ้งว่าถ้าเกจ Meltdown เพิ่มขึ้น อาจจะทำให้ Ordeals ปรากฏตัวออกมาได้\" \"หา? งั้นเราต้องรีบจัดการแล้ว! พวกเธอ รีบเข้าไปข้างในเร็ว!\" \"พ-พวกคุณแน่ใจเหรอว่ามันเป็นความคิดที่ดีที่ <i>พวกเรา</i> จะเข้าไปในนั้น?\" จะดีกว่าไหมถ้าเราทิ้งที่นี่ไว้แล้วเดินหน้าต่อเลย?",
+      "options": [
+        {
+          "message": "Order the Sinner with Ashen Constellation's Blessing to conduct \"Insight Work\" on the Abnormality.\n<size=75%><color=#a16a3b>Choice unlocked with the E.G.O Gift \"Ashen Constellation's Blessing\"</color></size>",
+          "messageDesc": "Select to gain a Bleed E.G.O Gift",
+          "result": [
+            "The tiny bird pecked away at the Sinner like an angry ball of feathers, but the Sinner managed to complete the Work thanks to the Grace.\nSomething about that must've appealed to the tiny bird, as it picked up the necklace hanging from its perch and slung it around the Sinner's neck."
+          ]
+        },
+        {
+          "message": "Order a Sinner to conduct \"Insight Work.\"",
+          "messageDesc": "Sloth & Wrath Advantage check. Pass to gain a Bleed E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave the hallway.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "<Do any of you know how to manage this thing?>\n\".......\"\n<... Let's skedaddle.>\n\nNothing good can come of rushing in to conduct Work on an Abnormality we have absolutely no idea how to manage.\nWe quickly made ourselves scarce from the hallway before the Qliphoth Counter dropped to 0."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971091,
+      "name": "1.76 MHz",
+      "desc": "เสียงไซเรนแจ้งเตือน Qliphoth Overload ดังสนั่นไปทั่วทางเดิน เรามองเข้าไปในห้องกักกันที่เกิด Overload แต่ภาพกลับถูกบดบังด้วยสัญญาณรบกวนสีเทาที่เป็นเม็ดๆ มีโน้ตแปะไว้ที่ผนังข้างห้องกักกันนี้—\"Repression Work ได้ผลดี\" ค่า Qliphoth Counter ลดลงเหลือ 10 แล้ว แต่เรากลับไม่เห็น Agent อยู่แถวนี้เลย \"ฉันคิดว่า เอ่อ คุณ Hod หรือใครสักคนเคยเตือนเราเรื่องแบบนี้ตอนที่มาครั้งก่อนๆ หรือเปล่านะ...?\" \"อืม เราได้รับแจ้งว่าถ้าเกจ Meltdown เพิ่มขึ้น อาจจะทำให้ Ordeals ปรากฏตัวออกมาได้\" \"หา? งั้นเราต้องรีบจัดการแล้ว! พวกเธอ รีบเข้าไปข้างในเร็ว!\" \"พ-พวกคุณแน่ใจเหรอว่ามันเป็นความคิดที่ดีที่ <i>พวกเรา</i> จะเข้าไปในนั้น?\" จะดีกว่าไหมถ้าเราปล่อยไว้แบบนี้แล้วเดินหน้าต่อเลย?",
+      "options": [
+        {
+          "message": "Order the Sinner with Trauma Shield to conduct \"Insight Work\" on the Abnormality.\n<size=75%><color=#a16a3b>Choice unlocked with the E.G.O Gift \"Trauma Shield\"</color></size>",
+          "messageDesc": "Select to gain a Sinking E.G.O Gift",
+          "result": [
+            "The distressed voices calling for help and the sound of explosions fell upon the Sinner, but they managed to safely finish their assigned Work thanks to the Trauma Shield.\nWhen the Sinner emerged, a radio was attached to their chest, emitting noises similar to what could be heard inside the containment unit."
+          ]
+        },
+        {
+          "message": "Order a Sinner to conduct \"Repression Work.\"",
+          "messageDesc": "Lust & Gloom Advantage check. Pass to gain a Sinking E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave the hallway.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "<Do any of you know how to manage this thing?>\n\".......\"\n<... Let's skedaddle.>\n\nNothing good can come of rushing in to conduct Work on an Abnormality we have absolutely no idea how to manage.\nWe quickly made ourselves scarce from the hallway before the Qliphoth Counter dropped to 0."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971092,
+      "name": "Choice Event สำหรับการพักผ่อน",
+      "desc": "ในห้องพักพนักงาน เราพบกับพนักงานในชุด E.G.O Gears ยืนจับกลุ่มคุยกันอยู่ ในมือของแต่ละคนถือแก้วกาแฟสีขาว \"เอ๊ะ? ไม่เคยเห็นพวกคุณแถวนี้เลย มาจากแผนกไหนกันเหรอ?\"",
+      "options": [
+        {
+          "message": "Tell them that we're from the Upper Layer, and present our E.G.O Gifts.\n<size=75%><color=#a16a3b>Choice unlocked by carrying 5+ Theme Pack-exclusive E.G.O Gifts from \"The Noon of Violet\" and \"Hatred and Despair\" Packs</color></size>",
+          "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+          "result": [
+            "A look of pity passes over their eyes when they lay upon the variety of E.G.O Gifts we're carrying.\n\n\"And yet, you're still in one piece.\"\n\"How are things in the Upper Layer? Heard workload's pretty heavy up there.\"\n\nOne of the employees briefly leaves the circle of condolences before returning with a mug of coffee.\n\n\"C'mon, chin up. Let's survive another day, huh?\""
+          ]
+        },
+        {
+          "message": "Tell them that we're from the Disciplinary Team.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"... Oh. So you are.\"\n\nAn uncomfortable, strained silence falls upon the employee lounge.\nWe stood around for a few miserable minutes until even their coffee became lukewarm."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971093,
+      "name": "Alriune Choice Event (#1)",
+      "desc": "ประตูลิฟต์เปิดออกสู่ทางเดินที่มืดมิดและไร้แสงไฟ เราได้กลิ่นหอมรุนแรงและชัดเจนของดอกไม้ที่กำลังผลิบาน ซึ่งเติบโตปกคลุมไปทั่วผนังและพื้นทางเดิน พนักงานหลายคนนอนหมดสภาพอยู่บนทุ่งดอกไม้ หลับตาพริ้มราวกับกำลังง่วงงุน",
+      "options": [
+        {
+          "message": "Try to save the employees.",
+          "messageDesc": "Gain a Sinking E.G.O Gift depending on the result of the following choice",
+          "result": [
+            "It's not too late for them.\nMaybe we can save them by moving them into the elevator."
+          ]
+        },
+        {
+          "message": "Give up on them.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "It might be too late for them.\nWe should find a different way around this hallway."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971094,
+      "name": "Alriune Choice Event (#2)",
+      "desc": "กว่าที่เราจะย้ายพนักงานทั้งหมดไปยังลิฟต์ได้สำเร็จ เราก็ได้ยินเสียงกรีดร้องอันน่าขนลุกดังก้องมาจากใจกลางทางเดิน ที่นั่น เราเห็นพนักงานที่กำลังตื่นตระหนกขดตัวเป็นก้อน... ...และสัตว์ประหลาดไร้ดวงตาที่ค้ำร่างอยู่เหนือพวกเขา ร่างกายของมันมีรูปร่างเหมือนตุ๊กตากระเบื้องเคลือบ ในวินาทีนั้นเอง ดอกไม้ดอกใหญ่ก็ได้ผลิบานขึ้นที่แทบเท้าของสัตว์ประหลาดตัวนั้น",
+      "options": [
+        {
+          "message": "Save the panicked employees, too.",
+          "messageDesc": "Gain a Sinking E.G.O Gift depending on the result of the following choice",
+          "result": [
+            "Moved the panicked employees to the elevator."
+          ]
+        },
+        {
+          "message": "This time, give up on them.",
+          "messageDesc": "Select to gain a Sinking E.G.O Gift",
+          "result": [
+            "We returned, leaving the employees behind."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971095,
+      "name": "Alriune Choice Event (#3)",
+      "desc": "ดอกไม้ขนาดยักษ์อีกดอกกำลังผลิบานที่แทบเท้าของสัตว์ประหลาดไร้ดวงตา เราช่วยทุกคนเท่าที่จะช่วยได้แล้ว เอาไงต่อดี?",
+      "options": [
+        {
+          "message": "Suppress the monster.",
+          "messageDesc": "Select to gain a Sinking E.G.O Gift",
+          "result": [
+            "We should at least try to suppress it.\nWhen we approached the monster, another flower blossomed beneath the monster's feet.\n\nAt that moment, verdant, vivid leaves burst forth from the ceiling, then scattered over us in a downpour of pink flowers.\nWe stood blinded by the swirling storm of petals for a moment, until the Sinners all grabbed their heads and began yelling in pain.\n\nOnce the floral tempest subsided, the monster was nowhere to be seen."
+          ]
+        },
+        {
+          "message": "Turn back.",
+          "messageDesc": "Select to gain a Sinking E.G.O Gift",
+          "result": [
+            "There is something anxiety-inducing about the unsettling aroma permeating the hallway.\nAfter grabbing whatever seemed useful from the unconscious employees, we fled."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971096,
+      "name": "ตัวเลือก Gift ของ Queen Bee",
+      "desc": "พนักงานในห้องปฏิบัติการเริ่มพูดด้วยน้ำเสียงเรียบเฉย \"อา มาได้จังหวะพอดีเลย ทางเบื้องบนสั่งให้เราสังเกตการตอบสนองของตัวอย่างต่อ Work ประเภทอื่นนอกเหนือจาก Insight Work\" \"ไม่ต้องกังวลหรอก มันไม่ได้ซับซ้อนอะไร แค่กลั้นหายใจ ถือชิ้นเนื้อนี้ไว้ แล้วส่งมันให้พวกผึ้ง\" \"ผมจะขอบคุณมากถ้าคุณช่วยจัดการเรื่องนี้ให้ โดยที่ไม่ลำบากคุณจนเกินไป\" ฉันมองตามสายตาของเขาไปยังจอมอนิเตอร์ตรวจการของห้องกักกัน กล้องกำลังจับภาพผึ้งยักษ์ที่มีลำตัวดูเหมือนรังผึ้งมากกว่า",
+      "options": [
+        {
+          "message": "Accept.",
+          "messageDesc": "Wrath & Sloth Advantage check. Pass to gain a Burn E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Refuse.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"Ah, well. I haven't managed this Abnormality before, but looks like I've got to go in there myself.\"\n\nOnce the employee exited the containment unit, he began constantly scratching at his neck and arms.\nWe left him to his itchy troubles and left the scene."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971097,
+      "name": "ตัวเลือก Gift ของ Singing Machine",
+      "desc": "มีใครบางคนกำลังร้องไห้อยู่ในห้องกักกัน เราชะโงกหน้าเข้าไปดูและพบกับร่างที่น่าสงสัย สวมชุดที่ดูโดดเด่นแตกต่างจากพนักงานคนอื่นๆ เมื่อเขาสังเกตเห็นพวกเรา เขาก็รีบเดินเข้ามาหาด้วยใบหน้ายิ้มแย้ม \"ผ-ผมต้องปรับจูนเครื่องดนตรีให้แม่นยำที่สุด แต่ผมไม่มีใครช่วยเลย\" \"คุณ... ชอบดนตรีไหม? ช่วยผมหน่อยสิ แล้วผมจะให้เครื่องดนตรีชิ้นหนึ่งของผมเป็นการตอบแทน\" \"ว-ว่าไง? ตกลงไหม?\"",
+      "options": [
+        {
+          "message": "Agree to help, and ask for a guitar.",
+          "messageDesc": "Wrath & Lust Advantage check. Pass to gain a Bleed E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Agree to help, and ask for a bass guitar.",
+          "messageDesc": "Wrath & Lust Advantage check. Pass to gain a Bleed E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Refuse to help.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"... No. I have to... I have to hear its flawless, wondrous song again. If I can't...\"\n\"I-I have to play that music again with my own hands. How can I do that if I can't tune the instruments myself?\"\n\nHe flicks his gaze toward the Sinners, madness clear in his eyes.\nUnsettled, we quickly distanced ourselves from the containment unit."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971098,
+      "name": "ตัวเลือก Gift ของ Singing Machine 2 - Harmony Guitar",
+      "desc": "เครื่องดนตรีส่งเสียงดีขึ้นมาก ในที่สุดก็ปรับจูนได้อย่างถูกต้อง หลังจากตรวจสอบเครื่องดนตรีที่เขาให้เรามา ก็เห็นได้ชัดว่ามันจะมีประโยชน์กับเรามากในการเดินทางต่อจากนี้ พวกเราลองถามดูว่ามีวิธีไหนที่จะขอเครื่องดนตรีจากเขาเพิ่มได้อีกไหม \"ม-ไม่ ผมไม่ได้ยินเสียงเพลงอันไพเราะของมันอีกแล้ว\" \"...เล่นเพลงต่อไป จนกว่าฉันจะพอใจ ถ-ถ้าอย่างนั้น ฉันจะมอบเครื่องดนตรีพิเศษให้เธอ\"",
+      "options": [
+        {
+          "message": "Accept the deal.",
+          "messageDesc": "Wrath & Lust Advantage check. Pass to gain a Bleed E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave. We're satisfied.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"With this, I should be able to play plenty of good music for a while. Thank you.\"\n\nWe left, the sound of music growing faint as we walked away from the containment chamber."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971099,
+      "name": "Singing Machine Gift Option 2 - Self-playing Bass",
+      "desc": "เครื่องดนตรีส่งเสียงดีขึ้นมาก ในที่สุดก็ปรับจูนได้อย่างถูกต้อง หลังจากตรวจสอบเครื่องดนตรีที่เขาให้เรามา ก็เห็นได้ชัดว่ามันจะมีประโยชน์กับเรามากในการเดินทางต่อจากนี้ พวกเราลองถามดูว่ามีวิธีไหนที่จะขอเครื่องดนตรีจากพวกเขาเพิ่มได้อีกไหม \"ม-ไม่ ผมไม่ได้ยินเสียงเพลงอันไพเราะของมันอีกแล้ว\" \"...เล่นเพลงต่อไป จนกว่าฉันจะพอใจ ถ-ถ้าอย่างนั้น ฉันจะมอบเครื่องดนตรีพิเศษให้เธอ\"",
+      "options": [
+        {
+          "message": "Accept the deal.",
+          "messageDesc": "Wrath & Lust Advantage check. Pass to gain a Bleed E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave. We're satisfied.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"With this, I should be able to play plenty of good music for a while. Thank you.\"\n\nWe left, the sound of music growing faint as we walked away from the containment chamber."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "dataList": [
+    {
+      "id": "Bothersome",
+      "name": "Severing Slash [切斬]",
+      "desc": "- Resistance Slash ของเป้าหมายจะถูกนับเป็น 'Weak' (1.5) (ไม่มีผลกับเป้าหมายที่มี Resistance Slash ตั้งแต่ 1.5 ขึ้นไป) - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "VibrationIgnition",
+      "name": "Tremor - Scorch",
+      "desc": "- เมื่อเกิด Tremor Burst จะได้รับ Wrath Damage เท่ากับ (ผลรวมของ Potency Tremor และ Potency Burn / 2) และเสีย Burn Count 1 หน่วย - เมื่อถูกโจมตีด้วย Skill ที่ทำให้เกิด Tremor Burst จะเพิ่ม Stagger Threshold ของยูนิตนี้ตาม Potency ของเอฟเฟกต์นั้น - จบเทิร์น: ลด Count ลง 1 หน่วย (มีปฏิสัมพันธ์กับเอฟเฟกต์ที่เพิ่มหรือลด Potency/Count ของ Tremor ในรูปแบบเดียวกับ Tremor ปกติ)",
+      "summary": ""
+    },
+    {
+      "id": "BulletPropellant",
+      "name": "Tigermark Round",
+      "desc": "- Ammo เฉพาะตัว - ถูกใช้โดย Skill บางอย่าง - สะสมสูงสุด: 6",
+      "summary": ""
+    },
+    {
+      "id": "BulletPropellantSpecial",
+      "name": "Savage Tigermark Round",
+      "desc": "- Ammo เฉพาะตัว - ถูกใช้โดย Skill บางอย่าง (ทำงานในรูปแบบเดียวกับ Tigermark Round) - Potency และ Count ของเอฟเฟกต์นี้จะถูกเรียกว่า \"Loaded Ammo\" และ \"Remaining Ammo\" ตามลำดับ · Potency สูงสุด (Loaded Ammo): 6 - Coin ที่ใช้ Ammo นี้จะสร้างความเสียหาย +30% และสร้าง Potency และ Count ของ Burn เป็นสองเท่าจากปกติ - เมื่อใช้ Loaded Ammo และ Remaining Ammo จนหมด จะเปลี่ยนกลับเป็น Tigermark Round",
+      "summary": ""
+    },
+    {
+      "id": "Prey",
+      "name": "Prey",
+      "desc": "- เมื่ออยู่ใน Clash กับศัตรู, Clash Power -5 - เริ่มการต่อสู้: · หากยูนิตนี้ติดตั้ง Skill Attack จะสร้างความเสียหาย -50% ต่อ Lei Heng ด้วย Skill Attack · หากยูนิตนี้ติดตั้ง Skill Defense จะได้รับความเสียหาย -75% จาก Lei Heng - หากยูนิตนี้ชนะ Clash ต่อ Lei Heng ในขณะที่ติดเอฟเฟกต์นี้ จะได้รับ E.G.O Resource ชนิดที่มีน้อยที่สุด 3 หน่วย - หมดผลเมื่อจบเทิร์น; ยูนิตนี้จะฟื้นฟู SP 10 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "Complacency",
+      "name": "Overheat",
+      "desc": "- สะสมสูงสุด: 5 - เริ่มเทิร์น: ได้รับ Clash Power Down และ Fragile ตามจำนวน Stack - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "BattleSense",
+      "name": "Inner Strength [底力]",
+      "desc": "- สะสมสูงสุด: 25 - ถูกใช้โดย Skill บางอย่าง; เมื่อจบเทิร์น จะฟื้นฟู SP ตามจำนวน Stack ที่ถูกใช้ไปจนถึงสิ้นเทิร์น - ได้รับ 1 Stack ทุกครั้งที่เกิด Clash (สูงสุด 5 ต่อ Skill) เมื่อเกิด Clash Lose จะเสีย Stack ที่ได้รับจาก Clash ดังกล่าว - ได้รับ 2 Stack เมื่อโจมตีด้วย Attack แบบ Unopposed (สูงสุด 10 ต่อ Skill) - จบเทิร์น: ในเทิร์นถัดไป จะได้รับ Haste ตามจำนวน Stack ทั้งหมดที่ถูกใช้ในเทิร์นนี้ (1 Haste ต่อ 25 Stack; สูงสุด 2) - ได้รับบัฟที่แตกต่างกันเมื่อใช้รูปแบบเฉพาะ - จำนวน Stack ทั้งหมดที่ใช้: {0}",
+      "summary": ""
+    },
+    {
+      "id": "RestoredBattleSense",
+      "name": "Extreme Strength [極力]",
+      "desc": "- Stack สูงสุด: 50 - นับเป็น \"Inner Strength\" ถูกใช้โดย Skill บางอย่าง; เมื่อจบเทิร์น ฟื้นฟู SP เท่ากับจำนวน Stack ที่ถูกใช้ไปจนถึงสิ้นเทิร์น - ได้รับ 2 Stack ทุกครั้งที่ Clash (สูงสุด 10 ต่อ Skill) เมื่อ Clash หายไป จะเสีย Stack ที่ได้รับจาก Clash ดังกล่าว - ได้รับ 3 Stack เมื่อโจมตีด้วย Attack แบบ Unopposed (สูงสุด 15 ต่อ Skill) - จบเทิร์น: เทิร์นถัดไป ได้รับ Haste ตามจำนวน Stack ทั้งหมดที่ถูกใช้ในเทิร์นนี้ (1 Haste ต่อ 25 Stack, สูงสุด 5) - จำนวน Stack ทั้งหมดที่ถูกใช้: {0}",
+      "summary": ""
+    },
+    {
+      "id": "Irritation",
+      "name": "Tiantui Star [天退星]",
+      "desc": "- เริ่มเทิร์น: ได้รับ 1 Damage Up และ 1 Power Up ต่อทุกๆ 20% ของ HP ที่หายไปของตนเอง (สูงสุดอย่างละ 3) - มอบ Potency ของ Tremor เพิ่มขึ้น +2 ด้วย Skill ของยูนิตนี้ - หาก Speed ของยูนิตนี้เร็วกว่าเป้าหมายตั้งแต่ 3 ขึ้นไป จะสร้างความเสียหาย +(ส่วนต่าง Speed x 5)% (สูงสุด 20%) - เปลี่ยน Coin สุดท้ายของ 'Triple Slash - Burst' ให้เป็น Unbreakable Coin - บัฟนี้จะเปลี่ยนเป็น Shin (心) - Tiantui Star [天退星] เมื่อใช้รูปแบบที่กำหนด",
+      "summary": ""
+    },
+    {
+      "id": "HugeIrritation",
+      "name": "Shin (心) - Tiantui Star [天退星]",
+      "desc": "- เริ่มเทิร์น: ได้รับ 1 Damage Up และ 1 Power Up ต่อทุกๆ 15% ของ HP ที่หายไปของตนเอง (สูงสุดอย่างละ 5) - มอบ Potency ของ Tremor เพิ่มขึ้น +3 และเพิ่ม Count ของ Tremor อีก +1 ด้วย Skill ของยูนิตนี้ - หาก Speed ของยูนิตนี้เร็วกว่าเป้าหมายตั้งแต่ 3 ขึ้นไป จะสร้างความเสียหาย +(ส่วนต่าง Speed x 5)% (สูงสุด 20%) - เปลี่ยน Coin สุดท้ายของ 'Double Slash - Blast' และ 'Triple Slash - Burst' ให้เป็น Unbreakable Coin",
+      "summary": ""
+    },
+    {
+      "id": "ReloadKeepAmmo",
+      "name": "Reload - Tactical",
+      "desc": "- ฟื้นฟู Ammo ของยูนิตนี้จนเต็ม (ไม่ลบ Ammo ที่เหลืออยู่)",
+      "summary": ""
+    },
+    {
+      "id": "BeastEyes_LowMorale",
+      "name": "Beastly Instinct - Low Morale",
+      "desc": "- สร้างความเสียหาย +(ส่วนต่างเปอร์เซ็นต์ HP / 2)% แก่เป้าหมายที่มีเปอร์เซ็นต์ HP สูงกว่ายูนิตนี้ (สูงสุด 10%) - เริ่มเทิร์น: ได้รับ 1 Final Power Up, 1 Damage Up และ 1 Fragile",
+      "summary": ""
+    },
+    {
+      "id": "BeastEyes_Panic",
+      "name": "Beastly Instinct - Panic",
+      "desc": "- สร้างความเสียหาย +(ส่วนต่างเปอร์เซ็นต์ HP)% แก่เป้าหมายที่มีเปอร์เซ็นต์ HP สูงกว่ายูนิตนี้ (สูงสุด 25%) - เริ่มเทิร์น: ได้รับ 1 Coin Power Up, 2 Damage Up และ 2 Fragile - เริ่มเทิร์นถัดไป: ฟื้นฟู SP เท่ากับเปอร์เซ็นต์ HP ที่หายไปของยูนิตนี้ (สูงสุด 25)",
+      "summary": ""
+    },
+    {
+      "id": "DisengageCombat",
+      "name": "Escape Battle",
+      "desc": "- จบเทิร์น: ฟื้นตัวจาก Stagger และหลบหนีออกจาก Encounter (ไม่รวมกรณีถูกบังคับ Stagger; ไม่นับว่าเป็นการตาย)",
+      "summary": ""
+    },
+    {
+      "id": "Chesed_Mercy",
+      "name": "Chesed's Mercy",
+      "desc": "- เฉลี่ย Offense Level และ Defense Level ของยูนิตทั้งหมด - หลังจากเอฟเฟกต์ Chesed ทำงาน Identity ฝ่ายพันธมิตรจะได้รับ Offense Level 3 ระดับ และ Defense Level 6 ระดับ - [First-time Unleashing Effect]: \"Chesed's Mercy\" จะคงอยู่ตลอดการ Encounter นี้",
+      "summary": ""
+    },
+    {
+      "id": "Ryoshu_Attackup",
+      "name": "ความทรงจำที่ถูกฉีกกระชาก",
+      "desc": "[เอฟเฟกต์เฉพาะของ Ryōshū] - สร้างความเสียหาย +(จำนวน Turn ปัจจุบัน x 2.5)% ต่อ Lei Heng ใน Encounter นี้ (สูงสุด 30%)",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_EGOResourceup",
+      "name": "หัวใจของฉัน ความคิดของฉัน...",
+      "desc": "[Hong Lu Exclusive Effect] - สำหรับ Encounter นี้: หลังจากใช้ Skill Attack จะได้รับทรัพยากร E.G.O เพิ่มเติม 2 หน่วย ตาม Affinity ของ Skill นั้น (หนึ่งครั้งต่อเทิร์น)",
+      "summary": ""
+    },
+    {
+      "id": "BudgetBulletPropellant",
+      "name": "Propellant Ammo",
+      "desc": "- Ammo เฉพาะตัว - ถูกใช้โดย Skill บางอย่าง - Stack สูงสุด: 4",
+      "summary": ""
+    },
+    {
+      "id": "NEgoFleshSpatula_LowMorale",
+      "name": "Flesh Scoop",
+      "desc": "- Low Morale เริ่มเทิร์น: ได้รับ Bleed 5 หน่วย และ Attack Power Up 1 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "NEgoFleshSpatula_Panic",
+      "name": "Flesh Scoop",
+      "desc": "- Low Morale เริ่มเทิร์น: ได้รับ Bleed 10 หน่วย และ Attack Power Up 2 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "LeRegole_LowMorale",
+      "name": "Le Regole",
+      "desc": "- Low Morale - หากยูนิตนี้สร้าง Tremor 2+ หน่วยในเทิร์นที่แล้ว, ได้รับ Sloth DMG Up 1 หน่วย - หากยูนิตนี้สร้าง Burn 2+ หน่วยในเทิร์นที่แล้ว, ได้รับ Wrath DMG Up 1 หน่วย - หากยูนิตนี้ไม่สามารถสร้างสถานะใดๆ ได้เลย, ได้รับ Defense Level Down 2 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "LeRegole_Panic",
+      "name": "Le Regole",
+      "desc": "- Low Morale - หากยูนิตนี้สร้าง Tremor 2+ หน่วยในเทิร์นที่แล้ว, ได้รับ Sloth DMG Up 2 หน่วย - หากยูนิตนี้สร้าง Burn 2+ หน่วยในเทิร์นที่แล้ว, ได้รับ Wrath DMG Up 2 หน่วย - หากยูนิตนี้ไม่สามารถสร้างสถานะใดๆ ได้เลย, ได้รับ Defense Level Down 3 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "GazeReplica",
+      "name": "Gaze",
+      "desc": "- Stack สูงสุด: 7 - ได้รับและสร้างความเสียหาย +10% จากและต่อ Jia Huan - เมื่อครบ 7 Stack จะเปลี่ยนเป็น Contempt",
+      "summary": ""
+    },
+    {
+      "id": "ContemptReplica",
+      "name": "Contempt",
+      "desc": "- Stack สูงสุด: 1 - ได้รับและสร้างความเสียหาย -50% จากและต่อ Jia Huan - เป้าหมายที่มี Contempt จะไม่สามารถได้รับ Gaze - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "GraspReplica",
+      "name": "Grasp",
+      "desc": "- Stack สูงสุด: 4 - จบเทิร์น: ได้รับ Bind 10 หน่วย ในเทิร์นถัดไป - จบเทิร์น: ลดลง 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeReplica",
+      "name": "E.G.O Corrosion - N Corp",
+      "desc": "- Stack สูงสุด: 10 - เอฟเฟกต์ต่อไปนี้จะทำงานทุกครั้งเมื่อเริ่มเทิร์น: · เสีย SP ตามจำนวน Stack ของเอฟเฟกต์ · ได้รับ Attack Power Up 1 หน่วย ต่อทุกๆ 3 Stack - เมื่อถึง Stack สูงสุด จะได้รับความเสียหาย HP 5% เมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "BoseProjektilReplica",
+      "name": "Torn Memory",
+      "desc": "Stack สูงสุด: 7",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeContempt_LowMorale",
+      "name": "Soft Goldcasted Heart",
+      "desc": "- Low Morale - เริ่มเทิร์น: ได้รับ Attack Power Up 1 หน่วย และ Fragile 1 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeContempt_Panic",
+      "name": "Soft Goldcasted Heart",
+      "desc": "- Panic - เริ่มเทิร์น: ได้รับ Attack Power Up 2 หน่วย และ Fragile 2 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeMemory_LowMorale",
+      "name": "Heart Toward the New Era",
+      "desc": "- Low Morale - เมื่อโจมตีโดน, ใช้ SP 3 หน่วย ของตนเองเพื่อมอบ Sinking 2 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeMemory_Panic",
+      "name": "Heart Toward the New Era",
+      "desc": "- Low Morale - เมื่อโจมตีโดน, มอบ Sinking 3 หน่วย และได้รับ Sinking 1 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "PileObedient",
+      "name": "Heaping Obedience",
+      "desc": "- จบเทิร์น: เมื่อมี 3 Stack จะเปลี่ยนเอฟเฟกต์นี้เป็น Hollow Obedience ในเทิร์นถัดไป",
+      "summary": ""
+    },
+    {
+      "id": "Obedient",
+      "name": "ความเชื่อฟังที่ว่างเปล่า",
+      "desc": "- Clash Power -2 ใน Clash ต่อ Jia Mu - หมดผลเมื่อ SP ของยูนิตนี้ถึง 45 หรือเมื่อ Stack ลดลงเหลือ 0 - จบเทิร์น: เสีย 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "ExpensiveJade",
+      "name": "เปลหยกล้ำค่า",
+      "desc": "- เข้าสู่สถานะ 'Immobilized' ซึ่งบัฟ, HP และ SP ของยูนิตนี้จะไม่สามารถเปลี่ยนแปลงได้ สร้าง Precious Jade ที่เชื่อมต่อกับยูนิตนี้",
+      "summary": ""
+    },
+    {
+      "id": "FamilyTreasure",
+      "name": "ความสำราญระเบิดกัมปนาท",
+      "desc": "- เมื่อจบเทิร์น: · Base Stack: 1 · ยูนิตที่เชื่อมต่อกับยูนิตนี้จะฟื้นฟู HP 25% และเสีย SP 20 หน่วย · ได้รับ 1 Stack · เมื่อครบ 3 Stack จะใช้ Skill ระเบิดตัวเอง หากยูนิตนี้ถูกกำจัดด้วยการระเบิดตัวเอง จะทำให้ตัวละครที่ถูกกักขังได้รับ Hollow Obedience 3 หน่วยในเทิร์นถัดไป",
+      "summary": ""
+    },
+    {
+      "id": "OutpouringAnger",
+      "name": "คุ้มคลั่ง",
+      "desc": "- หากเป้าหมายหลักของ Skill 'You do not know the fathoms of the eye's powers, its special nature' คือ Hong Lu ให้เพิกเฉยต่อเอฟเฟกต์ทั้งหมดของ Skill และเปลี่ยน Coin ทั้งหมดใน Skill นั้นให้เป็น Unbreakable Coin",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Xi",
+      "name": "ความสุข",
+      "desc": "- Clash Power ของ Hong Lu +1 - เมื่อมีพันธมิตรเหลือรอดตั้งแต่ 1 ยูนิตขึ้นไปในการปะทะครั้งนี้: เมื่อได้รับความเสียหายถึงแก่ชีวิต Hong Lu จะไม่ตาย แต่จะฟื้นฟู HP 50% แทน - ยกเลิกเอฟเฟกต์ที่เปลี่ยนยูนิตนี้ให้เป็น Precious Jade หนึ่งครั้ง เมื่อ Clash กับ Skill ที่เปลี่ยนยูนิตนี้ให้เป็น Precious Jade, Clash Power +5; หากยูนิตนี้ชนะ Clash นั้น ยูนิตนี้จะไม่กลายเป็น Precious Jade, ฟื้นตัวจาก Stagger, ลด SP ของ Jia Mu ลง 10 หน่วย และทำให้ Jia Mu ติด Fragile 2 หน่วย เมื่อชนะ Clash ต่อ Jia Mu จะได้รับ Resource E.G.O แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinities ที่มี Resource น้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Le",
+      "name": "ความสุข, ความปิติ",
+      "desc": "- Final Power ของ Hong Lu +1 - เมื่อชนะ Clash, ฟื้นฟู SP 5 หน่วย ให้กับพันธมิตร 1 ยูนิตที่มี SP น้อยที่สุด (รวมถึงยูนิตนี้) - เมื่อมีพันธมิตรเหลือรอดตั้งแต่ 1 ยูนิตขึ้นไปในการปะทะครั้งนี้: เมื่อได้รับความเสียหายถึงแก่ชีวิต Hong Lu จะไม่ตาย แต่จะฟื้นฟู HP 50% แทน เมื่อชนะ Clash ต่อ Jia Mu จะได้รับ Resource E.G.O แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinities ที่มี Resource น้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Ai",
+      "name": "ความสุข, ความปิติ, ความโศกเศร้า",
+      "desc": "- Final Power ของ Hong Lu +3 - เมื่อชนะ Clash, ฟื้นฟู SP 5 หน่วย ให้กับพันธมิตร 1 ยูนิตที่มี SP น้อยที่สุด (รวมถึงยูนิตนี้) - เมื่อพันธมิตรถูกกำจัด พันธมิตรที่เหลือจะได้รับ Attack Power Up 1 หน่วยในเทิร์นถัดไปเมื่อจบเทิร์น (หนึ่งครั้งต่อเทิร์น) - เมื่อมีพันธมิตรเหลือรอดตั้งแต่ 1 ยูนิตขึ้นไปในการปะทะครั้งนี้: เมื่อได้รับความเสียหายถึงแก่ชีวิต Hong Lu จะไม่ตาย แต่จะฟื้นฟู HP 50% แทน เมื่อชนะ Clash ต่อ Jia Mu จะได้รับ Resource E.G.O แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinities ที่มี Resource น้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Nu",
+      "name": "ความสุข, ความปิติ, ความโศกเศร้า, ความโกรธเกรี้ยว",
+      "desc": "- Final Power ของ Hong Lu +5 - พันธมิตรฟื้นฟู SP 5 หน่วย ทุกครั้งที่เริ่มเทิร์น (รวมถึงยูนิตนี้ด้วย) - เมื่อพันธมิตรถูกกำจัด พันธมิตรที่เหลือจะได้รับ Power Up ของ Attack 1 หน่วยในเทิร์นถัดไปเมื่อจบเทิร์น (เทิร์นละหนึ่งครั้ง) - เมื่อมีพันธมิตรเหลือรอดตั้งแต่ 1 ยูนิตขึ้นไปในการ Encounter นี้: เมื่อได้รับความเสียหายถึงแก่ชีวิต Hong Lu จะไม่ตายและฟื้นฟู HP 50% แทน - เพิ่มความเสียหายที่ทำได้ 30% ของเปอร์เซ็นต์ HP ทั้งหมดที่ยูนิตนี้สูญเสียสะสมในการ Encounter นี้ (สูงสุด 100%) เมื่อชนะ Clash ต่อ Jia Mu จะได้รับ Resource ของ E.G.O แบบสุ่ม 1 หน่วย จาก E.G.O Affinities 3 ชนิดที่มี Resource น้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "SupremeEternalLife",
+      "name": "อมตะอันสูงส่ง",
+      "desc": "- เริ่มเทิร์น: Core และ Part ทุกส่วนของ Jia Mu จะได้รับ Shield เท่ากับ 5% ของ HP สูงสุดของแต่ละส่วน",
+      "summary": ""
+    },
+    {
+      "id": "ImperfectEternalLife",
+      "name": "อมตะที่ไม่สมบูรณ์",
+      "desc": "- ถูกดูดซับเมื่อถูกโจมตีด้วย Skill บางอย่างของ Jia Mu - หากเอฟเฟกต์นี้ถูกส่งต่อไปยัง Jia Mu จะได้รับ Fragile 1 หน่วยต่อ Stack; เมื่อครบ 5 Stack จะติดสถานะ Staggered",
+      "summary": ""
+    },
+    {
+      "id": "GoldenBoughSync",
+      "name": "การปรับจูนที่ผิดเพี้ยน",
+      "desc": "- Base Offense Level +2, Base Defense Level +2",
+      "summary": ""
+    },
+    {
+      "id": "GoldenBoughSyncDistorted",
+      "name": "เหนือธรรมชาติ, พละกำลัง, ความโกลาหล และวิญญาณ",
+      "desc": "- Base Offense Level +4, Base Defense Level +4",
+      "summary": ""
+    },
+    {
+      "id": "LastingHongwonWill_LowMorale",
+      "name": "เจตจำนงสืบทอดแห่ง Hongyuan",
+      "desc": "- ขวัญกำลังใจต่ำ - ได้รับ Attack Power Up 2 หน่วย และ Bind 1 หน่วย - เมื่อ Body Part สูญเสีย Clash ต่อ Hong Lu: Body Part นั้นจะได้รับ Damage Up 1 หน่วย และ Fragile 1 หน่วยในเทิร์นถัดไป (เทิร์นละหนึ่งครั้ง)",
+      "summary": ""
+    },
+    {
+      "id": "LastingHongwonWill_Panic",
+      "name": "เจตจำนงสืบทอดแห่ง Hongyuan",
+      "desc": "- ตื่นตระหนก - ได้รับ Attack Power Up 2 หน่วย และ Bind 2 หน่วย - เมื่อ Body Part สูญเสีย Clash ต่อ Hong Lu: Body Part นั้นจะได้รับ Damage Up 2 หน่วย และ Fragile 2 หน่วยในเทิร์นถัดไป (เทิร์นละหนึ่งครั้ง)",
+      "summary": ""
+    },
+    {
+      "id": "LongLastingHongwonWill_LowMorale",
+      "name": "เจตจำนงแห่ง Hongyuan ที่ส่งต่อไม่สิ้นสุด",
+      "desc": "- ขวัญกำลังใจต่ำ - ได้รับ Attack Power Up 2 หน่วย และ Fragile 1 หน่วย - ยูนิตที่ถูกสร้างโดยยูนิตนี้จะได้รับ Defense Level Down 3 หน่วย - ทำความเสียหาย +20% หาก HP ของ Palanquin Part ลดลงเหลือ 0 จะทำความเสียหาย -10% แทน",
+      "summary": ""
+    },
+    {
+      "id": "LongLastingHongwonWill_Panic",
+      "name": "เจตจำนงแห่ง Hongyuan ที่ส่งต่อไม่สิ้นสุด",
+      "desc": "- ตื่นตระหนก - ได้รับ Attack Power Up 2 หน่วย และ Fragile 2 หน่วย - ยูนิตที่ถูกสร้างโดยยูนิตนี้จะได้รับ Defense Level Down 6 หน่วย - ทำความเสียหาย +30% หาก HP ของ Palanquin Part ลดลงเหลือ 0 จะทำความเสียหาย -15% แทน",
+      "summary": ""
+    },
+    {
+      "id": "YisangParryGubo",
+      "name": "ความรับผิดชอบ",
+      "desc": "ใน Clash ที่ปะทะกับ Gubo, Clash Power +2",
+      "summary": ""
+    },
+    {
+      "id": "HongluParryGahwan",
+      "name": "เจตจำนงที่จะเผชิญหน้า",
+      "desc": "ใน Clash ที่ปะทะกับ Jia Huan, Clash Power +2",
+      "summary": ""
+    },
+    {
+      "id": "GahwanEgoContempt",
+      "name": "Volatile E.G.O Attunement - Contempt",
+      "desc": "- E.G.O Gear ที่สกัดโดย N Corp แม้ผู้ใช้จะมีคุณสมบัติเหมาะสม แต่การขาดประสบการณ์อาจทำให้เกิดปัญหาได้ - Max Stack: 5 - Offense Level, Defense Level -7 - เมื่อ Clash Win, ได้รับ 1 Stack - ลด 1 Offense Level และได้รับ 1 Defense Level ต่อทุก 1 Stack - เมื่อถึง Max Stack: ในเทิร์นถัดไป ได้รับ 2 Protection และรีเซ็ต Stack เป็น 0",
+      "summary": ""
+    },
+    {
+      "id": "GuboEgoShooter",
+      "name": "Volatile E.G.O Attunement - Fell Bullet",
+      "desc": "- E.G.O Gear ที่สกัดโดย N Corp แม้ผู้ใช้จะมีคุณสมบัติเหมาะสม แต่การขาดประสบการณ์อาจทำให้เกิดปัญหาได้ - Max Stack: 5 - Offense Level, Defense Level -2 - เมื่อ Clash Lose, ได้รับ 1 Stack - เพิ่ม 1 Offense Level และลด 1 Defense Level ต่อทุก 1 Stack - เมื่อถึง Max Stack: ในเทิร์นถัดไป ได้รับ 2 Damage Up และรีเซ็ต Stack เป็น 0",
+      "summary": ""
+    },
+    {
+      "id": "FellBulletMarkReplica",
+      "name": "Stigmatized",
+      "desc": "- ถูกเล็งเป้าโดย Gubo - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Xi_Mirror",
+      "name": "ความสุข",
+      "desc": "- Clash Power +1 - ยกเลิกเอฟเฟกต์ที่เปลี่ยนยูนิตนี้ให้เป็น Precious Jade หนึ่งครั้ง เมื่อปะทะกับ Skill ที่เปลี่ยนยูนิตนี้ให้เป็น Precious Jade, Clash Power +5; หากยูนิตนี้ชนะ Clash นั้น ยูนิตนี้จะไม่กลายเป็น Precious Jade, ฟื้นตัวจาก Stagger, ลด SP ของ Jia Mu ลง 10 และสร้าง 2 Fragile แก่ Jia Mu เมื่อ Clash Win ที่ปะทะกับ Jia Mu, ได้รับ E.G.O Resource แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinities ที่มีทรัพยากรน้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Le_Mirror",
+      "name": "ความสุข, ความปิติ",
+      "desc": "- Final Power +1 - เมื่อ Clash Win, ฮีล 5 SP ให้กับเพื่อนร่วมทีม 1 คนที่มี SP น้อยที่สุด (รวมถึงยูนิตนี้) เมื่อ Clash Win ที่ปะทะกับ Jia Mu, ได้รับ E.G.O Resource แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinities ที่มีทรัพยากรน้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Ai_Mirror",
+      "name": "ความสุข, ความปิติ, ความโศกเศร้า",
+      "desc": "- Final Power +3 - เมื่อ Clash Win, ฮีล 5 SP ให้กับเพื่อนร่วมทีม 1 คนที่มี SP น้อยที่สุด (รวมถึงยูนิตนี้) - เมื่อเพื่อนร่วมทีมถูกกำจัด เพื่อนร่วมทีมที่เหลือจะได้รับ 1 Attack Power Up ในเทิร์นถัดไปเมื่อจบเทิร์น (หนึ่งครั้งต่อเทิร์น) เมื่อ Clash Win ที่ปะทะกับ Jia Mu, ได้รับ E.G.O Resource แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinities ที่มีทรัพยากรน้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Nu_Mirror",
+      "name": "ความสุข, ความปิติ, ความโศกเศร้า, ความโกรธเกรี้ยว",
+      "desc": "- Final Power +5 - เพื่อนร่วมทีมฮีล 5 SP ทุกครั้งที่เริ่มเทิร์น (รวมถึงยูนิตนี้) - เมื่อเพื่อนร่วมทีมถูกกำจัด เพื่อนร่วมทีมที่เหลือจะได้รับ 1 Attack Power Up ในเทิร์นถัดไปเมื่อจบเทิร์น (หนึ่งครั้งต่อเทิร์น) - เพิ่มความเสียหายที่ทำได้ 30% ของเปอร์เซ็นต์ HP ทั้งหมดที่ยูนิตนี้สูญเสียไปสะสมใน Encounter นี้ (สูงสุด 100%) เมื่อ Clash Win ที่ปะทะกับ Jia Mu, ได้รับ E.G.O Resource แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinities ที่มีทรัพยากรน้อยที่สุด",
+      "summary": ""
+    }
+  ]
+}

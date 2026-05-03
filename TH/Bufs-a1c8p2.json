@@ -1,0 +1,203 @@
+{
+  "dataList": [
+    {
+      "id": "ExaminationOfQiu",
+      "name": "เศษเสี้ยวแห่งความคาดหวัง",
+      "desc": "เขายังไม่ได้ทุ่มสุดตัว - Base Offense Level -35, Base Defense Level -35 - สร้างความเสียหาย +30% ด้วย Attack ที่ไม่มีผู้ต้านทาน",
+      "summary": ""
+    },
+    {
+      "id": "BurstStop",
+      "name": "Deathrite 【Halt】",
+      "desc": "Base Stack: 4 - Deathrite - เมื่อ Rupture ทำงานในขณะที่ยูนิตนี้มี Bind 3+ หน่วย, เสีย 1 Stack - เมื่อเสีย Stack, เพิ่ม Stagger Threshold ของยูนิตนี้ 10 หน่วย - เมื่อเหลือ 0 Stack, เพิ่ม Stagger Threshold ของยูนิตนี้ตาม Potency ของ Rupture บนตนเอง จากนั้นเอฟเฟกต์จะหายไป - ※ ไม่สามารถได้รับ Stack เพิ่มเติมของเอฟเฟกต์นี้ในขณะที่ยังคงทำงานอยู่",
+      "summary": ""
+    },
+    {
+      "id": "BurstSuppress",
+      "name": "Deathrite 【Impede】",
+      "desc": "Base Stack: 10 - Deathrite - เมื่อยูนิตนี้เสีย Stack ของ Deathrite อื่นเนื่องจากเงื่อนไขของเอฟเฟกต์นั้นๆ, เสีย 1 Stack (สูงสุด 4 ครั้งต่อเทิร์น) - เมื่อเหลือ 0 Stack, ได้รับ Offense Level Down 6 หน่วยในเทิร์นถัดไป จากนั้นเอฟเฟกต์จะหายไป - ※ ไม่สามารถได้รับ Stack เพิ่มเติมของเอฟเฟกต์นี้ในขณะที่ยังคงทำงานอยู่",
+      "summary": ""
+    },
+    {
+      "id": "BurstWave",
+      "name": "Deathrite 【Wane】",
+      "desc": "Base Stack: 10 - Deathrite เมื่อยูนิตที่มอบเอฟเฟกต์นี้ทำให้ Rupture ทำงาน, เสีย 1 Stack - นอกจากนี้ จะเสีย 1 Stack ของ Deathrite แบบสุ่มบนตนเอง ยกเว้น Deathrite นี้ - เมื่อเหลือ 0 Stack, เอฟเฟกต์จะหายไป - ※ ไม่สามารถได้รับ Stack เพิ่มเติมของเอฟเฟกต์นี้ในขณะที่ยังคงทำงานอยู่",
+      "summary": ""
+    },
+    {
+      "id": "Teaching",
+      "name": "Dialogues",
+      "desc": "Max Stack: 3 - จบเทิร์น: ฟื้นฟู SP 5 หน่วย - เมื่อ HP ลดลงเหลือ 0 ระหว่างการต่อสู้, ฟื้นฟู HP จนถึงระดับสูงสุด (ทำงานตามจำนวน Stack ที่ยูนิตนี้มี) - ทำงานแล้ว: {0} ครั้ง",
+      "summary": ""
+    },
+    {
+      "id": "BurstWeakness",
+      "name": "Deathrite 【Enfeeble】",
+      "desc": "Base Stack: 5 - Deathrite - หาก Speed ของเป้าหมายสูงกว่ายูนิตนี้ และมีความต่างของ Speed ตั้งแต่ 5 ขึ้นไป: เมื่อ Rupture ทำงาน, เสีย 1 Stack - เมื่อเสีย Stack, ได้รับ Defense Level Down 1 หน่วยในเทิร์นถัดไป (1 ครั้งต่อเทิร์น) - เมื่อเหลือ 0 Stack, ได้รับ Defense Level Down 3 หน่วย และ Bind 1 หน่วยในเทิร์นถัดไป จากนั้นเอฟเฟกต์จะหายไป - ※ ไม่สามารถได้รับ Stack เพิ่มเติมของเอฟเฟกต์นี้ในขณะที่ยังคงทำงานอยู่",
+      "summary": ""
+    },
+    {
+      "id": "Qiu_LowMorale",
+      "name": "Jia Qiu",
+      "desc": "- ขวัญกำลังใจต่ำ - สร้างความเสียหาย +10% ต่อเป้าหมายที่ไม่ใช่ Hong Lu",
+      "summary": ""
+    },
+    {
+      "id": "Qiu_Panic",
+      "name": "Jia Qiu",
+      "desc": "- ตื่นตระหนก - สร้างความเสียหาย +20% ต่อเป้าหมายที่ไม่ใช่ Hong Lu",
+      "summary": ""
+    },
+    {
+      "id": "QiuAndHonglu",
+      "name": "หัวใจที่แท้จริงของฉัน...",
+      "desc": "- สกิลของ Hong Lu ได้รับ Final Power +1 - เมื่อชนะ Clash, พันธมิตร 1 ราย (รวมถึงยูนิตนี้) ที่มี SP น้อยที่สุด จะฟื้นฟู SP 5 หน่วย - เมื่อพันธมิตรตาย พันธมิตรที่เหลือจะได้รับ Attack Power Up 1 หน่วยในเทิร์นถัดไปเมื่อจบเทิร์น (หนึ่งครั้งต่อเทิร์น)",
+      "summary": ""
+    },
+    {
+      "id": "ProtectStance",
+      "name": "ท่าทางปกป้อง",
+      "desc": "Stack สูงสุด: 2 เอฟเฟกต์นี้จะไม่เพิ่มความรุนแรงเมื่อสะสม; การสะสมจะช่วยเพียงแค่ขยายระยะเวลาของเอฟเฟกต์เท่านั้น ลดลง 1 หน่วยเมื่อจบเทิร์น เมื่อยูนิตได้รับเอฟเฟกต์นี้ จะได้รับเอฟเฟกต์ต่อไปนี้ในเทิร์นถัดไป: - ได้รับ Protection 2 หน่วย - ได้รับ Aggro 5 หน่วยในทุก Slot ของยูนิตนี้",
+      "summary": ""
+    },
+    {
+      "id": "ZiluDebuff",
+      "name": "ระงับความกระหายเลือด",
+      "desc": "- Base Offense Level -20, Base Defense Level -20",
+      "summary": ""
+    },
+    {
+      "id": "WitheredWood_LowMorale",
+      "name": "การกลายพันธุ์ของ Eldtree",
+      "desc": "- Low Morale - ได้รับ Damage Up 1 หน่วย, Fragile 1 หน่วย และ Rupture Fragility 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WitheredWood_Panic",
+      "name": "การกลายพันธุ์ของ Eldtree",
+      "desc": "- Panic - ได้รับ Damage Up 2 หน่วย, Fragile 2 หน่วย และ Rupture Fragility 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EvilHeart_LowMorale",
+      "name": "หัวใจแห่งความชั่วร้าย",
+      "desc": "- Low Morale เมื่อ Clash ใส่เป้าหมายที่มี Omen Talisman, Clash Power +2 เริ่มเทิร์น: ได้รับ Damage Up 2 หน่วย และ Fragile 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EvilHeart_Panic",
+      "name": "หัวใจแห่งความชั่วร้าย",
+      "desc": "- Low Morale เมื่อ Clash ใส่เป้าหมายที่มี Omen Talisman, Clash Power +3 เริ่มเทิร์น: ได้รับ Damage Up 3 หน่วย และ Fragile 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepEvilHeart_LowMorale",
+      "name": "หัวใจแห่งความชั่วร้ายที่กดขี่",
+      "desc": "- Low Morale เมื่อ Clash ใส่เป้าหมายที่มี Omen Talisman, Clash Power +2 เริ่มเทิร์น: ได้รับ Damage Up 3 หน่วย และ Fragile 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepEvilHeart_Panic",
+      "name": "หัวใจแห่งความชั่วร้ายที่กดขี่",
+      "desc": "- Low Morale เมื่อ Clash ใส่เป้าหมายที่มี Omen Talisman, Clash Power +3 เริ่มเทิร์น: ได้รับ Damage Up 4 หน่วย และ Fragile 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OminousTalisman",
+      "name": "ยันต์ลางบอกเหตุ",
+      "desc": "- Stack สูงสุด: 10 - เมื่อ Stack ลดลงเหลือ 0: ได้รับความเสียหาย Gluttony และความเสียหาย SP เท่ากับ Potency ของ Rupture แก่ตนเอง จากนั้นเอฟเฟกต์จะหายไป (ความเสียหายสูงสุด SP: 20) - เมื่อเสียยันต์ลางบอกเหตุ, ได้รับ Potency ของ Rupture เท่ากับจำนวนยันต์ลางบอกเหตุที่เสียไป จากนั้นได้รับครึ่งหนึ่งของ Potency ของ Rupture ที่เสียไปเป็น Count ของ Rupture (ปัดเศษลง) ※ ไม่สามารถรับ Stack เพิ่มเติมของเอฟเฟกต์นี้ได้ในขณะที่เอฟเฟกต์ยังทำงานอยู่",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RepressedMurderousIntendTwo",
+      "name": "ความกระหายเลือดที่ซ่อนเร้น",
+      "desc": "Base Offense Level -5 Base Defense Level -5",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UncontrolledChargeAxe_LowMorale",
+      "name": "กระแสย้อนกลับ Charge Circuitry",
+      "desc": "- ขวัญต่ำ เมื่อ Clash ใส่เป้าหมายที่มี Rupture, ได้รับ Charge Count +3 และ Fragile 1 หน่วย (2 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UncontrolledChargeAxe_Panic",
+      "name": "กระแสย้อนกลับ Charge Circuitry",
+      "desc": "- ตื่นตระหนก เมื่อ Clash ใส่เป้าหมายที่มี Rupture, ได้รับ Charge Count +5, Damage Up 1 หน่วย และ Fragile 2 หน่วย (2 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather",
+      "name": "ขนปีกลูกตา",
+      "desc": "- Stack สูงสุด: 10 - จบเทิร์น: ได้รับ Rupture Count และ Bleed Count เท่ากับ (Stack / 2) (ปัดเศษลง) - จบเทิร์น: เสีย 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather_LowMorale",
+      "name": "Feather ดาบสองคม",
+      "desc": "- ขวัญต่ำ เริ่มเทิร์น: ได้รับ Fragile 1 หน่วย และ Healing Boost ของ HP 1 หน่วย เมื่อโจมตีโดน, มอบ Rupture 1 หน่วย และ Bleed 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather_Panic",
+      "name": "Feather ดาบสองคม",
+      "desc": "- ตื่นตระหนก เริ่มเทิร์น: ได้รับ Fragile 2 หน่วย และ Healing Boost ของ HP 2 หน่วย เมื่อโจมตีโดน, มอบ Rupture 1 หน่วย และ Bleed 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "JarMaster_LowMorale",
+      "name": "คำสั่ง Charge",
+      "desc": "- ขวัญต่ำ เริ่มเทิร์น: ได้รับ Fragile 1 หน่วย และมอบ Damage Up 1 หน่วย ให้กับพันธมิตรทั้งหมด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "JarMaster_Panic",
+      "name": "คำสั่ง Charge",
+      "desc": "- ตื่นตระหนก เริ่มเทิร์น: ได้รับ Fragile 2 หน่วย และมอบ Damage Up 2 หน่วย ให้กับพันธมิตรทั้งหมด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepAngry_LowMorale",
+      "name": "ความวิตกกังวล",
+      "desc": "- Low Morale เมื่อ Clash ใส่เป้าหมายที่มี Omen Talisman, Clash Power +2 เริ่มเทิร์น: ได้รับ Damage Up 2 หน่วย และ Fragile 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepAngry_Panic",
+      "name": "ความวิตกกังวล",
+      "desc": "- Low Morale เมื่อ Clash ใส่เป้าหมายที่มี Omen Talisman, Clash Power +3 เริ่มเทิร์น: ได้รับ Damage Up 3 หน่วย และ Fragile 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakeBreath_LowMorale",
+      "name": "การพักหายใจ",
+      "desc": "- ขวัญกำลังใจต่ำ เริ่มเทิร์น: เพิ่ม Defense Level Up 2 หน่วย และลด Poise Potency 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakeBreath_Panic",
+      "name": "การพักหายใจ",
+      "desc": "- ตื่นตระหนก เริ่มเทิร์น: เพิ่ม Defense Level Up 5 หน่วย และลด Poise Potency 5 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

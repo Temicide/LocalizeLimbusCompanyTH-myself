@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": 971080,
+      "name": "พบอาวุธ Hardblood ระหว่างพักผ่อน",
+      "desc": "ท่ามกลางการต่อสู้กับฝูง Bloodbag ที่ดูเหมือนจะไม่มีวันสิ้นสุด... <หืม...?> ... เราได้พบกับวัตถุที่ดูไม่น่าไว้วางใจชิ้นหนึ่งตกอยู่ที่พื้น แม้ว่ามันจะดูคล้ายกับอาวุธของพวก Bloodbag อยู่บ้าง แต่ก็มีจุดที่แตกต่างกันมากพอจะแยกออกได้ \"มันต้องเป็นอาวุธที่ทรงพลังแน่ๆ เลยว่าไหม?\" \"มันน่าจะเป็นอาวุธที่ค่อนข้างอันตรายนะ\" \"แท้จริงแล้ว สิ่งนี้ช่างเป็นวัตถุที่น่าฉงนยิ่งนัก!\" เห็นได้ชัดว่าเหล่า Sinners กำลังตกลงกันไม่ได้ ... ดูเหมือนว่าหน้าที่ตัดสินใจว่าจะเก็บสิ่งนั้นขึ้นมาหรือไม่ จะตกเป็นของฉันซะแล้ว",
+      "options": [
+        {
+          "message": "Pick up the weapon.",
+          "messageDesc": "Select to gain a Bleed E.G.O Gift",
+          "result": [
+            "It should probably come in handy, in whichever form that might be.\n\nAfter a brief rest, the Sinners forged on toward the destination.\n\n... But none of us noticed how the Sinner who held the weapon seemed unable to tear their eyes away from bloodstains."
+          ]
+        },
+        {
+          "message": "Don't pick up the weapon.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "I wasn't just about to carry around a mysterious artifact like that with us.\n\nThe Sinners forged on toward the next destination, despite their mild disappointment."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971081,
+      "name": "มีอุปกรณ์ที่มีประโยชน์อยู่บนตัวของ W Corp. Cleanup Agent ที่กลายเป็น Bloodbag",
+      "desc": "W Corp. Agent ที่กลายเป็น Bloodbag เป็นศัตรูที่มีระดับความยากสูงกว่าพวก Bloodbag ตัวอื่นๆ บนรถไฟ หลังจากที่พวกมันถูกกำจัด เราก็ได้พบกับอุปกรณ์รูปร่างประหลาดจากซากของการต่อสู้ ฉันเคยเห็น Identity ของ W Corp. ที่ใช้ปลอกแขนแบบนั้นมาก่อน \"อุปกรณ์ชิ้นนี้เปรอะเปื้อนไปด้วยเลือดและเศษเนื้อ คงจะใช้งานในสภาพนี้ลำบากหน่อยนะ\" ดูเหมือนว่าเราคงต้องลำบากไม่น้อยเลยกว่าจะซ่อมมันให้กลับมาใช้งานได้อีกครั้ง...",
+      "options": [
+        {
+          "message": "Tear off the gore.",
+          "messageDesc": "Wrath & Gloom Advantage check. Pass to gain a Bleed E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave it.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "We don't have the luxury of wasting our time over something like this.\n\nLeaving the gauntlet behind, we forged on."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971082,
+      "name": "มีอุปกรณ์ที่มีประโยชน์อยู่บนศพของ W Corp. Cleanup Agent ที่กลายเป็น Bloodbag",
+      "desc": "ดูเหมือนว่ามันจะถูกซ่อมจนเกือบสมบูรณ์แล้ว แต่บางที การเสี่ยงให้ Sinner ได้รับบาดเจ็บอาจจะไม่คุ้มกับความพยายามที่เสียไป",
+      "options": [
+        {
+          "message": "Repair the gauntlet.",
+          "messageDesc": "Lust & Envy Advantage check. Pass to gain a Charge E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Give up the repair.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "We don't have the luxury of wasting our time over something like this.\n\nLeaving behind the gauntlet gunked up with gore, we forged on."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971083,
+      "name": "ผู้โดยสารที่เป็นพ่อค้า",
+      "desc": "ดูเหมือนว่าบริเวณนี้จะมีผู้โดยสารอยู่ค่อนข้างหนาแน่น ท่ามกลางผู้คนเหล่านั้น เราสังเกตเห็นผู้โดยสารคนหนึ่งที่มีท่าทางสงบนิ่งอย่างน่าประหลาด \"เข้ามาใกล้ๆ สิ...\" ในมือที่ยื่นออกมาของเขามีขวดที่เต็มไปด้วยยาเม็ดที่ดูน่าสงสัย ผู้โดยสารคนนั้นอธิบายว่า ความมีสติในตอนนี้ของเขาเป็นเพราะยาที่เขามีอยู่ \"คุณอยากจะลองดูบ้างไหมล่ะ?\"",
+      "options": [
+        {
+          "message": "Purchase the pills.",
+          "messageDesc": "Spend Cost to heal all allies' HP & SP",
+          "result": [
+            "I paid the price and distributed the pill among the Sinners.\n\n\"Ooh... this ain't half bad.\"\n\nThe effects were quite apparent; the pills seemed to have healed everyone, both physically and mentally.\n\n\"Please, do come again...\"\n\nThe passengers bade us farewell, so we continued on after responding in kind."
+          ]
+        },
+        {
+          "message": "Just take a quick look, then leave.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "No need to pay out of pocket for something that suspicious.\n\nWe continued on."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971084,
+      "name": "W Corp. Cleanup Agent กำลังต่อสู้กับกลุ่ม Bloodbag",
+      "desc": "\"ดูนั่นสิ! นักรบผู้โดดเดี่ยวคนนั้นกำลังต่อสู้กับฝูง Bloodbag อยู่!\" เหล่า Sinners กำลังมองไปยังใครบางคนที่สวมชุดยูนิฟอร์มของ W Corp. เขาดูมีฝีมือพอตัว แต่จำนวนของ Bloodbag ที่มหาศาลกำลังจะทำให้เขาถูกกลืนกิน <เราต้องรีบช่วย—> แต่ฉันกลับถูกขัดจังหวะด้วยฝูง Bloodbag อีกกลุ่มที่ทะลักเข้ามาในตู้โดยสารนี้และล้อมพวกเราเอาไว้ \"บ้าเอ๊ย... เตรียมตัวต่อสู้!\" \"แ-แล้วนักรบผู้โดดเดี่ยวคนนั้นล่ะ?!\" \"ก็นะ—\"",
+      "options": [
+        {
+          "message": "Lend him an E-Type Dimensional Dagger.",
+          "messageDesc": "Select to gain a Charge E.G.O Gift",
+          "result": [
+            "\"This should help, at least...!\"\n\nWe threw the dagger at the W Corp. Agent...\n\n... and hit a Bloodbag squarely in the back of its head, just as it was about to sink its teeth into him. He quickly pulled out the dagger and used it to defend himself.\n\nOnce we were done cleaning up, he thanked us and returned the dagger.\n\n\"Thank you for stepping in! Another second and I'd also have turned into one of those mons—\"\n\nHorrified, the Agent cuts himself short and shifts away from the grim thought.\n\n\"I'm pulling back. Take this—it's not much, but I hope it helps.\""
+          ]
+        },
+        {
+          "message": "Send a Sinner to assist the W Corp. Agent.",
+          "messageDesc": "Envy & Wrath Advantage check. Pass to gain a Charge E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Don't send anyone.",
+          "messageDesc": "All allies lose SP",
+          "result": [
+            "As we had our own share of Bloodbags to deal with, we decided to save ourselves first.\n\nIt wasn't long before the W Corp. Agent was swept up in the relentless swarm of Bloodbags.\n\nWe could hear his agonizing screams through the stampede, pleading for anyone to rescue him, but... it was too late for us to do anything."
+          ]
+        }
+      ]
+    }
+  ]
+}

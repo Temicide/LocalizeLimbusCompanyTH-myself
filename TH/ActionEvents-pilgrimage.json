@@ -1,0 +1,286 @@
+{
+  "dataList": [
+    {
+      "id": 128801,
+      "title": "การปรากฏตัวของอัศวินคนสุดท้าย",
+      "desc": "<i>วันหนึ่ง เมล็ดข้าวที่เขาปลูกกลับไม่ยอมงอกเงย วันหนึ่ง เขาก็ไม่สามารถสัมผัสได้ถึงกลิ่นอายของชีวิตในทุกลมหายใจอีกต่อไป</i> <i>ดังนั้น เขาจึงควบม้าทวนกระแส คอยไล่ล่าเหล่าเกลียวคลื่น เขาเสาะหาคลื่นเหล่านั้น ตำหนิพวกมัน และในท้ายที่สุดก็นำพาความพินาศมาสู่พวกมัน</i> ความทรงจำอันเลือนรางที่วูบผ่านห้วงลึกของ Amiya ฉายชัดขึ้นมาตรงหน้าเพียงชั่วครู่ และอัศวิน Seaborn ก็กวัดแกว่งหอกยักษ์เข้าใส่เหล่า Sea Terrors ที่ผุดขึ้นมาเหนือผิวน้ำ เขาตัวสั่นเทาด้วยความรังเกียจ แต่ถึงอย่างนั้นเขาก็ไม่หยุดยั้ง \"พวกเจ้าขัดขวางความก้าวหน้า และปกคลุมผืนแผ่นดิน\" \"เรื่องนี้... ยอมรับไม่ได้\" \"ที่นี่คือ... ผืนแผ่นดิน\" ดูเหมือนว่าอัศวินและเหล่า Sea Terrors จะไม่ได้อยู่ฝ่ายเดียวกันเสียทีเดียว บางทีการทูตอาจจะเป็นทางออกที่ใช้ได้ในสถานการณ์นี้หรือเปล่านะ?",
+      "options": [
+        {
+          "message": "Overcome the bellowing roar and try to talk to the knight.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "The knight is just an enemy, nothing more.",
+          "messageDesc": "",
+          "result": [
+            "<i>The sea replies to the knight's bellow with silence.\nOur response too, shall be met with the knight's silence.</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128802,
+      "title": "การปรากฏตัวของอัศวินคนสุดท้าย",
+      "desc": "การโจมตีอย่างบ้าคลั่งของ Sinners ที่มีต่ออัศวินเริ่มช้าลง แม้ว่าเราจะไม่มีอะไรเหมือนกับอัศวินคนนั้นเลย... แต่ความโดดเดี่ยวอันหนาวเหน็บกลับแฝงมากับเสียงคำรามของเขา ภายใต้แสงสลัวที่ดูไม่น่าไว้วางใจ <i>ในสายตาของเขา พวกเราคือเกลียวคลื่น หรือเป็นเพียงก้อนหินกันแน่? น้ำทะเลซัดเปียกชายเสื้อของเรา โดยไม่ให้เวลาเราได้หาคำตอบสำหรับคำถามนั้นเลย</i>",
+      "options": [
+        {
+          "message": "Someone has to stand their ground next to the petrified Sinners.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "We have to charge at the knight.",
+          "messageDesc": "",
+          "result": [
+            "<i>The knight's lance charge breaks through the gale like an unstoppable wave.\nLoneliness could not be shared.</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128803,
+      "title": "การปรากฏตัวของอัศวินคนสุดท้าย",
+      "desc": "อัศวินควบม้าที่ส่งเสียงร้องอย่างรุนแรง เขาชูหอกขึ้นสู่ท้องฟ้า พุ่งทะยานข้ามท้องทะเล แหวกเกลียวคลื่นให้แยกออกจากกัน \"ถ้าเป็นแบบนี้ต่อไป เราไม่รอดแน่...\" \"ช่วยถ่วงเวลาเขาไว้ที... แค่วินาทีเดียวก็ยังดี\" Irene เล็งปืนใหญ่พกพาของเธอไปทางอัศวิน เป้าหมายและเจตจำนงของเธอสั่นไหวเป็นจังหวะเดียวกับเกลียวคลื่น <i>เราต้องการเวลาเพียงชั่วครู่เพื่อตั้งหลัก ล้มเกลียวคลื่นนั่นซะ เล็งไปที่ขา อย่าเล็งที่หอก</i>",
+      "options": [
+        {
+          "message": "We have to stop the knight's charge.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "We have to observe the situation more carefully.",
+          "messageDesc": "",
+          "result": [
+            "A high-pitched and powerful cry resonates.\nThe knight's steed is sending out a warning for something."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129701,
+      "name": "Mayors, เหตุการณ์ทางเลือกครั้งที่ 1 ของ Yearning Flotsam",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "ความสิ้นหวังของ Mayors ความน่ารังเกียจของเจตนาอันชั่วร้ายของผู้คน และความหวังอันริบหรี่จากแสงสว่างที่ค้นพบภายในนั้น อารมณ์และความทรงจำนานัปการผุดขึ้นสู่ผิวน้ำในห้วงลึกของ Amiya แล้วจมดิ่งลงไปอีกครั้ง ความคิดเหล่านั้นซึมซาบเข้ามาในตัวฉันเช่นกัน โดยไม่มีอะไรมาคัดกรอง \"...บาปที่ผู้คนได้ก่อไว้ มันไม่ได้หายไปง่ายๆ หรอก\" \"เจตนาอันชั่วร้ายของมนุษยชาติก็จะแพร่กระจายออกไปอย่างไม่มีอะไรหยุดยั้งได้เช่นกัน\" \"แต่กระแสน้ำที่คุณ Mayors พยายามเรียกมาเพื่อดับมัน...\" \"...จะกลืนกินมนุษยชาติ อารยธรรมของพวกเขา และ The City ที่พวกเขาจากมา\" \"เพราะงั้น... ฉันไม่คิดว่านั่นเป็นทางออกที่ถูกต้อง\" \"ตราบใดที่ Dante และผู้คนของ Limbus Company ยังคงปฏิเสธ\" นี่ไม่เหมือนกับตอนที่ฉันไปกู้คืน E.G.O แทนที่จะเป็นแสงสว่าง กลับมีจุดดำมืดที่ทอดเงาลงมา",
+      "options": [
+        {
+          "message": "Reach out into the darkness.\t\t\t\t\t\t\t\t\t\t\t",
+          "messageDesc": "A strange power courses through me.",
+          "result": [
+            "A strange power courses through me before radiating toward the Sinners.\t\t\t\t\t\t\t\t\t\t\t"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129702,
+      "name": "Mayors, เหตุการณ์ทางเลือกครั้งที่ 2 ของ Yearning Flotsam",
+      "subDesc": "사용 안하는 텍스트",
+      "desc": "กระแสน้ำพัดพาหน้าต่างสู่อดีตของ Mayors ให้หายไป และกลืนกินพวกมันจนลับสายตาในไม่ช้า ราวกับว่า Mayors และ Dungeon of the Fathoms— ไม่สิ แม้แต่ตัวมหาสมุทรเอง กำลังหลอมรวมเป็นหนึ่งเดียวกัน \"Distortions ส่วนใหญ่ที่ทีมรถบัสพบเจอ มักจะอยู่ในรูปแบบที่คนทั่วไปรู้จักในชื่อ 'สิ่งมีชีวิตอินทรีย์'\" \"อย่างไรก็ตาม ไม่มีอะไรห้ามไม่ให้รูปแบบของ Distortion ก้าวข้ามขอบเขตนั้นและเปลี่ยนเป็นรูปร่างอื่น ซึ่งอาจแตกต่างกันไปตามความปรารถนาของแต่ละบุคคล\" \"หากปล่อยให้ Distortion ของเธอทวีความรุนแรงโดยไม่มีการยับยั้ง ในที่สุดมันอาจจะกัดกร่อนแม้กระทั่งพื้นที่ที่เรากำลังยืนอยู่ตอนนี้\" ในขณะที่เรากำลังใช้เวลาพักหายใจ เครื่องจักรขนาดเล็กไม่กี่เครื่องก็ร่วงลงสู่พื้น ซึ่งถูกยิงออกมาจากห้วงลึกที่กำลังสั่นสะเทือน มันต้องเป็นหนึ่งในเครื่องจักรลึกลับในบ้านของ Mayors ที่เราเห็นตอนแอบดูความทรงจำของเธอแน่ๆ เครื่องจักรเหล่านั้นยังคงส่งเสียงหึ่งๆ ดังลั่น ราวกับว่าเกลียวคลื่นได้ทำให้พวกมันพัง... เราสังเกตเห็นว่ามีอุปกรณ์ต่างๆ ติดตั้งอยู่ที่ช่องเสียบด้านข้างของพวกมัน \"ดูท่าทางจะราคาแพงนะ แต่ทำไม... มันถึงมีเยอะขนาดนี้\" \"ก็นะ บางทีเธออาจจะเหมือนพวก Fixer ที่คลั่งไคล้การเก็บสะสมเทคโนโลยีล้ำสมัยจาก Workshop ทุกชิ้นที่ออกมาใหม่ก็ได้\" \"หือ ตรงนี้เขียนว่า... 'Little Handy' แฮะ\" \"โครงสร้างของเจ้านี่คล้ายกับ 'Hand of the Saint' ที่ Inquisitor พกมาอย่างประหลาดเลย\" \"อุ๊ย! ถ้าอย่างนั้น เครื่องจักรที่วิเศษสุดยอดชิ้นนี้จะช่วยเราในการต่อสู้ได้ไหมนะ?!\" ดูเหมือนว่าทาง Rhodes Island จะยุ่งกับการต้านทานคลื่นของ Sea Terrors จนเต็มกลืนแล้ว เราควรจะหยิบไปแค่เครื่องเดียว และทิ้งที่เหลือไว้เพื่อช่วยพวกเขาดีกว่า หลังจากปรึกษากับ Sinners สั้นๆ เราจึงตัดสินใจหยิบเครื่องจักรไปเพียงเครื่องเดียว",
+      "options": [
+        {
+          "message": "Take one with the \"Wilderness Survival Module\"",
+          "messageDesc": "Gain max HP & HP Healing Boost",
+          "result": [
+            "\"Wilderness Survival Module detected. Activating survival command.\"\n\nI don't really understand how it works, but that sure sounds helpful."
+          ]
+        },
+        {
+          "message": "Take one with the \"Housekeeping Assistant Module\"",
+          "messageDesc": "Enhances the effects of The Hand of the Saint",
+          "result": [
+            "\"Housekeeping Assistant Module detected. Converting the Hand of the Saint to patrol mode.\"\n\nI don't really understand how it works, but that sure sounds helpful."
+          ]
+        },
+        {
+          "message": "Take one with the \"Incremental Motion Firmware\"",
+          "messageDesc": "Gain safeguarding effects against Stagger",
+          "result": [
+            "\"Incremental Motion Firmware detected. Activating blockade command.\"\n\nI don't really understand how it works, but that sure sounds helpful."
+          ]
+        },
+        {
+          "message": "Take one with the \"Mini Decontamination Kit\"",
+          "messageDesc": "Gain an effect that counteracts the Nethersea Brand's influence on Sinners",
+          "result": [
+            "\"Mini Decontamination Kit detected. Counteracting nethersea brand toxicity.\"\n\nI don't really understand how it works, but that sure sounds helpful."
+          ]
+        },
+        {
+          "message": "Take one with the \"External Upgrade Module\"",
+          "messageDesc": "Gain temporary power boost",
+          "result": [
+            "\"External Upgrade Module detected. Activating attack command.\"\n\nI don't really understand how it works, but that sure sounds helpful."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971074,
+      "title": "ชาว Iberians และชาว Ægirian",
+      "desc": "ดูเหมือนจะมีความวุ่นวายเกิดขึ้นที่จัตุรัสหมู่บ้าน ชาวบ้านกำลังล้อมใครบางคนไว้ด้วยเจตนาที่ชัดเจนว่าต้องการข่มขู่ \"พ่อมดชั่วร้ายหายไปแล้ว แต่ทำไมหายนะนี้ถึงยังไม่จบสิ้น! อธิบายมาเดี๋ยวนี้!\" \"พูดความจริงมาซะ! แกทนเห็น Iberia รุ่งเรืองไม่ได้ใช่ไหมล่ะ?! ถ้าไม่มีหายนะนั่น พวกเราคงจะ...\" \"ด-ได้โปรด ฟังผมก่อน ผมแค่มาที่นี่เพื่อ... ผมแค่มาเพื่อแบ่งปันบันทึกการวิจัย—\" \"อะไรนะ วิธีสู้กับสัตว์ประหลาดทะเลน่ะเหรอ? โอ๊ย ตอนนี้เพิ่งจะคิดอยากช่วยเรางั้นสิ? บอกให้เอาบุญนะว่ามันสายเกินไปแล้ว! เศษกระดาษพวกนี้ช่วยอะไรเราไม่ได้หรอก\" คนท้องถิ่นเชื่ออย่างฝังหัวว่าหายนะนี้ถูกนำมาโดยพวก Ægirs",
+      "options": [
+        {
+          "message": "Turn away from the scene.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "It has become a crime to exist as an Ægir.\n\nWe're outsiders—it's not our place to step in when we don't know enough about what happened.\n\nBut our hesitation was an answer in and of itself; the one-sided violence struck the Ægir.\n\nWe ran in to help, but the Ægir's heart was already trampled and discarded. It's not something that can be picked back up like the scattered research notes on the ground.\n\nThe lone Ægir's eyes gazed despondently at nothing until we eventually left."
+          ]
+        },
+        {
+          "message": "We have to put a stop to this.",
+          "messageDesc": "Gain a Keywordless E.G.O Gift depending on the result of the following choice",
+          "result": [
+            "I can feel the mob turning toward us.\n\n\"An evil sorcerer started the Profound Silence.\"\n\"He pretended to work for us, but it turned out that he was driven by envy for Iberia's prosperity.\"\n\"Don't try to stop us, outsiders.\"\n\"They came from the sea, just like the sorcerer himself.\"\n\nAs they were protesting, the hungry, harrowed look of villagers came into the Sinners' eyes.\n\nA villager, cradling an empty bundle of cloth.\nA child, holding a staff and a hat that was far too large for him.\n\n\"... They've all lost a lot.\"\n\n\"And that void in your heart blinds you.\"\n\n\"It makes it unbearable to keep your emotions in check.\"\n\nThis is how they deal with sorrow.\n\nThere were no emotions or intent to be found in the great calamity that devoured Iberia whole.\n\nSo they sharpen their sorrows into wayward wraths against those who came from the sea, just like the calamity itself.\n\n\"Which means... someone needs to direct their anger against the rightful foes.\"\n\n<Irene?>\n\n\"Step back, citizen.\"\n\n\"Even if we were to determine that the Ægir has committed crimes, it falls under the Inquisition's jurisdiction to carry out the consequences.\"\n\n\"If the Ægir is innocent... do understand that your actions cannot be permitted.\"\n\nIt seemed that Irene managed to provoke some thought in the mob as they slowly walked away from the Ægir...\n\nUntil they eventually scattered away."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97107401,
+      "title": "ชาว Iberians และชาว Ægirian - #2",
+      "desc": "\"ขอบคุณ\" \"...อย่างที่คุณเห็น ผมมาจาก Ægir\" \"ตั้งแต่เกิดเหตุการณ์ Profound Silence ผมก็ทุ่มเทให้กับการศึกษา Seaborns และ nethersea brand เพื่อช่วยเหลือผู้คนที่อาศัยอยู่บนบก\" \"ผมไม่รู้ว่าเพื่อนร่วมงานของผมหายไปไหนกันหมด แต่...\" \"แล้วตอนนี้มันจะมีประโยชน์อะไรอีก?\" \"ในเมื่อพวกเขาไม่ต้องการความช่วยเหลือจากผม แล้วผมจะให้พวกเขาไปทำไม?\" เขาดูหดหู่กับประสบการณ์ที่ได้รับใน Iberia",
+      "options": [
+        {
+          "message": "They might not, but there has to be someone who needs your help.",
+          "messageDesc": "Gloom & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "You should probably return to Ægir.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"The situation back home—I mean, Ægir's not great, either.\"\n\n\"We've been able to hold them back for now, but... We're almost at our limit.\"\n\n\"If we and the land-dwellers can help each other, maybe... Well, that doesn't seem much like a possibility anymore.\"\n\nHe looks down at his research notes with a look of despair.\n\n\"Guess I'll try to find my way back to Ægir.\"\n\n\"It's precarious, but... that place is still my home.\n\nThe Ægir slowly stumbles away after picking up the research notes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971075,
+      "title": "อดีตอันรุ่งโรจน์ของ Iberia",
+      "desc": "เรามาพบกับถ้ำแห่งหนึ่ง ซึ่งเต็มไปด้วยซากเรืออับปางและสมบัติทองคำที่ถูกซัดเข้ามาภายใน มีประติมากรรมที่ไม่คุ้นตาและเหรียญทองระยิบระยับเต็มไปหมด... มีกองสมบัติมหาศาลอยู่ที่นี่ \"เฮ้ บันทึกตรงนี้บอกว่าที่นี่เคยเป็นเรือที่ล่องไปทั่ว Terra เลยล่ะ\" \"มันต้องเป็นเรือที่สร้างขึ้นเพื่อการพิชิต สร้างขึ้นในช่วงยุคทองของ Iberia แน่ๆ\" \"ดูนี่สิ ตรงนี้บอกว่านี่คือจอกทองคำที่สร้างใน Sargon\" \"เมื่อรวมกองเรือที่มีใบเรือสูงสง่า ความก้าวหน้าทางเทคโนโลยีที่ไม่มีใครเทียบได้ และ... ความโลภของราชาบางองค์เข้าด้วยกัน ผลลัพธ์ก็คือสิ่งนี้\" \"มันคือ... ความรุ่งโรจน์ที่เราแทบจะไม่มีหวังได้มันกลับคืนมาแล้วในตอนนี้\" ของพวกนี้คงมีค่ามหาศาลหากนำออกไปข้างนอก แต่ดูเหมือนไม่มีชิ้นไหนที่จะช่วยสถานการณ์ในตอนนี้ได้เลย เราควรจะลองหาต่อไปเผื่อว่าจะมีอะไรใช้ได้ไหมนะ?",
+      "options": [
+        {
+          "message": "That's enough looking around. Let's move on.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "We've looked enough."
+          ]
+        },
+        {
+          "message": "Keep looking.",
+          "messageDesc": "Gluttony & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971076,
+      "title": "เรื่องราวของผู้ดูแลประภาคารและความเงียบงันอันลึกล้ำ",
+      "desc": "บนหน้าผาชันริมชายฝั่ง... ชายชราคนหนึ่งกำลังจ้องมองออกไปที่มหาสมุทรอันห่างไกล พยายามมองฝ่าพายุที่โหมกระหน่ำ",
+      "options": [
+        {
+          "message": "Approach.",
+          "messageDesc": "Gain a Keywordless E.G.O Gift depending on the result of the following choice",
+          "result": [
+            "We ask the old man what he's doing here, and he turns around with a good-natured laugh.\n\n\"I was once a lighthouse keeper. I used to bring the Eye of Iberia's light to the dark sea.\"\n\n\"So I'm looking out to the sea, watching the lighthouse beyond the cresting waves.\""
+          ]
+        },
+        {
+          "message": "Leave.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "We walked away, leaving the old man there.\n\nWhen I turned around, the old man was nowhere to be seen on the cliff."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97107601,
+      "title": "เรื่องราวของผู้ดูแลประภาคารและความเงียบงันอันลึกล้ำ - #2",
+      "desc": "ฉันมองไปยังจุดที่ชายชราคนนั้นชี้ไป แต่กลับไม่เห็นประภาคารหลังไหนเลย มีเพียงเกลียวคลื่นยักษ์ที่ซัดเข้าใส่หน้าผาอย่างไม่ปรานี \"ฉันคิดถึงวันวานเหล่านั้นเหลือเกิน วันเวลาอันรุ่งโรจน์ ตอนที่ฉันยังคงส่องแสงนำทางให้มหาสมุทรอันกว้างใหญ่\" \"พอความเงียบงันอันลึกล้ำมาเยือนและผ่านพ้นไป Iberia ก็กลายเป็นที่ที่... เงียบเกินไป และมืดมิดเกินไป\" นิ้วของชายชราลูบไล้กุญแจในมืออย่างแผ่วเบา ดวงตาเต็มไปด้วยความโหยหา",
+      "options": [
+        {
+          "message": "Tell the old man to step away from the cliff; it's too dangerous.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"Ha ha ha...\"\n\n\"Don't you worry. The lighthouse was taller than even this very cliffside we're on.\"\n\n\"This height is nothing to a keeper, friends.\"\n\n\"Still... the day is getting late. I should be heading back soon.\"\n\n\"I bid you safe journeys.\"\n\nAs we were descending the cliffs after bidding the old man farewell in return, I heard the splash of waves coming from behind us.\n\nThe old man was nowhere to be seen on the cliff."
+          ]
+        },
+        {
+          "message": "Ask if the key belonged to the lighthouse.",
+          "messageDesc": "Sloth & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971077,
+      "title": "ที่นี่ Church of the Deep กำลังแจกจ่ายอาหารที่ทำจาก Sea Terrors โดยอ้างว่าเป็นการช่วยเหลือ เพื่อเปลี่ยนชาว Iberia ให้กลายเป็น Sea Terrors",
+      "desc": "มีผู้คนเข้าแถวยาวเหยียดรออยู่หน้าอาคารที่ทรุดโทรมหลังหนึ่ง ภายในนั้น คนสวมฮู้ดกำลังแจกจ่ายบางสิ่งให้กับผู้ที่มาเยือน \"ขอบคุณสำหรับพรจากมหาสมุทร\" \"ไม่หรอก ไม่เลย พวกเราเพียงแค่ปรารถนาจะช่วยให้ท่านคลายความหิวโหยได้บ้าง แม้เพียงเล็กน้อยก็ยังดี... หืม?\" \"เราไม่เคยเห็นท่านแถวนี้เลย เห็นได้ชัดว่าท่านเดินทางมาไกลมากเพื่อมาที่นี่—ยินดีต้อนรับ ยินดีต้อนรับ\" \"ขออภัยทุกท่าน—โปรดเข้าใจด้วย พวกเขาเพิ่งมาที่นี่เป็นครั้งแรก\" คนสวมฮู้ดลากพวกเราเข้าไปข้างใน \"มันอาจจะไม่มากนัก แต่... หวังว่าสิ่งนี้จะช่วยให้ท่านหายหิวได้นะ\" ปลาแห้งงั้นเหรอ... Amiya กับ Irene เรียกพวกมันว่า \"finbeasts\"",
+      "options": [
+        {
+          "message": "Let the other people have it first.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There were people staring hungrily at our food, so we quietly handed it over.\n\nThey began to shovel in the food, as though they've missed more than a few meals.\n\nUnless they slow down, they're going to make themselves sick...\n\nWithout any reason to stay, we left the building.\n\nI felt a little prick on the back of my head, as though the hooded people were staring at us as we walked away, but...\n\nwe managed to quicken our pace and disappear."
+          ]
+        },
+        {
+          "message": "Slip them into our bags and pretend we ate them.",
+          "messageDesc": "Run a Gloom & Pride Advantage check to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971078,
+      "title": "Inquisitor ผู้ติดอยู่ในศึกต่อสู้กับ Sea Terrors",
+      "desc": "ท่ามกลางสายลมทะเลที่พัดผ่านระหว่างอาคารสีขาว ใครบางคนยืนถือตะเกียงพลางมองไปรอบๆ แสงสว่างจากตะเกียงส่องให้เห็นกองซากศพของสัตว์ประหลาดทะเล เมื่อดูจากชุดที่คล้ายกับของ Irene... เขาคงเป็น Inquisitor เหมือนกัน",
+      "options": [
+        {
+          "message": "An Inquisitor is leading our evacuation.",
+          "messageDesc": "Wrath & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "We're here to help the Inquisitors.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"I appreciate the sentiment.\"\n\n\"But the role of a civilian is to survive and contribute to Iberia's revival.\"\n\n\"You needn't sacrifice yourselves on the front lines to hold the line against the very sea... for that is the Inquisitors' role.\n\nWith that, the Inquisitor quickly saw us away from here."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971079,
+      "title": "โหนดสุดท้ายก่อนการต่อสู้กับบอส Distorted Mayors สามารถฮีลและชุบชีวิตเพื่อนร่วมทีมได้",
+      "desc": "ณ ใจกลางของสิ่งที่ดูเหมือนจะเป็นเรือโนอาห์ซึ่งเป็นสัญลักษณ์ของ The City ท่ามกลางแสงสีทองอันเจิดจรัสตรงนั้น... ต้องเป็น Mayors แน่ๆ \"พักกันที่นี่สักครู่เถอะ\" \"คุณโอเคไหมคะ Doctor?\" \"ฉันแค่ขอ... พักหายใจสักแป๊บ...\" \"ฟุฟุ... คุณควรจะฝึกคาร์ดิโอให้มากกว่านี้นะคะ ไม่อย่างนั้นคุณ Amiya อาจจะต้องแบกคุณขึ้นหลังแทน\" \"ก็นะ... พอกลับไป ฉันจะเริ่มออกกำลังกายตามที่ Kal'tsit แนะนำแล้วล่ะ\" \"หึ Executive Manager ถ้าถึงคราวจำเป็น คุณสามารถไว้ใจให้ฉันแบกคุณได้เลยนะคะ\" <ฉันไม่เป็นไร> บางทีการได้อยู่ใกล้กับนิมิตแห่งยูโทเปียของ Mayors และใจกลางของแสงสว่างอาจส่งผลบางอย่าง... พวก Seaborns ที่อยู่ใกล้ๆ เพียงแค่ชำเลืองมองพวกเราโดยไม่มีท่าทีจะโจมตี สายตาที่พวกมันมองมาให้ความรู้สึกเหมือนกับว่า... พวกมันกำลังเป็นห่วงพวกเรา—จนทำให้ Sinners อดไม่ได้ที่จะเบือนหน้าหนีด้วยความรู้สึกแปลกๆ \"ฉันรู้สึกถึง... ความโศกเศร้า ความเสียใจ... บางทีความรู้สึกเหล่านี้อาจเป็นการปฏิเสธทุกช่วงเวลาที่เธอต้องทนทุกข์ทรมานกับเรื่องนี้\" \"เราจะพาคุณ Mayors กลับมาได้จริงๆ เหรอคะ?\" <เราจะช่วยให้เธอกลับมา นั่นคือเหตุผลที่เรามาที่นี่อยู่แล้ว> <เอาล่ะ พักผ่อนกันสักหน่อยก่อนจะเดินทางต่อเถอะ>",
+      "options": [
+        {
+          "message": "Take a moment to collect ourselves, then move on.",
+          "messageDesc": "",
+          "result": [
+            "After taking enough rest, we continue on toward the refracted light."
+          ]
+        }
+      ]
+    }
+  ]
+}

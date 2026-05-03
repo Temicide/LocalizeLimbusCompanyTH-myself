@@ -1,0 +1,3068 @@
+{
+  "dataList": [
+    {
+      "id": "AreaAtk",
+      "name": "AoE Attack",
+      "desc": "เป้าหมายคือศัตรู 2 ตัวขึ้นไป"
+    },
+    {
+      "id": "Enhancement",
+      "name": "Attack Power Up",
+      "desc": "สกิลของ Attack จะได้รับ Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Agility",
+      "name": "Haste",
+      "desc": "Speed เพิ่มขึ้นตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Endurance",
+      "name": "Defense Power Up",
+      "desc": "สกิลของ Defense จะได้รับ Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Reduction",
+      "name": "Attack Power Down",
+      "desc": "สกิลของ Attack จะเสีย Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Binding",
+      "name": "Bind",
+      "desc": "Speed ลดลงตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Vulnerable",
+      "name": "Fragile",
+      "desc": "ได้รับความเสียหายจากสกิลแรงขึ้นตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)",
+      "summary": "ได้รับความเสียหาย +{0}0%"
+    },
+    {
+      "id": "Taunt",
+      "name": "Taunt",
+      "desc": ""
+    },
+    {
+      "id": "Stun",
+      "name": "Stun",
+      "desc": ""
+    },
+    {
+      "id": "ElectricShock",
+      "name": "Shock",
+      "desc": "ได้รับความเสียหายแรงขึ้นตามค่าของเอฟเฟกต์ในเทิร์นนี้"
+    },
+    {
+      "id": "Burn",
+      "name": "Burn",
+      "desc": "เมื่อจบเทิร์น จะได้รับความเสียหายคงที่ตามจำนวน Count ของเอฟเฟกต์ จากนั้นค่าดังกล่าวจะลดลงครึ่งหนึ่ง"
+    },
+    {
+      "id": "Bleeding",
+      "name": "Bleed",
+      "desc": "เมื่อโจมตี จะได้รับความเสียหายคงที่เท่ากับ (Count)% ของ HP ปัจจุบัน จากนั้นลดความเสียหายลงครึ่งหนึ่ง"
+    },
+    {
+      "id": "Target",
+      "name": "Marked",
+      "desc": "ถูกเล็งเป้าโดยตัวละครที่มี Passive [Sharp Edge]"
+    },
+    {
+      "id": "SelfHarm_LowMorale",
+      "name": "Compulsion",
+      "desc": "- Low Morale - เริ่มเทิร์น: ได้รับ Haste 2 หน่วย และ Fragile 2 หน่วย"
+    },
+    {
+      "id": "SelfHarm_Panic",
+      "name": "Compulsion",
+      "desc": "- Panic - เริ่มเทิร์น: เสีย HP 10 หน่วย"
+    },
+    {
+      "id": "Blame_LowMorale",
+      "name": "Outlash",
+      "desc": "- Low Morale - เริ่มเทิร์น: ได้รับ Power Up ของ Attack 2 หน่วย และ Fragile 2 หน่วย"
+    },
+    {
+      "id": "Blame_Panic",
+      "name": "Outlash",
+      "desc": "- Panic - เริ่มเทิร์น: สุ่มพันธมิตร 1 คน เสีย SP 20 หน่วย"
+    },
+    {
+      "id": "Charge",
+      "name": "Charge",
+      "desc": "ทรัพยากรที่ใช้โดยบางสกิลเพื่อสร้างเอฟเฟกต์เพิ่มเติม สามารถสะสม Count ได้สูงสุด 20 หน่วย โดย Count จะลดลง 1 หน่วยเมื่อจบแต่ละเทิร์น"
+    },
+    {
+      "id": "DamageOverTime",
+      "name": "Ongoing Damage",
+      "desc": "เมื่อเริ่มเทิร์น จะได้รับความเสียหายคงที่ตาม Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "ResultEnhancement",
+      "name": "Power Up",
+      "desc": "สกิลจะได้รับ Final Power ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น",
+      "summary": "Skill Final Power +{0}"
+    },
+    {
+      "id": "Protection",
+      "name": "Protection",
+      "desc": "ลดความเสียหายที่ได้รับจากสกิลตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)",
+      "summary": "ความเสียหายที่ได้รับ -{0}0%"
+    },
+    {
+      "id": "AttackDmgUp",
+      "name": "Damage Up",
+      "desc": "สร้างความเสียหายด้วยสกิลแรงขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)",
+      "summary": "ความเสียหายที่สร้าง +{0}0%"
+    },
+    {
+      "id": "DefenseUp",
+      "name": "เลเวล Defense เพิ่มขึ้น",
+      "desc": "เลเวลของ Defense เพิ่มขึ้นตาม Potency ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น",
+      "summary": "เลเวล Defense +{0}"
+    },
+    {
+      "id": "PlusCoinValueUp",
+      "name": "บูสต์ Plus Coin",
+      "desc": "เพิ่ม Power ของ Plus Coin ตาม Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "MinusCoinValueUp",
+      "name": "บูสต์ Minus Coin",
+      "desc": "เพิ่ม Power ของ Minus Coin ตาม Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "TimesCoinValueUp",
+      "name": "บูสต์ Multiply Coin",
+      "desc": "เพิ่ม Power ของ Multiply Coin ตาม Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "Disarming",
+      "name": "Defense Power Down",
+      "desc": "สกิลของ Defense จะเสีย Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "ResultReduction",
+      "name": "Power Down",
+      "desc": "สกิลทั้งหมดจะเสีย Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น",
+      "summary": "Skill Final Power -{0}"
+    },
+    {
+      "id": "AttackDmgDown",
+      "name": "Damage Down",
+      "desc": "สร้างความเสียหายด้วยสกิลลดลงตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)",
+      "summary": "Damage Dealt -{0}0%"
+    },
+    {
+      "id": "DefenseDown",
+      "name": "Defense Level Down",
+      "desc": "Defense Level จะลดลงตามค่า Potency ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น",
+      "summary": "Defense Level -{0}"
+    },
+    {
+      "id": "Paralysis",
+      "name": "Paralyze",
+      "desc": "ตรึง Power ของ Coin ให้เป็น 0 เป็นเวลาหนึ่งเทิร์น โดยจะมีผลกับ Coin หนึ่งตัวต่อหนึ่ง Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "PlusCoinValueDown",
+      "name": "Plus Coin Drop",
+      "desc": "ลด Power ของ Plus Coin ตามจำนวน Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "MinusCoinValueDown",
+      "name": "Minus Coin Drop",
+      "desc": "ลด Power ของ Minus Coin ตามจำนวน Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "TimesCoinValueDown",
+      "name": "Multiply Coin Drop",
+      "desc": "ลด Power ของ Multiply Coin ตามจำนวน Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "MoonLight",
+      "name": "Moonlight",
+      "desc": "ทรัพยากรที่ใช้โดยบางสกิลเพื่อสร้างเอฟเฟกต์เพิ่มเติม"
+    },
+    {
+      "id": "Anger",
+      "name": "Rage",
+      "desc": "ถูกใช้โดยบางสกิล และจำเป็นต้องมีเพื่อใช้บางสกิล"
+    },
+    {
+      "id": "Inactible",
+      "name": "Immobilize",
+      "desc": "ไม่สามารถดำเนินการได้ในเทิร์นนี้"
+    },
+    {
+      "id": "Combustion",
+      "name": "Burn",
+      "desc": "เมื่อจบเทิร์น จะได้รับความเสียหายคงที่ตาม Potency ของเอฟเฟกต์ จากนั้น ลด Count ลง 1 หน่วย"
+    },
+    {
+      "id": "Laceration",
+      "name": "Bleed",
+      "desc": "เมื่อทอยการโจมตี Coin จะได้รับความเสียหายคงที่ตาม Potency ของเอฟเฟกต์ จากนั้น ลด Count ลง 1 หน่วย"
+    },
+    {
+      "id": "Vibration",
+      "name": "Tremor",
+      "desc": "เมื่อถูกโจมตีด้วยสกิลที่ส่งผลให้เกิด Tremor Burst จะเพิ่ม Stagger Threshold ตาม Potency ของเอฟเฟกต์ เมื่อจบเทิร์น ลด Count ลง 1 หน่วย"
+    },
+    {
+      "id": "Burst",
+      "name": "Rupture",
+      "desc": "เมื่อถูกโจมตี จะได้รับความเสียหายคงที่ตาม Potency ของเอฟเฟกต์ จากนั้น ลด Count ลง 1 หน่วย"
+    },
+    {
+      "id": "Sinking",
+      "name": "Sinking",
+      "desc": "เมื่อถูกโจมตี จะได้รับความเสียหายคงที่แบบ SP ตาม Potency ของเอฟเฟกต์ (ยูนิตที่ไม่มี Sanity จะได้รับความเสียหาย Gloom แทน) จากนั้น ลด Count ลง 1 หน่วย"
+    },
+    {
+      "id": "Breath",
+      "name": "Poise",
+      "desc": "เมื่อโจมตีโดน จะมีโอกาสสร้างความเสียหายคริติคอลตาม Potency โดยหากสำเร็จจะลด Count ลง 1 หน่วย เมื่อจบเทิร์น ลด Count ลง 1 หน่วย"
+    },
+    {
+      "id": "BloodPocket",
+      "name": "Blood Sac",
+      "desc": "ใช้การโจมตีที่รุนแรงหลังจาก Count ถึงจำนวนที่กำหนด"
+    },
+    {
+      "id": "WaterPocket",
+      "name": "Fluid Sac",
+      "desc": "ฟื้นฟู HP ตามจำนวน Count"
+    },
+    {
+      "id": "DogThunder",
+      "name": "Lightning",
+      "desc": "เพิ่มพลังหลังจาก Count ถึงจำนวนที่กำหนด"
+    },
+    {
+      "id": "Run_Panic",
+      "name": "Oppression",
+      "desc": "ไม่สามารถเคลื่อนไหวได้เป็นเวลาหนึ่งเทิร์น เมื่อถูกโจมตี จะหนีออกจากโหมดการต่อสู้หลังจากสกิลของผู้โจมตีสิ้นสุดลง"
+    },
+    {
+      "id": "Operation",
+      "name": "Surgery",
+      "desc": "ตายเมื่อ Count ถึง 5 ลด Max HP ลง 20% (ต่อหนึ่ง Count) สร้างความเสียหายเพิ่มขึ้น 20% (ต่อหนึ่ง Count) เมื่อเริ่มเทิร์น ได้รับ Haste ตามจำนวน Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "Emergency_Operation",
+      "name": "Makeshift Surgery",
+      "desc": "เพิ่ม Max HP 25% และเพิ่ม Skill Power 1 ตามจำนวน Count ของเอฟเฟกต์นี้ ทุกเทิร์น เพิ่ม Count ของเอฟเฟกต์นี้ 1 หน่วย ตายเมื่อ Count ถึง 5"
+    },
+    {
+      "id": "BabayagaTimeLimit",
+      "name": "Baba Yaga’s Coming!",
+      "desc": ""
+    },
+    {
+      "id": "PinkRibbon",
+      "name": "Pink Ribbons",
+      "desc": "เมื่อจบเทิร์น หากมี Potency 5+ ให้ลบเอฟเฟกต์นี้ออกและมอบ ‘Desirous’ ในเทิร์นถัดไป"
+    },
+    {
+      "id": "Greedy",
+      "name": "Desirous",
+      "desc": "เมื่อเริ่มเทิร์น ได้รับ Bind 10 หน่วย เปลี่ยนความต้านทานทางกายภาพทั้งหมดเป็น ‘Fatal’ Skill Power ของ Attack +2 Skill Power ของ Defense -2"
+    },
+    {
+      "id": "PinkRibbon_Ishmael",
+      "name": "Pink Ribbons",
+      "desc": "Count เพิ่มขึ้น 1 ทุกครั้งที่ยูนิตที่ได้รับผลลอยเหรียญสกิลโจมตี Coin เมื่อจบเทิร์น มอบ Bind ตามจำนวน Count ของเอฟเฟกต์ จากนั้นลบเอฟเฟกต์ออก"
+    },
+    {
+      "id": "Muckworm",
+      "name": "หนอนแมลง",
+      "desc": "จบเทิร์น: ได้รับความเสียหาย Gluttony ตามจำนวน Count จากนั้นลดจำนวนลง 1; Bleed Count +1"
+    },
+    {
+      "id": "AttackUp",
+      "name": "Offense Level Up",
+      "desc": "Offense level เพิ่มขึ้นตาม Potency ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "AttackDown",
+      "name": "Offense Level Down",
+      "desc": "Offense level ลดลงตาม Potency ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Liu_Meursault_Guard_Buff",
+      "name": "ขุนเขาอันยิ่งใหญ่",
+      "desc": "เมื่อถูกโจมตี จะทำให้ผู้โจมตีได้รับ Burn Count +1"
+    },
+    {
+      "id": "SlashResistUp",
+      "name": "Slash Resist Up",
+      "desc": "ลดความต้านทาน Slash ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "PenetrateResistUp",
+      "name": "Pierce Resist Up",
+      "desc": "ลดความต้านทาน Pierce ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "HitResistUp",
+      "name": "Blunt Resist Up",
+      "desc": "ลดความต้านทาน Blunt ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "SlashDamageUp",
+      "name": "Slash DMG Up",
+      "desc": "สร้างความเสียหายด้วยสกิล Slash ได้รุนแรงขึ้นตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "PenetrateDamageUp",
+      "name": "Pierce DMG Up",
+      "desc": "สร้างความเสียหายด้วยสกิล Pierce ได้รุนแรงขึ้นตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "HitDamageUp",
+      "name": "Blunt DMG Up",
+      "desc": "สร้างความเสียหายด้วยสกิล Blunt ได้รุนแรงขึ้นตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "SlashResistDown",
+      "name": "Slash Resist Down",
+      "desc": "เพิ่มความต้านทาน Slash ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "PenetrateResistDown",
+      "name": "Pierce Resist Down",
+      "desc": "เพิ่มความต้านทาน Pierce ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "HitResistDown",
+      "name": "Blunt Resist Down",
+      "desc": "เพิ่มความต้านทาน Blunt ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "SlashDamageDown",
+      "name": "Slash DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Slash น้อยลงตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "PenetrateDamageDown",
+      "name": "Pierce DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Pierce น้อยลงตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "HitDamageDown",
+      "name": "Blunt DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Blunt น้อยลงตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "CrimsonResistDown",
+      "name": "ลดการต้านทาน Wrath",
+      "desc": "เพิ่มการต้านทาน Wrath ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "ScarletResistDown",
+      "name": "ลดการต้านทาน Lust",
+      "desc": "เพิ่มการต้านทาน Lust ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "AmberResistDown",
+      "name": "ลดการต้านทาน Sloth",
+      "desc": "เพิ่มการต้านทาน Sloth ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "ShamrockResistDown",
+      "name": "ลดการต้านทาน Gluttony",
+      "desc": "เพิ่มการต้านทาน Gluttony ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "AzureResistDown",
+      "name": "ลดการต้านทาน Gloom",
+      "desc": "เพิ่มการต้านทาน Gloom ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "IndigoResistDown",
+      "name": "ลดการต้านทาน Pride",
+      "desc": "เพิ่มการต้านทาน Pride ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "VioletResistDown",
+      "name": "ลดการต้านทาน Envy",
+      "desc": "เพิ่มการต้านทาน Envy ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "CrimsonResistUp",
+      "name": "เพิ่มต้านทาน Wrath",
+      "desc": "ลดต้านทาน Wrath ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "ScarletResistUp",
+      "name": "เพิ่มต้านทาน Lust",
+      "desc": "ลดต้านทาน Lust ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "AmberResistUp",
+      "name": "เพิ่มต้านทาน Sloth",
+      "desc": "ลดต้านทาน Sloth ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "ShamrockResistUp",
+      "name": "เพิ่มต้านทาน Gluttony",
+      "desc": "ลดต้านทาน Gluttony ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "AzureResistUp",
+      "name": "เพิ่มต้านทาน Gloom",
+      "desc": "ลดต้านทาน Gloom ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "IndigoResistUp",
+      "name": "เพิ่มต้านทาน Pride",
+      "desc": "ลดต้านทาน Pride ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "VioletResistUp",
+      "name": "เพิ่มต้านทาน Envy",
+      "desc": "ลดต้านทาน Envy ตามจำนวน Stack (0.1 ต่อ 1 Stack)"
+    },
+    {
+      "id": "CrimsonDamageDown",
+      "name": "ลด DMG Wrath",
+      "desc": "สร้างความเสียหายด้วยสกิล Wrath ลดลงตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "ScarletDamageDown",
+      "name": "Lust DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Lust ลดลงตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "AmberDamageDown",
+      "name": "Sloth DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Sloth ลดลงตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "ShamrockDamageDown",
+      "name": "Gluttony DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Gluttony ลดลงตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "AzureDamageDown",
+      "name": "Gloom DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Gloom ลดลงตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "IndigoDamageDown",
+      "name": "Pride DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Pride ลดลงตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "VioletDamageDown",
+      "name": "Envy DMG Down",
+      "desc": "สร้างความเสียหายด้วยสกิล Envy ลดลงตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "CrimsonDamageUp",
+      "name": "Wrath DMG Up",
+      "desc": "สร้างความเสียหายด้วยสกิล Wrath เพิ่มขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "ScarletDamageUp",
+      "name": "เพิ่ม DMG Lust",
+      "desc": "สร้างความเสียหายด้วยสกิล Lust แรงขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "AmberDamageUp",
+      "name": "เพิ่ม DMG Sloth",
+      "desc": "สร้างความเสียหายด้วยสกิล Sloth แรงขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "ShamrockDamageUp",
+      "name": "เพิ่ม DMG Gluttony",
+      "desc": "สร้างความเสียหายด้วยสกิล Gluttony แรงขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "AzureDamageUp",
+      "name": "เพิ่ม DMG Gloom",
+      "desc": "สร้างความเสียหายด้วยสกิล Gloom แรงขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "IndigoDamageUp",
+      "name": "เพิ่ม DMG Pride",
+      "desc": "สร้างความเสียหายด้วยสกิล Pride แรงขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "VioletDamageUp",
+      "name": "เพิ่ม DMG Envy",
+      "desc": "สร้างความเสียหายด้วยสกิล Envy แรงขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "Curse",
+      "name": "Curse",
+      "desc": "จบเทิร์น: ในเทิร์นถัดไป จะสุ่มได้รับหนึ่งในเอฟเฟกต์ดังต่อไปนี้ จากนั้นลด Count ของเอฟเฟกต์นี้ลง 1 1 Attack Power Down/1 Defense Power Down/2 Offense Level Down/2 Defense Level Down"
+    },
+    {
+      "id": "AttackDmgUp_Weak",
+      "name": "บูสต์ DMG ต่อศัตรูที่ต้านทานต่ำ",
+      "desc": "เพิ่มดาเมจของการโจมตีใส่ศัตรูที่มีความต้านทานระดับ Weak ตามจำนวน Count (10% ต่อ 1 Count)"
+    },
+    {
+      "id": "Bullet",
+      "name": "Ammo",
+      "desc": "ถูกใช้โดยสกิลบางอย่าง การโจมตีบางส่วนจะถูกยกเลิกหากไม่มี Ammo"
+    },
+    {
+      "id": "Meursault_Last_Remodeling",
+      "name": "Final Augment",
+      "desc": "เมื่อเริ่มเทิร์น ได้รับ Attack Power Up 3 หน่วย, Defense Power Up และ Haste; จะหายไปหลังจากผ่านไป 3 เทิร์น"
+    },
+    {
+      "id": "Choice_90103301",
+      "name": "Struggle",
+      "desc": "Speed +1 สำหรับการต่อสู้ครั้งนี้",
+      "summary": "SPD +1"
+    },
+    {
+      "id": "Choice_90103402",
+      "name": "Relief",
+      "desc": "Speed +2 สำหรับการต่อสู้ครั้งนี้",
+      "summary": "SPD +2"
+    },
+    {
+      "id": "Choice_901001",
+      "name": "Spreading Flame",
+      "desc": "เมื่อเริ่มการต่อสู้: พันธมิตรที่ไม่มีสกิล Attack Affinity Wrath จะได้รับดาเมจ Wrath 5 หน่วย"
+    },
+    {
+      "id": "Choice_901007",
+      "name": "Gentle Sendoff",
+      "desc": "เมื่อเริ่มเทิร์น: ฟื้นฟู HP และ SP 10 หน่วย (สูงสุด 3 เทิร์น)",
+      "summary": "HP & SP +10"
+    },
+    {
+      "id": "Choice_901009",
+      "name": "Photopia",
+      "desc": "เริ่มการต่อสู้: Skill Final Power -1",
+      "summary": "Skill Final Power -1"
+    },
+    {
+      "id": "Choice_901010",
+      "name": "ว่างเปล่า",
+      "desc": "เริ่มการต่อสู้: พันธมิตรที่ไม่มี Skill Attack ที่มี Lust Affinity จะติด Staggered"
+    },
+    {
+      "id": "Choice_901019",
+      "name": "การปนเปื้อน",
+      "desc": "เริ่มการต่อสู้: Speed -2",
+      "summary": "SPD -2"
+    },
+    {
+      "id": "Aggressive",
+      "name": "สัญชาตญาณ",
+      "desc": "จบเทิร์น: เมื่อมี 4 Stack ขึ้นไป จะเปลี่ยนเป็นสถานะ \"ดุร้าย\""
+    },
+    {
+      "id": "Cromer_Target",
+      "name": "สายตาของผู้กุมอำนาจ",
+      "desc": "ติด Staggered เป็นเวลาหนึ่งเทิร์น ได้รับความเสียหายจาก Kromer +100%"
+    },
+    {
+      "id": "Poison",
+      "name": "Poison",
+      "desc": "เมื่อจบเทิร์น ได้รับความเสียหายคงที่ตามจำนวน Count จากนั้นลด Count ลงครึ่งหนึ่ง"
+    },
+    {
+      "id": "Desire",
+      "name": "แรงผลักดัน",
+      "desc": "เมื่อจบเทิร์น หากมี 5 stack ขึ้นไป จะได้รับความเสียหาย SP 30 หน่วย, ได้รับ Fragile 2 หน่วย และ Bind 10 หน่วย จากนั้นลบเอฟเฟกต์นี้ออก"
+    },
+    {
+      "id": "Assemble",
+      "name": "Fanatic",
+      "desc": "เพิ่ม Final Power ของ Skill ตาม Count ของเอฟเฟกต์นี้ เมื่อโจมตีเป้าหมายที่มี Nails ในเทิร์นนี้ (มีผลกับการ Clash ด้วย)"
+    },
+    {
+      "id": "Nail",
+      "name": "Nails ของ N Corp",
+      "desc": "เมื่อเริ่มเทิร์น ได้รับ Bleed 1 หน่วย และเพิ่ม Count ของ Bleed ตาม Count ของเอฟเฟกต์นี้ เมื่อจบเทิร์น ลด Count ลง 1"
+    },
+    {
+      "id": "BeingGolden",
+      "name": "Golden Sheen",
+      "desc": "เมื่อเริ่มเทิร์น ฟื้นฟู HP 10 หน่วย ต่อ 1 Count"
+    },
+    {
+      "id": "SlashTakeDamageDown",
+      "name": "Slash Protection",
+      "desc": "ได้รับความเสียหายจากสกิลของ Slash ลดลงตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "PenetrateTakeDamageDown",
+      "name": "Pierce Protection",
+      "desc": "ได้รับความเสียหายจากสกิลของ Pierce ลดลงตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "HitTakeDamageDown",
+      "name": "Blunt Protection",
+      "desc": "ได้รับความเสียหายจากสกิลของ Blunt ลดลงตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "CrimsonTakeDamageDown",
+      "name": "Wrath Protection",
+      "desc": "ได้รับความเสียหายจากสกิล Wrath ลดลงตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "ScarletTakeDamageDown",
+      "name": "Lust Protection",
+      "desc": "ได้รับความเสียหายจากสกิล Lust ลดลงตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "AmberTakeDamageDown",
+      "name": "Sloth Protection",
+      "desc": "ได้รับความเสียหายจากสกิล Sloth ลดลงตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "ShamrockTakeDamageDown",
+      "name": "Gluttony Protection",
+      "desc": "ได้รับความเสียหายน้อยลงจากสกิล Gluttony ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "AzureTakeDamageDown",
+      "name": "Gloom Protection",
+      "desc": "ได้รับความเสียหายน้อยลงจากสกิล Gloom ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "IndigoTakeDamageDown",
+      "name": "Pride Protection",
+      "desc": "ได้รับความเสียหายน้อยลงจากสกิล Pride ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "VioletTakeDamageDown",
+      "name": "Envy Protection",
+      "desc": "ได้รับความเสียหายน้อยลงจากสกิล Envy ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "SlashTakeDamageUp",
+      "name": "Slash Fragility",
+      "desc": "ได้รับความเสียหายมากขึ้นจากสกิล Slash ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "PenetrateTakeDamageUp",
+      "name": "Pierce Fragility",
+      "desc": "ได้รับความเสียหายมากขึ้นจากสกิล Pierce ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "HitTakeDamageUp",
+      "name": "Blunt Fragility",
+      "desc": "ได้รับความเสียหายมากขึ้นจากสกิล Blunt ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "CrimsonTakeDamageUp",
+      "name": "Wrath Fragility",
+      "desc": "ได้รับความเสียหายมากขึ้นจากสกิล Wrath ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "ScarletTakeDamageUp",
+      "name": "Lust Fragility",
+      "desc": "ได้รับความเสียหายมากขึ้นจากสกิล Lust ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "AmberTakeDamageUp",
+      "name": "Sloth Fragility",
+      "desc": "ได้รับความเสียหายมากขึ้นจากสกิล Sloth ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "ShamrockTakeDamageUp",
+      "name": "Gluttony Fragility",
+      "desc": "ได้รับความเสียหายจากสกิล Gluttony แรงขึ้นตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "AzureTakeDamageUp",
+      "name": "Gloom Fragility",
+      "desc": "ได้รับความเสียหายจากสกิล Gloom แรงขึ้นตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "IndigoTakeDamageUp",
+      "name": "Pride Fragility",
+      "desc": "ได้รับความเสียหายจากสกิล Pride แรงขึ้นตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "VioletTakeDamageUp",
+      "name": "Envy Fragility",
+      "desc": "ได้รับความเสียหายจากสกิล Envy แรงขึ้นตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น (สูงสุด 10)"
+    },
+    {
+      "id": "NailPersonality",
+      "name": "Nails",
+      "desc": "Bleed เฉพาะตัว เริ่มเทิร์น: ได้รับ Bleed 1 หน่วย และเพิ่ม Count ของ Bleed ตาม Count ของเอฟเฟกต์นี้ จบเทิร์น: ลด Count ลงครึ่งหนึ่ง (ปัดเศษลง)"
+    },
+    {
+      "id": "AssemblePersonality",
+      "name": "Fanatic",
+      "desc": "เพิ่ม Final Power ของ Skill ตาม Count ของเอฟเฟกต์นี้ เมื่อโจมตีเป้าหมายที่มี Nails ในเทิร์นนี้ (มีผลกับการ Clash ด้วย)"
+    },
+    {
+      "id": "MarkOfHeresy",
+      "name": "Gaze",
+      "desc": "ได้รับความเสียหายจากสกิลของ Pierce และ Blunt แรงขึ้น +20% เป็นเวลาหนึ่งเทิร์น พันธมิตรที่กำจัดยูนิตที่ถูกทำเครื่องหมายจะฟื้นฟู SP 10 หน่วย; หากพันธมิตรคนนั้นเป็น 'N Corp. Fanatic' จะได้รับ Fanatic 1 หน่วยในเทิร์นถัดไปด้วย"
+    },
+    {
+      "id": "HitResultUp",
+      "name": "Blunt Power Up",
+      "desc": "สกิลของ Blunt จะได้รับ Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "WeaknessAnalysis",
+      "name": "Weakness Analyzed",
+      "desc": "การต้านทานประเภทการโจมตีแบบ “Endure” หรือ “Normal” แบบสุ่มจะถูกลดทอนลง [ตัวคูณความเสียหาย +0.2] เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Cycle",
+      "name": "Karma",
+      "desc": "ได้รับความเสียหาย +1% ต่อ Count เมื่อจบเทิร์น หากมี Count 108+ หน่วย ยูนิตนั้นจะตายทันที"
+    },
+    {
+      "id": "Duress",
+      "name": "Captivity",
+      "desc": "ติดสถานะ Staggered เป็นเวลา 3 เทิร์น; ปิดใช้งานความสามารถทั้งหมดที่เกี่ยวข้องกับการ Retreat ลบเอฟเฟกต์นี้เมื่อ kqe-1j-23 ติดสถานะ Staggered"
+    },
+    {
+      "id": "ShamrockResultUp",
+      "name": "Gluttony Power Up",
+      "desc": "สกิล Gluttony จะได้รับ final Power ตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "VioletResultUp",
+      "name": "Envy Power Up",
+      "desc": "สกิล Envy จะได้รับ final Power ตาม Count ของเอฟเฟกต์นี้เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "CyclingKarma",
+      "name": "Cyclical Karma",
+      "desc": "ยูนิตทั้งหมดจะถ่ายโอน Karma ไปยังเป้าหมายหลังจากโจมตีสำเร็จ Karma จะไม่ถูกถ่ายโอนไปยัง My Form Empties ตราบใดที่พันธมิตรของมันยังคงมีชีวิตอยู่",
+      "summary": "ถ่ายโอน Karma เมื่อ Clash ชนะ"
+    },
+    {
+      "id": "Cromer_Ecstasy",
+      "name": "Ecstatic",
+      "desc": "ค่าความต้านทานทางกายภาพทั้งหมดของ Maw เปลี่ยนเป็น 'Fatal'"
+    },
+    {
+      "id": "Cromer_Madness",
+      "name": "Purity",
+      "desc": "ทุกส่วนได้รับ Bind 3 หน่วย และ Damage Up 3 หน่วย และค่าความต้านทานทางกายภาพจะเปลี่ยนเป็น 'Fatal'"
+    },
+    {
+      "id": "TakeHpHealReduce",
+      "name": "HP Healing Down",
+      "desc": "การฟื้นฟู HP จาก Passive, เอฟเฟกต์ Skill หรือเอฟเฟกต์ Coin จะลดลงตามสัดส่วนของค่าเอฟเฟกต์นี้ (สูงสุด 5)"
+    },
+    {
+      "id": "AttackLevelAdder",
+      "name": "Offense level+",
+      "desc": "Offense Level เพิ่มขึ้นตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Thirst",
+      "name": "Appetite",
+      "desc": "เพิ่มปริมาณการฟื้นฟูที่ได้รับจาก Passive [Rustle Up] จะถูกใช้เมื่อ Passive ทำงาน"
+    },
+    {
+      "id": "GainSinStockAdder",
+      "name": "E.G.O Resource Amp",
+      "desc": "เพิ่มจำนวนทรัพยากร E.G.O ที่ได้รับจาก Skill ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Enrage",
+      "name": "Frenzy",
+      "desc": "ได้รับ Attack Power Up 3 หน่วย และ Fragile 3 หน่วยในเทิร์นนี้ พร้อมทั้งเปลี่ยนพฤติกรรม จะไม่ได้รับ Instincts เมื่อถูกโจมตี"
+    },
+    {
+      "id": "DimensionRift",
+      "name": "Dimensional Rift",
+      "desc": "เมื่อจบเทิร์น จะได้รับ Rupture Count ตามจำนวนของเอฟเฟกต์นี้ จากนั้นลบเอฟเฟกต์นี้ออก"
+    },
+    {
+      "id": "ShardOfUmbrella",
+      "name": "Umbrella Splinters",
+      "desc": "ได้รับ Rupture 5 หน่วยต่อ Count เมื่อจบเทิร์น",
+      "summary": "ได้รับ Rupture 5 หน่วยต่อ Count เมื่อจบเทิร์น"
+    },
+    {
+      "id": "WrappedCurseTag",
+      "name": "Entangled Curse Talisman",
+      "desc": "สร้างความเสียหาย +1% ต่อ Count เมื่อมี 9+ Count, ได้รับ Attack Power Down 2 หน่วยเมื่อเริ่มเทิร์น",
+      "summary": "สร้างความเสียหาย +1% ต่อ Count; เมื่อมี 9+ Count, ได้รับ Attack Power Down 2 หน่วย เมื่อเริ่มเทิร์น"
+    },
+    {
+      "id": "ReattachedCurseTag",
+      "name": "ยันต์คำสาปที่ถูกติดกลับเข้าไปใหม่",
+      "desc": "เมื่อมี 9+ หน่วย, ได้รับ Bind 5 หน่วย เมื่อเริ่มเทิร์น เมื่อมี 12+ หน่วย, ได้รับ Attack Power Down 5 หน่วย เมื่อเริ่มเทิร์น",
+      "summary": "เมื่อมี 9+ หน่วย, ได้รับ Bind 5 หน่วย เมื่อเริ่มเทิร์น เมื่อมี 12+ หน่วย, ได้รับ Attack Power Down 5 หน่วย เมื่อเริ่มเทิร์น"
+    },
+    {
+      "id": "ElectricStorage",
+      "name": "ตัวเก็บประจุ",
+      "desc": "ดูเหมือนว่ามันจะกักเก็บกระแสไฟฟ้าไว้ในร่างกาย",
+      "summary": "สำหรับแสดงผล"
+    },
+    {
+      "id": "SelfCharge",
+      "name": "Self-charge",
+      "desc": "ดูเหมือนจะมีกระแสไฟฟ้าไหลเวียนอยู่รอบตัวมัน หลังจากยูนิตเผชิญกับความตาย ตราบใดที่มี Self-charge, HP จะถูกคงไว้ที่ 1 จนกว่าจะถูกใช้จนหมด (สูงสุด 20)",
+      "summary": "สำหรับแสดงผล"
+    },
+    {
+      "id": "Exalted",
+      "name": "Morale Boost",
+      "desc": "ได้รับ Damage Up ตาม Count ของเอฟเฟกต์ในทุกเทิร์น (สูงสุด 5) ไม่สามารถได้รับสถานะนี้ขณะติด Tipsy",
+      "summary": "ได้รับ Damage Up ตาม Count ของเอฟเฟกต์ในทุกเทิร์น; ไม่สามารถได้รับสถานะนี้ขณะติด Tipsy"
+    },
+    {
+      "id": "Tipsiness",
+      "name": "Tipsy",
+      "desc": "เสีย Clash Power ตาม Count ของเอฟเฟกต์ (สูงสุด 5)",
+      "summary": "เสีย Clash Power ตาม Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "Predation",
+      "name": "Predation",
+      "desc": "ดูเหมือนว่ามันกำลังเตรียมการโจมตีที่รุนแรงอยู่",
+      "summary": "สำหรับแสดงผล"
+    },
+    {
+      "id": "ATL_EndureCombustion",
+      "name": "ความต้านทาน Burn",
+      "desc": "เมื่อได้รับความเสียหายจาก Burn, ลดความเสียหายลง 10% ต่อ Count (สูงสุด 10)",
+      "summary": "เมื่อได้รับความเสียหายจาก Burn, ได้รับความเสียหายลดลง 10% ต่อ Count"
+    },
+    {
+      "id": "Resonate",
+      "name": "Resonant",
+      "desc": "เมื่อเกิด Tremor Burst หรือเพิ่ม Stagger Threshold, สร้างความเสียหายคงที่ 3 หน่วยต่อ Count และเพิ่ม Stagger Threshold ขึ้นอีก 3% ต่อ Count",
+      "summary": "เมื่อเกิด Tremor Burst หรือเพิ่ม Stagger Threshold, สร้างความเสียหายและเพิ่ม Stagger Threshold ให้สูงขึ้นอีก"
+    },
+    {
+      "id": "VibrationAssimilation",
+      "name": "Tremor Sync",
+      "desc": "ในการ Clash, คู่ต่อสู้จะมี Clash Power -1 ต่อทุกๆ 5 Tremor ที่พวกเขามี",
+      "summary": "ในการ Clash, คู่ต่อสู้จะมี Clash Power -1 ต่อทุกๆ 5 Tremor ที่พวกเขามี"
+    },
+    {
+      "id": "CollapseAmpoule",
+      "name": "Decay Ampule",
+      "desc": "ได้รับความเสียหาย 2% ของ Max HP ต่อ Count",
+      "summary": "ได้รับความเสียหาย 2% ของ Max HP ต่อ Count"
+    },
+    {
+      "id": "InterlockingTime",
+      "name": "Interlocking Time",
+      "desc": "ลดความเสียหายสุดท้ายลง 30% และสะสมไว้ เมื่อครบ 3 Count จะได้รับความเสียหายคงที่ 1.5 เท่าของความเสียหายที่สะสมไว้ และได้รับ Bind 3 หน่วยในเทิร์นถัดไป",
+      "summary": "ลดความเสียหายสุดท้ายลง 30% และสะสมไว้ เมื่อครบ 3 Count จะได้รับความเสียหายคงที่ 1.5 เท่าของความเสียหายที่สะสมไว้ และได้รับ Bind 3 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "TimeRental",
+      "name": "Borrowed Time of the Fathoms",
+      "desc": "เมื่อจบเทิร์น ได้รับ Haste 3 หน่วย และ Damage Up 2 หน่วย; หากเหลือเพียง 1 Count จะได้รับ Bind 4 หน่วย และ Attack Power Down 1 หน่วยในเทิร์นถัดไป",
+      "summary": "เมื่อจบเทิร์น ได้รับ Haste 3 หน่วย และ Damage Up 2 หน่วย; หากเหลือเพียง 1 Count จะได้รับ Bind 4 หน่วย และ Attack Power Down 1 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "ATL_EndureLaceration",
+      "name": "ความต้านทาน Bleed",
+      "desc": "เมื่อได้รับความเสียหายจาก Bleed, ลดความเสียหายลง 10% ต่อ Count (สูงสุด 10)",
+      "summary": "เมื่อได้รับความเสียหายจาก Bleed, ได้รับความเสียหายลดลง 10% ต่อ Count"
+    },
+    {
+      "id": "Bull_Sadness",
+      "name": "ความโศกเศร้าที่มิอาจคลี่คลาย",
+      "desc": "เมื่อเริ่มเทิร์น, ได้รับ Power Down Attack ตามจำนวน Count เมื่อจบเทิร์น, หากเอฟเฟกต์นี้มี 3+ Count จะเปลี่ยนเป็น Expanding Sorrow",
+      "summary": ""
+    },
+    {
+      "id": "Bull_BuzzingEmotion",
+      "name": "อารมณ์ที่สั่นคลอน",
+      "desc": "เริ่มเทิร์น: สุ่มได้รับ Power Down Attack, Paralyze หรือ Bind ตามจำนวน Count ของเอฟเฟกต์นี้ จากนั้นลบเอฟเฟกต์นี้ออก",
+      "summary": "เริ่มเทิร์น: สุ่มได้รับ Power Down Attack, Paralyze หรือ Bind ตามจำนวน Count ของเอฟเฟกต์นี้ จากนั้นลบเอฟเฟกต์นี้ออก"
+    },
+    {
+      "id": "Scared",
+      "name": "ความกลัว",
+      "desc": "จบเทิร์น: หาก SP อยู่ที่ -20 หรือต่ำกว่า, จะได้รับ Protection 1 หน่วยในเทิร์นถัดไป",
+      "summary": "จบเทิร์น: หาก SP อยู่ที่ -20 หรือต่ำกว่า, จะได้รับ Protection 1 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "Stressed",
+      "name": "เครียด",
+      "desc": "จบเทิร์น: หาก SP อยู่ที่ -25 หรือต่ำกว่า, จะได้รับ Power Up Defense 1 หน่วยในเทิร์นถัดไป",
+      "summary": "จบเทิร์น: หาก SP อยู่ที่ -25 หรือต่ำกว่า, จะได้รับ Power Up Defense 1 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "Nervous",
+      "name": "ประหม่า",
+      "desc": "จบเทิร์น: หาก SP อยู่ที่ -15 หรือต่ำกว่า, จะได้รับ Level Up Defense 5 หน่วยในเทิร์นถัดไป",
+      "summary": "จบเทิร์น: หาก SP อยู่ที่ -15 หรือต่ำกว่า, จะได้รับ Level Up Defense 5 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "ATL_Agility",
+      "name": "เร็วเข้า!",
+      "desc": "ได้รับ Haste 2 หน่วย",
+      "summary": "สำหรับแสดงผล"
+    },
+    {
+      "id": "ATL_Breath",
+      "name": "เล็งให้แม่น!",
+      "desc": "ได้รับ Poise 3 หน่วย",
+      "summary": "สำหรับแสดงผล"
+    },
+    {
+      "id": "ATL_Target",
+      "name": "จัดการมันเลย!",
+      "desc": "โจมตีหนึ่งยูนิตพร้อมกัน",
+      "summary": "สำหรับแสดงผล"
+    },
+    {
+      "id": "Bull_FadedHeat",
+      "name": "ความเย็นชั่วขณะ",
+      "desc": "Core และร่างกายสูญเสีย Max HP 50%"
+    },
+    {
+      "id": "Bull_Fever",
+      "name": "ไข้ขึ้น",
+      "desc": "สร้างความเสียหาย +10% ต่อ Count ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "Bull_ReinforcedSadness",
+      "name": "ความโศกเศร้าที่แผ่ขยาย",
+      "desc": "เปลี่ยนพฤติกรรม",
+      "summary": "เปลี่ยนพฤติกรรม"
+    },
+    {
+      "id": "Crazy_LowMorale",
+      "name": "คุ้มคลั่ง",
+      "desc": "- Low Morale - เมื่ออยู่ในสถานะ Low Morale ครั้งแรก จะโจมตียูนิตแบบไม่เลือกเป้าหมาย",
+      "undefined": "-"
+    },
+    {
+      "id": "Crazy_Panic",
+      "name": "คุ้มคลั่ง",
+      "desc": "- Panic - โจมตีแบบไม่เลือกเป้าหมาย; Clash Power +1 และได้รับ Damage Up 2 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "Suicide_LowMorale",
+      "name": "อยากฆ่าตัวตาย",
+      "desc": "- Low Morale - เมื่ออยู่ในสถานะ Low Morale ครั้งแรก จะไม่สามารถดำเนินการใดๆ ได้",
+      "undefined": "-"
+    },
+    {
+      "id": "Suicide_Panic",
+      "name": "อยากฆ่าตัวตาย",
+      "desc": "- Panic - ไม่สามารถดำเนินการได้เป็นเวลา 3 เทิร์น ยูนิตจะตายเมื่อเริ่มเทิร์น; พันธมิตรทั้งหมดสูญเสีย SP 10 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "Prowl_LowMorale",
+      "name": "ร่อนเร่",
+      "desc": "- Low Morale - จบเทิร์น: สร้างความเสียหาย SP 2 หน่วย แก่พันธมิตร",
+      "undefined": "-"
+    },
+    {
+      "id": "Prowl_Panic",
+      "name": "ร่อนเร่",
+      "desc": "- Panic - จบเทิร์น: สร้างความเสียหาย SP ให้กับพันธมิตร จะหนีออกจากต่อสู้หลังจากผ่านไป 3 เทิร์น",
+      "undefined": "-"
+    },
+    {
+      "id": "Blue_LowMorale",
+      "name": "Dejection",
+      "desc": "- Low Morale - ในการปะทะ หาก Coin ใดๆ ออกก้อย, Power ของ Clash -1 สำหรับการปะทะนั้น",
+      "undefined": "-"
+    },
+    {
+      "id": "Blue_Panic",
+      "name": "Dejection",
+      "desc": "- Panic - ในการปะทะ หาก Coin ใดๆ ออกก้อย, Power ของ Clash -3 สำหรับการปะทะนั้น",
+      "undefined": "-"
+    },
+    {
+      "id": "DongbaekGrow",
+      "name": "Growing",
+      "desc": "เมื่อจบเทิร์น, เพิ่ม Count +1 และได้รับ Max HP ตามสัดส่วนของ Count (สูงสุด 3)",
+      "summary": "เมื่อจบเทิร์น, เพิ่ม Count +1 และได้รับ Max HP ตามสัดส่วนของ Count (สูงสุด 3)"
+    },
+    {
+      "id": "DongbaekFlorescence",
+      "name": "Blooming",
+      "desc": "จบเทิร์น: เมื่อมี Count 5+ หน่วย, ได้รับความเสียหาย Sloth ตาม (Count)% ของ Max HP และเข้าสู่สถานะ Fully Bloomed หากมี Count น้อยกว่า 5 หน่วย, เสีย SP (Count * 5) จากนั้นลด Count ลง 1",
+      "summary": ""
+    },
+    {
+      "id": "DongbaekFullBloom",
+      "name": "Fully Bloomed",
+      "desc": "ไม่สามารถดำเนินการได้ เมื่อจบเทิร์น, เสีย SP 20 หน่วย; หาก SP ถึง -45, ฟื้นฟู SP จนเต็ม จากนั้นได้รับ 'Dazzled Mind' ในเทิร์นถัดไป หากเอฟเฟกต์นี้ไม่ถูกลบออกเป็นเวลา 2 เทิร์น, จะลบเอฟเฟกต์นี้ออกเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "DongbaekFascination",
+      "name": "Dazzled Mind",
+      "desc": "โจมตีใส่พันธมิตร เมื่อถูก Stagger, ลบเอฟเฟกต์นี้ออกในเทิร์นถัดไป หากเอฟเฟกต์นี้ไม่ถูกลบออกเป็นเวลา 2 เทิร์น, เสีย SP 30 หน่วย และลบเอฟเฟกต์นี้ออกเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "DongbaekShowdown",
+      "name": "Dueling",
+      "desc": "เริ่มเทิร์น: ยูนิตที่ไม่มีสถานะนี้จะเข้าสู่สถานะ 'Fully Bloomed' หาก Yi Sang มีเอฟเฟกต์นี้, Dongbaek จะได้รับ Power Up Attack 1 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "DongbaekScatterPetal",
+      "name": "Scattering Petals",
+      "desc": "จบเทิร์น: เมื่อมี Count 6+ หน่วย จะติดสถานะ staggered",
+      "summary": ""
+    },
+    {
+      "id": "Thorn",
+      "name": "Thorns",
+      "desc": "เมื่อถูกโจมตี จะสะท้อนความเสียหาย 50% ของที่ได้รับกลับไปยังผู้โจมตี",
+      "summary": "สร้างความเสียหาย 50% ของที่ได้รับแก่ผู้โจมตี"
+    },
+    {
+      "id": "Fragile_Mind_LowMorale",
+      "name": "Perilous Heart",
+      "desc": "เริ่มเทิร์น: ได้รับ Power Up Attack 2 หน่วย และ Bind 3 หน่วย",
+      "summary": "เริ่มเทิร์น: ได้รับ Power Up Attack 2 หน่วย และ Bind 3 หน่วย"
+    },
+    {
+      "id": "Fragile_Mind_Panic",
+      "name": "Faltering Heart",
+      "desc": "เมื่อเกิดอาการ panic จะติดสถานะ staggered",
+      "summary": "เมื่อเกิดอาการ panic จะติดสถานะ staggered"
+    },
+    {
+      "id": "ErodingMind",
+      "name": "Corroding Heart",
+      "desc": "เริ่มเทิร์น: ได้รับ Power Down Attack 2 หน่วย, Fragile 2 หน่วย และ Bind 5 หน่วย",
+      "summary": "เริ่มเทิร์น: ได้รับ Power Down Attack 2 หน่วย, Fragile 2 หน่วย และ Bind 5 หน่วย"
+    },
+    {
+      "id": "CrimsonResultUp",
+      "name": "Wrath Power Up",
+      "desc": "สกิล Wrath จะได้รับ Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "EmittedCurrent",
+      "name": "Spark Discharge",
+      "desc": "เมื่อถูกโจมตี ผู้โจมตีจะได้รับ Charge Count +1 หน่วย; หากถูกโจมตีด้วยการโจมตี Gloom จะได้รับ Rupture Count +1 หน่วย จากนั้นลด Count ลง 1 หน่วย"
+    },
+    {
+      "id": "DistortedDongrangRadiantVanity",
+      "name": "Radiant Vanity",
+      "desc": "เมื่อเริ่มเทิร์น Dongrang จะได้รับ Protection 1 หน่วย และ Power Up Attack 1 หน่วย"
+    },
+    {
+      "id": "DistortedDongrangEmptyMark",
+      "name": "เครื่องหมายความว่างเปล่า",
+      "desc": "ถูก Dongrang เล็งเป้า ได้รับ Bind 2 หน่วย ทุกเทิร์น และได้รับความเสียหายจาก Dongrang เพิ่มขึ้น +50%"
+    },
+    {
+      "id": "DistortedDongrangEarnestAchievement",
+      "name": "ความสำเร็จอันแรงกล้า",
+      "desc": "หากยูนิตนี้ถูกกำจัด หรือ HP ลดลงเหลือ 1 ผู้โจมตีจะได้รับบัฟ"
+    },
+    {
+      "id": "DistortedDongrangEmptyHonor",
+      "name": "เกียรติยศอันว่างเปล่า",
+      "desc": "หาก Dongrang กำจัดยูนิตนี้ เขาจะเสีย HP, ได้รับ Emptiness 1 หน่วย และจะอ่อนแอลงในเทิร์นถัดไป"
+    },
+    {
+      "id": "DistortedDongrangMomentaryGlory",
+      "name": "ความรุ่งโรจน์ชั่วขณะ",
+      "desc": "เมื่อมี Count 3+ หน่วย Dongrang จะแข็งแกร่งขึ้น"
+    },
+    {
+      "id": "DistortedDongrangEmptiness",
+      "name": "Emptiness",
+      "desc": "เมื่อมี Count 4+ หน่วย Dongrang จะติดสถานะ Staggered"
+    },
+    {
+      "id": "DistortedDongrangFruition",
+      "name": "ผลลัพธ์ที่ผลิบาน",
+      "desc": "ยูนิตที่กำจัดยูนิตนี้จะฟื้นฟู HP และได้รับ Power Up Haste 1 หน่วย และ Attack 1 หน่วย ในเทิร์นถัดไป"
+    },
+    {
+      "id": "EgoAwakenDongrangRadiantDesire",
+      "name": "ความปรารถนาอันเจิดจรัส",
+      "desc": "เริ่มเทิร์น: Dongrang ได้รับ Damage Up 1 หน่วย และ Protection 1 หน่วย"
+    },
+    {
+      "id": "EgoAwakenDongrangSeed",
+      "name": "เมล็ดพันธุ์",
+      "desc": "จบเทิร์น: หากมี Count 5+ หน่วย, ได้รับ Nutrient Drain เป็นเวลา 2 เทิร์น; หากมี Count น้อยกว่า 5 หน่วย, ลด Count ลง 1 หน่วย"
+    },
+    {
+      "id": "EgoAwakenDongrangTree",
+      "name": "Nutrient Drain",
+      "desc": "จบเทิร์น: Dongrang ฟื้นฟู HP 10 หน่วย"
+    },
+    {
+      "id": "EgoAwakenDongrangOverHeal",
+      "name": "Overheal",
+      "desc": "Count เพิ่มขึ้นตามจำนวน HP ที่ Dongrang ฟื้นฟู; เมื่อมี Count 50+ หน่วย, ได้รับความเสียหาย Gluttony ตามจำนวน Count ของเอฟเฟกต์, ได้รับ Fragile 5 หน่วย และลบเอฟเฟกต์นี้ออก"
+    },
+    {
+      "id": "SinkingSurge",
+      "name": "Sinking Deluge",
+      "desc": "สร้างความเสียหาย SP ตาม (Sinking Count * Sinking Potency), จากนั้นลบ Sinking หาก SP ของเป้าหมายอยู่ที่ -45 หรือต่ำกว่า, ความเสียหาย SP ส่วนเกินจะถูกสร้างเป็นความเสียหาย HP ธาตุ Gloom (ยูนิตที่ไม่มี Sanity จะได้รับความเสียหายทั้งหมดเป็นความเสียหาย HP ธาตุ Gloom)"
+    },
+    {
+      "id": "AmberResultUp",
+      "name": "Sloth Power Up",
+      "desc": "สกิล Sloth จะได้รับ Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น",
+      "summary": "Sloth Skill Final Power +{0}"
+    },
+    {
+      "id": "Blue",
+      "name": "หยาดน้ำตา",
+      "desc": "จบเทิร์น: เสีย SP 5 หน่วย หากออกก้อย Coin จะทำให้เกิด Sinking 2 หน่วย"
+    },
+    {
+      "id": "EgoAwakenDongrangTreeDisplay",
+      "name": "Nutrient Drain",
+      "desc": "จบเทิร์น: Dongrang ฟื้นฟู HP 10 หน่วย"
+    },
+    {
+      "id": "DongbaekFullBloomDisplay",
+      "name": "Fully Bloomed",
+      "desc": "ไม่สามารถดำเนินการได้ เมื่อจบเทิร์น, เสีย SP 20 หน่วย; หาก SP ถึง -45, ฟื้นฟู SP จนเต็ม จากนั้นได้รับ 'Dazzled Mind' ในเทิร์นถัดไป หากเอฟเฟกต์นี้ไม่ถูกลบออกเป็นเวลา 2 เทิร์น, จะลบเอฟเฟกต์นี้ออกเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "TakeHpHealIncrease",
+      "name": "HP Healing Boost",
+      "desc": "จำนวน HP ที่ฟื้นฟูโดย Passive, เอฟเฟกต์สกิล หรือเอฟเฟกต์ Coin จะเพิ่มขึ้นตามสัดส่วนของค่าเอฟเฟกต์นี้ (สูงสุด 5)"
+    },
+    {
+      "id": "SkillPowerUp",
+      "name": "เพิ่ม Base Power",
+      "desc": "เพิ่ม Base Power ของ Skill ตามจำนวน Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "name": "เพิ่ม Max HP",
+      "desc": "เพิ่ม Max HP 10% ต่อ 1 Count"
+    },
+    {
+      "id": "KCorpSerum",
+      "name": "แอมพูล K Corp",
+      "desc": "เริ่มเทิร์น: หากมี Count น้อยกว่า 4 หน่วย, ฟื้นฟู (Count * 5)% ของ Max HP หากมี 4 Count ขึ้นไป, ยูนิตจะตายทันที",
+      "summary": ""
+    },
+    {
+      "id": "Talisman",
+      "name": "Talisman",
+      "desc": "Stack สูงสุด: 6 เมื่อโจมตีโดน, ใช้ 1 Rupture Count ของเป้าหมายเพื่อมอบ Rupture (Stack / 2) หน่วย (มอบ Rupture อย่างน้อย 1 หน่วย หากมีการใช้ Rupture Count; ปัดเศษลง) เมื่อถูกโจมตี, ได้รับ Rupture (Stack / 2) หน่วย และเสีย 1 Stack (ได้รับ Rupture อย่างน้อย 1 หน่วย; ปัดเศษลง) จบเทิร์น: หากมี 6 Stack ขึ้นไป, ลบ Talisman ทั้งหมดของตนเองออกและรับความเสียหายคงที่ตามจำนวน Stack",
+      "summary": "เมื่อโจมตีโดน, ใช้ Rupture Count ของเป้าหมายเพื่อมอบ Rupture; เมื่อถูกโจมตี, ได้รับ Rupture และเสีย 1 Stack"
+    },
+    {
+      "id": "Choice_90104001",
+      "name": "Understanding",
+      "desc": "เมื่อเริ่มการต่อสู้, ได้รับทรัพยากร E.G.O 2 หน่วย ต่อทุกๆ Affinity",
+      "summary": "ได้รับทรัพยากร E.G.O +2 หน่วย สำหรับทุก Affinity"
+    },
+    {
+      "id": "Choice_9010400101",
+      "name": "Determined",
+      "desc": "ยูนิตพันธมิตรทั้งหมดได้รับ Skill Final Power +2 สำหรับการต่อสู้นี้",
+      "summary": "Skill Final Power +2"
+    },
+    {
+      "id": "Choice_90104002",
+      "name": "ความโหยหา",
+      "desc": "ยูนิตพันธมิตรทั้งหมด Skill Power +1 ตลอดการต่อสู้นี้",
+      "summary": "Skill Power +1"
+    },
+    {
+      "id": "MentalSystemResultIncrease_Typo",
+      "name": "ประสิทธิภาพการฟื้นฟู SP",
+      "desc": "จำนวน SP ที่ฟื้นฟูจาก 'ปัจจัยพื้นฐานที่เพิ่ม Sanity(SP)' ของ Identity"
+    },
+    {
+      "id": "MentalSystemResultDecrease_Typo",
+      "name": "ประสิทธิภาพการสูญเสีย SP",
+      "desc": "จำนวน SP ที่สูญเสียจาก 'ปัจจัยพื้นฐานที่ลด Sanity(SP)' ของ Identity"
+    },
+    {
+      "id": "DuelDeclaration",
+      "name": "ประกาศดวล",
+      "desc": "- ในการ Clash ระหว่างยูนิตที่มอบสถานะ ประกาศดวล และยูนิตที่มีสถานะนี้ ผู้ประกาศจะมี Clash Power +1 เมื่อโจมตีโดน ผู้ประกาศจะได้รับ Haste 1 หน่วยในเทิร์นถัดไป (สูงสุด 4 ครั้งต่อเทิร์น) - สถานะจะหมดลงเมื่อยูนิตมอบ ประกาศดวล ให้กับเป้าหมายอื่น และจะถูกแทนที่เมื่อมียูนิตอื่นมอบ ประกาศดวล ให้กับเป้าหมายเดียวกัน"
+    },
+    {
+      "id": "Aggro",
+      "name": "Aggro",
+      "desc": "ในการปะทะแบบโฟกัส สล็อตที่มีค่า Aggro สูงกว่าจะมีโอกาสถูกศัตรูเล็งเป้าหมายได้มากกว่า"
+    },
+    {
+      "id": "BurstVulnerable",
+      "name": "Rupture Fragility",
+      "desc": "ได้รับความเสียหายจากเอฟเฟกต์ Rupture เพิ่มขึ้น +1 ต่อ Count เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "EmergencyFeed",
+      "name": "การส่งสารอาหารฉุกเฉิน",
+      "desc": "เมื่อจบเทิร์น หากยูนิตนี้ฟื้นฟู HP ได้ตั้งแต่ 15% ของ Max ขึ้นไป ร่างกายจะได้รับการฟื้นฟูในเทิร์นถัดไป"
+    },
+    {
+      "id": "Bullet_Crab",
+      "name": "กระสุนเปลือกผลัดใบ",
+      "desc": "ทรัพยากรที่ใช้โดยบางสกิลเพื่อสร้างเอฟเฟกต์เพิ่มเติม"
+    },
+    {
+      "id": "SinkingVulnerable",
+      "name": "Sinking Fragility",
+      "desc": "ได้รับความเสียหายจากเอฟเฟกต์ Sinking เพิ่มขึ้น +1 ต่อ Count เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "BurstProtection",
+      "name": "Rupture Protection",
+      "desc": "ลดดาเมจที่ได้รับจากเอฟเฟกต์ Rupture ลง 1 หน่วยต่อ Count เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "PseudoLastBoss_KingCrap",
+      "name": "Crab Rage",
+      "desc": "เมื่อเริ่มเทิร์น มอบ Attack Power Up ให้กับปูพันธมิตรตัวอื่นทั้งหมด และได้รับ Protection 2 หน่วย หาก Shell ของตนยังไม่ถูกทำลาย ลด SP ของเป้าหมาย 5 หน่วย เมื่อใช้สกิล เมื่อ HP อยู่ที่ 50% หรือต่ำกว่า ทุกส่วนจะได้รับ Attack Power Up 2 หน่วย และ Fragile 2 หน่วย"
+    },
+    {
+      "id": "ChargeForceField",
+      "name": "Charge Barrier",
+      "desc": "- ได้รับ Shield จำนวน (Charge Barrier # x 3) - สูญเสีย Charge Barrier 1 หน่วย หลังจากสูญเสีย Shield จำนวน (Charge Barrier # x 3) - (หากยูนิตเป็นพนักงานของ W Corp เอฟเฟกต์ Charge Barrier ทั้งหมดจะทำงานที่ (Charge Barrier # x 5) แทนที่จะเป็น (Charge Barrier # x 3)) - จบเทิร์น: ได้รับ Charge Count ตามจำนวน Charge Barrier # และ Charge Barrier รวมถึง Shield ที่ได้รับจาก Charge Barrier จะหมดลงโดยสมบูรณ์ในเทิร์นถัดไป"
+    },
+    {
+      "id": "SlashResultUp",
+      "name": "Slash Power Up",
+      "desc": "สกิลของ Slash จะได้รับ Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "Discard",
+      "name": "Discard",
+      "desc": "- ลบสกิลที่ตรงตามเงื่อนไขและสามารถเลือกได้ในช่วง Chaining Phase ออกจาก Dashboard (ไม่นับรวมสกิลป้องกันและสกิล E.G.O และจะไม่ลบสกิลออกจากรายการสกิลที่จะมาถึง) - สกิลที่ถูก Discard จะไม่เปิดใช้งานเอฟเฟกต์สกิลหรือเอฟเฟกต์ Coin นอกเหนือจากเอฟเฟกต์ของ Discard และจะไม่มอบทรัพยากร E.G.O"
+    },
+    {
+      "id": "KnowledgeExplored",
+      "name": "Insight",
+      "desc": "ระดับของสกิลล่าสุดที่ถูก Discard โดยยูนิตที่มีเอฟเฟกต์นี้ (ค่าพื้นฐาน: 1)"
+    },
+    {
+      "id": "Unjust_Enrichment",
+      "name": "Unjust Enrichment",
+      "desc": "- ได้รับเมื่อโจมตีโดน (Heads Hit) เป้าหมายที่มี Bleed (สูงสุด 4) - เมื่อพาสซีฟ 'Bullets are Pricey' ทำงาน จะใช้ Unjust Enrichment ทั้งหมดที่มีเพื่อสร้างโบนัสดาเมจ"
+    },
+    {
+      "id": "Resentment",
+      "name": "Resentment",
+      "desc": "หากศัตรูที่มี <sprite name=\"RetaliationBook\"><color=#e30000><link=\"RetaliationBook\">Vengeance Mark</color></link></u> ถูกโจมตี เอฟเฟกต์นี้จะหมดลงเมื่อสิ้นสุด Attack หมดลงเมื่อจบเทิร์น",
+      "undefined": "-"
+    },
+    {
+      "id": "RetaliationBook",
+      "name": "Vengeance Mark",
+      "desc": "มอบให้กับยูนิตที่สร้างดาเมจแก่พันธมิตรมากที่สุด (สูงสุด 1)",
+      "undefined": "-"
+    },
+    {
+      "id": "PenetrateResultUp",
+      "name": "Pierce Power Up",
+      "desc": "สกิลของ Pierce จะได้รับ Final Power ตามจำนวน Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "DuelDeclaration_DonQuixote",
+      "name": "Declared Duel - Don Quixote",
+      "desc": "- ใน Clash ระหว่างยูนิตที่มอบ Declared Duel และยูนิตที่มีสถานะนี้ ผู้ประกาศจะมี Clash Power +1 เมื่อโจมตีโดน ผู้ประกาศจะได้รับ Haste 1 หน่วยในเทิร์นถัดไป (สูงสุด 4 ครั้งต่อเทิร์น) - สถานะจะหมดลงเมื่อยูนิตนั้นมอบ Declared Duel ให้เป้าหมายอื่น และจะถูกแทนที่เมื่อมียูนิตอื่นมอบ Declared Duel ให้กับเป้าหมายเดียวกัน"
+    },
+    {
+      "id": "DuelDeclaration_Outis",
+      "name": "Declared Duel - Outis",
+      "desc": "- ใน Clash ระหว่างยูนิตที่มอบ Declared Duel และยูนิตที่มีสถานะนี้ ผู้ประกาศจะมี Clash Power +1 เมื่อโจมตีโดน ผู้ประกาศจะได้รับ Haste 1 หน่วยในเทิร์นถัดไป (สูงสุด 4 ครั้งต่อเทิร์น) - สถานะจะหมดลงเมื่อยูนิตนั้นมอบ Declared Duel ให้เป้าหมายอื่น และจะถูกแทนที่เมื่อมียูนิตอื่นมอบ Declared Duel ให้กับเป้าหมายเดียวกัน"
+    },
+    {
+      "id": "DuelDeclaration_Sinclair",
+      "name": "Declared Duel - Sinclair",
+      "desc": "- ใน Clash ระหว่างยูนิตที่มอบ Declared Duel และยูนิตที่มีสถานะนี้ ผู้ประกาศจะมี Clash Power +1 เมื่อโจมตีโดน ผู้ประกาศจะได้รับ Haste 1 หน่วยในเทิร์นถัดไป (สูงสุด 4 ครั้งต่อเทิร์น) - สถานะจะหมดลงเมื่อยูนิตนั้นมอบ Declared Duel ให้เป้าหมายอื่น และจะถูกแทนที่เมื่อมียูนิตอื่นมอบ Declared Duel ให้กับเป้าหมายเดียวกัน"
+    },
+    {
+      "id": "VibrationExplosion",
+      "name": "Tremor Burst",
+      "desc": "เพิ่ม Stagger Threshold ของเป้าหมายตามจำนวน Tremor Potency บนตัวเป้าหมาย"
+    },
+    {
+      "id": "OneOnOneDuel",
+      "name": "Single Combat",
+      "desc": "เกิดขึ้นเมื่อ Slot ที่ถูกโจมตีถูกเล็งเป้าโดยยูนิตเพียงยูนิตเดียว และต้องเป็นยูนิตนั้นเพียงยูนิตเดียวเท่านั้น เงื่อนไขนี้จะเกิดขึ้นระหว่างยูนิตที่โจมตีและ Slot ที่ถูกโจมตีเท่านั้น (ไม่มีผลกับ Skill ที่ถูกใช้ซ้ำ)"
+    },
+    {
+      "id": "BulletFreischutz",
+      "name": "ไม่ได้ใช้งาน",
+      "desc": "ไม่ได้ใช้งาน"
+    },
+    {
+      "id": "FreischutzShotCount",
+      "name": "Magic Bullet",
+      "desc": "- สูงสุด: 7 - ค่าจะเปลี่ยนแปลงตามเอฟเฟกต์ของ Skill บางอย่าง - [Lobotomy E.G.O::Magic Bullet เฉพาะ Outis เท่านั้น] · ยิ่งค่าสูง Base Power และ Coin Power ของ Skill 3 จะยิ่งสูงขึ้น"
+    },
+    {
+      "id": "DarkFlame",
+      "name": "Dark Flame",
+      "desc": "- Burn เฉพาะตัว - ค่าสูงสุด: 7 - เป้าหมายเสีย Defense Level ตามค่าของเอฟเฟกต์นี้ - จบเทิร์น: สร้างความเสียหาย Pride Affinity (ค่า x Burn บนตัวเป้าหมาย) จากนั้นสถานะจะหมดลง"
+    },
+    {
+      "id": "CtrlTeamCaptain",
+      "name": "กัปตัน Control Team",
+      "desc": "- Skill Slot +1 - ปรับเปลี่ยน Skill pool: ได้รับจำนวนการใช้ Skill 3 เพิ่มขึ้น 1 ครั้ง แต่เสียจำนวนการใช้ Skill 1 ไป 1 ครั้ง - เมื่อยูนิตนี้กำจัดศัตรูด้วย Skill, พันธมิตร 2 ยูนิต (รวมถึงยูนิตนี้) ที่มี SP น้อยที่สุด จะฟื้นฟู SP 25 หน่วย ได้รับทรัพยากร E.G.O +2 หน่วย ให้กับ Affinity ของ Skill ที่ใช้กำจัดศัตรู และได้รับทรัพยากร E.G.O +1 หน่วย ให้กับ Affinity อื่นๆ ที่เหลือ"
+    },
+    {
+      "id": "HeatedGasHarpoon",
+      "name": "Heated Gas Harpoon",
+      "desc": "ใน 1 เทิร์น, มอบ Burn 1 หน่วย เมื่อ Heads Hit"
+    },
+    {
+      "id": "OverHeatedGasHarpoon",
+      "name": "Overheated Gas Harpoon",
+      "desc": "ใน 1 เทิร์น, มอบ Burn 1 หน่วย เมื่อ On Hit"
+    },
+    {
+      "id": "CoverAttack",
+      "name": "Assist Attack",
+      "desc": "- หากยูนิต A มอบเอฟเฟกต์นี้ให้ยูนิต B: ยูนิต B จะทำการโจมตีต่อเนื่องด้วย Unopposed Attack โดยใช้ Skill 1 ใส่ศัตรูตัวเดียวกับที่ยูนิต A โจมตีด้วย Skill ทำงานเมื่อสิ้นสุด Attack ของยูนิต A - Skill ที่ใช้เป็น Assist Attack จะไม่ส่งผลต่อรายการ Skill ถัดไปของยูนิต B"
+    },
+    {
+      "id": "ReCompulsion",
+      "name": "Reverse Compulsion",
+      "desc": "ฟื้นฟู SP 15 หน่วย ทุกครั้งที่เริ่มเทิร์น"
+    },
+    {
+      "id": "IndigoResultUp",
+      "name": "Pride Power Up",
+      "desc": "Pride Skill จะได้รับ Final Power ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "BladeResultUpTier1",
+      "name": "Sword of the Homeland - Rending",
+      "desc": "Skill 1 จะได้รับ Final Power ตาม Count ของเอฟเฟกต์ในเทิร์นนี้"
+    },
+    {
+      "id": "BladeResultUpTier2",
+      "name": "Sword of the Homeland - Penetrating",
+      "desc": "Skill 2 จะได้รับ Final Power ตาม Count ของเอฟเฟกต์ในเทิร์นนี้"
+    },
+    {
+      "id": "SwordPlayOfTheHomeland",
+      "name": "เพลงดาบแห่งบ้านเกิด",
+      "desc": "- เมื่อมี Poise 5+ หน่วย, เมื่อใช้ Skill, Skill 1 และ Skill 2 จะได้รับ Coin Power +(3/# ของ Coin, ขั้นต่ำ 1) และสร้างความเสียหาย +(30/# ของ Coin)% เมื่อเกิด Critical Hit - เมื่อมี Poise 7+ หน่วย, เมื่อใช้ Skill, Skill 3 จะสร้างความเสียหาย +(30/# ของ Coin)% และสร้างความเสียหาย +(50/# ของ Coin)% เมื่อเกิด Critical Hit"
+    },
+    {
+      "id": "SwordPlayOfTheMemorial",
+      "name": "ความทรงจำ",
+      "desc": "- เมื่อมี Poise 5+ หน่วย, เมื่อใช้ Skill, Skill 1 และ Skill 2 จะได้รับ Coin Power +(3/# ของ Coin, ขั้นต่ำ 1) และสร้างความเสียหาย +(30/# ของ Coin)% เมื่อเกิด Critical Hit - เมื่อมี Poise 7+ หน่วย, เมื่อใช้ Skill, Skill 3 จะสร้างความเสียหาย +(30/# ของ Coin)% และสร้างความเสียหาย +(50/# ของ Coin)% เมื่อเกิด Critical Hit"
+    },
+    {
+      "id": "RedApricotBlossom",
+      "name": "ดอกบ๊วยแดง",
+      "desc": "- Bleed เฉพาะตัว - ค่าสูงสุด: 10 - เพิ่มโอกาส 10% ที่ยูนิตนี้จะถูก Critical Hit หากยูนิตนี้เป็นเป้าหมายหลัก - เมื่อถูก Critical Hit, ได้รับ Bleed เท่ากับครึ่งหนึ่งของค่าที่มี และได้รับความเสียหาย +(ค่า x 3)% เมื่อเกิด Critical Hit - ลดค่าลง 1 เมื่อถูกโจมตี",
+      "summary": "เพิ่มโอกาสที่จะถูก Critical Hit; ได้รับความเสียหายมากขึ้นเมื่อถูก Critical Hit"
+    },
+    {
+      "id": "VibrationCollapse",
+      "name": "Tremor - Decay",
+      "desc": "ลดระดับ Defense 1 ระดับ ต่อทุกๆ 4 Potency ของ Tremor บนตัวเอง เมื่อถูกโจมตีด้วย Skill ที่ส่งผลให้เกิด Tremor Burst, เพิ่ม Stagger Threshold ตาม Potency ของเอฟเฟกต์นั้น จบเทิร์น: ลด Count ลง 1 (มีปฏิสัมพันธ์กับเอฟเฟกต์ที่เพิ่มหรือลด Potency/Count ของ Tremor ในรูปแบบเดียวกับ Tremor ปกติ)"
+    },
+    {
+      "id": "EchoOfMansion",
+      "name": "เสียงสะท้อนแห่งคฤหาสน์",
+      "desc": "- มีโอกาส 50% ที่จะได้รับ Sinking Count +1 เมื่อได้รับ Potency หรือ Count ของ Sinking จาก Skill หรือเอฟเฟกต์ของ Coin - ยูนิต SP: เปลี่ยนประเภท Panic เป็น Echoes of the Manor เมื่อยูนิตนี้ Panic จะมอบ Echoes of the Manor 2 หน่วย ให้กับพันธมิตรคนอื่นแบบสุ่ม 2 คนในเทิร์นถัดไป - ยูนิตที่ไม่ใช่ SP: ลดโอกาสการออกหัว -10% - ลดลง 1 เมื่อจบเทิร์น เอฟเฟกต์นี้ไม่สะสม; การมอบเอฟเฟกต์นี้จะแทนที่ค่าปัจจุบันด้วยค่าที่ได้รับใหม่ ※ ใช้เงื่อนไข \"ยูนิตที่ไม่ใช่ SP\" กับศัตรูบางตัวที่มี SP แต่ไม่สามารถเปลี่ยนประเภท Panic ได้"
+    },
+    {
+      "id": "Switch_Vibration",
+      "name": "การแปลงแอมพลิจูด",
+      "desc": "แปลง Tremor หรือ Tremor ที่ถูกแปลงแล้วบนเป้าหมาย ให้เป็น Tremor ประเภทอื่น ค่า Potency และ Count จะไม่เปลี่ยนแปลงหลังการแปลง"
+    },
+    {
+      "id": "AzureResultUp",
+      "name": "เสริมพลัง Gloom",
+      "desc": "Skill Gloom จะได้รับ Final Power ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "VibrationCrack",
+      "name": "Tremor - Fracture",
+      "desc": "- เมื่อถูก Stagger และเมื่อผลรวมของ Potency และ Count ของ Tremor มีค่าตั้งแต่ 20 ขึ้นไป, เพิ่ม Stagger Level 1 ระดับ - เอฟเฟกต์นี้ไม่สามารถทำให้ Stagger Level เกินระดับสูงสุดได้ เมื่อถูกโจมตีด้วยการโจมตีที่ทำให้เกิด Tremor Burst, เพิ่ม Stagger Threshold ตาม Potency ของเอฟเฟกต์ จบเทิร์น: ลด Count ลง 1 (มีผลในลักษณะเดียวกับ Tremor ปกติ ที่มีต่อเอฟเฟกต์ซึ่งเพิ่มหรือลด Potency/Count ของ Tremor)"
+    },
+    {
+      "id": "ForwardToTheKing",
+      "name": "ต่อหน้าราชา",
+      "desc": "เมื่อการโจมตีที่มี Atk Weight 1 ของยูนิตนี้โจมตีโดน, สร้างความเสียหาย On Hit เท่ากับ 50% ของค่า Coin ที่เกิดขึ้น (ตาม Affinity/Attack Type ของ Attack Skill ที่ใช้โจมตี) แก่ศัตรูที่โจมตีได้ตัวอื่นอีก 2 ตัวที่มีค่า HP น้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "ForwardToTheBoundKing",
+      "name": "ต่อหน้าราชาใน Bind",
+      "desc": "เมื่อการโจมตีที่มี Atk Weight 1 ของยูนิตนี้โจมตีโดน, สร้างความเสียหาย On Hit เท่ากับ 100% ของค่า Coin ที่เกิดขึ้น (ตาม Affinity/Attack Type ของ Attack Skill ที่ใช้โจมตี) แก่ศัตรูที่โจมตีได้ตัวอื่นอีก 2 ตัวที่มีค่า HP น้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "MarkOfButler",
+      "name": "B.M.",
+      "desc": "เสริมพลัง Skill ของ Edgar Family Chief Butler Ryōshū ต่อเป้าหมายที่มีเอฟเฟกต์นี้ จบเทิร์น: ลด Count ลง 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PreparedMeat",
+      "name": "เนื้อที่เตรียมไว้",
+      "desc": "หากครบเงื่อนไข Fairy Queen จะสังหารยูนิตนี้เมื่อจบเทิร์น"
+    },
+    {
+      "id": "Hunger",
+      "name": "ความหิวโหย",
+      "desc": "จบเทิร์น: ได้รับ 1 หน่วย หากยูนิตนี้ไม่สามารถกำจัดพันธมิตรที่มี Prepared Meat ได้ ที่ 75%- HP, ได้รับ 2 หน่วย ที่ 50%- HP, ได้รับ 3 หน่วย เริ่มเทิร์น: เสีย 1 หน่วย หากยูนิตนี้กำจัดพันธมิตรที่มี Prepared Meat ได้ เมื่อค่าเป็น 0, ได้รับ Attack Power Down และ Defense Power Down เท่ากับ (# ของพันธมิตรที่ถูกกำจัด x 3)",
+      "summary": ""
+    },
+    {
+      "id": "UnstableFeeling",
+      "name": "Passion อันผันผวน",
+      "desc": "- On Hit, มอบ Burn 1 หน่วย - หากเป้าหมายหลักมี Burn, Final Power +1 - เมื่อถูกโจมตี หากยูนิตนี้มี Defense Skill ที่เชื่อมต่อกันตอนเริ่ม Combat, มอบ Burn แก่ผู้โจมตีในเทิร์นนั้น - จบเทิร์น: เสีย SP เท่ากับ (# ของจำนวนเทิร์นที่อยู่ในสถานะ Volatile E.G.O x 5) (เสีย SP สูงสุด: 40)",
+      "summary": ""
+    },
+    {
+      "id": "VibrationEcho",
+      "name": "Tremor - Reverb",
+      "desc": "- เมื่อเกิด Tremor Burst, ได้รับความเสียหาย Sloth เท่ากับ Potency ของ Tremor แก่ตนเอง - เมื่อถูกโจมตีด้วย Skill ที่ทำให้เกิด Tremor Burst, เพิ่ม Stagger Threshold ตาม Potency ของเอฟเฟกต์ - จบเทิร์น: ลด Count ลง 1 (มีผลในลักษณะเดียวกับ Tremor ปกติ ที่มีต่อเอฟเฟกต์ซึ่งเพิ่มหรือลด Potency/Count ของ Tremor)",
+      "summary": ""
+    },
+    {
+      "id": "ShieldManagerCryingToad",
+      "name": "Blubberbubble",
+      "desc": "- เอฟเฟกต์นี้ถือเป็นเอฟเฟกต์ 'Shield Management' - จบเทิร์น: ลด Count ลง 1 - ยูนิตนี้จะไม่เสีย Shield เมื่อจบเทิร์น ตราบใดที่ยังมีเอฟเฟกต์ Blubberbubble (ยกเว้นกรณีที่ถูกลดจนหมดด้วยความเสียหายหรือเอฟเฟกต์อื่น) - หาก Shield ที่ได้รับผลจาก Blubberbubble แตกสลายเนื่องจากได้รับความเสียหาย จะสร้าง Sinking Potency/Count 4 หน่วย แก่ผู้โจมตี (ค่า '4' นี้จะถูกสุ่มแบ่งเป็น Potency หรือ Count) - ยูนิตนี้สามารถสะสมค่า Shield ได้โดยใช้เอฟเฟกต์นี้ อย่างไรก็ตาม ตราบใดที่ Blubberbubble ยังมีผลอยู่ ค่า Shield จะไม่สามารถเกิน 60% ของ Max HP ของยูนิตนี้ได้",
+      "summary": ""
+    },
+    {
+      "id": "VibrationContinue",
+      "name": "Tremor - Everlasting",
+      "desc": "- เมื่อถูกโจมตีด้วย Skill หรือเอฟเฟกต์ Coin ที่ทำให้เกิด Tremor Burst, มีโอกาส (Tremor Potency ของตนเอง)% ที่จะทำให้เกิด Tremor Burst เพิ่มเติม (สูงสุด 50%) - เมื่อถูกโจมตีด้วย Skill หรือเอฟเฟกต์ Coin ที่ทำให้เกิด Tremor Burst, มีโอกาส (Tremor Count ของตนเอง)% ที่จะทำให้เกิด Tremor Burst เพิ่มเติม (สูงสุด 50%) - เมื่อถูกโจมตีด้วย Skill ที่ทำให้เกิด Tremor Burst, เพิ่ม Stagger Threshold ตาม Potency ของเอฟเฟกต์นั้น - จบเทิร์น: ลด Count ลง 1 (มีปฏิสัมพันธ์ในรูปแบบเดียวกับ Tremor ปกติ ที่มีต่อเอฟเฟกต์ซึ่งเพิ่มหรือลด Tremor Potency/Count)",
+      "summary": ""
+    },
+    {
+      "id": "TimeSuspend",
+      "name": "Time Moratorium",
+      "desc": "- จะไม่ได้รับความเสียหายใดๆ ตราบใดที่เอฟเฟกต์นี้ยังทำงานอยู่ โดยจะเปลี่ยนเป็นการสะสมความเสียหายที่ได้รับทั้งหมดแทน - จบการต่อสู้: หากเหลือ Count ของเอฟเฟกต์นี้เพียง 1 หน่วย เอฟเฟกต์จะทำให้เกิด Tremor Burst หลังจากสร้างความเสียหาย Sloth เท่ากับ (100 + (Stack x 15)%) ของความเสียหายที่สะสมไว้ - จบเทิร์น: ได้รับ 1 Stack และเสีย 1 Count - Time Moratorium จะสิ้นสุดลงทันทีหลังจากเกิด Tremor Burst และเอฟเฟกต์ความเสียหาย Sloth หากมีการมอบ Time Moratorium อีกครั้งให้กับยูนิตที่มี Time Moratorium อยู่แล้ว",
+      "summary": ""
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "Borrowed Time",
+      "desc": "จบเทิร์น เมื่อมี 2+ Count: - ได้รับ Haste, Clash Power Up, และ Fragile ตามจำนวน (Borrowed Time Count - 1) ในเทิร์นถัดไป - หากยูนิตนี้ถูกกำหนดให้ได้รับ Bind มากกว่า Haste ในเทิร์นถัดไป เอฟเฟกต์ Borrowed Time จะสิ้นสุดลงเมื่อเริ่มเทิร์นถัดไป และยูนิตนี้จะติด Staggered จบเทิร์น: เมื่อมี 1 Count, ได้รับ Bind จำนวน 2(Borrowed Time Stack - 1) ในเทิร์นถัดไป จบเทิร์น: ได้รับ 1 Stack, เสีย 1 Count",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "Tremor - Chain",
+      "desc": "- เสีย Clash Power 1 หน่วย ต่อทุกๆ 10 Tremor Potency ของตนเอง (สูงสุด 3) - เมื่อถูกโจมตีด้วย Skill ที่ทำให้เกิด Tremor Burst, เพิ่ม Stagger Threshold ตาม Potency ของเอฟเฟกต์นั้น - จบเทิร์น: ลด Count ลง 1 - (มีปฏิสัมพันธ์ในรูปแบบเดียวกับ Tremor ปกติ ที่มีต่อเอฟเฟกต์ซึ่งเพิ่มหรือลด Tremor Potency/Count)",
+      "summary": ""
+    },
+    {
+      "id": "GazePersonality",
+      "name": "Gaze of Contempt",
+      "desc": "- ค่าสูงสุด: 7 - สร้างความเสียหาย +7% ต่อทุกๆ Gaze of Contempt 1 หน่วย - จบเทิร์น: เอฟเฟกต์นี้สิ้นสุดลง - จบเทิร์น: หากมีค่า Gaze of Contempt อยู่ที่ 7 จะเปลี่ยนเป็น Contempt of the Gaze ในเทิร์นถัดไปแทนการสิ้นสุดลง [Contempt of the Gaze] - ได้รับ Protection 7 หน่วย - ได้รับ Damage Down 7 หน่วย - หนึ่งใน Slot ของยูนิตนี้ได้รับ Aggro +20 - ไม่สามารถได้รับ Gaze of Contempt ตราบใดที่ Contempt of the Gaze ยังทำงานอยู่ - จบเทิร์น: เอฟเฟกต์นี้สิ้นสุดลง",
+      "summary": ""
+    },
+    {
+      "id": "ContemptPersonality",
+      "name": "Contempt of the Gaze",
+      "desc": "- ได้รับ Protection 7 หน่วย - ได้รับ Damage Down 7 หน่วย - หนึ่งใน Skill Slot ของยูนิตนี้ได้รับ Aggro +20 - ไม่สามารถได้รับ Gaze of Contempt ตราบใดที่ Contempt of the Gaze ยังทำงานอยู่ - จบเทิร์น: เอฟเฟกต์นี้สิ้นสุดลง",
+      "summary": ""
+    },
+    {
+      "id": "KnowledgeTraining",
+      "name": "Erudition",
+      "desc": "- ค่าสูงสุด: 6 - เมื่อ Discard Skill, ได้รับ (Erudition x 1.5)% ของ HP สูงสุดของยูนิตนี้เป็น Shield (หนึ่งครั้งต่อเทิร์น) - หากยูนิตนี้ Discard Skill ที่ Insight 2+, ได้รับ Clash Power 1 หน่วย (หนึ่งครั้งต่อเทิร์น) - ลดลง 1 เมื่อได้รับความเสียหาย HP หลังจากถูกโจมตีด้วย Skill Attack ของศัตรู - หมดผลเมื่อถูก Stagger",
+      "summary": ""
+    },
+    {
+      "id": "BoseProjektil",
+      "name": "Torn Memory",
+      "desc": "- ค่าสูงสุด: 7 - ใช้สำหรับบาง Skill",
+      "summary": ""
+    },
+    {
+      "id": "ChargeLoad",
+      "name": "Load",
+      "desc": "- ค่าสูงสุด: 6 - Skill Attack ที่ใช้ Charge Count จะสร้างความเสียหาย +2.5% ต่อทุกๆ 1 หน่วยของค่านี้บนตัวเอง (สูงสุด 15%) - หากยูนิตที่ได้รับผลเป็นพนักงาน W Corp, จะสร้างความเสียหาย +5% ต่อทุกๆ 1 หน่วยแทน (สูงสุด 30%) - จบเทิร์น: ผลนี้จะหมดลง",
+      "summary": ""
+    },
+    {
+      "id": "PhotoElectricity",
+      "name": "Photoelectricity",
+      "desc": "ค่าสูงสุด: 3 เมื่อยูนิตนี้ถูกโจมตี, Attacker จะได้รับ Charge Count เท่ากับค่านี้ (หนึ่งครั้งต่อ Skill) - หาก Attacker มี Charge Count 5- หน่วย, จะได้รับ Charge Count เพิ่มเติม +3 หน่วย จบเทิร์น: ผลนี้จะหมดลง",
+      "summary": ""
+    },
+    {
+      "id": "Coffin",
+      "name": "Coffin",
+      "desc": "- ค่าสูงสุด: 10 - เมื่อจบเทิร์น: - ได้รับ Damage Up 2 หน่วยในเทิร์นถัดไป ต่อทุกๆ 3 หน่วยของค่านี้ (สูงสุด 6) - เพิ่ม Speed ขั้นต่ำ 1 หน่วยในเทิร์นถัดไป ต่อทุกๆ 4 หน่วยของค่านี้ (สูงสุด 2) - ได้รับ Clash Power Up 1 หน่วยในเทิร์นถัดไป ต่อทุกๆ 5 หน่วยของค่านี้ (สูงสุด 2)",
+      "summary": ""
+    },
+    {
+      "id": "WildHunt",
+      "name": "Wild Hunt",
+      "desc": "- ในเทิร์นเดียวกับที่ยูนิตนี้ได้รับ Wild Hunt เป็นครั้งแรก, จะมี HP เหลืออยู่ 1 หน่วยเสมอ; \"คืนชีพ\" (ฟื้นฟู HP 50% และรีเซ็ต SP เป็น 0) ยูนิตนี้เมื่อจบเทิร์น - เมื่อตาย, ได้รับทรัพยากร E.G.O 1 หน่วย สำหรับทรัพยากร E.G.O ที่มีน้อยที่สุด - หากยูนิตนี้ถูกฆ่าด้วยการโจมตี, มอบ Sinking 3 หน่วยแก่ผู้โจมตีคนสุดท้าย - ตายเมื่อจบเทิร์นเดียวกับที่ยูนิตนี้ถูกคืนชีพ",
+      "summary": ""
+    },
+    {
+      "id": "NightPathfinding",
+      "name": "Dullahan",
+      "desc": "- ค่าสูงสุด: 3 - ได้รับ Offense Level 3 - เสีย Defense Level 3 - เพิ่มค่า Min & Max Speed ขึ้น 1 - จบเทิร์น: ได้รับ Dullahan 1 หน่วยในเทิร์นถัดไป (อย่างไรก็ตาม หากมี SP -25 หรือน้อยกว่า จะเสีย Dullahan ทั้งหมด) - จบเทิร์น: หากยูนิตนี้มี Dullahan, เสีย SP (15 - (Coffin/2)) หน่วย (ขั้นต่ำ 10)",
+      "summary": ""
+    },
+    {
+      "id": "WanderingFootsteps",
+      "name": "Impending Ruin",
+      "desc": "- ยูนิต SP: เปลี่ยนประเภท Panic เป็น \"Ruin\" (Ruin: เมื่อยูนิตนี้เข้าสู่สถานะ Low Morale, ได้รับ Sinking 3 หน่วยทุกครั้งที่จบเทิร์น และเสีย Clash Power 1 หน่วย เมื่อยูนิตนี้ Panic, ได้รับ Sinking 5 หน่วย และ Sinking Count 3 หน่วยทุกครั้งที่จบเทิร์น และเสีย Clash Power 2 หน่วย) - ยูนิตที่ไม่ใช่ SP: โอกาสออก Head -10% - ลดลง 1 เมื่อจบเทิร์น - ผลนี้ไม่สะสม; การมอบผลนี้จะแทนที่ค่าปัจจุบันด้วยค่าที่ได้รับใหม่ ※ ใช้เงื่อนไข \"ยูนิตที่ไม่ใช่ SP\" กับศัตรูบางตัวที่มี SP แต่ไม่สามารถเปลี่ยนประเภท Panic ได้",
+      "summary": ""
+    },
+    {
+      "id": "WanderingFootsteps_Main",
+      "name": "Impending Ruin",
+      "desc": "- ยูนิต SP: เปลี่ยนประเภท Panic เป็น 'Ruin' - ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "WanderingFootsteps_Sub",
+      "name": "Impending Ruin",
+      "desc": "- โอกาสออกหัว -10% - ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "WanderingFootsteps_LowMorale",
+      "name": "Ruin",
+      "desc": "- ขวัญกำลังใจต่ำ - Clash Power -1 แก่ตนเอง ได้รับ Sinking 3 หน่วยทุกครั้งเมื่อจบเทิร์น",
+      "summary": "Clash Power -1 แก่ตนเอง ได้รับ Sinking 3 หน่วยทุกครั้งเมื่อจบเทิร์น",
+      "undefined": "-"
+    },
+    {
+      "id": "WanderingFootsteps_Panic",
+      "name": "Ruin",
+      "desc": "- Panic - Clash Power -2 แก่ตนเอง ได้รับ Sinking 5 หน่วย และ +3 Sinking Count ทุกครั้งเมื่อจบเทิร์น",
+      "summary": "Clash Power -2 แก่ตนเอง ได้รับ Sinking 5 หน่วย และ +3 Sinking Count ทุกครั้งเมื่อจบเทิร์น",
+      "undefined": "-"
+    },
+    {
+      "id": "UninvitedGuestPersonality",
+      "name": "The Uninvited",
+      "desc": "- ค่าสูงสุด: 2 - เมื่อตาย ผู้โจมตีคนสุดท้ายจะฟื้นฟู SP 3 หน่วย จากนั้นพันธมิตรแบบสุ่มที่ไม่มีเอฟเฟกต์นี้จะได้รับเอฟเฟกต์นี้ 2 Stack - ได้รับความเสียหาย +0.5% ต่อทุกๆ Sinking ที่มีอยู่บนตัว (สูงสุด 10%; สำหรับ Focused Encounters ให้คำนวณ Sinking ของแต่ละ Part แยกกัน) - จบเทิร์น: ลดลง 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DevyatDimensionalSack",
+      "name": "Courier Trunk - Rodion",
+      "desc": "- ค่าเริ่มต้น: 0 - เริ่มเทิร์น: ได้รับ 3 Stack - Stack จะไม่หายไปเมื่อ Retreat แต่จะถูกเก็บสะสมไว้แทน - เมื่อมี 10+ Stack: เพิ่มค่า Min & Max Speed ขึ้น 1 - เมื่อมี 20+ Stack: ได้รับ Clash Power Up 1 หน่วย และ Slash Damage Up 1 หน่วย - เมื่อมี 30+ Stack: · เมื่อใช้ Skill จะได้รับความเสียหาย HP (Stack/3)% และความเสียหาย SP (Stack/3) · เมื่อจบเทิร์น จะได้รับความเสียหาย HP (Stack/2)% และความเสียหาย SP (Stack/2) (มีผลก่อนการ Retreat)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Retreat",
+      "name": "Strategic R&R Mode",
+      "desc": "- จบเทิร์น: ฟื้นตัวจาก Stagger และ Retreat ออกจาก Encounter (ไม่รวมการถูกบังคับ Stagger; ไม่นับว่าเป็นการตาย) · ใน Chain Battles จะส่งต่อ Slot ของยูนิตนี้ให้ยูนิตที่มา Substitute และย้ายไปอยู่ในลำดับท้ายสุดของยูนิต Backup (หากไม่มียูนิต Backup อื่นเหลือให้สลับที่ในเทิร์นถัดไป จะเป็นการหลบหนีออกจาก Encounter โดยสมบูรณ์ เมื่อกลับเข้าสู่การต่อสู้ จะกลับมาตามลำดับที่ Retreat ออกไป) · เมื่อกลับเข้าสู่การต่อสู้ จะกลับมาพร้อมกับจำนวน HP และ SP เท่ากับที่ยูนิตนี้มีตอน Retreat และล้างเอฟเฟกต์ทั้งหมดบนตัว ยกเว้นบางเอฟเฟกต์ที่กำหนด (หากยูนิตนี้มี SP น้อยกว่า 0 ตอน Retreat ให้รีเซ็ต SP เป็น 0 แทน)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DefensiveStance",
+      "name": "Defensive Stance",
+      "desc": "- ค่าสูงสุด: 2 - เอฟเฟกต์นี้จะไม่เพิ่มความรุนแรงเมื่อซ้อนทับกัน การสะสม Stack จะเป็นการขยายระยะเวลาแสดงผลเท่านั้น - ลดลง 1 หน่วยเมื่อจบเทิร์น - เมื่อยูนิตได้รับเอฟเฟกต์นี้ จะได้รับเอฟเฟกต์ต่อไปนี้ในเทิร์นถัดไป: · ล็อก Speed ของยูนิตนี้ไว้ที่ค่าต่ำสุด · ได้รับ Defense Level Up 5 หน่วย · แต่ละ Slot ของยูนิตนี้จะได้รับ Aggro +(10 / จำนวน Slot ของยูนิตนี้) · เมื่อใช้ Skill แบบต่อเนื่อง ยูนิตนี้สามารถดึงการโจมตีของศัตรูมาที่ตนเองได้โดยไม่คำนึงถึง Speed (เฉพาะ Focused Encounters เท่านั้น) · เมื่อ Clash Win จะส่งผลให้เกิด Tremor Burst · ไม่สามารถถูกทำให้ Stagger ด้วยความเสียหายได้",
+      "summary": ""
+    },
+    {
+      "id": "CanDuelGuard",
+      "name": "Clashable Guard",
+      "desc": "- เมื่อ Clash ชนะ: เพิ่ม Stagger Threshold ของเป้าหมายตาม Clash Power สุดท้ายของยูนิตนี้ - เมื่อ Clash แพ้: เมื่อถูกโจมตี จะลด Skill Power สุดท้ายของผู้โจมตีตาม Final Power ของยูนิตนี้ - เมื่อ Clash แพ้: จะไม่ได้รับ Final Power จากแหล่งต่อไปนี้: Resonance และความต่างของ Level กับ Attack Skill",
+      "summary": ""
+    },
+    {
+      "id": "SuperCoin",
+      "name": "Coin ที่ไม่แตกหัก",
+      "desc": "- Coin นี้จะไม่แตกเมื่อ Clash แพ้ - หาก Attack Skill มี Coin นี้ จะโจมตีด้วย Coin นี้หลังจากถูกโจมตี - เมื่อ Clash แพ้ จะกำหนดให้ Coin Power ของ Coin ที่ไม่แตกหักเป็น 1",
+      "summary": ""
+    },
+    {
+      "id": "BloodScissorPersonalityFirst",
+      "name": "กรรไกรเปื้อนเลือด",
+      "desc": "- ค่าสูงสุด: 10 - กรรไกรเปื้อนเลือด Stage 1 - เมื่อมี กรรไกรเปื้อนเลือด 10+ หน่วย จะเปลี่ยนเป็น กรรไกรเปื้อนเลือด II - เมื่อมี กรรไกรเปื้อนเลือด 20+ หน่วย จะเปลี่ยนเป็น กรรไกรเปื้อนเลือด III - จะกลับสู่ Stage ก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - กรรไกรเปื้อนเลือด จะไม่ลดลงต่ำกว่า 1 หน่วย - เมื่ออยู่ในสถานะ กรรไกรเปื้อนเลือด II จะได้รับ Offense Level Up 1 และ Defense Level Down 1 ตามจำนวน Stack - เมื่ออยู่ในสถานะ กรรไกรเปื้อนเลือด III จะได้รับ Offense Level Up 1 ตามจำนวน Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorPersonalitySecond",
+      "name": "กรรไกรเปื้อนเลือด II",
+      "desc": "- ค่าสูงสุด: 20 - กรรไกรเปื้อนเลือด Stage 2 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 และ Defense Level Down 1 ต่อทุกๆ 5 Stack - เมื่อมี กรรไกรเปื้อนเลือด 10+ หน่วย จะเปลี่ยนเป็น กรรไกรเปื้อนเลือด II - เมื่อมี กรรไกรเปื้อนเลือด 20+ หน่วย จะเปลี่ยนเป็น กรรไกรเปื้อนเลือด III - จะกลับสู่ Stage ก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - กรรไกรเปื้อนเลือด จะไม่ลดลงต่ำกว่า 1 หน่วย - เมื่ออยู่ในสถานะ กรรไกรเปื้อนเลือด II จะได้รับ Offense Level Up 1 และ Defense Level Down 1 ตามจำนวน Stack - เมื่ออยู่ในสถานะ กรรไกรเปื้อนเลือด III จะได้รับ Offense Level Up 1 ตามจำนวน Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorPersonalityThird",
+      "name": "กรรไกรเปื้อนเลือด III",
+      "desc": "- ค่าสูงสุด: 30 - กรรไกรเปื้อนเลือด Stage 3 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ต่อทุกๆ 5 Stack - เมื่อมี กรรไกรเปื้อนเลือด 10+ หน่วย จะเปลี่ยนเป็น กรรไกรเปื้อนเลือด II - เมื่อมี กรรไกรเปื้อนเลือด 20+ หน่วย จะเปลี่ยนเป็น กรรไกรเปื้อนเลือด III - จะกลับสู่ Stage ก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - กรรไกรเปื้อนเลือด จะไม่ลดลงต่ำกว่า 1 หน่วย - เมื่ออยู่ในสถานะ กรรไกรเปื้อนเลือด II จะได้รับ Offense Level Up 1 และ Defense Level Down 1 ตามจำนวน Stack - เมื่ออยู่ในสถานะ กรรไกรเปื้อนเลือด III จะได้รับ Offense Level Up 1 ตามจำนวน Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LineCuttingPersonality",
+      "name": "เป้าหมายการเย็บ",
+      "desc": "- ค่าสูงสุด: 1 - ได้รับความเสียหาย +0.5% ต่อทุกๆ Bleed ที่มีบนตัวเอง (สูงสุด 10%) - จบเทิร์น: ลดลง 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Snare",
+      "name": "บ่วงบาศ",
+      "desc": "- ค่าสูงสุด: 3 - จบเทิร์น: ได้รับ Rupture Potency เท่ากับค่า Speed ปัจจุบันของยูนิตนี้ (สูงสุด 5) และได้รับ Bind 1 หน่วยในเทิร์นถัดไป - จบเทิร์น: ลดลง 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHandGregFirst",
+      "name": "มือเปื้อนเลือด",
+      "desc": "- ค่าสูงสุด: 10 - Bloodied Hand ระดับ 1 - เมื่อมี Bloodied Hand 10+ หน่วย, จะเปลี่ยนเป็น Bloodied Hand II - เมื่อมี Bloodied Hand 20+ หน่วย, จะเปลี่ยนเป็น Bloodied Hand III - จะกลับสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - เมื่อเป็น Bloodied Hand II, ได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack - เมื่อเป็น Bloodied Hand III, ได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack และสร้าง Rupture 1 หน่วย และ Bleed 1 หน่วย เพิ่มเติมเมื่อโจมตีด้วย Base Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHandGregSecond",
+      "name": "Bloodied Hand II",
+      "desc": "- ค่าสูงสุด: 20 - Bloodied Hand ระดับ 2 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ ต่อทุกๆ 10 Stack - เมื่อมี Bloodied Hand 10+ หน่วย, จะเปลี่ยนเป็น Bloodied Hand II - เมื่อมี Bloodied Hand 20+ หน่วย, จะเปลี่ยนเป็น Bloodied Hand III - จะกลับสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - เมื่อเป็น Bloodied Hand II, ได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack - เมื่อเป็น Bloodied Hand III, ได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack และสร้าง Rupture 1 หน่วย และ Bleed 1 หน่วย เพิ่มเติมเมื่อโจมตีด้วย Base Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHandGregThird",
+      "name": "Bloodied Hand III",
+      "desc": "- ค่าสูงสุด: 30 - Bloodied Hand ระดับ 3 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ ต่อทุกๆ 10 Stack - เมื่อโจมตีด้วย Base Skill: สร้าง Rupture 1 หน่วย และ Bleed 1 หน่วย เพิ่มเติม - เมื่อมี Bloodied Hand 10+ หน่วย, จะเปลี่ยนเป็น Bloodied Hand II - เมื่อมี Bloodied Hand 20+ หน่วย, จะเปลี่ยนเป็น Bloodied Hand III - จะกลับสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - เมื่อเป็น Bloodied Hand II, ได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack - เมื่อเป็น Bloodied Hand III, ได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack และสร้าง Rupture 1 หน่วย และ Bleed 1 หน่วย เพิ่มเติมเมื่อโจมตีด้วย Base Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WornHeartGreg",
+      "name": "Ailing Heart",
+      "desc": "- ค่าสูงสุด: 10 - จบเทิร์น: ได้รับ 1 Stack - เริ่มเทิร์น: ได้รับ Defense Level Up 1 ระดับ ต่อทุกๆ 3 Stack - เมื่อ HP 50%- , ได้รับ Defense Level 1 ระดับ ต่อทุกๆ 3 Stack - เมื่อ HP 40%-, เมื่อโจมตีด้วย Base Skill จะฟื้นฟูความเสียหายที่ทำได้ (Stack x 5)% เป็น HP (ขั้นต่ำ 1; ปัดเศษลง; ฟื้นฟูสูงสุด 30 HP ต่อ Skill)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThornsRodionFirst",
+      "name": "Blooming Thorn",
+      "desc": "- ค่าสูงสุด: 10 - Blooming Thorn ระดับ 1 - ได้รับ Defense Level 1 ระดับ ต่อทุกๆ 2 Stack (สูงสุด 5) - เมื่อถูกโจมตี, สร้าง Bleed 1 หน่วย แก่ผู้โจมตี และเสีย 1 Stack - [The Princess of La Manchaland Rodion Only] · เมื่อ Stack ถึงค่าสูงสุด, จะเปลี่ยนเป็นระดับถัดไปของเอฟเฟกต์นี้ · สร้าง Potency ของ Bleed และ Rupture เพิ่มขึ้น +(ระดับ - 1) โดยใช้เอฟเฟกต์ Coin ของ Base Attack Skill ของยูนิตนี้ · จะกลับสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThornsRodionSecond",
+      "name": "Blooming Thorn II",
+      "desc": "- ค่าสูงสุด: 20 - Blooming Thorn ระดับ 2 - ได้รับ Defense Level 1 ระดับ ต่อทุกๆ 2 Stack (สูงสุด 5) - เมื่อถูกโจมตี, สร้าง Bleed 1 หน่วย แก่ผู้โจมตี และเสีย 1 Stack - [The Princess of La Manchaland Rodion Only] · เมื่อ Stack ถึงค่าสูงสุด, จะเปลี่ยนเป็นระดับถัดไปของเอฟเฟกต์นี้ · สร้าง Bleed และ Rupture เพิ่มขึ้น +(ระดับ - 1) โดยใช้เอฟเฟกต์ Coin ของ Base Attack Skill ของยูนิตนี้ · จะกลับสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThornsRodionThird",
+      "name": "Blooming Thorn III",
+      "desc": "- ค่าสูงสุด: 30 - Blooming Thorn ระดับ 3 - ได้รับ Defense Level 1 ระดับ ต่อทุกๆ 2 Stack (สูงสุด 5) - เมื่อถูกโจมตี, สร้าง Bleed 1 หน่วย แก่ผู้โจมตี และเสีย 1 Stack - [The Princess of La Manchaland Rodion Only] · เมื่อ Stack ถึงค่าสูงสุด, จะเปลี่ยนเป็นระดับถัดไปของเอฟเฟกต์นี้ · สร้าง Bleed และ Rupture เพิ่มขึ้น +(ระดับ - 1) โดยใช้เอฟเฟกต์ Coin ของ Base Attack Skill ของยูนิตนี้ · จะกลับสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FestivalFeverRodion",
+      "name": "Festive Fever",
+      "desc": "- ค่าสูงสุด: 10 - หมดผลเมื่อจบเทิร์น - เมื่อโจมตีเป้าหมายที่มี Bleed: สร้างความเสียหาย +1.5% ต่อทุกๆ 1 Stack - Skill ที่ใช้หรือได้รับ Bloodfeast จะสร้างความเสียหาย +3% ต่อทุกๆ 1 Stack แทน",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationSpring",
+      "name": "Tremor - Clockwinding",
+      "desc": "- Max Speed + 2 - ใช้ Tremor Count ของตัวเอง เพื่อทำให้เป้าหมายได้รับ Tremor Potency หรือ Count เพิ่มขึ้น 1 หน่วย เมื่อโจมตีด้วย Skill ของยูนิตนี้ หรือเอฟเฟกต์ Coin - เมื่อถูกโจมตีด้วย Skill ที่ทำให้เกิด Tremor Burst จะเพิ่ม Stagger Threshold ตาม Potency ของเอฟเฟกต์นั้น - จบเทิร์น: ลด Count ลง 1 หน่วย - (มีผลกับเอฟเฟกต์ที่เพิ่มหรือลด Tremor Potency/Count ในลักษณะเดียวกับ Tremor ปกติ)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DevyatDimensionalSackSinclair",
+      "name": "Courier Trunk - Sinclair",
+      "desc": "- ค่าเริ่มต้น: 0 - เริ่มเทิร์น: ได้รับ 3 Stack - Stack จะไม่หายไปเมื่อ Retreat แต่จะถูกเก็บสะสมไว้แทน - เมื่อมี 10+ Stack: เพิ่มค่า Min & Max Speed ขึ้น 1 - เมื่อมี 20+ Stack: ได้รับ Clash Power Up 1 หน่วย และ Blunt Damage Up 1 หน่วย - เมื่อมี 30+ Stack: · เมื่อใช้ Skill จะได้รับความเสียหาย HP (Stack/3)% และความเสียหาย SP (Stack/3) · เมื่อจบเทิร์น จะได้รับความเสียหาย HP (Stack/2)% และความเสียหาย SP (Stack/2) (มีผลก่อนการ Retreat)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Zazen",
+      "name": "Dhyāna",
+      "desc": "- Max Stack: 108 - สร้างความเสียหาย +1% ต่อทุก 1 Stack",
+      "summary": "สร้างความเสียหายรุนแรงขึ้น"
+    },
+    {
+      "id": "SwirlingBloodPersonality",
+      "name": "Shimmering【Bloodfiend】",
+      "desc": "- Max Stack: 50 - ตราบใดที่เอฟเฟกต์นี้ยังคงอยู่ ความเสียหาย Bleed ทั้งหมดที่ Shield HP ได้รับ จะถูกเปลี่ยนเป็น Bloodfeast - ได้รับ Shield HP เท่ากับจำนวน Stack ในขณะที่เอฟเฟกต์นี้ทำงาน - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "BloodArmorPersonalityFirst",
+      "name": "Hardblood",
+      "desc": "- Max Stack: 10 - Hardblood ระดับ 1 - เมื่อมี Hardblood 10+ หน่วย จะเปลี่ยนเป็น Hardblood II - เมื่อมี Hardblood 20+ หน่วย จะเปลี่ยนเป็น Hardblood III - จะกลับไปสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - Hardblood จะไม่ลดลงต่ำกว่า 1 หน่วย - เพิ่มค่า Min & Max Speed 1 หน่วย ต่อทุก 10 Hardblood - เมื่ออยู่ในระดับ Hardblood II จะได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack - เมื่ออยู่ในระดับ Hardblood III จะได้รับ Offense Level Up 1 ระดับ และ Defense Level Up 1 ระดับ ตามจำนวน Stack",
+      "summary": ""
+    },
+    {
+      "id": "BloodArmorPersonalitySecond",
+      "name": "Hardblood II",
+      "desc": "- Max Stack: 20 - Hardblood ระดับ 2 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ ต่อทุก 5 Stack - เพิ่มค่า Min & Max Speed 1 หน่วย - เมื่อมี Hardblood 10+ หน่วย จะเปลี่ยนเป็น Hardblood II - เมื่อมี Hardblood 20+ หน่วย จะเปลี่ยนเป็น Hardblood III - จะกลับไปสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - Hardblood จะไม่ลดลงต่ำกว่า 1 หน่วย - เมื่ออยู่ในระดับ Hardblood II จะได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack - เมื่ออยู่ในระดับ Hardblood III จะได้รับ Offense Level Up 1 ระดับ และ Defense Level Up 1 ระดับ ตามจำนวน Stack",
+      "summary": ""
+    },
+    {
+      "id": "BloodArmorPersonalityThird",
+      "name": "Hardblood III",
+      "desc": "- Max Stack: 30 - Hardblood ระดับ 3 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ และ Defense Level Up 1 ระดับ ต่อทุก 5 Stack - เพิ่มค่า Min & Max Speed 2 หน่วย - เมื่อมี Hardblood 10+ หน่วย จะเปลี่ยนเป็น Hardblood II - เมื่อมี Hardblood 20+ หน่วย จะเปลี่ยนเป็น Hardblood III - จะกลับไปสู่ระดับก่อนหน้าเมื่อ Stack ลดลงต่ำกว่าเงื่อนไขที่กำหนด - Hardblood จะไม่ลดลงต่ำกว่า 1 หน่วย - เมื่ออยู่ในระดับ Hardblood II จะได้รับ Offense Level Up 1 ระดับ ตามจำนวน Stack - เมื่ออยู่ในระดับ Hardblood III จะได้รับ Offense Level Up 1 ระดับ และ Defense Level Up 1 ระดับ ตามจำนวน Stack",
+      "summary": ""
+    },
+    {
+      "id": "SadLamanchaland",
+      "name": "Responsibility",
+      "desc": "- ค่าสูงสุด: 1 - Clash Power +1 - สร้างความเสียหาย +20% - ได้รับความเสียหาย +20%",
+      "summary": ""
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_1st",
+      "name": "The First Magic Bullet",
+      "desc": "- สร้างความเสียหาย +20% - เพิ่ม Stagger Threshold ของเป้าหมายตามความเสียหายที่สร้างได้ (สูงสุด 30)"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_2nd",
+      "name": "The Second Magic Bullet",
+      "desc": "- สร้างความเสียหาย +10% - สร้างความเสียหายแก่เป้าหมายอื่นนอกเหนือจากเป้าหมายหลัก (เป้าหมายสูงสุด: 4 ราย); โดยเป้าหมายหลักจะไม่ได้รับความเสียหาย - เมื่อโจมตีโดน, มอบ Paralyze 3 หน่วย"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_3rd",
+      "name": "The Third Magic Bullet",
+      "desc": "- สร้างความเสียหาย +20% - ก่อน Attack: Atk Weight +2 - เมื่อโจมตีโดน, มอบ Attack Power Down 2 หน่วย และ Burn 10 หน่วย"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_4th",
+      "name": "The Fourth Magic Bullet",
+      "desc": "- สร้างความเสียหาย +30% - ก่อน Attack: Atk Weight +3 - เมื่อโจมตีโดน, เพิ่ม Stagger Threshold ของเป้าหมายตามความเสียหายที่สร้างได้ (สูงสุด 20); จากนั้น มอบ Fragility 3 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_5th",
+      "name": "The Fifth Magic Bullet",
+      "desc": "- สร้างความเสียหาย +30% - ก่อน Attack: Atk Weight +4 - เมื่อโจมตีโดน, มอบ Burn 10 หน่วย; จากนั้น มอบ Offense Level down 4 หน่วย และ Defense Level Down 4 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_6th",
+      "name": "The Sixth Magic Bullet",
+      "desc": "- ก่อน Attack: Atk Weight +6 - เมื่อโจมตีโดน, เพิ่ม Stagger Threshold ของเป้าหมายตามความเสียหายที่สร้างได้ (สูงสุด 30) - ใช้ Coin ซ้ำทุกๆ 7 Burn ที่มีอยู่บนเป้าหมายหลัก (สูงสุด 2 ครั้ง) - บวก Skill Base Power ของ Coin -16 - ลบ Skill Base Power ของ Coin -22 - บวก Coin Power -8 - ลบ Coin Power -12"
+    },
+    {
+      "id": "FreishutzOutisEgoBullet_7th",
+      "name": "The Seventh Magic Bullet",
+      "desc": "- สร้างความเสียหาย +200% - สร้างความเสียหาย +2.5% ต่อทุกๆ 1% ของ HP ที่หายไปของเป้าหมาย (สูงสุด 200%) - ก่อน Attack: สำหรับการโจมตีนี้ หาก Pierce Damage Res. ของเป้าหมายหรือของตนเองน้อยกว่า 2.0 ให้เปลี่ยนเป็น Fatal(x2.0) - เมื่อ Attack สิ้นสุด: กำจัดยูนิตนี้"
+    },
+    {
+      "id": "FreishutzOutisEgoBulletCnt",
+      "name": "Bullet ของ Marksman",
+      "desc": "ใช้ Ammo ที่แตกต่างกันขึ้นอยู่กับ Bullet ของ Marksman"
+    },
+    {
+      "id": "CoveringFire",
+      "name": "ตรวจพบเป้าหมาย",
+      "desc": "หากยูนิต A มอบเอฟเฟกต์นี้ให้ยูนิต B: ยูนิต B จะโจมตีสนับสนุนด้วย Attack แบบ Unopposed โดยใช้ Skill 2 ใส่ศัตรูตัวเดียวกับที่ยูนิต A โจมตีด้วย Skill ของตน จะทำงานเมื่อสิ้นสุด Attack ของยูนิต A - Skill ที่ใช้จากเอฟเฟกต์นี้จะไม่มีผลต่อลำดับ Skill ถัดไปของยูนิต B"
+    },
+    {
+      "id": "FullReload",
+      "name": "รีโหลด",
+      "desc": "สูญเสีย Ammo ทั้งหมดที่มีอยู่ในปัจจุบัน และรีโหลดกลับจนเต็ม"
+    },
+    {
+      "id": "Bullet_LogicAtelier",
+      "name": "Ammo - Atelier Logic",
+      "desc": "Ammo เฉพาะตัว Atelier Logic Workshop Special Ammo - จำนวนของ Ammo นี้จะไม่เพิ่มขึ้นหรือลดลงจากเอฟเฟกต์ภายนอก"
+    },
+    {
+      "id": "Retreat_FullStop",
+      "name": "มอบหมายการเฝ้าระวัง",
+      "desc": "- จบเทิร์น: ฟื้นตัวจาก Stagger และ Retreat ออกจาก Encounter (ไม่รวมการถูกบังคับ Stagger; ไม่นับว่าเป็นการตาย) · ใน Chain Battles จะส่งต่อ Slot ของยูนิตนี้ให้ยูนิตที่มา Substitute และย้ายไปอยู่ในลำดับท้ายสุดของยูนิต Backup (หากไม่มียูนิต Backup อื่นเหลือให้สลับที่ในเทิร์นถัดไป จะเป็นการหลบหนีออกจาก Encounter โดยสมบูรณ์ เมื่อกลับเข้าสู่การต่อสู้ จะกลับมาตามลำดับที่ Retreat ออกไป) · เมื่อกลับเข้าสู่การต่อสู้ จะกลับมาพร้อมกับจำนวน HP และ SP เท่ากับที่ยูนิตนี้มีตอน Retreat และล้างเอฟเฟกต์ทั้งหมดบนตัว ยกเว้นบางเอฟเฟกต์ที่กำหนด (หากยูนิตนี้มี SP น้อยกว่า 0 ตอน Retreat ให้รีเซ็ต SP เป็น 0 แทน)"
+    },
+    {
+      "id": "LogicAtelierAM",
+      "name": "Concentration【Sniper】",
+      "desc": "- จำนวนสะสมสูงสุด: 4 - จบเทิร์น: ได้รับ 1 Stack"
+    },
+    {
+      "id": "MeleeCover",
+      "name": "สนับสนุนระยะประชิด",
+      "desc": "- หากยูนิต A มอบเอฟเฟกต์นี้ให้ยูนิต B: ยูนิต B จะโจมตีสนับสนุนด้วย Attack แบบ Unopposed โดยใช้ Skill 'Melee Support' ใส่ศัตรูตัวเดียวกับที่โจมตียูนิต A จะทำงานเมื่อสิ้นสุด Skill ของยูนิต A - Skill ที่ใช้จากเอฟเฟกต์ 'Melee Support' จะไม่มีผลต่อลำดับ Skill ถัดไปของยูนิต B"
+    },
+    {
+      "id": "RequestedTarget",
+      "name": "เป้าหมายที่ร้องขอ",
+      "desc": "+0.2 Resistance ต่อประเภท Attack ที่มี Resistance 1.5 หรือน้อยกว่า หากเป้าหมายที่มีเอฟเฟกต์นี้ถูกกำจัด จะได้รับทรัพยากร E.G.O 1 หน่วยสำหรับทุก Affinity และยูนิตที่กำจัดเป้าหมายจะฟื้นฟู SP 10 หน่วย"
+    },
+    {
+      "id": "GlowingLantern",
+      "name": "Fairy Lure",
+      "desc": "- Stack สูงสุด: 5 - เริ่มเทิร์น: Slot ซ้ายสุดบน Dashboard ได้รับ Aggro +10 - ได้รับความเสียหาย +50% - เมื่อถูกโจมตี จะสร้าง Rupture 1 หน่วย ให้กับ Attacker (3 ครั้งต่อ 1 Skill ของเป้าหมาย) · หากมี HP ต่ำกว่า 50%, จะสร้าง Rupture เพิ่มเติม 1 หน่วย · หากเป้าหมายมี Rupture 15+ หน่วย, เอฟเฟกต์นี้จะไม่สร้าง Rupture - ลดลง 1 หน่วยเมื่อจบเทิร์น"
+    },
+    {
+      "id": "HoldingBreath",
+      "name": "Deep Inhale",
+      "desc": "- Stack สูงสุด: 20 - เมื่อ Crit, หากมี Poise Potency 15+ และ Poise Count 5+, จะใช้ Poise Potency จำนวน (Poise Potency ของตนเอง / 5) เพื่อสร้างความเสียหายเพิ่มขึ้น +(Poise Potency ที่ใช้ x 4)% เมื่อ Critical Hit และเสีย 1 Stack",
+      "summary": "สร้างความเสียหายเมื่อ Critical Hit ได้รุนแรงขึ้น"
+    },
+    {
+      "id": "NebulizerInhale",
+      "name": "Nebulizer β",
+      "desc": "- Stack สูงสุด: 5 - เอฟเฟกต์นี้จะคงอยู่ตลอดการ Encounter - เมื่อเปิดใช้งาน Pride A-Reson.: เมื่อเริ่มการต่อสู้, มอบ Poise 3 หน่วย และ +3 Poise Count ให้กับตนเองและพันธมิตร (Stack) (ลำดับความสำคัญ: พันธมิตรที่ได้รับหรือใช้ Poise หรือ Poise Count; ในกลุ่มนั้น ให้ลำดับความสำคัญกับพันธมิตรที่มี Poise Potency ต่ำที่สุด)",
+      "summary": "ได้รับ Poise และ Poise Count"
+    },
+    {
+      "id": "Hohenheim_LowMorale",
+      "name": "Anguish",
+      "desc": "เริ่มเทิร์น: ได้รับ Fragile 1 หน่วย และ Heal Efficiency Down 2 SP"
+    },
+    {
+      "id": "Hohenheim_Panic",
+      "name": "Anguish",
+      "desc": "เริ่มเทิร์น: ได้รับ Fragile 2 หน่วย และ Heal Efficiency Down 3 SP"
+    },
+    {
+      "id": "BlackCloud",
+      "name": "Dark Cloud",
+      "desc": "Stack สูงสุด: 1 เปลี่ยน Base Attack Skill Coin ทั้งหมดของยูนิตนี้ที่ใช้ในเทิร์นนี้ให้เป็น Unbreakable Coin, ป้องกันความเสียหายจากการ Stagger ของยูนิตนี้จนกว่า Skill จะสิ้นสุด และสร้างเอฟเฟกต์ Bleed เพิ่มขึ้น +1 หน่วย เมื่อเสีย Clash: ได้รับ Final Power +3 จบเทิร์น: เอฟเฟกต์นี้จะหมดลง",
+      "summary": "เปลี่ยน Attack Skill เป็น Unbreakable Coin และได้รับเอฟเฟกต์ใหม่"
+    },
+    {
+      "id": "BlackCloudBlade",
+      "name": "Dark Cloud Blade",
+      "desc": "Max Stack: 1 ได้รับ Slash Power 1 หน่วย เมื่อโจมตีด้วยสกิล Slash จะทำให้เกิด Bleed 1 หน่วย",
+      "summary": "เสริมพลังสกิล Slash"
+    },
+    {
+      "id": "EngageToBattle",
+      "name": "Battle Ready",
+      "desc": "Max Value: 1 Potency และ Count ของ Bleed ที่ทำให้เกิดด้วยสกิลของยูนิตนี้ หรือเอฟเฟกต์ Coin: +1 ได้รับ Slash Power Up 1 หน่วย และ Slash DMG Up 3 หน่วย ตลอดระยะเวลาของ Encounter นี้",
+      "summary": "เสริมพลังสกิล Slash และทำให้เกิด Bleed มากขึ้น"
+    },
+    {
+      "id": "CloudWall",
+      "name": "Cumulus Wall",
+      "desc": "Max Stack: 1 Final Power ของสกิล Defense +1 เอฟเฟกต์นี้จะหมดลงเมื่อจบเทิร์น หรือเมื่อสิ้นสุด Attack ของสิ่งต่อไปนี้: 'Rules of the Backstreets'",
+      "summary": "เสริมพลังสกิล Defense"
+    },
+    {
+      "id": "ScarletResultUp",
+      "name": "Lust Power Up",
+      "desc": "สกิล Lust จะได้รับ Final Power ตาม Count ของเอฟเฟกต์เป็นเวลาหนึ่งเทิร์น"
+    },
+    {
+      "id": "NebulizerExhale",
+      "name": "Nebulizer α",
+      "desc": "- Max Stack: 5 - เอฟเฟกต์นี้จะคงอยู่ตลอดทั้ง Encounter - เมื่อเริ่มการต่อสู้: มอบ Poise Potency 1 หน่วย และ +1 Poise Count ให้กับพันธมิตรทั้งหมดรวมถึงยูนิตนี้"
+    },
+    {
+      "id": "ReleaseBreath",
+      "name": "Shallow Exhale",
+      "desc": "- Max Value: 1 - เมื่อมี Poise Potency 20+ หน่วย, จะได้รับ Count +1 ด้วยทุกครั้งที่ยูนิตนี้ได้รับ Poise Potency จากสกิลและเอฟเฟกต์ Coin - หมดลงเมื่อจบเทิร์น"
+    },
+    {
+      "id": "FirePunchFuel",
+      "name": "เชื้อเพลิง District 12",
+      "desc": "Stack สูงสุด: 100 ถูกใช้โดย Skill บางอย่าง เมื่อมี Stack 50- จะกลายเป็น Overheated Fuel",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FirePunchFuelOverheated",
+      "name": "Overheated Fuel",
+      "desc": "Stack สูงสุด: 100 ในสถานะ Overheated Fuel การใช้ District 12 Fuel จะเป็นการใช้ Overheated Fuel แทน การใช้ Overheated Fuel จะนับเป็นการใช้ District 12 Fuel เมื่อมี Stack เกิน 50 จะกลายเป็น District 12 Fuel",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DianxueDonQuixote",
+      "name": "Nerve Strike - Don Quixote",
+      "desc": "- Stack สูงสุด: 3 - ยูนิตที่สร้าง Nerve Strike นี้จะได้รับเอฟเฟกต์ดังต่อไปนี้ ตามจำนวน Nerve Strike Stack ของเป้าหมาย (หรือ Part ของเป้าหมาย) · 1 Stack: ได้รับ Clash Power +1 · 2 Stack: ได้รับ Base Power +1 · 3 Stack: ได้รับ Clash Power +1 และ Base Power +1 - เอฟเฟกต์จะหมดลงหากยูนิตที่สร้างเอฟเฟกต์นี้สร้างเอฟเฟกต์ดังกล่าวกับเป้าหมายอื่น (หรือ Part อื่น) - จะถูกแทนที่เมื่อมียูนิตอื่นสร้าง Nerve Strike",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VengeanceBookSinclair",
+      "name": "Book of Vengeance [Sinclair]",
+      "desc": "- Stack สูงสุด: 30 - สร้างความเสียหายเพิ่มขึ้นเท่ากับ (Stack)% (สูงสุด 30%) - ในเทิร์นถัดไป จะได้รับเอฟเฟกต์ดังต่อไปนี้ตามจำนวน Stack: · 10+ Stack: ได้รับ Blunt DMG Up 1 หน่วย · 20+ Stack: Max Speed +1, ได้รับ Power Up 1 หน่วย · 30 Stack: ได้รับ Blunt DMG Up 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VendettaMark",
+      "name": "Vendetta Mark",
+      "desc": "- Stack สูงสุด: 10 - ถูกใช้โดย Skill หรือ Passive บางอย่าง - ได้รับความเสียหายจากศัตรู The Middle เพิ่มขึ้น +2% ต่อ 1 Stack (สูงสุด 20%) - จบเทิร์น: ยูนิตที่มี Stack ของเอฟเฟกต์นี้สูงสุด จะได้รับ Sibling Vengeance Mark 1 หน่วยในเทิร์นถัดไป (นับแยกจาก Vengeance Mark; หากมียูนิตมากกว่าหนึ่งตัวที่มี Stack สูงสุดเท่ากัน เอฟเฟกต์นี้จะเลือกยูนิตที่มีเปอร์เซ็นต์ HP สูงกว่า)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RetaliationBookFamily",
+      "name": "Sibling Vengeance Mark",
+      "desc": "- Stack สูงสุด: 1 - หมดลงเมื่อจบเทิร์น - ทุก Identity จะถือว่ายูนิตนี้มี Vengeance Mark ของตนเอง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BirdCage",
+      "name": "Searing Birdcage",
+      "desc": "Stack สูงสุด: 5 หากยูนิตนี้มี Burn, Wrath Resistance +0.1 ต่อ 1 Stack (Wrath Resistance จากเอฟเฟกต์นี้ไม่สามารถเกิน 2.0 ได้) จบเทิร์น: ได้รับ Bind เท่ากับจำนวน Stack ในเทิร์นถัดไป จบเทิร์น: ลด Stack ลงครึ่งหนึ่ง (ปัดเศษลง) ※ ไม่สามารถเพิ่ม Stack ของเอฟเฟกต์นี้ได้ในขณะที่เอฟเฟกต์ยังทำงานอยู่",
+      "summary": "Wrath Resistance +0.1 ต่อ 1 Stack",
+      "undefined": "-"
+    },
+    {
+      "id": "WideAreaRampage",
+      "name": "Unfocused Volley",
+      "desc": "- เมื่อ Skill นี้พลิก Coin, แต่ละ Coin จะพลิกใส่ศัตรูแบบสุ่มในบรรดาเป้าหมาย · Coin แรกจะเล็งเป้าหมายหลักเสมอ · เอฟเฟกต์ 'On Hit' ทั้งหมดและความเสียหายทั้งหมดที่เกิดจากแต่ละ Coin จะส่งผลต่อเป้าหมายแบบสุ่มที่ Coin เลือกเท่านั้น",
+      "summary": "Attack แบบไม่เลือกหน้าในบรรดาเป้าหมายที่เลือก",
+      "undefined": "-"
+    },
+    {
+      "id": "ActivatedEgoPassive",
+      "name": "Passive ของ E.G.O",
+      "desc": "เปิดใช้งาน Passive ของ E.G.O",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstPoison",
+      "name": "Deathrite【Venom】",
+      "desc": "Stack เริ่มต้น: 5 - Deathrite - เมื่อ Rupture ทำงานจากการโดน Critical Hit โดยเป้าหมาย, เสีย 1 Stack - เมื่อเสีย Stack จากเอฟเฟกต์นี้, ได้รับ Offense Level Down 1 หน่วย หรือ Defense Level Down 1 หน่วย (3 ครั้งต่อเทิร์น) - เมื่อเสีย Stack จากเอฟเฟกต์นี้ หาก Stack ลดลงเหลือ 0, จะได้รับความเสียหาย Gluttony เท่ากับ Potency ของ Rupture แก่ตนเอง - ※ ไม่สามารถรับ Stack เพิ่มเติมของเอฟเฟกต์นี้ได้ในขณะที่ยังทำงานอยู่",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SnakeStance",
+      "name": "Serpent Arm",
+      "desc": "Stack สูงสุด: 3 จบเทิร์น: ได้รับ Poise 3 หน่วย และ +2 Poise Count ในเทิร์นถัดไป เมื่อใช้ Skill Attack พื้นฐาน, หากเป้าหมายมี Rupture, ได้รับ Poise 5 หน่วย จบเทิร์น: เสีย 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstZilu",
+      "name": "Deathrite 【Fissure】",
+      "desc": "- Stack เริ่มต้น: 3 - เมื่อ Rupture ทำงานในขณะที่ยูนิตนี้มี Deathrite, เสีย 1 Stack และได้รับ Bind 1 หน่วยในเทิร์นถัดไป · เมื่อเอฟเฟกต์นี้ทำงาน หากยูนิตนี้จะได้รับ Bind 3 หน่วยหรือมากกว่าในเทิร์นถัดไป, จะเสีย 2 Stack แทนการได้รับ Bind - เมื่อเหลือ 0 Stack, จะได้รับความเสียหาย Gluttony เท่ากับ Potency ของ Rupture แก่ตนเอง ※ ไม่สามารถรับ Stack เพิ่มเติมของเอฟเฟกต์นี้ได้ในขณะที่ยังทำงานอยู่",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtect",
+      "name": "Assist Defense",
+      "desc": "- Stack สูงสุด: 3 - เมื่อพันธมิตรกำลังจะโดน Attack แบบ Unopposed จากศัตรู, ใช้ 1 Stack เพื่อเปลี่ยนเป้าหมายของศัตรูมาที่ตนเอง; จากนั้น จะใช้ Skill พิเศษที่ทำงานสำหรับการ Assist Defense - เมื่อมีพันธมิตรหลายคนที่มี Stack ของ Assist Defense, พันธมิตรที่มี Stack สูงสุดจะมีลำดับความสำคัญในการทำงานสูงสุด - ไม่ทำงานสำหรับพันธมิตรที่ติดตั้ง Skill Defense - หมดอายุเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceZilu",
+      "name": "Tianjiu Star's Blade",
+      "desc": "- Stack สูงสุด: 20 - เมื่อมี 10+ Stack: เมื่อจบเทิร์น, ได้รับ Haste 1 หน่วยในเทิร์นถัดไป - ใช้สำหรับ Skill บางอย่าง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstVulnerableZilu",
+      "name": "Mark of Decay",
+      "desc": "- Stack สูงสุด: 1 - ได้รับความเสียหายจาก Skill Gluttony +10% - ได้รับความเสียหายจาก Deathrite +10% - ถูกลบออกเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtectTypo",
+      "name": "Assist Defense",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EntangledCurseTalisman",
+      "name": "ยันต์คำสาปบิดเบี้ยว",
+      "desc": "- Stack สูงสุด: 10 - หมดผลเมื่อจบเทิร์น - เมื่อมี 10+ Stack, หากได้รับความเสียหาย 30+ จาก Skill: ได้รับ Rupture Count +1; ได้รับความเสียหาย Gluttony เท่ากับ Rupture Potency แก่ตนเอง (หนึ่งครั้งต่อเทิร์น) - เมื่อเอฟเฟกต์นี้หมดลง, ได้รับ Attack Power Down (Stack / 4) ในเทิร์นถัดไป (สูงสุด 2) ※ ไม่สามารถเพิ่ม Stack ของเอฟเฟกต์นี้ได้ในขณะที่เอฟเฟกต์ยังทำงานอยู่",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CentipedePoison",
+      "name": "พิษตะขาบ",
+      "desc": "- Stack สูงสุด: 20 - จบเทิร์น: ได้รับ Defense Level Down (Stack / 4) ในเทิร์นถัดไป (ปัดเศษลง) - จบเทิร์น: ได้รับความเสียหาย Gluttony เท่ากับจำนวน Stack และลด Stack ลงครึ่งหนึ่ง (ปัดเศษลง) เมื่อตาย จะส่งต่อเอฟเฟกต์นี้ไปยังพันธมิตรของยูนิตนี้ (สำหรับ Focused Encounters จะส่งต่อไปยัง Part อื่น) ที่ไม่มีหรือมี Centipede Venom Stack น้อยที่สุด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DragonLance",
+      "name": "ลิ่มฝังบุปผา [埋花櫼]",
+      "desc": "Stack เริ่มต้น: 0 Stack สูงสุด: 3 - Coin ทั้งหมดบน Base Attack Skill ที่อยู่ซ้ายสุดบน Dashboard ของยูนิตนี้ จะกลายเป็น Unbreakable Coin - เริ่มเทิร์น: ได้รับ Offense Level Up 2 และ Defense Level Down 2 ต่อหนึ่ง Stack - เริ่มเทิร์น: เมื่อมี 3+ Stack, ได้รับ Tarnished Blood 1 (หนึ่งครั้งต่อ Encounter) - จบเทิร์น: ได้รับ 1 Stack ※ ไม่สามารถเพิ่ม Stack ของเอฟเฟกต์นี้ด้วยวิธีอื่นนอกเหนือจากที่ระบุไว้ข้างต้น - หมดผลเมื่อตายหรือ Retreat - เมื่อยูนิตนี้ได้รับความเสียหายที่ทำให้ HP ลดลงเหลือ 0: แทนที่จะให้ HP ของยูนิตนี้ลดลงต่ำกว่า 1 หรือติด Stagger หรือถูกกำจัด ให้ใช้ Skill 'Tears of the Tarnished Blood - The End' ในช่วงท้ายสุดของเทิร์นนั้น และลบ Flower-burying Wedge ออกเมื่อ Skill สิ้นสุดลง เมื่อยูนิตนี้ได้รับความเสียหายที่ทำให้ HP ลดลงเหลือ 1 เมื่อจบเทิร์น ให้ใช้ Skill 'Tears of the Tarnished Blood - The End' ตาม Speed ของยูนิตนี้ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CondensedBlood",
+      "name": "เลือดมัวหมอง",
+      "desc": "Stack สูงสุด: 5 - จบเทิร์น: ได้รับความเสียหาย HP 20% ต่อหนึ่ง Stack (ไม่สามารถติด Stagger จากเอฟเฟกต์นี้ได้) - ได้รับ 1 Stack เมื่อจบเทิร์น - หมดผลเมื่อตายหรือ Retreat",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonSelf",
+      "name": "เข็มฝังบุปผา [埋花針]",
+      "desc": "Stack สูงสุด: 20 - ได้รับ 1 Stack เมื่อจบเทิร์นหรือเมื่อถูกโจมตี - ได้รับ 1 Offense Level ต่อทุกๆ 5 Stack - หากยูนิตที่มีเอฟเฟกต์นี้ตาย จะสร้างความเสียหาย Gluttony เท่ากับจำนวน Stack และมอบ Rupture 5 หน่วย - หมดผลเมื่อตายหรือ Retreat",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonNodie",
+      "name": "ปฏิเสธ [不許]",
+      "desc": "เมื่อยูนิตนี้ได้รับความเสียหายที่ทำให้ HP ลดลงเหลือ 0: HP ของยูนิตนี้จะไม่ลดลงต่ำกว่า 1 และฟื้นตัวจาก Stagger ที่เกิดจากความเสียหาย หากเอฟเฟกต์ข้างต้นทำงาน ยูนิตนี้จะตายเมื่อจบเทิร์น หมดผลเมื่อตาย, Retreat หรือจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonBurst",
+      "name": "หนามมีดโกน",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WaitingXichun",
+      "name": "เตรียมพร้อม [待]",
+      "desc": "- Stack สูงสุด: 3 - จำนวนเทิร์นที่ยูนิตนี้อยู่ในสถานะ Retreat หรือเป็นยูนิต Backup",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StartXichun",
+      "name": "Launcher [始]",
+      "desc": "- Stack สูงสุด: 6 - จำนวนเทิร์นที่ยูนิตนี้อยู่ในสถานะ Active ในการปะทะ - หมดผลเมื่อ Retreat - ได้รับ 1 Stack เมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CheerUpXichun",
+      "name": "Assist [援]",
+      "desc": "- Stack สูงสุด: 1 - หากเป้าหมายมีเอฟเฟกต์ด้านลบ 5 ประเภทขึ้นไป, Clash Power +1, สร้างความเสียหาย +10%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RetreatForCommon",
+      "name": "Battlefield Retreat",
+      "desc": "- จบเทิร์น: ฟื้นตัวจาก Stagger และ Retreat ออกจาก Encounter (ไม่รวมการถูกบังคับ Stagger; ไม่นับว่าเป็นการตาย) · ใน Chain Battles จะส่งต่อ Slot ของยูนิตนี้ให้ยูนิตที่มา Substitute และย้ายไปอยู่ในลำดับท้ายสุดของยูนิต Backup (หากไม่มียูนิต Backup อื่นเหลือให้สลับที่ในเทิร์นถัดไป จะเป็นการหลบหนีออกจาก Encounter โดยสมบูรณ์ เมื่อกลับเข้าสู่การต่อสู้ จะกลับมาตามลำดับที่ Retreat ออกไป) · เมื่อกลับเข้าสู่การต่อสู้ จะกลับมาพร้อมกับจำนวน HP และ SP เท่ากับที่ยูนิตนี้มีตอน Retreat และล้างเอฟเฟกต์ทั้งหมดบนตัว ยกเว้นบางเอฟเฟกต์ที่กำหนด (หากยูนิตนี้มี SP น้อยกว่า 0 ตอน Retreat ให้รีเซ็ต SP เป็น 0 แทน)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FireBulletPropellant",
+      "name": "Scorch Propellant Ammo",
+      "desc": "- Ammo เฉพาะตัว - Stack สูงสุด: 15 - ถูกใช้เมื่อใช้ Skill บางอย่าง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SingBulletSupport",
+      "name": "(เอฟเฟกต์เป้าหมายที่ได้รับการเติมกระสุนของ The Thumb Sincle)",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantAlly",
+      "name": "Tigermark Round",
+      "desc": "- Ammo เฉพาะตัว - เมื่อใช้ (ผลรวมสะสมของ Tigermark Round และ Savage Tigermark Round) ครบ 8+ นัด, จะได้รับ Shin (心) - Tiantui Star [天退星] แทน Tiantui Star [天退星] จาก Passive ของยูนิตนี้ - ความจุสูงสุด: 12",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantSpecialAlly",
+      "name": "Savage Tigermark Round",
+      "desc": "- Ammo เฉพาะตัว - เมื่อใช้ (ผลรวมสะสมของ Tigermark Round และ Savage Tigermark Round) ครบ 8+ นัด, จะได้รับ Shin (心) - Tiantui Star [天退星] แทน Tiantui Star [天退星] จาก Passive ของยูนิตนี้ - เปิดใช้งานในลักษณะเดียวกับ Tigermark Round - ความจุสูงสุด: 8",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IrritationAlly",
+      "name": "Tiantui Star [天退星]",
+      "desc": "- Min & Max Speed +1 - หาก Speed ของยูนิตนี้เร็วกว่าเป้าหมายตั้งแต่ 3 ขึ้นไป, สร้างความเสียหาย +(ส่วนต่าง Speed x 2.5)% (สูงสุด 20%) - มอบ Tremor Potency +1 และ Tremor Count +1 เพิ่มขึ้นด้วย Skill ของยูนิตนี้ - หากยูนิตนี้ใช้ (ผลรวมของ Tigermark Round และ Savage Tigermark Round) ครบ 8+ นัด: เมื่อจบเทิร์น จะเปลี่ยนบัฟนี้เป็น Shin (心) - Tiantui Star [天退星] ในเทิร์นถัดไป - Stack สูงสุด: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HugeIrritationAlly",
+      "name": "Shin (心) - Tiantui Star [天退星]",
+      "desc": "- Min & Max Speed +3 - หาก Speed ของยูนิตนี้สูงกว่าเป้าหมายตั้งแต่ 3 ขึ้นไป, สร้างความเสียหาย +(ส่วนต่าง Speed x 5)% (สูงสุด 40%) - มอบ Tremor Potency และ Tremor Count เพิ่มขึ้น +2 หน่วย ด้วย Skill ของยูนิตนี้ - Max Stack: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BeastEyesAlly",
+      "name": "Overheat",
+      "desc": "- สูญเสียเอฟเฟกต์นี้เมื่อยูนิตนี้ได้รับ Savage Tigermark Round - Min & Max Speed +2 - Base Attack Skills สูญเสีย Clash Power ตาม (จำนวน Tigermark & Savage Tigermark Rounds ที่ใช้สะสม / 2) (สูงสุด 10); อย่างไรก็ตาม จะได้รับเอฟเฟกต์ดังต่อไปนี้ (สะสม): · ใช้ครบ 8+ รอบ: เมื่อเริ่มเทิร์น ได้รับ 1 Protection ต่อทุกๆ 10% ของ HP ที่หายไปของตนเอง (สูงสุด 5) · ใช้ครบ 14+ รอบ: เมื่อ Clash สูญหาย, Unbreakable Coin ของ Base Attack Skills ของยูนิตนี้จะสร้างความเสียหาย +(75 + เปอร์เซ็นต์ HP ที่หายไปของตนเอง)% (สูงสุด 150%) · ใช้ครบ 20+ รอบ: สร้างความเสียหาย +(ส่วนต่างเปอร์เซ็นต์ HP)% ต่อเป้าหมายที่มีเปอร์เซ็นต์ HP คงเหลือสูงกว่ายูนิตนี้ (สูงสุด 50%; ยกเว้น E.G.O Skills)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RoseThorn",
+      "name": "Gluttonous Thorn (貪食棘)",
+      "desc": "Max Stack: 9 จบเทิร์น: ได้รับ Bleed Count เท่ากับ Lust Reson., จากนั้นสูญเสีย 1 Gluttonous Thorn (貪食棘) (ได้รับ Bleed Count สูงสุด: 5) ในขณะที่ยูนิตนี้มีเอฟเฟกต์นี้ หากได้รับ Bleed Potency เกิน 99, เพิ่ม Bloodfeast เท่ากับ Bleed Potency ส่วนที่เกิน; จากนั้น, ได้รับ Defense Level Down ในเทิร์นถัดไปเท่ากับ Bloodfeast ที่เพิ่มขึ้น (ได้รับ Defense Level Down สูงสุด: 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoSuperCharge",
+      "name": "Near-light Superbattery",
+      "desc": "- Max Stack: 100 - เมื่อใช้ Charge Count, นำจำนวนที่ใช้เพิ่มเข้าไปใน Stack ของบัฟนี้ - Max Charge Count Cap +10 - ได้รับ 1 Charge Count เมื่อพันธมิตรได้รับ Charge Potency หรือ Count - เมื่อยูนิตนี้ใช้ Charge Count ด้วย Skill, จะใช้ Charge Count ในจำนวนที่เท่ากันเพิ่มอีก 1 ครั้ง (หาก Charge Count มีไม่เพียงพอ ให้ใช้เท่าที่มี) - สร้างความเสียหาย +10% ต่อทุกๆ 10 Stack - ศัตรูได้รับ Resistance +0.1 ต่อการโจมตีของยูนิตนี้ต่อทุกๆ 20 Stack (สูงสุด +0.5 Resist; ไม่ทำงานกับศัตรูที่ติด Staggered) - เมื่อ Identity ที่มีเอฟเฟกต์นี้ตาย บัฟจะถูกถ่ายโอนไปยังพันธมิตรที่อยู่ในลำดับ Deployment ลำดับที่สองถัดจากยูนิตนี้ โดยจะถ่ายโอน Stack ไปด้วย - เอฟเฟกต์นี้ทำงานกับ 'Unique Charge' เช่นกัน",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ShareCharge",
+      "name": "Self Resonance Circuitry",
+      "desc": "ผลรวมทั้งหมดของ Charge Count ที่พันธมิตรทั้งหมดมีอยู่ในปัจจุบัน เมื่อโจมตีด้วย Skill: สร้างความเสียหาย +(ผลรวม charge count ของพันธมิตรทั้งหมด / 3)% พันธมิตรทั้งหมดได้รับ 1 Offense Level Up ต่อทุกๆ 100 Charge Count สะสมที่ถูกใช้โดยพันธมิตร",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WaveSinking",
+      "name": "Reflux",
+      "desc": "- Max Stack: 3 เมื่อถูกโจมตี, ได้รับ Sinking Potency เท่ากับ Stack จบเทิร์น: หากยูนิตนี้มี SP -30 หรือน้อยกว่า, จะเปิดใช้งานเอฟเฟกต์ดังต่อไปนี้ (สำหรับยูนิตที่ไม่มี SP จะทำงานที่ Sinking Potency 60+) - ได้รับความเสียหาย Gloom ตาม (Sinking Potency ของตนเอง x Stack) - มอบ 1 Reflux ให้กับเป้าหมายอื่น 2 รายที่มี SP น้อยที่สุด (สำหรับ Abnormalities ให้ใช้ Parts); จากนั้น, สร้างความเสียหาย Gloom (Sinking Potency x Stack) แก่เป้าหมายทั้งสองรายตามลำดับ หากยูนิตที่มี Reflux ตาย ให้ถ่ายโอน Reflux Stack ไปยังพันธมิตรที่มี Reflux stack สูงที่สุด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FellBulletPersonality",
+      "name": "Fell Bullet",
+      "desc": "Max Stack: 1 สร้างความเสียหาย Critical Hit +3% ต่อทุกๆ Torn Memory (สูงสุด 18%) เมื่อโจมตี, มอบ 1 Bleed (3 ครั้งต่อเทิร์น) เมื่อสังหาร, ได้รับ 3 Poise และ +2 Poise Count (2 ครั้งต่อเทิร์น) สิ้นสุดผลเมื่อจบเทิร์น",
+      "summary": "สร้างความเสียหาย Crit แรงขึ้น, มอบ Bleed มากขึ้น",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouDeathCount",
+      "name": "Life from Death [死中求活]",
+      "desc": "- Stack สูงสุด: 5 - เริ่มเทิร์น: เปิดใช้งานผลดังต่อไปนี้ · ได้รับ Offense Level Up 1 หน่วย ต่อ 1 Stack (สูงสุด 5) · ได้รับ Damage Up 1 หน่วย ต่อ 2 Stack (สูงสุด 2) · ได้รับ Attack Power Up 1 หน่วย เมื่อมี 3+ Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouCombo",
+      "name": "คำสั่งอันสูงส่ง",
+      "desc": "- หากยูนิต A มอบเอฟเฟกต์นี้ให้ยูนิต B: ยูนิต B จะโจมตีต่อเนื่องด้วย Attack แบบ Unopposed โดยใช้ Base Skill 3 ใส่ศัตรูตัวเดียวกับที่ยูนิต A โจมตีด้วย Skill เปิดใช้งานเมื่อสิ้นสุด Attack ของยูนิต A (ไม่เปิดใช้งานในฐานะ Empowered Skills) - Skill ที่ใช้เป็น Assist Attack จะไม่ส่งผลต่อลำดับ Skill ถัดไปของยูนิต B - ไม่เปิดใช้งานหาก Skill 3 ของพันธมิตรที่ได้รับผลยังไม่ถูกปลดล็อก",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouComboCount",
+      "name": "พายุที่ไม่หยุดยั้ง",
+      "desc": "- จำนวนครั้งที่ยูนิตนี้เปิดใช้งานคอมโบกับ Identity The Lord of Hongyuan Hong Lu - Stack สูงสุด: 2 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 หน่วย และ Defense Level Up 1 หน่วย ต่อ 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouAttack",
+      "name": "เจตจำนงของท่านนำทางคมดาบของข้า",
+      "desc": "- หากยูนิต A มอบเอฟเฟกต์นี้ให้ยูนิต B: ยูนิต B จะโจมตีต่อเนื่องด้วย Attack แบบ Unopposed โดยใช้ Skill 1 ใส่ศัตรูตัวเดียวกับที่ยูนิต A โจมตีด้วย Skill เปิดใช้งานเมื่อสิ้นสุด Skill Attack ของยูนิต A - Skill ที่ใช้เป็น Assist Attack จะไม่ส่งผลต่อลำดับ Skill ถัดไปของยูนิต B",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouSupportProtect",
+      "name": "องครักษ์เจ้าเมือง",
+      "desc": "- Assist Defense เฉพาะตัว - Stack สูงสุด: 1 - เมื่อ The Lord of Hongyuan Hong Lu กำลังจะถูกโจมตีด้วย Attack แบบ Unopposed จากศัตรู ให้ใช้ 1 Stack เพื่อเปลี่ยนเป้าหมายของศัตรูมาที่ตนเอง จากนั้นคัดลอกและใช้ Skill 'Lordsguard' ของ The Lord of Hongyuan Hong Lu - เมื่อมีพันธมิตรหลายคนที่มี Assist Defense Stack พันธมิตรที่มี Stack สูงที่สุดจะมีลำดับการเปิดใช้งานสูงสุด - เอฟเฟกต์นี้ถือเป็น Assist Defense และถูกนำไปคำนวณ Assist Defense Stack - หมดผลเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouSynergy",
+      "name": "ผู้ถือโซ่ตรวนแห่ง Heishou ทั้งมวล",
+      "desc": "- Stack สูงสุด: 11 - ได้รับเอฟเฟกต์ดังต่อไปนี้ตามจำนวน Stack: · ทุก 1 Stack, ได้รับ Max Speed +1 (สูงสุด 5) และสร้างความเสียหายด้วย Skill +1% · ทุก 2 Stack, ได้รับ Min Speed +1 (สูงสุด 2) และ Defense Level Up 1 หน่วย (สูงสุด 5) · ทุก 3 Stack, ได้รับ Offense Level Up 1 หน่วย (สูงสุด 3) · เมื่อมี 5+ Stack, ได้รับ Damage Up 1 หน่วย และมอบ Offense Level Up 1 หน่วย ให้กับ Identity Heishou Pack ทั้งหมด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeishouComboCountHonglu",
+      "name": "การปนเปื้อน Heishou Bolus [黑獣丸染]",
+      "desc": "- Stack สูงสุด: 11 - เสริมพลังให้ The Lord of Hongyuan Hong Lu ตาม Heishou ที่เปิดใช้งานคอมโบด้วย - เอฟเฟกต์ Heishou Bolus Contamination สามารถสะสมทับกันได้ · Heishou - Mao Adept Faust: ได้รับความเสียหายจาก Skill -5% · Heishou - Mao Ryōshū: หาก Speed ของยูนิตนี้เร็วกว่าเป้าหมาย, สร้างความเสียหาย +5% · Heishou - Mao Outis: มอบ Rupture Count +1 เมื่อโจมตีด้วย Unopposed Attack (หนึ่งครั้งต่อเทิร์น) · Heishou - Si Rodion: มอบ Rupture 1 หน่วย เมื่อโจมตี Critical (3 ครั้งต่อเทิร์น) · Heishou - Si Gregor: ได้รับ Poise Count +1 เมื่อสร้างความเสียหาย Rupture (หนึ่งครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkHongluQiuAndHonglu",
+      "name": "ผู้ย่างกรายบนวิถีแห่งจอมราชัน",
+      "desc": "- Skill ของ Hong Lu ได้รับ Final Power +1 - เมื่อชนะ Clash, พันธมิตร 1 คน (รวมยูนิตนี้) ที่มี SP น้อยที่สุด จะฟื้นฟู SP 5 หน่วย - เมื่อพันธมิตรตาย ในเทิร์นถัดไป ยูนิตนี้จะได้รับ Attack Power Up 2 หน่วย และพันธมิตรที่เหลือจะได้รับ Attack Power Up 1 หน่วย (หนึ่งครั้งต่อเทิร์น)",
+      "summary": ""
+    },
+    {
+      "id": "DarkHongluTeaching",
+      "name": "การยัดเยียดที่ไม่อาจประนีประนอม",
+      "desc": "Stack สูงสุด: 3 - จบเทิร์น: ฟื้นฟู SP 5 หน่วย - เมื่อ HP ลดลงเหลือ 0 ระหว่าง Encounter, ฟื้นฟู HP จนถึงค่าสูงสุด (ทำงานตามจำนวน Stack ที่ยูนิตนี้มี) - เมื่อได้รับการฟื้นฟูจากเอฟเฟกต์นี้, ได้รับ Power Up 1 หน่วยในเทิร์นถัดไป",
+      "summary": ""
+    },
+    {
+      "id": "DarkHongluParryGahwan",
+      "name": "พี่ชายน่ะ ตลกสิ้นดี",
+      "desc": "ใน Clash ที่ปะทะกับ Jia Huan, Clash Power +2",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_EGOResourceup",
+      "name": "ไม่ว่าต้อง Bleed ไปเท่าไหร่...",
+      "desc": "[Hong Lu Exclusive Effect] - สำหรับ Encounter นี้: หลังจากใช้ Skill Attack, ได้รับทรัพยากร E.G.O เพิ่มเติม 2 หน่วยตาม Affinity ของ Skill นั้น (หนึ่งครั้งต่อเทิร์น) - เมื่อยูนิตนี้ได้รับความเสียหาย, จะได้รับ Slash DMG Up 2 หน่วยในเทิร์นถัดไป (หนึ่งครั้งต่อเทิร์น)",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_Xi",
+      "name": "ความสุข",
+      "desc": "- Clash Power ของ Hong Lu +1 - เมื่อมีพันธมิตรเหลือรอดตั้งแต่ 1 คนขึ้นไปใน Encounter นี้: เมื่อได้รับความเสียหายถึงแก่ชีวิต Hong Lu จะไม่ตายและฟื้นฟู HP 50% แทน - ยกเลิกเอฟเฟกต์ที่เปลี่ยนยูนิตนี้ให้กลายเป็น Precious Jade หนึ่งครั้ง เมื่อปะทะกับ Skill ที่เปลี่ยนยูนิตนี้ให้กลายเป็น Precious Jade, Clash Power +5; หากยูนิตนี้ชนะ Clash นั้น ยูนิตนี้จะไม่กลายเป็น Precious Jade, ฟื้นตัวจาก Stagger, ลด SP ของ Jia Mu ลง 10 และสร้าง Fragile 2 หน่วยใส่ Jia Mu เมื่อชนะ Clash ต่อ Jia Mu, ได้รับทรัพยากร E.G.O แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinity ที่มีทรัพยากรน้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_Le",
+      "name": "ความสุข, ความปิติ",
+      "desc": "- Final Power ของ Hong Lu +1 - เมื่อชนะ Clash, ฟื้นฟู SP 5 หน่วย ให้กับพันธมิตร 1 คนที่มี SP น้อยที่สุด (รวมถึงยูนิตนี้ด้วย) - เมื่อมีพันธมิตรเหลือรอดตั้งแต่ 1 คนขึ้นไปใน Encounter นี้: เมื่อได้รับความเสียหายถึงแก่ชีวิต Hong Lu จะไม่ตายและฟื้นฟู HP 50% แทน เมื่อชนะ Clash ต่อ Jia Mu, ได้รับทรัพยากร E.G.O แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinity ที่มีทรัพยากรน้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_Ai",
+      "name": "ความสุข, ความปิติ, ความโศกเศร้า",
+      "desc": "- Final Power ของ Hong Lu +3 - เมื่อชนะ Clash, ฟื้นฟู SP 5 หน่วย ให้กับพันธมิตร 1 คนที่มี SP น้อยที่สุด (รวมถึงยูนิตนี้ด้วย) - เมื่อพันธมิตรถูกสังหาร พันธมิตรที่เหลืออยู่จะได้รับ Attack Power Up 1 หน่วยในเทิร์นถัดไปเมื่อจบเทิร์น (หนึ่งครั้งต่อเทิร์น) - เมื่อมีพันธมิตรเหลือรอดตั้งแต่ 1 คนขึ้นไปใน Encounter นี้: เมื่อได้รับความเสียหายถึงแก่ชีวิต Hong Lu จะไม่ตายและฟื้นฟู HP 50% แทน เมื่อชนะ Clash ต่อ Jia Mu, ได้รับทรัพยากร E.G.O แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinity ที่มีทรัพยากรน้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "DarkHonglu_Nu",
+      "name": "ความสุข, ความปิติ, ความโศกเศร้า, ความโกรธแค้น",
+      "desc": "- Final Power ของ Hong Lu +5 - พันธมิตรฟื้นฟู SP 5 หน่วย ทุกครั้งที่เริ่มเทิร์น (รวมถึงยูนิตนี้ด้วย) - เมื่อพันธมิตรถูกสังหาร พันธมิตรที่เหลืออยู่จะได้รับ Attack Power Up 1 หน่วยในเทิร์นถัดไปเมื่อจบเทิร์น (หนึ่งครั้งต่อเทิร์น) - เมื่อมีพันธมิตรเหลือรอดตั้งแต่ 1 คนขึ้นไปใน Encounter นี้: เมื่อได้รับความเสียหายถึงแก่ชีวิต Hong Lu จะไม่ตายและฟื้นฟู HP 50% แทน - เพิ่มความเสียหายที่ทำได้ 30% ของเปอร์เซ็นต์ HP ทั้งหมดที่ยูนิตนี้เสียไปสะสมใน Encounter นี้ (สูงสุด 100%) เมื่อชนะ Clash ต่อ Jia Mu, ได้รับทรัพยากร E.G.O แบบสุ่มอย่างละ 1 หน่วย จาก 3 E.G.O Affinity ที่มีทรัพยากรน้อยที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "ChickenStance",
+      "name": "Bloodflame [血炎]",
+      "desc": "- Stack สูงสุด: 3 - ยูนิตนี้จะสร้าง Burn และ Potency ของ Rupture เพิ่มขึ้น +1 ด้วย Base Skill - ขณะที่ยูนิตนี้มีเอฟเฟกต์นี้, ฟื้นฟู SP 3 หน่วย เมื่อทำให้ศัตรู Stagger หรือกำจัดศัตรูได้ (3 ครั้งต่อเทิร์น) · หาก SP ของยูนิตนี้อยู่ที่ระดับสูงสุดเมื่อเอฟเฟกต์ข้างต้นทำงาน, จะได้รับ Offense Level Up 1 และ Haste 1 ในเทิร์นถัดไป - ลด 1 Stack เมื่อจบเทิร์น",
+      "summary": "สร้าง Burn หรือ Rupture เพิ่มขึ้น +1"
+    },
+    {
+      "id": "LegStrengthHorseYisang",
+      "name": "Strider【Wu】",
+      "desc": "- Stack สูงสุด: 3 - จบเทิร์น: ได้รับ Haste 2 หน่วย และ Aggro (Stack x 2) ในเทิร์นถัดไป - ก่อน Attack: สร้าง Potency ของ Tremor ตามจำนวน (Stack) แก่เป้าหมายหลัก (สูงสุด 6 หน่วยต่อเทิร์น) - ลด 1 Stack เมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "ConcussionYisang",
+      "name": "Concussion",
+      "desc": "- Stack สูงสุด: 2 - คูณจำนวนการเพิ่ม Stagger Threshold จาก Tremor Burst และความเสียหาย Rupture ที่ยูนิตนี้ได้รับด้วย 1.2 (ปัดเศษลง) - ลด 1 Stack เมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "BreakthroughHorse",
+      "name": "Linebreaker",
+      "desc": "- Stack สูงสุด: 5 - เริ่มเทิร์น: ได้รับ Shield (Stack x 10) สำหรับเทิร์นนี้ - เมื่อ Stack สูงสุด, ได้รับ Final Power 2 - เมื่อถูกโจมตี: หากยูนิตนี้ได้รับความเสียหาย 100+ จาก Skill เดียว, จะได้รับ Protection 1 หลังจาก Skill นั้นสิ้นสุดลง (2 ครั้งต่อเทิร์น; รวมความเสียหายต่อ Shield HP; ไม่นับความเสียหายจาก Keyword)",
+      "summary": ""
+    },
+    {
+      "id": "BattlefieldHorse",
+      "name": "Commanding Cry",
+      "desc": "- ได้รับ Clash Power 1 และ Defense Level 2 - สิ้นสุดเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "VibrationBleeding",
+      "name": "Tremor - Hemorrhage",
+      "desc": "- เมื่อเกิด Tremor Burst, ได้รับ Lust Damage เท่ากับ (ผลรวมของ Potency ของ Tremor และ Potency ของ Bleed / 2), และเสีย Bleed Count 1 หน่วย - เมื่อถูกโจมตีด้วย Skill ที่ทำให้เกิด Tremor Burst, จะเพิ่ม Stagger Threshold ของยูนิตนี้ตาม Potency ของเอฟเฟกต์นั้น - จบเทิร์น: ลด Count ลง 1 (มีปฏิสัมพันธ์แบบเดียวกับ Tremor ปกติ ต่อเอฟเฟกต์ที่เพิ่มหรือลด Potency/Count ของ Tremor)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GazeRyoshu",
+      "name": "Gaze",
+      "desc": "- Stack สูงสุด: 7 - ได้รับและสร้างความเสียหายเพิ่มขึ้น +10% จากและต่อ Ryōshū ต่อทุก 1 Stack ของ Gaze - เมื่อตาย, จะส่งต่อเอฟเฟกต์นี้ไปยังพันธมิตรของยูนิตนี้ (สำหรับ Focused Encounters จะเป็น Part อื่น) ที่ไม่มี Contempt หรือ Gaze หรือมี Contempt หรือ Gaze น้อยที่สุด (เอฟเฟกต์นี้จะไม่ทำงานหากยูนิตนี้ถูกกำจัดด้วยการโจมตีของ Skill 'Cascading Gaze of Awe Underneath Contempt') - จบเทิร์น: เมื่อมี 7 Stack, จะเปลี่ยนเอฟเฟกต์นี้เป็น Contempt ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ContemptRyoshu",
+      "name": "Contempt",
+      "desc": "- Stack สูงสุด: 1 - ได้รับและสร้างความเสียหายลดลง -50% จากและต่อ Ryōshū - เป้าหมายที่มี Contempt จะไม่สามารถได้รับ Gaze - เมื่อตาย, จะส่งต่อเอฟเฟกต์นี้ไปยังพันธมิตรของยูนิตนี้ (สำหรับ Focused Encounters จะเป็น Part อื่น) ที่ไม่มี Contempt หรือ Gaze หรือมี Contempt หรือ Gaze น้อยที่สุด (เอฟเฟกต์นี้จะไม่ทำงานหากยูนิตนี้ถูกกำจัดด้วยการโจมตีของ Skill 'Cascading Gaze of Awe Underneath Contempt') - จบเทิร์น: สิ้นสุดเอฟเฟกต์; จากนั้น ยูนิตนี้จะได้รับ Gaze 7 ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CommonExit",
+      "name": "หลบหนีจากสนามรบ",
+      "desc": "- จบเทิร์น: ฟื้นตัวจาก Stagger และหลบหนีจากการปะทะ (ไม่รวมกรณีถูกบังคับให้ Stagger และไม่นับว่าเป็นการตาย)",
+      "summary": ""
+    },
+    {
+      "id": "CuredFilm",
+      "name": "Hardened Shell-Barrier",
+      "desc": "- เริ่มเทิร์น: ได้รับ Defense Level Up ตามจำนวน (Stack / 3) (สูงสุด 3; ปัดเศษลง) - ทันทีก่อนจะถูกศัตรูโจมตี, ใช้ Hardened Shell-Barrier ครึ่งหนึ่งเพื่อได้รับ Protection เท่ากับจำนวน Stack ที่ใช้ไป (หนึ่งครั้งต่อเทิร์น; ปัดเศษขึ้น) - จบเทิร์น: เสีย 3 Stack - Stack สูงสุด: 10",
+      "summary": "ได้รับ Defense Level Up ทันทีก่อนได้รับความเสียหายจาก Skill, ใช้ Stack เพื่อได้รับ Protection"
+    },
+    {
+      "id": "Cianjing",
+      "name": "Thunderer",
+      "desc": "- เริ่มเทิร์น: ได้รับ 1 Offense Level Up และ 1 Defense Level Up - จบเทิร์น: เสีย 1 Stack - Stack สูงสุด: 5",
+      "summary": "ได้รับ Offense Level Up & Defense Level Up"
+    },
+    {
+      "id": "SeniorCianjing",
+      "name": "Higher Thunderer",
+      "desc": "- เริ่มเทิร์น: ได้รับ 2 Offense Level Up และ 2 Defense Level Up - จบเทิร์น: เสีย 1 Stack - Stack สูงสุด: 5",
+      "summary": "ได้รับ Offense Level Up & Defense Level Up"
+    },
+    {
+      "id": "MlynarWaiting",
+      "name": "Man in Scabbard",
+      "desc": "- Stack สูงสุด: 40 - ทุกๆ (Stack / 8), ได้รับ 1 Aggro (สูงสุด 5; ปัดเศษลง; ส่งผลต่อ Skill Slot ซ้ายสุดบน Dashboard) - ทุกๆ (Stack / 20), ได้รับ 1 Protection (สูงสุด 2; ปัดเศษลง) - ได้รับ 10 Stack เมื่อจบเทิร์น ※ ได้รับสูงสุด 20 ต่อเทิร์น"
+    },
+    {
+      "id": "ArrowShiFau",
+      "name": "Arrow - Shi",
+      "desc": "- ความจุขั้นต่ำ: 0 - ความจุสูงสุด: 4 - ลูกธนูที่ใช้โดย Skill บางอย่าง",
+      "undefined": "-"
+    },
+    {
+      "id": "ArrowInTheEyeFau",
+      "name": "Lodged Arrow",
+      "desc": "- Stack สูงสุด: 4 - เริ่มเทิร์น: ได้รับ Potency ของ Bleed ตามจำนวน Stack - เสีย Level ของ Defense ตามจำนวน Stack - จบเทิร์น: หากมี 2+ Stack, ได้รับ Fragile 1 หน่วยในเทิร์นถัดไป (เทิร์นละหนึ่งครั้ง) - สิ้นสุดผลเมื่อ: ตาย, ถอนตัว, หรือบัฟถูกลบ/หมดเวลา เมื่อสิ้นสุดผล ให้ใช้ Arrow - Shi กับ Shi East Section 3 Faust ตามจำนวน Stack",
+      "undefined": "-"
+    },
+    {
+      "id": "AimForTheGoal",
+      "name": "Target Aim",
+      "desc": "- Stack สูงสุด: 4 - สิ้นสุดผลหากยูนิตนี้ไม่มี \"Ready to Loose\"",
+      "undefined": "-"
+    },
+    {
+      "id": "SnipingArrowMode",
+      "name": "Ready to Loose",
+      "desc": "- เมื่อยูนิตนี้มีเอฟเฟกต์นี้ ให้เปิดใช้งานสิ่งต่อไปนี้: · เปลี่ยน Base Attack Skill ที่อยู่ซ้ายสุดบน Dashboard เป็น \"Bow's Glimmer\" จากนั้นใช้งานเมื่อเริ่มการต่อสู้ · ยูนิตนี้จะไม่ถูก Stagger จากการได้รับความเสียหาย, Tremor Burst หรือการเพิ่ม Stagger Threshold · ไม่ส่งผลให้เกิด <noparse>Assist Attack</noparse> · ถูกลบออกหากมีการติดตั้ง E.G.O Skill เมื่อเริ่มการต่อสู้",
+      "undefined": "-"
+    },
+    {
+      "id": "AStrokeOfDeath",
+      "name": "Liferender",
+      "desc": "- Offense Level +2 - Final Power +1 - สิ้นสุดผลเมื่อจบเทิร์น",
+      "undefined": "-"
+    },
+    {
+      "id": "WOverCharge",
+      "name": "Overcharge",
+      "desc": "- ค่าสูงสุด: 1 - ตกอยู่ในสถานะ Immobilized - ได้รับความเสียหายน้อยลง 10 + (Charge Potency ของตนเอง x 5)% (สูงสุด 25%) - เริ่มเทิร์น: ได้รับ Charge Barrier ตาม Potency ของ Charge ของตนเอง (สูงสุด 5) - จบเทิร์น: ได้รับ Charge Count +10 และ Attack Power Up 2 หน่วยในเทิร์นถัดไป จากนั้นเสียเอฟเฟกต์นี้ - เพิ่ม Aggro ให้กับ Slot ซ้ายสุดของยูนิตนี้ตาม Potency ของ Charge ของตนเอง (สูงสุด 5) - เมื่อถูกโจมตี ได้รับ Charge Count +1 และ Load 1 หน่วยในเทิร์นถัดไป (สูงสุด 5 ต่อเทิร์น) - หากยูนิตนี้อยู่ในสถานะ Panic หรือ E.G.O Corrosion เมื่อเริ่มเทิร์น หรือหากยูนิตนี้ถูก Stagger จะเสียเอฟเฟกต์นี้",
+      "summary": "Immobilized ได้รับความเสียหายน้อยลง เพิ่ม Aggro และได้รับ Charge Barrier ได้รับ Charge Count ในเทิร์นถัดไป เมื่อถูกโจมตี จะได้รับ Load และ Charge Count",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmorMeursault",
+      "name": "Hardblood Armor",
+      "desc": "- Stack สูงสุด: 5 - หากยูนิตนี้ยังมี HP ไม่ถึงระดับสูงสุด: หลังจากโจมตีด้วย Skill จะฟื้นฟู HP 10% ของความเสียหาย HP ที่ทำได้ (เทิร์นละหนึ่งครั้ง; ฟื้นฟูสูงสุด 40) - Attack End: หากยูนิตนี้ทำความเสียหาย HP จะเสีย 1 Stack (เทิร์นละหนึ่งครั้ง) • หากเปิดใช้งาน Lust Reson. จะฟื้นฟู HP เพียงครึ่งหนึ่ง แต่จะไม่เสีย Stack ของ Hardblood Armor",
+      "undefined": "-"
+    },
+    {
+      "id": "FocusOnActing",
+      "name": "Focused Performance",
+      "desc": "- Stack สูงสุด: 3 - เฉพาะ Identity <La Manchaland> เท่านั้น; รวมทั้ง Empowered Skills - Skill 1 และ Skill 2 ได้รับ Final Power +1; ทำความเสียหาย +5% ต่อ Stack (สูงสุด 15%) - Skill 3 ได้รับ Final Power +2; ทำความเสียหาย +10% ต่อ Stack (สูงสุด 30%) - เสีย 1 Stack เมื่อ: 1) Attack End ของ Skill 3 2) หากยูนิตนี้ไม่มี Hardblood Armor เมื่อเริ่มเทิร์น",
+      "summary": "เมื่อโจมตีโดน จะทำความเสียหายแรงขึ้น",
+      "undefined": "-"
+    },
+    {
+      "id": "ParadeConcentration",
+      "name": "La Mancha Parade",
+      "desc": "- Stack สูงสุด: 4 - ได้รับความเสียหายจาก Lust Skill +10% • หากเป้าหมายเป็น Identity <La Manchaland>, จะได้รับความเสียหาย +20% โดยไม่คำนึงถึง Affinity ของ Skill • เมื่อ Stack สูงสุด, สร้างความเสียหายให้ Identity <La Manchaland> -20% - ลดลง 1 Stack หลังจาก Skill ของยูนิตนี้โจมตีเสร็จสิ้น หรือหลังจาก Skill ที่โจมตีใส่ยูนิตนี้โจมตีเสร็จสิ้น",
+      "summary": "Identity <La Manchaland> ได้รับความเสียหายลดลง",
+      "undefined": "-"
+    },
+    {
+      "id": "EmergencyChargeForceField",
+      "name": "Emergency Barrier Battery",
+      "desc": "- Stack สูงสุด: 7 - เมื่อถูก Stagger, ใช้ Emergency Barrier Battery Stack ทั้งหมดที่มี และได้รับ Barrier Charge ตามจำนวน Stack ที่ใช้ไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmorCasting",
+      "name": "Hardblood Cast",
+      "desc": "- Stack สูงสุด: 3 - เมื่อ Clash กับศัตรูที่มี Bleed หรือ Unique Bleed, Clash Power +1 - เมื่อใช้ Bloodfeast ด้วย Attack Skill หาก Bloodfeast มีไม่เพียงพอ จะใช้ 1 HP ต่อทุกๆ 1 Bloodfeast ที่ขาดไปเพื่อสร้าง Bloodfeast ขึ้นมาก่อนใช้งาน (ความเสียหายจากเอฟเฟกต์นี้จะไม่ทำให้เกิด Stagger หรือลด HP ของยูนิตนี้ให้ต่ำกว่า 1) - ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HanafudaOne",
+      "name": "Hand - Pine Crane Suit",
+      "desc": "- Skill 1 Base Power +2 - เมื่อยูนิตนี้ติดตั้งและใช้ Base Attack Skill หรือ E.G.O Skill ที่เป็น <color=#ff0000>Wrath</color> ใน Skill Slot ซ้ายสุด, จะเปิดใช้งานเอฟเฟกต์ \"forming a Hand\" ใน Passive \"Koi-Koi\"",
+      "summary": "เพิ่ม Base Power",
+      "undefined": "-"
+    },
+    {
+      "id": "HanafudaTwo",
+      "name": "Hand - Susuki Grass Suit",
+      "desc": "- Skill 2 Base Power +1 - เมื่อยูนิตนี้ติดตั้งและใช้ Base Attack Skill หรือ E.G.O Skill ที่เป็น <color=#fbc82b>Sloth</color> ใน Skill Slot ซ้ายสุด, จะเปิดใช้งานเอฟเฟกต์ \"forming a Hand\" ใน Passive \"Koi-Koi\"",
+      "summary": "เพิ่ม Base Power",
+      "undefined": "-"
+    },
+    {
+      "id": "HanafudaThree",
+      "name": "Hand - Blue Sakura Suit",
+      "desc": "- Skill 3 Base Power +1 - เมื่อยูนิตนี้ติดตั้งและใช้ Base Attack Skill หรือ E.G.O Skill ที่เป็น <color=#15c3ee>Gloom</color> ใน Skill Slot ซ้ายสุด, จะเปิดใช้งานเอฟเฟกต์ \"forming a Hand\" ใน Passive \"Koi-Koi\"",
+      "summary": "เพิ่ม Base Power",
+      "undefined": "-"
+    },
+    {
+      "id": "HanafudaCombo",
+      "name": "Bright【光】",
+      "desc": "- Potency : พื้นฐาน 0, สูงสุด 5 - Count : พื้นฐาน 3, สูงสุด 3 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ ต่อ Potency 1 หน่วย - เริ่มเทิร์น: เสีย 1 Stack",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "HurtNightStiletto",
+      "name": "Open Wound",
+      "desc": "- Stack สูงสุด: 2 - จบเทิร์น: ได้รับ Bind 1 หน่วย ในเทิร์นถัดไป - จบเทิร์น: เมื่อมี 2 Stack จะเปลี่ยนเอฟเฟกต์นี้เป็น Deep Wound ในเทิร์นถัดไป",
+      "summary": "ได้รับ Bind ในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "CriHurtNightStiletto",
+      "name": "Deep Wound",
+      "desc": "- Stack พื้นฐาน: 3 - เมื่อ Tremor Burst, ได้รับ Bleed Count +1 (2 ครั้งต่อเทิร์น) - ไม่สามารถได้รับ Open Wound (ใน Focused Encounters จะส่งผลต่อ Part) - จบเทิร์น: ได้รับ Bind (Stack - 1) หน่วย ในเทิร์นถัดไป - จบเทิร์น: ลด Stack ลง 1",
+      "summary": "ได้รับ Bleed Count ได้รับ Bind ในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "HorrHurtNightStiletto",
+      "name": "Fatal Wound",
+      "desc": "- Stack พื้นฐาน: 3 - เมื่อ Tremor Burst, ได้รับ Bleed Count +3 (2 ครั้งต่อเทิร์น) - ไม่สามารถได้รับ Open Wound (ใน Focused Encounters จะส่งผลต่อ Part) - จบเทิร์น: ได้รับ Bind ตามจำนวน Stack ในเทิร์นถัดไป - จบเทิร์น: ลด Stack ลง 1",
+      "summary": "ได้รับ Bleed Count ได้รับ Bind ในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "GrownHorns",
+      "name": "Burgeoning of Horns [發角]",
+      "desc": "- ค่าสูงสุด: 3 - Base Skill ของยูนิตนี้จะสร้าง Rupture และ Sinking Potency เพิ่มขึ้น +1 - จบเทิร์น: เสีย 1 Stack",
+      "summary": "สร้าง Rupture และ Sinking Potency เพิ่มขึ้น +1",
+      "undefined": "-"
+    },
+    {
+      "id": "CrushMarks",
+      "name": "Shattermark",
+      "desc": "- ได้รับความเสียหายจาก Skill สาย Gluttony และ Gloom เพิ่มขึ้น +10% - ยูนิตที่มี SP: เปลี่ยน Panic Type เป็น \"Shattermark\" - ยูนิตที่ไม่มี SP: Clash Power -1 - จบเทิร์น: ลด 1 Stack - เอฟเฟกต์นี้ไม่สะสม การสร้างเอฟเฟกต์นี้จะแทนที่ค่าปัจจุบันด้วยค่าที่สร้างขึ้นใหม่ - ใช้เงื่อนไข \"ยูนิตที่ไม่มี SP\" กับศัตรูบางตัวที่มี SP แต่ไม่สามารถเปลี่ยน Panic Type ได้ ※ เอฟเฟกต์ Panic-type ของ Shattermark - Low Morale: Clash Power -1, Defense Level -2 ต่อตนเอง - Panic: Clash Power -2, Defense Level -3 ต่อตนเอง",
+      "summary": "ได้รับความเสียหายจาก Skill สาย Gluttony และ Gloom เพิ่มขึ้น +10% - ยูนิตที่มี SP: เปลี่ยน Panic Type เป็น \"Shattermark\" - ยูนิตที่ไม่มี SP: Clash Power -1",
+      "undefined": "-"
+    },
+    {
+      "id": "ChickenFightlust",
+      "name": "สัญชาตญาณเลือดนักรบ",
+      "desc": "- Stack สูงสุด: 20 - ทุกๆ 1 Stack, สร้างความเสียหาย +0.75% - ทุกๆ 10 Stack, ได้รับ Haste 1 หน่วย ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ProtectStanceRyoshu",
+      "name": "ท่าตั้งรับผู้พิทักษ์",
+      "desc": "- Stack สูงสุด: 2 - ได้รับความเสียหายลดลง (Stack x 10)% - เริ่มเทิร์น: ได้รับ Shield จำนวน Poise ให้กับตัวเอง (สูงสุด 20) - จบเทิร์น: ได้รับ Poise Potency 3 หน่วย และ Poise Count +1; Skill Slot ซ้ายสุดของยูนิตนี้จะได้รับ Aggro +5 ในเทิร์นถัดไป - จบเทิร์น: เสีย 1 Stack",
+      "summary": "ได้รับความเสียหายลดลง",
+      "undefined": "-"
+    },
+    {
+      "id": "TheUdjatOutis",
+      "name": "ดวงตา Udjat [Vanguard]",
+      "desc": "- Stack สูงสุด: 2 - Min & Max Speed +3 - เริ่มการต่อสู้: ได้รับ Protection 1 หน่วย - ได้รับเอฟเฟกต์ดังต่อไปนี้ในช่วง Combat Phase (1 ครั้งต่อ 1 Skill, 3 ครั้งต่อเทิร์น) · เมื่อยูนิตนี้เป็นเป้าหมายหลักของ Skill Attack แบบ Unopposed, ลดโอกาสที่ Coin แรกของ Skill นั้นจะออก Heads ลงครึ่งหนึ่ง · เริ่มต้น Clash: ใน Clash แรก, ลดโอกาสที่เป้าหมายจะออก Heads ลงครึ่งหนึ่งสำหรับทุกๆ Coin · สำหรับทั้งสองเอฟเฟกต์ข้างต้น หากเป้าหมายใช้ Minus Coin, จะลดโอกาสออก Tails ลงครึ่งหนึ่งแทน - จบเทิร์น: ลด 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlueSand",
+      "name": "ทรายสีน้ำเงิน",
+      "desc": "- เมื่อเสีย Clash, ได้รับ Sinking Count +1 (3 ครั้งต่อเทิร์น) - ยูนิตที่มี SP: เปลี่ยนประเภท Panic เป็น \"Blue Sand\" - ยูนิตที่ไม่มี SP: Min & Max Speed -1 - จบเทิร์น: ลด 1 Stack - เอฟเฟกต์นี้ไม่สะสม; การทำให้เกิดเอฟเฟกต์นี้จะแทนที่ค่าปัจจุบันด้วยค่าที่ได้รับใหม่ - ใช้เงื่อนไข \"ยูนิตที่ไม่มี SP\" กับศัตรูบางตัวที่มี SP แต่ไม่สามารถเปลี่ยนประเภท Panic ได้ ※ เอฟเฟกต์ Blue Sand Panic - Low Morale: Clash Power -1, Min & Max Speed -1 - Panic: Clash Power -2, Min & Max Speed -1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SheutFracture",
+      "name": "รอยร้าว Sheut",
+      "desc": "- Sinking เฉพาะตัว - Stack สูงสุด: 10 - ทุกๆ 1 Stack, ได้รับความเสียหายจาก Skill Sloth และ Gloom เพิ่มขึ้น +1% - เมื่อ Stack สูงสุด, ได้รับ Gloom Fragility 1 หน่วย (1 ครั้งต่อเทิร์น), ได้รับความเสียหาย Gloom เท่ากับ Sinking Potency ให้กับตัวเอง (เสีย Sinking Count 1 หน่วย), จากนั้นเอฟเฟกต์จะหายไป - หากยูนิตที่มีเอฟเฟกต์นี้ตาย, จะโอน Stack ครึ่งหนึ่ง (ปัดเศษลง) ให้กับพันธมิตรที่มี SP สูงที่สุด - เริ่มเทิร์น: หากไม่มี Identity LCA อยู่ในสนาม, เอฟเฟกต์จะหายไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LCA_Bullet",
+      "name": "รอบรอยร้าว LCA",
+      "desc": "- Ammo เฉพาะตัว - ความจุสูงสุด: 16 - ถูกใช้โดย Skill บางอย่าง - การโจมตีบางอย่างจะถูกยกเลิกหากขาด Ammo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NiddleEGO",
+      "name": "เข็ม",
+      "desc": "- Bleed เฉพาะตัว - เมื่อได้รับความเสียหาย Envy, ได้รับ Bleed Count +1 และลด Stack ของเอฟเฟกต์นี้ลง 1 - จบเทิร์น: ได้รับ Bleed 1 หน่วย และลด Stack ของเอฟเฟกต์นี้ลง 1",
+      "summary": "ได้รับ Bleed Count",
+      "undefined": "-"
+    },
+    {
+      "id": "IDMicroChip",
+      "name": "ไมโครชิปจดทะเบียนผู้อยู่อาศัย",
+      "desc": "- Stack สูงสุด: 2 - ได้รับความเสียหายจาก Skill Wrath และ Envy เพิ่มขึ้น +10% - เมื่อเสีย Clash, ได้รับ Burn 1 หน่วย (3 ครั้งต่อเทิร์น) - จบเทิร์น: เสีย 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ExtractCoin",
+      "name": "การตัดออก Coin",
+      "desc": "- Coin นี้สามารถทำลาย Coin ที่ไม่สามารถทำลายได้ใน Clash - Coin นี้จะไม่แตกเมื่อเสีย Clash - หาก Skill Attack มี Coin นี้ ให้โจมตีด้วย Coin นี้หลังจากถูกโจมตี - เมื่อเสีย Clash, กำหนดให้ Coin Power ของ Coin ที่ยังไม่แตกเป็น 1",
+      "summary": ""
+    },
+    {
+      "id": "ReinforcedTattooIshmael",
+      "name": "รอยสักดัดแปลงสไตล์ The Middle",
+      "desc": "- Stack สูงสุด: 10 - Final Power +1 สำหรับ Base Skill ทุกๆ 5 Stack (สูงสุด 2) - Envy Skill และ Skill Blunt สร้างความเสียหาย +5% ต่อ 1 Stack (สูงสุด 50%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ResentmentIshmael",
+      "name": "The Middle - ความพยาบาท",
+      "desc": "- Stack สูงสุด: 15 - หากเป้าหมายมี Vengeance Mark, สร้างความเสียหาย +20%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireIshmael",
+      "name": "Thermal Blades",
+      "desc": "- Stack สูงสุด: 2 - หากเป้าหมายที่ถูกโจมตีด้วย Base Skill มี Burn, ฟื้นฟู SP 3 หน่วย (2 ครั้งต่อเทิร์น) - มอบ Burn เมื่อมอบ Bleed ด้วย Coin ของ Skill บางอย่าง - จบเทิร์น: เสีย 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LanternGregBigBird",
+      "name": "ตะเกียง",
+      "desc": "- Stack สูงสุด: 8 - จบเทิร์น: ได้รับ Bind 1 หน่วยในเทิร์นถัดไป ทุกๆ 2 Stack (สูงสุด 4) - จบเทิร์น: เมื่อ Stack ถึงระดับสูงสุด หากมีศัตรูอยู่ในสนาม จะใช้ Stack ทั้งหมดเพื่อเปิดใช้งานเอฟเฟกต์ต่อไปนี้ในเทิร์นถัดไป: • ได้รับ Aggro +10 ใน Slot ซ้ายสุด • มอบ Dazzle 3 หน่วย ให้กับศัตรู (Core) ที่มี HP ปัจจุบันมากที่สุด",
+      "summary": "ได้รับ Bind ในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "ObedienceGregBigBird",
+      "name": "ผู้พิทักษ์แห่งผืนป่า",
+      "desc": "ก่อน Attack, เปิดใช้งานเอฟเฟกต์ต่อไปนี้: - Plus Skill Coin ฟื้นฟู SP 4 หน่วย (หากมี SP สูงสุดอยู่แล้ว, ได้รับ Offense Level Up 2 หน่วยในเทิร์นถัดไป) - Minus Skill Coin เสีย SP 8 หน่วย (เอฟเฟกต์นี้ไม่สามารถลด SP ของยูนิตให้ต่ำกว่า -40 ได้) - สิ้นสุดเอฟเฟกต์นี้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird",
+      "name": "Dazzle",
+      "desc": "- ทุกๆ 1 (Sinking + Burn), ได้รับความเสียหายเพิ่มขึ้น +0.5% จาก Base Attack Skills (สูงสุด 10%) - ยูนิต SP: เปลี่ยน Panic Type เป็น \"Dazzle\" - ยูนิตที่ไม่ใช่ SP: Defense Level -2 - จบเทิร์น: ลดลง 1 Stack - เอฟเฟกต์นี้ไม่สะสม การทำให้เกิดเอฟเฟกต์นี้จะแทนที่ค่าปัจจุบันด้วยค่าที่ได้รับใหม่ - ใช้เงื่อนไข \"ยูนิตที่ไม่ใช่ SP\" กับศัตรูบางตัวที่มี SP แต่ไม่สามารถเปลี่ยน Panic Type ได้ ※ เอฟเฟกต์ Dazzle Panic-type - Low Morale: จบเทิร์น: ได้รับ Bind 1 หน่วย และ Offense Level Down 2 หน่วย ในเทิร์นถัดไป - Panic: จบเทิร์น: ได้รับ Bind 1 หน่วย และ Offense Level Down 4 หน่วย ในเทิร์นถัดไป",
+      "summary": "ทุกๆ 1 (Sinking + Burn), ได้รับความเสียหายเพิ่มขึ้น +0.5% จาก Base Attack Skills (สูงสุด 10%) ยูนิต SP: เปลี่ยน Panic Type เป็น \"Dazzle\" ยูนิตที่ไม่ใช่ SP: Defense Level -2",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Main",
+      "name": "Dazzle",
+      "desc": "- ทุกๆ 1 (Sinking + Burn), ได้รับความเสียหายเพิ่มขึ้น +0.5% จาก Base Attack Skills (สูงสุด 10%) - ยูนิต SP: เปลี่ยน Panic Type เป็น \"Dazzle\" - จบเทิร์น: ลดลง 1 Stack",
+      "summary": "ทุกๆ 1 (Sinking + Burn), ได้รับความเสียหายเพิ่มขึ้น +0.5% จาก Base Attack Skills (สูงสุด 10%) เปลี่ยน Panic Type เป็น \"Dazzle\"",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Sub",
+      "name": "Dazzle",
+      "desc": "- ทุกๆ 1 (Sinking + Burn), ได้รับความเสียหายเพิ่มขึ้น +0.5% จาก Base Attack Skills (สูงสุด 10%) - ยูนิตที่ไม่ใช่ SP: Defense Level -2 - จบเทิร์น: ลดลง 1 Stack",
+      "summary": "ทุกๆ 1 (Sinking + Burn), ได้รับความเสียหายเพิ่มขึ้น +0.5% จาก Base Attack Skills (สูงสุด 10%) Defense Level -2",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_LowMorale",
+      "name": "Dazzle",
+      "desc": "- Low Morale - จบเทิร์น: ได้รับ Bind 1 หน่วย และ Offense Level Down 2 หน่วย ในเทิร์นถัดไป",
+      "summary": "จบเทิร์น: ได้รับ Bind 1 หน่วย และ Offense Level Down 2 หน่วย ในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Panic",
+      "name": "Dazzle",
+      "desc": "- Panic - จบเทิร์น: ได้รับ Bind 1 หน่วย และ Offense Level Down 4 หน่วย ในเทิร์นถัดไป",
+      "summary": "จบเทิร์น: ได้รับ Bind 1 หน่วย และ Offense Level Down 4 หน่วย ในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "LittleFingerID",
+      "name": "Moonlit Azure Blade",
+      "desc": "- Stack สูงสุด: 20 - เริ่มเทิร์น: ได้รับ Shield 2 หน่วย ต่อ 1 Stack - สร้างความเสียหายเพิ่มขึ้น +1% เมื่อ Critical Hit ต่อ 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptYi_0",
+      "name": "Prescript: [Device] I",
+      "desc": "ใช้ Skill ที่มี Mark of the Prescript หรือโจมตีเป้าหมายด้วย Skill ที่มี Mark - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้เมื่อยูนิตนี้ไม่มี Unlock - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 3 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้จะถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptYi_1",
+      "name": "Prescript: [Device] II",
+      "desc": "โจมตีเป้าหมายด้วย Skill ที่มี Mark of the Prescript - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - I - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 6 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้จะถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptYi_2",
+      "name": "Prescript: [Device] III",
+      "desc": "ได้รับ Procuration [Hermes] ทำซ้ำ Prescript นี้จนกว่า Procuration [Hermes] จะสะสมครบ 9 Stack - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - II - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 9 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้จะถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptYi_3",
+      "name": "Prescript: [Device] IV",
+      "desc": "กำจัดศัตรูทั้งหมดก่อนที่ Prescript ถัดไปจะมาถึง - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - III",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้จะถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "StackYisangSpecialSkill",
+      "name": "Procuration [Hermes]",
+      "desc": "- เริ่มเทิร์น: เมื่อมี 9 Stack จะสามารถใช้ Skill อันทรงพลังได้ - ได้รับ Stack สูงสุด (ระดับ Unlock + 2) ต่อเทิร์น - Stack สูงสุด: 9 · หากต่ำกว่า Unlock - II Stack สูงสุดของเอฟเฟกต์นี้จะจำกัดอยู่ที่ 8 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Shin_IndexFingerYisang",
+      "name": "Shin (心) - โชคชะตา",
+      "desc": "- Min & Max Speed +1 - ได้รับ Poise Potency และ Count เพิ่มขึ้น +1 จาก Base Skill - หาก SP ของยูนิตนี้สูงกว่าเป้าหมาย จะสร้างความเสียหาย +1% ต่อทุกๆ 3 ของส่วนต่าง SP (สูงสุด 15%; ยูนิตที่ไม่มี SP จะถือว่ามี SP เป็น 0)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisangMask",
+      "name": "หน้ากากหุ้มแผล",
+      "desc": "- Offense Level +2, Defense Level -2 - ได้รับความเสียหาย -10% จาก Unopposed Attack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisang",
+      "name": "แผลพุพอง",
+      "desc": "- Offense Level +3, Defense Level -3 - ได้รับความเสียหาย -25% จาก Unopposed Attack - เริ่มเทิร์น: ได้รับ 1 Burn และ 1 Bleed - สร้างความเสียหาย +15% ด้วย Unbreakable Coin ของ Base Attack Skill",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BlackNightmareYisang",
+      "name": "การลุ่มหลงใน Prescripts",
+      "desc": "- Min & Max Speed +5 - มอบเอฟเฟกต์ต่อไปนี้ให้กับ 'Furioso-Replica': · เมื่อโจมตีโดน, มอบ Sinking Potency เพิ่มขึ้น +1 และได้รับ Poise Potency เพิ่มขึ้น +1 · เมื่อโจมตีโดน, มอบ Sinking Count +3 (1 ครั้งต่อเป้าหมาย) · สร้างความเสียหาย +30% - สิ้นสุดเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon01Hatchet",
+      "name": "เมื่อสับซี่โครงด้วยขวาน...",
+      "desc": "- Coin นี้สร้างความเสียหาย Blunt - เมื่อโจมตีโดนโดยไม่มีการ Crack, ได้รับ Poise 2 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon02Stiletto",
+      "name": "เมื่อแทงปอดด้วยมีดสั้น...",
+      "desc": "- Coin นี้สร้างความเสียหาย Pierce - เมื่อโจมตีโดนโดยไม่มีการ Crack, มอบ Sinking 2 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon03Greatsword",
+      "name": "เมื่อฟันไหล่และกะโหลกด้วยดาบ Bastard Sword...",
+      "desc": "- Coin นี้สร้างความเสียหาย Slash - Coin นี้สร้างความเสียหาย +5% - เมื่อโจมตีโดนโดยไม่มีการ Crack, ได้รับ Offense Level Up 1 ระดับในเทิร์นถัดไป (2 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon04Rapier",
+      "name": "เมื่อแทงลำตัวให้เป็นรู 10 รูขึ้นไปด้วยดาบ Rapier...",
+      "desc": "- Coin นี้สร้างความเสียหาย Pierce - Coin นี้สร้างความเสียหาย +5% - เมื่อโจมตีโดนโดยไม่มีการ Crack, มอบ Defense Level Down 1 ระดับในเทิร์นถัดไป (2 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon05Sledgehammer",
+      "name": "เมื่อทุบกะโหลกด้านหลังให้ยุบด้วยค้อน...",
+      "desc": "- Coin นี้สร้างความเสียหาย Blunt - Coin นี้สร้างความเสียหาย +5% - เมื่อโจมตีโดนโดยไม่มีการ Crack, เพิ่ม Stagger Threshold ของเป้าหมายขึ้น 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon06Ultragreatsword",
+      "name": "เมื่อฉีกร่างด้วยดาบ Great Sword...",
+      "desc": "- Coin นี้สร้างความเสียหาย Slash - Coin นี้สร้างความเสียหาย +15% - เมื่อโจมตีโดนโดยไม่มีการ Crack, มอบ Slash Fragility 1 หน่วยจนถึงเทิร์นถัดไป (2 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon07Lance",
+      "name": "เมื่อเจาะรูขนาด 20 นิ้วด้วยหอก...",
+      "desc": "- Coin นี้สร้างความเสียหาย Pierce - Coin นี้สร้างความเสียหาย +15% - เมื่อโจมตีโดนโดยไม่มีการ Crack, มอบ Pierce Fragility 1 หน่วยจนถึงเทิร์นถัดไป (2 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon08Chain",
+      "name": "เมื่อฉีกกระชากเนื้อให้ขาดเป็นหมื่นชิ้นด้วยแส้...",
+      "desc": "- Coin นี้สร้างความเสียหาย Blunt - Coin นี้สร้างความเสียหาย +15% - เมื่อโจมตีโดนโดยไม่มีการ Crack, มอบ Blunt Fragility 1 หน่วยจนถึงเทิร์นถัดไป (2 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon09Scythe",
+      "name": "เมื่อฟาดฟันผ่านห้วงมิติด้วยเคียว เหมือนกับใครบางคน...",
+      "desc": "- Coin นี้สร้างความเสียหาย Slash - Coin นี้สร้างความเสียหาย +30% - หากโจมตีโดนโดยที่ยังไม่เกิดการ Crack จะการันตีการติด Crit",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "SatisfyingEsteemNeeds",
+      "name": "ความปรารถนาในการยอมรับได้รับการเติมเต็ม",
+      "desc": "- สร้างความเสียหาย +7.5% ด้วย Skill ที่มีเครื่องหมาย Mark of the Prescript - สร้างความเสียหาย +7.5% ต่อเป้าหมายของ The Prescript",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "ThatIsRhythm",
+      "name": "Rhythm",
+      "desc": "- Stack สูงสุด: 5 - สร้างความเสียหาย +2% ต่อทุก 1 Stack (สูงสุด 10%) - Offense Level +1 ต่อทุก 1 Stack (สูงสุด 5) - เลเวล Defense -1 ต่อทุก 1 Stack (สูงสุด -5) - จบเทิร์น: เอฟเฟกต์นี้จะหายไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeSpore",
+      "name": "Spore",
+      "desc": "- Stack สูงสุด: 15 - จบเทิร์น: ได้รับ Burn Count +1 ต่อทุก 5 Stack - ได้รับ Bind 1 หน่วยในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultWorkerBee",
+      "name": "Loyalty Pheromone",
+      "desc": "- Stack สูงสุด: 3 - ได้รับเอฟเฟกต์ต่อไปนี้ในเทิร์นถัดไปตามจำนวน Stack เมื่อจบเทิร์น: 1+ Stack: Protection 1 หน่วย 2+ Stack: Haste 1 หน่วย 3 Stack: Power Up Clash 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletLong",
+      "name": "Spore Round [Base]",
+      "desc": "- Ammo เฉพาะตัว - Stack สูงสุด: 10 - ใช้สิ้นเปลืองเมื่อใช้ Skill บางอย่าง - การโจมตีบางอย่างจะถูกยกเลิกหากไม่มี Ammo - เมื่อใช้สิ้นเปลือง จะทำให้เป้าหมายติด Spore 2 หน่วย On Hit",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletShort",
+      "name": "Spore Round [Buckshot]",
+      "desc": "- Ammo เฉพาะตัว - Stack สูงสุด: 6 - ใช้สิ้นเปลืองเมื่อใช้ Skill บางอย่าง - การโจมตีบางอย่างจะถูกยกเลิกหากไม่มี Ammo - เมื่อใช้สิ้นเปลือง จะทำให้เป้าหมายติด Spore 3 หน่วย On Hit",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletReloading",
+      "name": "Reload [Germination]",
+      "desc": "- เอฟเฟกต์ที่ส่งผลต่อ Spore Round (Unique Ammo) - ใช้ ((16 - ผลรวมของ Spore Round) / 2) SP (ปัดเศษลง), รีเซ็ตทั้ง Spore Round [Base] และ Spore Round [Buckshot] เป็น 0 Stack, และได้รับ Stack จนถึงระดับสูงสุด",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeGunLong",
+      "name": "Hornet [Rifle]",
+      "desc": "โหมดปัจจุบัน: Hornet [Rifle]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeGunShort",
+      "name": "Hornet [Shotgun]",
+      "desc": "โหมดปัจจุบัน: Hornet [Shotgun]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "แทนที่จะฝากคำนิยามไว้กับรูปแบบปืนไรเฟิล จงจ้องมองเข้าไปในแก่นแท้ของ \"Hornet\" epoché"
+    },
+    {
+      "id": "BulletGodok",
+      "name": "Bullet - Solitude",
+      "desc": "- Unique Ammo - ความจุสูงสุด: 6 ถูกใช้เมื่อใช้ Skill บางอย่าง - จำนวนของ Ammo นี้ไม่สามารถเพิ่มขึ้นหรือลดลงได้จากเอฟเฟกต์ภายนอก",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AlriuneEGOThey",
+      "name": "Faint Aroma",
+      "desc": "- Stack สูงสุด: 30 - ได้รับ 1 Stack หากยูนิตนี้ได้รับความเสียหาย Sinking - เมื่อเกิด Tremor Burst, มอบ Faint Aroma 1~2 หน่วย ให้กับเพื่อนร่วมทีมสุ่ม 3 คน (สำหรับ Abnormalities, ส่วนของร่างกาย) - เมื่อ Stack ถึงระดับสูงสุด, ได้รับ Tremor 2 หน่วย และทำให้เกิด Tremor Burst กับตัวเอง; จากนั้น ได้รับความเสียหาย Gloom เท่ากับ Sinking กับตัวเอง และเสีย Faint Aroma ทั้งหมด ไม่สามารถได้รับ Faint Aroma ได้อีกในเทิร์นที่เหลือ - หากยูนิตนี้ถูกกำจัด, มอบ Faint Aroma (Faint Aroma ที่เหลืออยู่ของยูนิตนี้ / 2) แบบสุ่มให้กับเพื่อนร่วมทีมของยูนิตนี้ (ปัดเศษลง)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AlriuneEGOWe",
+      "name": "Petals",
+      "desc": "- Stack สูงสุด: 30 - Offense Level +1 ต่อทุกๆ 10 Stack - สามารถได้รับสูงสุด 15 Stack ต่อเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType",
+      "name": "Solitude",
+      "desc": "- ได้รับความเสียหายจาก Gloom Skills +10% - ยูนิตที่มี SP: เปลี่ยนประเภท Panic เป็น 'Solitude' - ยูนิตที่ไม่มี SP: ได้รับ Sinking Count +2 เมื่อจบเทิร์น - จบเทิร์น: เสีย 1 Stack - เอฟเฟกต์นี้ไม่สะสม; การมอบเอฟเฟกต์นี้จะแทนที่ค่าปัจจุบันด้วยค่าที่ได้รับใหม่ - ใช้เงื่อนไข \"ยูนิตที่ไม่มี SP\" กับศัตรูบางตัวที่มี SP แต่ไม่สามารถเปลี่ยนประเภท Panic ได้ ※ เอฟเฟกต์ Solitude Panic: - Low Morale: ได้รับ Sinking Count +2 เมื่อจบเทิร์น - Panic: ได้รับ Sinking Count +3 เมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Godok_Lowmorale",
+      "name": "Solitude",
+      "desc": "- Low Morale - จบเทิร์น: ได้รับ Sinking Count +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Godok_Panic",
+      "name": "Solitude",
+      "desc": "- Panic - จบเทิร์น: ได้รับ Sinking Count +3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType_Sub",
+      "name": "Solitude",
+      "desc": "- ได้รับความเสียหายจาก Gloom Skills +10% - จบเทิร์น: ได้รับ Sinking Count +2 - จบเทิร์น: เสีย 1 Stack - เอฟเฟกต์นี้ไม่สะสม; การมอบเอฟเฟกต์นี้จะแทนที่ค่าปัจจุบันด้วยค่าที่ได้รับใหม่",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType_Main",
+      "name": "Solitude",
+      "desc": "- ได้รับความเสียหายจาก Gloom Skills เพิ่มขึ้น +10% - เปลี่ยนประเภท Panic เป็น 'Solitude' - จบเทิร์น: สูญเสีย 1 Stack - เอฟเฟกต์นี้ไม่สะสม หากสร้างเอฟเฟกต์นี้ซ้ำ จะแทนที่ค่าปัจจุบันด้วยค่าที่สร้างขึ้นใหม่",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SelfChargeAlly",
+      "name": "Self-charge",
+      "desc": "- Final Power +2 - ได้รับ Charge Count เท่ากับ Stack ที่สูญเสียไป - สูญเสีย Stack เมื่อ: · Attack สิ้นสุด Skill ที่โจมตียูนิตนี้ (สูญเสีย 1 Stack) · Attack สิ้นสุด (สูญเสีย 3 Stack) · จบเทิร์น (สูญเสีย 5 Stack) - Max Stack: 20 - HP ของยูนิตนี้จะไม่ลดลงต่ำกว่า 1 ก่อนที่เอฟเฟกต์นี้จะหมดลง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HighVoltageExoshell",
+      "name": "High-voltage Exoskeleton",
+      "desc": "- ได้รับ (Stack x 5) Shield - หากยูนิตนี้สูญเสีย (Stack x 5) Shield, สูญเสีย 1 Stack - จบเทิร์น: ได้รับ Charge Count เท่ากับ Stack; ทั้ง High-voltage Exoskeleton และ Shield ที่ได้รับจากเอฟเฟกต์นี้จะหมดลง - Max Stack: 20",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChargedSting",
+      "name": "Charged Sting",
+      "desc": "- ในทุกๆ 1 Stack, ได้รับความเสียหายเพิ่มขึ้น +4% จาก Skill ที่ได้รับหรือใช้ Charge Count (รวมถึง 'Unique Charge') (สูงสุด 20%) · สำหรับ Envy Skills, จะเสริมเอฟเฟกต์นี้ให้รุนแรงขึ้นและได้รับความเสียหายเพิ่มขึ้น +8% ในทุกๆ 1 Stack แทน (สูงสุด 40%) - Max Stack: 5 - สูญเสีย 1 Stack เมื่อ Attack สิ้นสุด หรือ จบเทิร์น หลังจากถูกโจมตีด้วย Skill ที่ตรงตามเงื่อนไขการเปิดใช้งานเอฟเฟกต์ข้างต้น (ไม่รวม Base Attack Skills ที่สร้าง Charged Sting)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaustFlameMothEmber",
+      "name": "Embers",
+      "desc": "- Max Potency: 3 - Max Count: 6 - หากยูนิตนี้มี Burn, จะสูญเสีย 1 Embers Count เมื่อถูกโจมตีด้วย Skill ที่สร้าง Burn Potency, Count หรือ 'Unique Burn' (รวมถึง E.G.O Skills) - หากยูนิตนี้ไม่มี Burn, จะรีเซ็ต Embers Count เป็น 6 เมื่อถูกโจมตี (ไม่รวม Skill ที่สร้าง Burn) - เมื่อ Embers Count เป็น 0, จะเปิดใช้งานเอฟเฟกต์ดังนี้: · เปิดใช้งาน Burn กับตัวเองหนึ่งครั้ง และสูญเสีย 1 Burn Count · สูญเสีย 1 Embers Potency · หากยูนิตนี้มี Embers Potency เหลืออยู่ 1+ หน่วย, จะรีเซ็ต Embers Count เป็น 6",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChargeBodyArt",
+      "name": "Corpus Ingredient",
+      "desc": "- Max Count: 20 - Unique Charge - มีปฏิสัมพันธ์แบบเดียวกับ Charge ปกติ ต่อเอฟเฟกต์ที่เพิ่มหรือลด Charge Potency และ Count - จบเทิร์น: สูญเสีย 1 Count",
+      "summary": "ถูกใช้ไปหรือได้รับเมื่อใช้ Skill บางอย่าง",
+      "undefined": "-"
+    },
+    {
+      "id": "TibiaPersonality",
+      "name": "Artwork: Tibia",
+      "desc": "มอบเอฟเฟกต์ดังต่อไปนี้ให้กับ Base Attack Skills และ Clashable Counter Skill ของยูนิตนี้ ตามค่า Corpus Ingredient Potency: - 1+ : Base Power +1 - 2+ : หากศัตรูมี Bleed หรือ 'Unique Bleed', สร้างความเสียหาย +10% - 3+ : สร้าง Bleed Potency และ Count เพิ่มขึ้น +1 - 4+ : Base Power +1 - 5+ : Base Power +1",
+      "summary": "ได้รับเอฟเฟกต์ต่างๆ ตามค่า Corpus Ingredient Potency",
+      "undefined": "-"
+    },
+    {
+      "id": "MelodyBodyArt",
+      "name": "Somatic Frisson-inspiring Melody",
+      "desc": "- Min & Max Speed +1 - Base Attack Skills ได้รับ Clash Power +1 และสร้างความเสียหาย +10%",
+      "summary": "- ได้รับ Min & Max Speed - Base Attack Skills ได้รับ Clash Power และสร้างความเสียหายแรงขึ้น",
+      "undefined": "-"
+    },
+    {
+      "id": "MelodyBodyArtChebello",
+      "name": "ท่วงทำนองปลุกเร้า Somatic Frisson [Empowered]",
+      "desc": "- Min & Max Speed +2 - Base Attack Skills ได้รับ Clash Power +2 และสร้างความเสียหาย +20%",
+      "summary": "- ได้รับ Min & Max Speed - Base Attack Skills ได้รับ Clash Power และสร้างความเสียหายแรงขึ้น",
+      "undefined": "-"
+    },
+    {
+      "id": "LivingSpecimenPersonality",
+      "name": "Corpus Theater",
+      "desc": "- Stack พื้นฐาน: 3 - เมื่อยูนิตนี้ได้รับ Bleed จาก Skills Attack ของศัตรู จะสุ่มได้รับเอฟเฟกต์อย่างใดอย่างหนึ่งต่อไปนี้ในเทิร์นถัดไป และเสีย Stack ของเอฟเฟกต์นี้ 1 หน่วย (1 ครั้งต่อ 1 Skill) · Bleed Potency 3 หน่วย · Bind 1 หน่วย · Defense Power Down 1 หน่วย",
+      "summary": "สุ่มได้รับอย่างใดอย่างหนึ่งต่อไปนี้: Bleed Potency, Bind หรือ Defense Power Down",
+      "undefined": "-"
+    },
+    {
+      "id": "GoldenOpportunity",
+      "name": "การรับชม Tableau",
+      "desc": "- หากมี The House of Spiders: The Ring Apprentice Faust อยู่ในสนาม จะได้รับ Protection 2 หน่วยเมื่อเริ่มเทิร์น - จบเทิร์น: เสีย 2 Stack",
+      "summary": "ได้รับ Protection เมื่อบรรลุเงื่อนไข",
+      "undefined": "-"
+    },
+    {
+      "id": "IronMaidenPersonality",
+      "name": "Iron Maiden",
+      "desc": "- เพิ่ม Aggro +4 ให้กับ Slot ซ้ายสุด - เริ่มเทิร์น: ได้รับ Protection 1 หน่วย, Defense Level Up 5 หน่วย และ Shield HP เท่ากับ 5% ของ HP ปัจจุบันของยูนิตนี้ - เมื่อถูกโจมตีด้วย Coin ครั้งสุดท้ายของผู้โจมตี จะสร้างความเสียหาย Pierce เท่ากับ 20% ของความเสียหายจาก Coin ดังกล่าว และมอบ Bleed Count +2 (สูงสุด 1 ครั้งต่อ 1 Skill, 3 ครั้งต่อเทิร์น ความเสียหายสูงสุดต่อเทิร์น: 60)",
+      "summary": "- เพิ่ม Aggro ให้กับ Slot ซ้ายสุด - ได้รับ Protection, Defense Level Up และ Shield - เมื่อบรรลุเงื่อนไข จะสร้างความเสียหาย Pierce และมอบ Bleed count ให้กับผู้โจมตี",
+      "undefined": "-"
+    },
+    {
+      "id": "SilverOpportunity",
+      "name": "The Self Unbound - Flow State",
+      "desc": "- Min & Max Speed +2 - ได้รับชุด Base Skills ใหม่ - สร้างความเสียหาย +20% ด้วย Base Attack Skills ต่อศัตรูที่มี Speed ช้ากว่ายูนิตนี้",
+      "summary": "เพิ่ม Min & Max Speed ได้รับชุด Base Skills ใหม่ เมื่อบรรลุเงื่อนไข จะสร้างความเสียหายเพิ่มขึ้น",
+      "undefined": "-"
+    },
+    {
+      "id": "FasciaPersonality",
+      "name": "Artwork: Fascia",
+      "desc": "มอบเอฟเฟกต์ต่อไปนี้ให้กับ Base Attack Skills และ Clashable Counter Skill ของยูนิตนี้ ตามค่า Corpus Ingredient Potency: - 1+ : Base Power +1 - 2+ : หากศัตรูมี Bleed หรือ 'Unique Bleed', สร้างความเสียหาย +10% - 3+ : มอบ Bleed Potency และ Count เพิ่มขึ้น +1 - 4+ : Base Power +1",
+      "summary": "ได้รับเอฟเฟกต์ต่างๆ ตามค่า Corpus Ingredient Potency",
+      "undefined": "-"
+    },
+    {
+      "id": "FaubismMaskMeursault",
+      "name": "Le Fauvisme - Masque de Chien",
+      "desc": "- สร้างความเสียหาย +5% ต่อทุกๆ 3 Mauled Color บนเป้าหมาย (สูงสุด 15%) - มอบ Bleed และ Sinking Potency เพิ่มขึ้น +1 ด้วย Base Skills - ก่อนโจมตีด้วย Base Skill หากเป้าหมายไม่มี Bleed, มอบ Bleed Count +2 แก่เป้าหมาย (1 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TestWaitingMeursault",
+      "name": "Imperfections Addressed",
+      "desc": "- สร้างความเสียหาย +10% - เมื่อใช้ Coin ซ้ำในสกิล \"Critique\" ของ The Ring Fauvist Docent Rodion, ฟื้นฟู SP 3 หน่วย (1 ครั้งต่อเทิร์น) - เริ่มเทิร์น: หาก The Ring Fauvist Docent Rodion ไม่มี Réflexion เอฟเฟกต์นี้จะหมดลง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaubismWolfMaskRodion",
+      "name": "Le Fauvisme - Masque de Loup",
+      "desc": "- Min & Max Speed +1 - มอบ Bleed และ Sinking Potency เพิ่มขึ้น +1 ด้วย Base Skills - เมื่อโจมตีโดน หากเป้าหมายมี Mauled Color [Bleu] 3+ หน่วย, มอบ Sinking Count +1 (1 ครั้งต่อเทิร์น) - เมื่อโจมตีโดน หากเป้าหมายมี Mauled Color [Rouge] 3+ หน่วย, มอบ Bleed Count +1 (1 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BoldBrushstrokesRodion",
+      "name": "Touche Hardie",
+      "desc": "- Stack สูงสุด: 2 - ได้รับความเสียหาย HP และ SP เพิ่มขึ้น +10% จากเอฟเฟกต์ Bleed และ Sinking ต่อทุกๆ 1 Stack (สูงสุด 20%, ปัดเศษลง) - จบเทิร์น: ลด 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IntenseColorsRodion",
+      "name": "Palette Vibrante",
+      "desc": "- Stack สูงสุด: 4 - ได้รับความเสียหาย +(Stack x 2.5)% จาก Identity ฝ่าย The Ring · หากผู้โจมตีอยู่ทั้งฝ่าย The Ring และฝ่าย School of Fauvism จะได้รับความเสียหาย +(Stack x 5)% แทน - เริ่มการต่อสู้: สุ่มได้รับ Bleed 1 หน่วย, Sinking 1 หน่วย, Bleed Count 1 หน่วย หรือ Sinking Count 1 หน่วย ตามจำนวน Stack - จบการต่อสู้: เอฟเฟกต์นี้จะหมดลง ลด Mauled Color [Rouge] และ Mauled Color [Bleu] Stack ของยูนิตนี้ลงครึ่งหนึ่ง (ปัดเศษลง)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThankyouDocentRodion",
+      "name": "L'Hommage",
+      "desc": "- Stack สูงสุด: 3 - เริ่มเทิร์น: สุ่มได้รับ Offense Level Up 1 ระดับ หรือ Defense Level Up 1 ระดับ ต่อทุกๆ 1 Stack (สูงสุด 3 ครั้ง) - จบเทิร์น: เอฟเฟกต์นี้จะหมดลง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TestWaitDocentRodion",
+      "name": "Réflexion",
+      "desc": "- Max Stack: 2 - ไม่สามารถใช้ \"Critique\" ได้ในเทิร์นที่ยูนิตนี้มีเอฟเฟกต์นี้ - เริ่มเทิร์น: ฟื้นฟู SP 5 หน่วย - จบเทิร์น: ลด 1 Stack - เมื่อเอฟเฟกต์นี้หมดลง ในเทิร์นถัดไปจะได้รับ L'Hommage ตามจำนวน The Ring Student Identities ที่อยู่ในสนาม",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BearClawWoundAlly",
+      "name": "Mauled Color [Rouge]",
+      "desc": "- Max Stack: 9 - เมื่อถูกโจมตี ได้รับ Bleed Potency 1 หน่วย ต่อทุกๆ 3 Stack (1 ครั้งต่อเทิร์น) - จบเทิร์น: ในเทิร์นถัดไปจะได้รับ Defense Level Down 1 ระดับ ต่อทุกๆ 4 Stack (สูงสุด 2 ระดับ) - จบเทิร์น: ลด 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EagleClawWoundAlly",
+      "name": "Mauled Color [Bleu]",
+      "desc": "- Max Stack: 9 - เมื่อถูกโจมตี ได้รับ Sinking Potency 1 หน่วย ต่อทุกๆ 3 Stack (1 ครั้งต่อเทิร์น) - จบเทิร์น: เมื่อมี 5+ Stack จะเสีย SP 5 หน่วย - จบเทิร์น: ลด 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FavorBuffTwth1stPhaseForUI",
+      "name": "Shade of Reflection [Rouge]",
+      "desc": "- สกิล Attack ของ Identity ที่เป็น <color=#f8c200>Lust Skills</color> หรือ <color=#f8c200>สกิลที่ทำให้เกิด Bleed หรือ 'Unique Bleed'</color> จะสร้างความเสียหาย +25% (สำหรับสกิล E.G.O จะสร้างความเสียหาย +100% แทน) - ศัตรูจะได้รับความเสียหาย x1.5 จาก <color=#f8c200>Bleed</color> (ปัดเศษลง) - เมื่อเกิด <color=#f8c200>A-Reson.</color> จะได้รับทรัพยากร E.G.O แบบสุ่มที่ครอบครองน้อยที่สุด 1 หน่วย และทรัพยากร E.G.O ตาม Affinity ที่ใช้ในการ A-Reson. 1 หน่วย (2 ครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "FavorBuffTwth2ndPhaseForUI",
+      "name": "Shade of Reflection [Bleu]",
+      "desc": "- สกิล Attack ของ Identity ที่เป็น <color=#f8c200>Gloom Skills</color> หรือ <color=#f8c200>สกิลที่ทำให้เกิด Sinking หรือ 'Unique Sinking'</color> จะสร้างความเสียหาย +25% (สำหรับสกิล E.G.O จะสร้างความเสียหาย +100% แทน) - เริ่มเทิร์น: ศัตรูที่อยู่ในสถานะ <color=#f8c200>Panic</color> จะได้รับ Fragile 3 หน่วย - <color=#f8c200>Identity ฝั่ง Finger</color> จะสร้างความเสียหายแก่ศัตรู +15% และได้รับความเสียหายจากศัตรู -15%"
+    },
+    {
+      "id": "FavorBuffTwthHardForUI",
+      "name": "Tribulation",
+      "desc": "- <color=#ff0000>Max HP</color> +25% - สกิลทำให้เกิด <color=#ff0000>Bleed Potency, Sinking Potency, Mauled Color [Rouge] และ Mauled Color [Bleu]</color> เพิ่มขึ้น +1 หน่วย - หากเป้าหมายมี <color=#ff0000>Palette Vibrante</color>, Clash Power +2 และ Base Power +1 - เริ่มเทิร์น [Phase 2 exclusive effect]: หากยูนิตนี้จะใช้ \"Burst Forth the Pulsing Crimson under Your Skin\" ในเทิร์นนี้ <color=#ff0000>ฟื้นฟู SP ให้ตัวเอง 10 หน่วย</color> ต่อทุกๆ Sinner ที่มี <color=#ff0000>Palette Vibrante</color> (สูงสุด 30 SP)"
+    },
+    {
+      "id": "FavorBuffTwth",
+      "name": "Shade of Reflection [Rouge]",
+      "desc": "- Attack สกิลที่เป็น Lust Skills หรือสกิลที่ทำให้เกิด Bleed หรือ 'Unique Bleed' จะสร้างความเสียหาย +25% (สำหรับสกิล E.G.O จะสร้างความเสียหาย +100% แทน) - เมื่อเกิด A-Reson. จะได้รับทรัพยากร E.G.O แบบสุ่มที่ครอบครองน้อยที่สุด 1 หน่วย และทรัพยากร E.G.O ตาม Affinity ที่ใช้ในการ A-Reson. 1 หน่วย (2 ครั้งต่อเทิร์น)",
+      "summary": "สกิล Bleed, สกิล 'Unique Bleed' และ Lust Skills จะสร้างความเสียหายแรงขึ้น"
+    },
+    {
+      "id": "FavorBuffTwthEnemy",
+      "name": "Shade of Reflection [Rouge]",
+      "desc": "- ได้รับความเสียหาย x1.5 จาก Bleed (ปัดเศษลง)",
+      "summary": "ได้รับความเสียหายจาก Bleed แรงขึ้น"
+    },
+    {
+      "id": "FavorBuffTwthTwo",
+      "name": "Shade of Reflection [Bleu]",
+      "desc": "- Attack สกิลที่เป็น Gloom Skills หรือสกิลที่ทำให้เกิด Sinking หรือ 'Unique Sinking' จะสร้างความเสียหาย +25% (สำหรับสกิล E.G.O จะสร้างความเสียหาย +100% แทน) - Identity ฝั่ง Finger จะสร้างความเสียหายแก่ศัตรู +15% และได้รับความเสียหายจากศัตรู -15%",
+      "summary": "สกิล Sinking, สกิล 'Unique Sinking' และสกิล Gloom สร้างความเสียหายแรงขึ้น"
+    },
+    {
+      "id": "FavorBuffTwthEnemyTwo",
+      "name": "Shade of Reflection [Bleu]",
+      "desc": "- เริ่มเทิร์น: เมื่ออยู่ในสถานะ Panicked จะได้รับ Fragile 3 หน่วย",
+      "summary": "เมื่ออยู่ในสถานะ Panicked จะได้รับ Fragile"
+    },
+    {
+      "id": "FavorBuffTwthHard",
+      "name": "Tribulation",
+      "desc": "- Max HP +25% - สกิลสร้าง Bleed Potency, Sinking Potency, Mauled Color [Rouge] และ Mauled Color [Bleu] เพิ่มขึ้น +1 หน่วย - หากเป้าหมายมี Palette Vibrante, Clash Power +2 และ Base Power +1",
+      "summary": "สร้าง Bleed Potency, Sinking Potency และ Mauled Color เพิ่มขึ้น หากเป้าหมายมี Palette Vibrante จะได้รับ Clash Power และ Base Power"
+    },
+    {
+      "id": "FavorBuffTwthHardTwo",
+      "name": "Tribulation",
+      "desc": "- Max HP +25% - สกิลสร้าง Bleed Potency, Sinking Potency, Mauled Color [Rouge] และ Mauled Color [Bleu] เพิ่มขึ้น +1 หน่วย - หากเป้าหมายมี Palette Vibrante, Clash Power +2 และ Base Power +1 - เริ่มเทิร์น [Phase 2 exclusive effect]: หากยูนิตนี้จะใช้ \"Burst Forth the Pulsing Crimson under Your Skin\" ในเทิร์นนี้ จะฟื้นฟู SP 10 หน่วย ให้ตัวเองต่อทุกๆ Sinner ที่มี Palette Vibrante (สูงสุด 30 SP)",
+      "summary": "สร้าง Bleed Potency, Sinking Potency และ Mauled Color เพิ่มขึ้น หากเป้าหมายมี Palette Vibrante จะได้รับ Clash Power และ Base Power"
+    }
+  ]
+}

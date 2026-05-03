@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": "A1c971a",
+      "name": "Boiling Wrath",
+      "desc": "ทุกเริ่มเทิร์น: ได้รับ Burn เท่ากับ Turn Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971b",
+      "name": "Propagating Gloom",
+      "desc": "จบเทิร์น: เมื่อมี 1 Stack, สร้างความเสียหายเท่ากับ HP ปัจจุบันของยูนิตนี้ แก่ศัตรูที่มี HP น้อยที่สุด จากนั้นจะตาย ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971c",
+      "name": "Perpetuating Gluttony",
+      "desc": "เริ่มเทิร์น: ได้รับ heal boost 1 HP ทุกๆ 2 เทิร์น (สูงสุด 5) เริ่มเทิร์น: ได้รับ Damage Up 1 หน่วย และ Clash Power Up 1 หน่วย ต่อทุกๆ 10 HP ที่ฟื้นฟู (สูงสุด 5) ฟื้นฟู HP: {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971d",
+      "name": "Gasping Breath",
+      "desc": "เมื่อได้รับ Poise, ได้รับ Poise เพิ่มเติม 3 หน่วย หรือ +2 Poise Count เพิ่มเติม",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971e",
+      "name": "Wounded Wound",
+      "desc": "เมื่อโจมตีโดน, มอบ Bleed เพิ่มเติม 2 หน่วย หรือ +1 Bleed Count เพิ่มเติม",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971f",
+      "name": "Lazy Sloth",
+      "desc": "ลดลง 1 หน่วยเมื่อจบเทิร์น ล้มเหลวใน Extra Condition เมื่อเหลือ 0",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

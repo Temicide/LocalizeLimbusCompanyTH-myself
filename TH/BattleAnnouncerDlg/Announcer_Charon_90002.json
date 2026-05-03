@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_ggomi_90002_1",
+      "dlg": "อืม... คุณต้องใช้ Sinners มากกว่านั้นนะ ดันเต้",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_2",
+      "dlg": "อีกสองคนเหรอ? หึ โชคดีนะ ดันเต้",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_3",
+      "dlg": "ทางที่ดีคุณควรทำให้ทุกคนร่วมมือกันให้ได้นะ ดันเต้ ถึงแม้ว่าตอนนี้คุณจะยังไม่เคยบัญชาการกองกำลังที่ใหญ่กว่านี้มาก่อนก็เถอะ... เฮ้อ",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_4",
+      "dlg": "ไม่รู้สึกโล่งอกหน่อยเหรอ ที่ แครอน ไม่ตามล่า Sinners ที่ถอยทัพไปแล้วน่ะ?",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_5",
+      "dlg": "เหอะ ก็นะ ถือว่าโชคดีแล้วกันที่เธอไม่เปลี่ยนคุณให้กลายเป็นกองเนื้อกับกระดูกตรงนั้นเลย",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_6",
+      "dlg": "โอ๊ะ อืม... คุณอาจจะต้องหาที่ยึดไว้หน่อยนะ",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_ggomi_90002_7",
+      "dlg": "วุ่นวายชะมัด... ทีนี้ รู้สึกยังไงบ้างล่ะที่พ่ายแพ้ให้กับ... Kkomi?",
+      "imgStr": "charon_announcer",
+      "isHide": true
+    }
+  ]
+}

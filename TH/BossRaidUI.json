@@ -1,0 +1,268 @@
+{
+  "dataList": [
+    {
+      "id": "boss_raid_ui_check_reward",
+      "content": "ตรวจสอบรางวัล"
+    },
+    {
+      "id": "boss_raid_ui_battle_effect_button_label",
+      "content": "เอฟเฟกต์ที่ทำงานอยู่"
+    },
+    {
+      "id": "boss_raid_ui_battle_rule_button_label",
+      "content": "ความคืบหน้า"
+    },
+    {
+      "id": "boss_raid_ui_enter_battle_button_label",
+      "content": "เข้าสู่"
+    },
+    {
+      "id": "boss_raid_ui_give_up_button_label",
+      "content": "รีเซ็ตความคืบหน้า"
+    },
+    {
+      "id": "boss_raid_ui_challenging_phase",
+      "content": "กำลังทดสอบ :: เฟส {0}"
+    },
+    {
+      "id": "boss_raid_ui_remain_hp",
+      "content": "คงเหลือ HP"
+    },
+    {
+      "id": "boss_raid_result_ui_result",
+      "content": "ผลลัพธ์การต่อสู้"
+    },
+    {
+      "id": "boss_raid_result_ui_total_turn",
+      "content": "จำนวนเทิร์นทั้งหมด"
+    },
+    {
+      "id": "boss_raid_result_ui_statistics_button_label",
+      "content": "รายละเอียด"
+    },
+    {
+      "id": "boss_raid_result_ui_party_formation",
+      "content": "ทีมที่ใช้เล่น"
+    },
+    {
+      "id": "boss_raid_result_ui_party_turn",
+      "content": "จำนวนเทิร์น"
+    },
+    {
+      "id": "boss_raid_result_ui_party_give_damage",
+      "content": "ดาเมจที่ทำได้"
+    },
+    {
+      "id": "boss_raid_result_ui_party_receive_damage",
+      "content": "ดาเมจที่ได้รับ"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_total_turn",
+      "content": "จำนวนเทิร์นทั้งหมด"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_settings_title",
+      "content": "ตั้งค่า"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_settings_desc",
+      "content": "ปรับแต่งการตั้งค่าต่างๆ ภายในเกม"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_retry_title",
+      "content": "เริ่มด่านใหม่"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_retry_desc",
+      "content": "เริ่มด่านใหม่อีกครั้งด้วยทีมปัจจุบันของคุณ"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_exit_title",
+      "content": "ยกเลิกด่าน"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_exit_desc",
+      "content": "ยกเลิกความคืบหน้าของด่านปัจจุบัน และกลับไปยังสถานะก่อนเริ่มการต่อสู้"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_end_title",
+      "content": "ออกจากการต่อสู้และบันทึกความคืบหน้า"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_end_desc",
+      "content": "ออกจากด่านปัจจุบันและบันทึกความคืบหน้าของคุณ"
+    },
+    {
+      "id": "boss_raid_10001_boss_title",
+      "content": "Rufo, Docent แห่ง The Ring's School of Fauvism"
+    },
+    {
+      "id": "boss_raid_10001_banner_title",
+      "content": "Twining<size=46%> </size>Threads"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_current_formation",
+      "content": "กำลังดำเนินการทดสอบ :: TEAM {0}"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_phase_before",
+      "content": "PHASE {0} ยังไปไม่ถึง"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_phase_current",
+      "content": "PHASE {0} กำลังดำเนินการ"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_phase_cleared",
+      "content": "PHASE {0} เสร็จสิ้น"
+    },
+    {
+      "id": "boss_raid_ui_enter_from_event_ui",
+      "content": "Reflectrial][lairtcelfeR"
+    },
+    {
+      "id": "boss_raid_result_ui_failed",
+      "content": "ผลลัพธ์การต่อสู้"
+    },
+    {
+      "id": "boss_raid_result_ui_progressing",
+      "content": "กำลังดำเนินการต่อสู้"
+    },
+    {
+      "id": "boss_raid_reward_ui_turn_condition",
+      "content": "{0} เทิร์นหรือน้อยกว่า"
+    },
+    {
+      "id": "boss_raid_reward_ui_warning_10001",
+      "content": "<size=80%>※ ระยะเวลาการรับรางวัลเปิดให้รับทั้งหมด 4 สัปดาห์ ตั้งแต่ 2026. 04. 23 12:00 ~ ถึง 2026. 05. 21 10:00 (KST) โปรดทราบว่าคุณจะไม่สามารถรับรางวัลได้หลังจากสิ้นสุดระยะเวลาการรับรางวัล</size>"
+    },
+    {
+      "id": "boss_raid_reward_tab_text_NORMAL",
+      "content": "ปกติ"
+    },
+    {
+      "id": "boss_raid_reward_tab_text_HARD",
+      "content": "ยาก"
+    },
+    {
+      "id": "boss_raid_result_ui_formation_number",
+      "content": "ทีม {0}"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_title",
+      "content": "ออกจากการต่อสู้และบันทึกความคืบหน้า"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_desc",
+      "content": "ออกจากการต่อสู้ที่กำลังดำเนินอยู่ และเริ่มต่อด้วยทีมถัดไปของคุณหรือไม่?"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_desc_detail",
+      "content": "<size=80%>· การเลือก \"ยืนยัน\" ด้านล่างจะ <color=#f8c200>บันทึกเฟสปัจจุบันของบอส, HP, SP และทรัพยากร E.G.O ที่เหลืออยู่ของคุณ</color> จากนั้น คุณสามารถเลือกที่จะดำเนินการต่อด้วยทีมถัดไปที่คุณต้องการได้</size>"
+    },
+    {
+      "id": "boss_raid_ask_exit_popup_title",
+      "content": "ยกเลิกด่าน"
+    },
+    {
+      "id": "boss_raid_ask_exit_popup_desc",
+      "content": "ยอมแพ้การต่อสู้ที่กำลังดำเนินอยู่หรือไม่?"
+    },
+    {
+      "id": "boss_raid_ask_exit_popup_desc_detail",
+      "content": "<size=80%>· การเลือก \"ยืนยัน\" ด้านล่างจะทำให้คุณกลับไปยังสถานะ <color=#f8c200>ทันทีก่อนที่จะเข้าสู่การต่อสู้</color> ด้วยทีมปัจจุบันของคุณ</size>"
+    },
+    {
+      "id": "boss_raid_phase_buff_view_ui_title",
+      "content": "เอฟเฟกต์ที่ทำงานอยู่"
+    },
+    {
+      "id": "boss_raid_rule_popup_title",
+      "content": "ความคืบหน้า"
+    },
+    {
+      "id": "boss_raid_rule_popup_desc_10001",
+      "content": "- \"Reflectrial][lairtcelfeR\" คือ <color=#ff0000>ความท้าทายระดับความยากสูง</color> โปรดเพิ่มเลเวลและ Uptie/Threadหมุน Identity และ E.G.O ของคุณให้ <color=#ff0000>มีสเปกตามที่แนะนำ</color> ก่อนเข้าสู่การต่อสู้ (※ ไม่สามารถใช้ Support Identity ได้) - การต่อสู้กับบอสแต่ละตัวจะมีเอฟเฟกต์เฉพาะตัว เอฟเฟกต์ \"Shade of Reflection\" จะมีผลในทุกระดับความยาก <color=#f8c200>เอฟเฟกต์ \"Tribulation\" จะมีผลเฉพาะในระดับความยาก Hard เท่านั้น</color> - การต่อสู้ใน Reflectrial][lairtcelfeR <color=#f8c200>อนุญาตให้ใช้ Team Loadout ได้สูงสุด 3 ทีม</color> ตามลำดับ อย่างไรก็ตาม Identity ที่ถูกจัดลงใน Loadout ก่อนหน้า จะไม่สามารถนำมาใช้ซ้ำใน Loadout ถัดไปได้ - <color=#f8c200>มีการจำกัด 12 เทิร์น</color> สำหรับแต่ละ Team Loadout หากใช้เกิน 12 เทิร์น หรือเลือกที่จะจบการต่อสู้ใน Loadout ปัจจุบัน จะมีการบันทึกสถานะความคืบหน้าของการต่อสู้ (Combat Phase ของบอส, HP, และ SP รวมถึง E.G.O ทรัพยากรที่มีอยู่) คุณสามารถดำเนินการต่อในการต่อสู้ด้วย Loadout ถัดไปได้ (※ รูปแบบการโจมตีของบอส, HP และ SP ของศัตรูที่ไม่ใช่บอส รวมถึงสถานะผิดปกติของศัตรูจะไม่ถูกบันทึก) - ตั้งแต่ Loadout ที่สองเป็นต้นไป <color=#f8c200>ค่าเริ่มต้นของ SP ในทีมของคุณจะเพิ่มขึ้น</color> เมื่อเข้าสู่การต่อสู้ โดยคำนวณจากจำนวนเทิร์นสะสม (※ 5 ต่อเทิร์น) สำหรับ Identity สาย Minus จะเริ่มต้นด้วยค่า SP ที่ติดลบแทน (※ -5 ต่อเทิร์น, ต่ำสุด -25)"
+    },
+    {
+      "id": "boss_raid_reward_ui_only_clear",
+      "content": "ชนะการต่อสู้"
+    },
+    {
+      "id": "boss_raid_ui_view_current_progress_state",
+      "content": "ความคืบหน้าการต่อสู้"
+    },
+    {
+      "id": "boss_raid_ui_special_buff",
+      "content": "เอฟเฟกต์: Shade of Reflection"
+    },
+    {
+      "id": "boss_raid_ui_special_buff_hardship",
+      "content": "Tribulation"
+    },
+    {
+      "id": "boss_raid_ui_statistics_popup_title",
+      "content": "รายละเอียด"
+    },
+    {
+      "id": "boss_raid_hard_ship_buff_apply_only_for_hard_alarm",
+      "content": "เอฟเฟกต์ Tribulation จะทำงานเฉพาะในระดับความยาก HARD เท่านั้น"
+    },
+    {
+      "id": "boss_raid_warning_lack_of_personality_before_start",
+      "content": "สามารถใช้ได้สูงสุด {0} ทีมสำหรับคอนเทนต์นี้ อย่างไรก็ตาม มี Sinner ที่มี Identities ไม่ถึง {0} คน โปรดทราบว่าสิ่งนี้อาจทำให้คุณไม่สามารถเคลียร์การท้าทายนี้ได้ เนื่องจากเมื่อ Identity คนใดเข้าร่วมการต่อสู้แล้ว จะไม่สามารถนำกลับมาใช้ได้อีกในการท้าทายครั้งนี้ คุณยังต้องการจะเข้าสู่การต่อสู้หรือไม่?"
+    },
+    {
+      "id": "boss_raid_ui_ask_to_quit",
+      "content": "เลือก \"ยืนยัน\" ด้านล่างเพื่อ <color=#ff0000>รีเซ็ตและลบความคืบหน้าของการต่อสู้ปัจจุบันทั้งหมด</color> รีเซ็ตความคืบหน้าการต่อสู้หรือไม่?"
+    },
+    {
+      "id": "boss_raid_preview_boss_info_button_label",
+      "content": "ดู ข้อมูลศัตรู"
+    },
+    {
+      "id": "boss_raid_difficulty_blocked",
+      "content": "เงื่อนไขการปลดล็อก: {0}"
+    },
+    {
+      "id": "boss_raid_next_difficulty_opened_side_popup",
+      "content": "ปลดล็อกระดับความยาก {0} แล้ว"
+    },
+    {
+      "id": "boss_raid_ui_recommend_state_title",
+      "content": "สเปกที่แนะนำ"
+    },
+    {
+      "id": "boss_raid_ui_recommend_state_desc",
+      "content": "- Identities : Uptie <color=#ff0000>ระดับ {1}</color>, เลเวล <color=#ff0000>{0}</color> - E.G.O : Threadspinning <color=#ff0000>ระดับ {1}</color>"
+    },
+    {
+      "id": "boss_raid_ui_progressing",
+      "content": "กำลังดำเนินการ"
+    },
+    {
+      "id": "boss_raid_banned_personality_exist",
+      "content": "มี Identity ที่ไม่สามารถส่งลงสนามได้ถูกส่งลงสนาม"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_title_last_formation",
+      "content": "ออกจากการต่อสู้"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_desc_last_formation",
+      "content": "ต้องการออกจากการต่อสู้ที่กำลังดำเนินอยู่หรือไม่?"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_desc_detail_last_formation",
+      "content": "<size=80%>· การเลือก \"ยืนยัน\" ด้านล่างจะทำให้ <color=#f8c200>ยอมแพ้ในการต่อสู้ทันที</color> (※ นี่คือทีมสุดท้ายที่คุณมี ความคืบหน้าจะไม่ถูกบันทึก และการท้าทายครั้งนี้จะ <color=#ff0000>จบลงด้วยความพ่ายแพ้</color>)</size>"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_end_title_last_formation",
+      "content": "ออกจากการต่อสู้"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_end_desc_last_formation",
+      "content": "ออกจากการต่อสู้ที่กำลังดำเนินอยู่ (※ นี่คือทีมสุดท้ายที่คุณมี ความคืบหน้าจะไม่ถูกบันทึก และการท้าทายครั้งนี้จะจบลงด้วยความพ่ายแพ้)"
+    }
+  ]
+}

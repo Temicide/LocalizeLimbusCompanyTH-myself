@@ -1,0 +1,62 @@
+{
+  "dataList": [
+    {
+      "id": 862901,
+      "name": "",
+      "subDesc": "",
+      "desc": "ห้องโถงจัดเลี้ยงที่ว่างเปล่า ถูกโอบล้อมด้วยแสงสีแดงฉานที่อบอวลไปทั่ว ราชาผู้โดดเดี่ยวซึ่งถูกพันธนาการไว้กับบัลลังก์ ยกแขนขึ้นอย่างไม่รีบร้อน เท้าของคุณเริ่มเปียกชุ่มไปด้วยหมอกอันเย็นเยียบของท่วงทำนองที่เลือนลาง ราชาผู้เดียวดายชี้ไปยังแท่นวางที่อยู่ใกล้ตัวคุณด้วยจังหวะที่เชื้อเชิญ บนนั้นมีหน้ากาก ซึ่งแต่ละชิ้นแสดงออกถึงอารมณ์ที่แตกต่างกัน มีหน้ากากแห่งความปิติ หน้ากากแห่งความโศกเศร้า และหน้ากากแห่งความโกรธเกรี้ยว ใบหน้าแบบไหนกันที่จะถูกสวมใส่ในการเข้าเฝ้าราชาครั้งนี้?",
+      "options": [
+        {
+          "message": "Wear the mask of joy.",
+          "messageDesc": "Select to gain increased Max Speed, SP heal for all allies, and Grand Welcome for this Encounter.",
+          "result": [
+            "You place the mask of joy over your face.\n\nConfidence fills you, and nothing seems out of the realm of possibilities.\n\nThe Sinners march into the banquet hall, their feet unbound by uncertainty.\n\nTo the throne that could never be a respite.\n\nLet this battle bring a fleeting moment of joy for the lone-king who shall reign eternal, reign unaccompanied.\n\nThus, the Sinners, wearing expressions of boundless joy, open the prelude to this grand banquet."
+          ]
+        },
+        {
+          "message": "Wear the mask of sorrow.",
+          "messageDesc": "Select to gain Clash Power, SP heal for all allies, and Grand Welcome for this Encounter.",
+          "result": [
+            "You place the mask of sorrow over your face.\n\nThe omnipresent pressure slowly evaporates.\n\nThe Sinners walk gently into the banquet hall, wreathed in silence.\n\nTo the throne that could never be a respite.\n\nLet this battle bring a fleeting moment of solace for the lone-king who shall reign eternal, reign unaccompanied.\n\nThus, the Sinners, wearing expressions of solemn sorrow, open the prelude to this grand banquet."
+          ]
+        },
+        {
+          "message": "Wear the mask of wrath.",
+          "messageDesc": "Select to deal more damage, gain SP heal for all allies and Grand Welcome for this Encounter.",
+          "result": [
+            "You place the mask of wrath over your face.\n\nYour body feels lighter, yet your fists curl with great might.\n\nThe Sinners sprint passionately toward the throne.\n\nTo the throne that could never be a respite.\n\nLet this battle spark the flames of battle-joy for the lone king who shall reign eternal, reign unaccompanied.\n\nThus, the Sinners, wearing expressions of battle, open the prelude to this grand banquet."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862902,
+      "name": "",
+      "subDesc": "",
+      "desc": "ความคลั่งไคล้เริ่มร้อนแรงขึ้น เมื่อการจัดเลี้ยงค่อยๆ ดำเนินไปถึงจุดสูงสุด ราชาใน Bind ส่งสัญญาณให้หยุดการต่อสู้ สิ่งนี้ทำให้เรามีเวลาเพียงพอที่จะละทิ้งหน้ากากที่แตกสลาย และสวมหน้ากากชิ้นใหม่ให้กับตัวเอง ใบหน้าแบบไหนกันที่เราจะสวมใส่ในการเข้าเฝ้าราชา?",
+      "options": [
+        {
+          "message": "Wear the mask of joy.",
+          "messageDesc": "Select to heal SP for all allies.",
+          "result": [
+            "You wear the mask of joy over your face.\n\nYour thoughts become refreshingly clear."
+          ]
+        },
+        {
+          "message": "Wear the mask of sorrow.",
+          "messageDesc": "Select to gain E.G.O resources.",
+          "result": [
+            "You wear the mask of sorrow over your face.\n\nThe Sinners' hearts absorb its strength and determination like sponges."
+          ]
+        },
+        {
+          "message": "Wear the mask of wrath.",
+          "messageDesc": "Select to gain Damage UP for this Encounter.",
+          "result": [
+            "You wear the mask of wrath over your face.\n\nPassion compels the Sinners' hands to fiercely grasp their weapons."
+          ]
+        }
+      ]
+    }
+  ]
+}

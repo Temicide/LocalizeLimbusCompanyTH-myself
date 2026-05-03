@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": "AccumulatedPastSinner",
+      "name": "อดีตที่สะสม",
+      "desc": "- Stack สูงสุด: 12 - เริ่มเทิร์น: ได้รับ Clash Power Up 1 หน่วย และ Offense Level Up 1 ระดับ ต่อทุกๆ 3 Stack",
+      "summary": ""
+    },
+    {
+      "id": "OutisNoHat",
+      "name": "การเก็บกู้ที่รุนแรง",
+      "desc": "- หากยูนิตนี้มี Haste, จะได้รับ Tremor Count เพิ่มขึ้น +1 จาก Base Skill - หาก Speed ของยูนิตนี้สูงกว่าเป้าหมาย, สร้างความเสียหาย +(ส่วนต่าง Speed x 3)% (สูงสุด 15%)",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "dataList": [
+    {
+      "id": 836602,
+      "name": "",
+      "subDesc": "",
+      "desc": "ดูเหมือนว่าเราจะสามารถกู้คืนระบบที่ถูกปิดการใช้งานของ Safety Team ได้หนึ่งระบบ นอกเหนือจากฟังก์ชันพื้นฐานของ Regenerator เราควรจะเปิดใช้งานระบบไหนดี?",
+      "options": [
+        {
+          "message": "Regenerator Mk2",
+          "messageDesc": "Select to heal HP for all allies.",
+          "result": [
+            "Regenerator Mk2 reactivated.\n\nI can feel the Sinners' bodies rapidly regenerating.\n\nIt didn't just regenerate our wounds; it healed their fatigue or minor injuries as well."
+          ]
+        },
+        {
+          "message": "Mental Corruption Neutralizing Gas",
+          "messageDesc": "Select to heal SP for all allies.",
+          "result": [
+            "The Mental Corruption Neutralizing Gas has been activated.\n\nThe Sinners all look noticeably more comfortable, as though their heads have been cleared.\n\nWe're now all ready to fight our next battle."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971032,
+      "name": "คอนโซลการศึกษาและเครื่องจักร",
+      "desc": "เราพบกับยูนิตกักกันขณะที่กำลังเดินไปตามทางเดิน ประตูของมันมีประกายสายฟ้าแลบออกมา ดูเหมือนว่าเครื่องปั่นไฟจะลัดวงจร ประตูเลยไม่ยอมปิด แต่ดูเหมือนว่าอะไรก็ตามที่อยู่ข้างใน Abnormality จะยังไม่ได้หลุดออกมา แม้เราจะพยายามมองเข้าไปข้างในให้ชัดขึ้น แต่ความมืดมิดสนิทของยูนิตกักกันก็ทำให้ยากที่จะบอกว่าเกิดอะไรขึ้นข้างในนั้น อย่างไรก็ตาม ใยที่ห้อยลงมาจากเพดานและพื้นสีดำสนิทที่ดูน่าสงสัยนั้น เป็นภาพที่แปลกประหลาดมากทีเดียว",
+      "options": [
+        {
+          "message": "Stare at the webs.",
+          "messageDesc": "Select to gain a Bleed E.G.O Gift",
+          "result": [
+            "Looking through the webs reveals... small spiders crawling within.\n\nAnd that they were no mere spiderweb.\n\nThe darkness that devoured the floor lights up, red eyes glowing and teeming.\n\nThe little spiders notice the generator, and begin weaving their webs.\n\nSome of them stick to the Sinners, slowly crawling up their bodies."
+          ]
+        },
+        {
+          "message": "Check the generator.",
+          "messageDesc": "Select to gain a Charge E.G.O Gift",
+          "result": [
+            "Thankfully, it doesn't take much time before a malfunctioning part is identified.\n\nWe carefully removed the malfunctioning part...\n\n... and all of a sudden, the generator stops fizzling, and the door of the containment unit slams shut."
+          ]
+        },
+        {
+          "message": "Check the generator, but don't take your eyes off the webs.",
+          "messageDesc": "Envy & Lust Advantage check. Pass to gain a Bleed & Charge E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971033,
+      "name": "Safety Team",
+      "desc": "ทุกมุมของห้องนี้เต็มไปด้วยแสงสีมรกต มีใครบางคนทำ Enkephalin หกไว้บนโต๊ะ จำนวนมากพอที่จะค่อยๆ หยดลงสู่พื้น 'Executive Manager เราพบ Enkephalin บางอย่างที่นี่ครับ' 'อืม ถ้าเก็บรวบรวมไว้ก็น่าจะเป็นประโยชน์ต่อภารกิจของเรา' 'ที.ที.จี.จี.ซี.ซี?' '\"Take that glass gas canister, capiche?\" ...เธอพูดแบบนั้น...'",
+      "options": [
+        {
+          "message": "Scoop up some Enkephalin.",
+          "messageDesc": "Select to gain a Sinking E.G.O Gift",
+          "result": [
+            "'It is a terrible strategy to mess with gas you don't know the effects of! I say that we leave the gas and take only the Enkephalin.'\n\n'Hmph, you don't know what you're blathering about.'\n\n'Do you not see the twisted beauty emanating from the ominous gas container?'\n\n'Nah, lass. I don't. It's just you.'\n\n'So, um. Wouldn't that Enkephalin also be contaminated or something?'\n\n'Enkephalin is not a material that is so easily tainted.'\n\nThe Sinners soon split into two parties and begin arguing with one another.\n\nFew minutes later, we found ourselves quickly making our way through the hallway with a box of Enkephalin in our hands."
+          ]
+        },
+        {
+          "message": "Take the gas canister.",
+          "messageDesc": "Select to gain a Sinking E.G.O Gift",
+          "result": [
+            "'It is a terrible strategy to mess with gas you don't know the effects of! I say that we leave the gas and take only the Enkephalin.'\n\n'Hmph, you don't know what you're blathering about.'\n\n'Do you not see the twisted beauty emanating from the ominous gas container?'\n\n'I am rather partial to the hazy levitation of the effluvium.'\n\n'Ooho, forsooth! Yet... how shalt thou carry the intangible gas!?'\n\n'Look, here's a button to extract the gas into a portable gas canister~'\n\nThe Sinners soon split into two parties and begin arguing with one another.\n\nFew minutes later, we found ourselves quickly making our way through the hallway with a gas canister in our hands."
+          ]
+        },
+        {
+          "message": "Take both",
+          "messageDesc": "Lust & Sloth Advantage check. Pass to gain 2 Sinking E.G.O Gifts (failing begins a combat Encounter)",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971034,
+      "name": "One Sin SP Healing E.G.O Gift Giveaway",
+      "desc": "ลำแสงเส้นหนึ่งลอดผ่านกระจกและประตูที่แง้มอยู่ เบื้องหลังกระจกนั้นคือหัวกะโหลกที่แปลกประหลาด... หัวกะโหลกลอยได้ที่ถูกหนามตรึงไว้กับไม้กางเขน ล้อมรอบด้วยแสงรูปวงกลม เบ้าตาที่ว่างเปล่าของกะโหลกจ้องตรงมาที่พวกเรา 'Abnormality นี้มีชื่อเรียกขานว่า \"One Sin and Hundreds of Good Deeds\"' 'แน่นอนว่า มันไม่ใช่ตัวตนเดียวกับที่เคยอาศัยอยู่ใน L Corp.' 'ความลึกที่ไม่อาจหยั่งถึงสถิตอยู่ในเบ้าตาที่กลวงโบ๋... ทิ่มแทงพวกเรา'",
+      "options": [
+        {
+          "message": "Pray before One Sin and Hundreds of Good Deeds.",
+          "messageDesc": "Sloth & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Talk to One Sin and Hundreds of Good Deeds.",
+          "messageDesc": "Sloth & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971035,
+      "name": "Heal HP, SP หรือได้รับ Cost",
+      "desc": "เราเงยหน้าขึ้นมองเห็นผีเสื้อสีขาวอยู่เหนือหัว แม้จะมีปีก แต่เหล่าผีเสื้อกลับร่อนเร่ไปตามทางเดิน ขยับปีกบินไปอย่างไร้จุดหมาย เราเดินไปยังจุดที่พวกมันดูเหมือนจะพักชั่วคราว และเราเห็นโลงศพขนาดใหญ่ผ่านหน้าต่างกระจกใส มันดูหรูหราเกินไปสำหรับคนเดียว แต่ก็เล็กเกินไปสำหรับหลายคน 'โลงศพที่โดดเดี่ยววางอยู่ตรงนั้น' 'อึ๋ย โลงศพเหรอ...? ฉันลางสังหรณ์ไม่ดีเลย เราไม่ควรแตะต้องมันใช่ไหม?' 'นั่นน่าจะเป็นทางเลือกที่ปลอดภัยกว่านะ... แต่ถ้ามีอะไรบางอย่างในนั้นที่ช่วยเราได้ล่ะ?'",
+      "options": [
+        {
+          "message": "Let's not mess with the coffin and leave.",
+          "messageDesc": "",
+          "result": [
+            "We solemnly paid our respects to the coffin past the door, then left.\n\nButterflies without a home dance, fluttering toward us on a shearing, cold wind.\n\nAre they writhing out of sorrow, or are they wingbeats of lamentation? We cannot know.\n\nA remembrance rises as I quietly observe the butterflies. That something has merely and fully returned to whence it came."
+          ]
+        },
+        {
+          "message": "Let's see what's inside the coffin.",
+          "messageDesc": "Select to gain a Sinking E.G.O Gift",
+          "result": [
+            "A cold cadaver of a butterfly rests silently inside the coffin.\n\nThe white butterflies, who so desperately fluttered their tiny wings in the faith that there must be something there at the end, are no more; gone, unnoticed by all.\n\nWhat lies past the periphery of death, one asks. Truth be told, there is nothing, nothing at all."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971036,
+      "name": "Miracle in District 20 Hard Event 1",
+      "desc": "โรงงานถูกส่องสว่างด้วยโคมไฟสีแดงและสีเขียว ท่ามกลางเสียงอึกทึกวุ่นวายของเครื่องจักรและเสียงกระทบกันของเครื่องมือ... ...มีโนมตัวจ้อย วิ่งวุ่นไปมาระหว่างสายการผลิต 'ป-ไป-โอม! รีบๆ เข้า-โอม!!' 'เอาพวกมันวางบนสายพาน-โอม!!' 'มาแพ็กของกัน-โอม!!'",
+      "options": [
+        {
+          "message": "Approach.",
+          "messageDesc": "Run a Sloth & Gluttony Advantage check to gain a Keywordless E.G.O Gift.",
+          "result": [
+            "All kinds of fascinating gifts are piled up here.\n\nMaybe we can rummage through it to find something that might be of help to us."
+          ]
+        },
+        {
+          "message": "Walk past it.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971037,
+      "name": "Miracle in District 20 Hard Event 2",
+      "desc": "เตียงเก่าๆ ที่ส่งเสียงเอี๊ยดอ๊าดตั้งอยู่อย่างโดดเดี่ยวกลางห้อง มันถูกล้อมรอบด้วยตะเกียงและเชิงเทียนจำนวนมาก บางดวงดับไปแล้ว เหลือเพียงเถ้าถ่านที่เย็นชืด ทิ้งไว้เพียงรอยไหม้สีดำเป็นหลักฐานของเปลวไฟในอดีต... แต่ดวงอื่นๆ ยังคงสว่างไสว เปลวไฟอันอบอุ่นค่อยๆ เผาไหม้ลงไปตามไส้เทียนอย่างขยันขันแข็ง ทว่า เงามืดที่เย็นยะเยือกซึ่งซุ่มซ่อนอยู่ที่ขาเตียง ข้างๆ ผ้าปูเตียงที่เลื่อนหลุดลงมาครึ่งหนึ่ง ยังคงถูกปกคลุมไว้ แรงสั่นสะเทือนประหลาดสั่นไหวไปทั่วพื้น และในไม่ช้า ฉันก็ได้ยินเสียงของบางอย่างลากไปตามพื้น พร้อมกับความรู้สึกถึงสายตาที่เย็นเยียบและเหนอะหนะที่กำลังจ้องมองมาทางฉันอย่างตั้งใจ... อะไรกันแน่ที่ซ่อนอยู่ใต้เตียงหลังนั้น?",
+      "options": [
+        {
+          "message": "Approach the bed.",
+          "messageDesc": "Run a Sloth & Gluttony Advantage check to gain a Tremor E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Do not approach the bed.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

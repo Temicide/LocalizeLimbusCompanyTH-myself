@@ -1,0 +1,375 @@
+{
+  "dataList": [
+    {
+      "id": "IndexPrescriptTargetToPersonality",
+      "name": "เป้าหมายของ Prescript - The Index",
+      "desc": "Skill Power -2 เมื่อโจมตีศัตรูจาก The Index และได้รับความเสียหาย +20% จากศัตรู The Index",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlessingOfIndexPrescriptEnemy",
+      "name": "Grace of the Prescript",
+      "desc": "- Offense Level +1 ต่อทุกๆ 3 Stack - Max Stack: 9",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescript_Base_2nd",
+      "name": "Prescript",
+      "desc": "ได้รับ Prescript: [Device] ภายใต้เงื่อนไขที่กำหนด",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptStudent_0",
+      "name": "Prescript: [Device] I",
+      "desc": "Attack และโจมตีเป้าหมายของ Prescript - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้เมื่อยูนิตนี้ไม่มี Unlock - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptStudent_1",
+      "name": "Prescript: [Device] II",
+      "desc": "โจมตีเป้าหมายของ Prescript ด้วย Skill ที่ติดตั้งใน Slot แรก หรือกำจัดเป้าหมายแบบสุ่ม - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - I - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptStudent_2",
+      "name": "Prescript: [Device] III",
+      "desc": "ทำให้เป้าหมายแบบสุ่มติด Stagger หรือกำจัดเป้าหมายนั้น - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - II - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptStudent_3",
+      "name": "Prescript: [Device] IV",
+      "desc": "กำจัดอุปสรรคทั้งหมดก่อนที่ Prescript ถัดไปจะมาถึง - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - III",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "UnlockBuff_1",
+      "name": "ปลดล็อก - I",
+      "desc": "- Offense Level +1, Defense Level +1 - จบการต่อสู้: ฟื้นฟู SP 15 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_2",
+      "name": "ปลดล็อก - II",
+      "desc": "- Offense Level +2, Defense Level +2 - จบการต่อสู้: ฟื้นฟู SP 30 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_3",
+      "name": "ปลดล็อก - III",
+      "desc": "- Offense Level +3, Defense Level +3 - จบการต่อสู้: ฟื้นฟู SP 45 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "KarmaOfIndexStudent",
+      "name": "ผลกรรม (Karmic Consequence)",
+      "desc": "- เริ่มเทิร์น: · ลด Defense Level 1 ระดับ ต่อทุกๆ 10 Stack · ได้รับ Fragile 1 หน่วย ต่อทุกๆ 20 Stack - Stack สูงสุด: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "รับคำพยากรณ์และปฏิบัติตาม การดำเนินการนั้นจะถูกสลักไว้เป็นกรรม ถูกดึงเข้าสู่กงล้อที่ไม่สิ้นสุดซึ่งจะวนกลับมาสู่มือของผู้ปฏิบัติ"
+    },
+    {
+      "id": "Blandishment_Enemy",
+      "name": "ศรัทธาที่ไร้ข้อกังขา",
+      "desc": "- Min & Max Speed +1 - Offense Level +3, Defense Level +3 - ได้รับ Poise Potency จาก Skill เพิ่มขึ้น +1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"ม-มัน... มันเห็นได้ชัดอยู่แล้วไม่ใช่เหรอ? ทุกคำที่เครื่องส่งสัญญาณมอบให้คือสิ่งที่ไม่มีข้อสงสัย... ม-ไม่มีข้อกังขาอย่างแน่นอน\""
+    },
+    {
+      "id": "Blandishment_Shin_Enemy",
+      "name": "Shin (心) - Sora",
+      "desc": "- Min & Max Speed +1 - Offense Level +2, Defense Level +2 - ได้รับ Poise Potency และ Poise Count จาก Skill เพิ่มขึ้น +1 - สร้างความเสียหาย +(เปอร์เซ็นต์ HP ที่ขาดไป + 25)% (สูงสุด 100%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PressureOfPrescript",
+      "name": "ภาระหน้าที่ (Onus)",
+      "desc": "- สร้างความเสียหาย +25% ต่อทุก Stack (สูงสุด 50%) - ภายใต้สถานะ Effloresced E.G.O::Procuration: · เมื่อมี 1 Stack, Final Power +1 · เมื่อมี 2 Stack, จะเปลี่ยนเป็น Final Power +3 แทน - Stack สูงสุด: 2",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'ฉ-ฉันควรทำยังไงดี? สิ่งที่ไม่อาจโต้แย้งได้ จะต้องถูกดำเนินการอย่างไม่มีข้อสงสัย...'"
+    },
+    {
+      "id": "PressureOfPrescript_2nd",
+      "name": "Extreme Onus",
+      "desc": "- สร้างความเสียหาย +50% ต่อทุก Stack (สูงสุด 100%) - ภายใต้สถานะ Effloresced E.G.O::Procuration: · เมื่อมี 1 Stack, Final Power +2 · เมื่อมี 2 Stack, จะเปลี่ยนเป็น Coin Power +1 และ Final Power +3 แทน - Stack สูงสุด: 2 - เมื่อใช้ Skill บางอย่าง จะนับเป็น Onus และถูกใช้ไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlindFaith_LowMorale",
+      "name": "Prescript Incompliance Risk",
+      "desc": "- Low Morale - สร้างความเสียหาย +20% แก่เป้าหมายที่มี The Prescript's Target - ได้รับความเสียหาย +10% จากเป้าหมายที่ไม่มี The Prescript's Target",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlindFaith_Panic",
+      "name": "Prescript Incompliance Risk",
+      "desc": "- Panic - สร้างความเสียหาย +30% แก่เป้าหมายที่มี The Prescript's Target - ได้รับความเสียหาย +20% จากเป้าหมายที่ไม่มี The Prescript's Target",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YellowHarpoon",
+      "name": "The Yellow Harpoon",
+      "desc": "- เริ่มเทิร์น: ได้รับ Haste 4 หน่วย และ Poise 8 หน่วย - จบเทิร์น: ได้รับ Poise Count +3 หากศัตรูถูก Nest Harpoon",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YellowHarpoonSin",
+      "name": "Shin(心) - The Yellow Harpoon",
+      "desc": "- Base Offense Level +3, Base Defense Level +3 - ฟื้นฟู SP 3 หน่วย เมื่อโจมตีเป้าหมายที่โจมตีหน่วยนี้ในเทิร์นที่แล้ว - เมื่อมี SP 0+ หน่วย, ได้รับ Final Power ตามค่า (SP / 10) (ปัดเศษลง)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BeeSting",
+      "name": "Nested Harpoon [Beesting]",
+      "desc": "- Slash Resist. +0.2, Sloth Resist. +0.2 - จบเทิร์น: ได้รับ Bind 2 หน่วย ในเทิร์นถัดไป - เมื่อโจมตีโดน: ได้รับ Bleed Potency 1 หน่วย - เมื่อถูก Vespa โจมตี, ได้รับ Gungnir's Droning 2 หน่วย - เปิดใช้งาน Bleed บนหน่วยนี้ 1 ครั้ง เมื่อเอฟเฟกต์นี้ถูกลบออก",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ArtifactBeeSting",
+      "name": "Nested Harpoon [Waspsting]",
+      "desc": "- Slash Resist. +1, Sloth Resist. +1 - จบเทิร์น: ได้รับ Bind 4 หน่วย ในเทิร์นถัดไป - เมื่อโจมตีโดน: ได้รับ Bleed Potency 3 หน่วย - เมื่อถูก Vespa โจมตี, ได้รับ Gungnir's Droning 3 หน่วย - เปิดใช้งาน Bleed บนหน่วยนี้ 2 ครั้ง เมื่อเอฟเฟกต์นี้ถูกลบออก",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HornetPoison",
+      "name": "Gungnir's Droning",
+      "desc": "- เมื่อถูก Vespa โจมตี จะได้รับความเสียหายคงที่เท่ากับ Potency ของเอฟเฟกต์นี้ - ลด Count ลง 1 หลังจากจบเทิร์น (มีผลแบบเดียวกับที่ Tremor ปกติส่งผลต่อเอฟเฟกต์ที่เพิ่ม Tremor Count)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "<color=#fde55d>ผู้ที่ถูกฉมวกเสียบทะลุจะถูกบดขยี้ เมื่อการโจมตีต่อเนื่องช่วยขยายแรงสั่นสะเทือนให้รุนแรงขึ้น</color>"
+    },
+    {
+      "id": "CriticalDmgUpVespa",
+      "name": "Apic Flashburst Blade Art - Hwando",
+      "desc": "สร้างความเสียหายเพิ่มขึ้น +10% เมื่อเกิด Critical Hit ต่อทุกๆ Stack ในเทิร์นนี้",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "<color=#fde55d>รูปแบบการใช้ดาบที่มีต้นกำเนิดจากทางตะวันออก เหมาะสำหรับผู้ที่ใช้การพุ่งตัวอย่างรวดเร็วในชั่วพริบตาจนเกือบจะเหมือนการวาร์ป เด็กหนุ่มยอมเสี่ยงกับการดัดแปลงร่างกายที่อันตรายถึงชีวิตด้วยความมุ่งมั่นอันแรงกล้า และการรอดชีวิตของเขาก็ได้พิสูจน์ให้เห็นถึงคุณค่าในตัวเขา</color>"
+    },
+    {
+      "id": "Vespa_LowMorale",
+      "name": "Vexation",
+      "desc": "- ขวัญกำลังใจต่ำ - ได้รับ Pierce Power Up 1 หน่วย และ SP Heal Efficiency Down 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Vespa_Panic",
+      "name": "Vexation",
+      "desc": "- ตื่นตระหนก - ได้รับ Pierce Power Up 2 หน่วย, Pierce DMG Up 1 หน่วย และ SP Heal Efficiency Down 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDays_LowMorale",
+      "name": "Affection and Resentment",
+      "desc": "สร้างความเสียหายแก่ Ryōshū เพิ่มขึ้น +10% และได้รับความเสียหายจาก Ryōshū เพิ่มขึ้น +10%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDays_Panic",
+      "name": "Affection and Resentment",
+      "desc": "สร้างความเสียหายแก่ Ryōshū เพิ่มขึ้น +20% และได้รับความเสียหายจาก Ryōshū เพิ่มขึ้น +20%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhantomIncision",
+      "name": "Bladetrail [Afterimage]",
+      "desc": "- Stack สูงสุด: 99 - เริ่มเทิร์น: ได้รับ Fragile 1 หน่วย ต่อทุกๆ 10 Stack (สูงสุด 5 หน่วย)",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "PhantomIncisionTotal",
+      "name": "Dihui Star's Blade",
+      "desc": "- ผลรวมทั้งหมดของ Bladetrail [Afterimage] Stack ในการปะทะครั้งนี้",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "LvDownLittleFingerBoss",
+      "name": "สายตาที่เงียบงัน",
+      "desc": "UNUSED BUFF",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeGapAb",
+      "name": "การแยกส่วน",
+      "desc": "- เริ่มเทิร์น: ส่วนนั้นจะได้รับ Shield เท่ากับจำนวน Stack - การลดลงของ Shield จะทำให้ Stack ลดลงด้วยเช่นกัน",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleFour",
+      "name": "Afterimage Entanglement สี่ชั้น",
+      "desc": "Afterimage Entanglement ระดับ 4 - Speed ต่ำสุดและสูงสุด -2 สำหรับยูนิตนี้ - เมื่อโจมตีโดน, เปิดใช้งานเอฟเฟกต์ดังนี้: · มอบ Poison 1 หน่วย · มอบ Bleed 2 หน่วย · มอบ Bind 1 หน่วย ในเทิร์นถัดไป · มอบ Burn 2 หน่วย",
+      "summary": "Afterimage Entanglement ระดับ 4",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleThree",
+      "name": "Afterimage Entanglement สามชั้น",
+      "desc": "Afterimage Entanglement ระดับ 3 - เมื่อโจมตีโดน, เปิดใช้งานเอฟเฟกต์ดังนี้: · มอบ Bleed 2 หน่วย · มอบ Bind 1 หน่วย ในเทิร์นถัดไป · มอบ Burn 2 หน่วย",
+      "summary": "Afterimage Entanglement ระดับ 3",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleTwo",
+      "name": "Afterimage Entanglement สองชั้น",
+      "desc": "Afterimage Entanglement ระดับ 2 - เมื่อโจมตีโดน, เปิดใช้งานเอฟเฟกต์ดังนี้: · มอบ Bind 1 หน่วย ในเทิร์นถัดไป · มอบ Burn 2 หน่วย",
+      "summary": "Afterimage Entanglement ระดับ 2",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleOne",
+      "name": "Afterimage Entanglement ชั้นเดียว",
+      "desc": "Afterimage Entanglement ระดับ 1 - เมื่อโจมตีโดน, เปิดใช้งานเอฟเฟกต์ดังนี้: · มอบ Burn 2 หน่วย",
+      "summary": "Stage 1 Afterimage Entanglement",
+      "undefined": "-"
+    },
+    {
+      "id": "LittleFingerBoss_Shin",
+      "name": "Shin (心) - Dihui Star",
+      "desc": "- Max Stack: 3 - เริ่มเทิร์น: มอบเอฟเฟกต์ดังต่อไปนี้ · ได้รับ Poise Potency 5 หน่วย และ Poise Count +1 ต่อ 1 Stack · ได้รับ Slash DMG Up 1 หน่วย ต่อทุกๆ 15% ของ HP ที่เสียไปของตนเอง (สูงสุด 5 หน่วย)",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParrySoji",
+      "name": "Twisted and Disjointed Memory and Recollection",
+      "desc": "- Skill Slot +1 - สร้างความเสียหายแก่ The Pinky Nursefather แรงขึ้น +20% และได้รับความเสียหายจาก The Pinky Nursefather แรงขึ้น +20%; เมื่อชนะ Clash, สร้างความเสียหาย SP 5 หน่วย แก่ The Pinky Nursefather - เมื่อได้รับความเสียหายที่ควรจะทำให้ยูนิตนี้ Stagger จะไม่เกิดสถานะ Stagger และลบ Stagger Threshold ที่เกี่ยวข้องออก; จากนั้น ได้รับ Attack Power Up 1 หน่วย ในเทิร์นถัดไป (1 ครั้งต่อเทิร์น) - สำหรับ Encounter นี้: หลังจากใช้ Skill จะได้รับทรัพยากร E.G.O 1 หน่วย ตาม Affinity ของ Skill นั้น และได้รับทรัพยากร E.G.O 1 หน่วย สำหรับทรัพยากร E.G.O ที่มีน้อยที่สุด (2 ครั้งต่อเทิร์น) - ไม่สามารถ Retreat ได้",
+      "summary": "หากมีพันธมิตรที่ยังมีชีวิตอยู่ HP จะไม่ลดลงต่ำกว่า 1",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuStartA1C9P2",
+      "name": "Mutilated Memory",
+      "desc": "- Skill Slot +1 - สร้างความเสียหายแก่ศัตรูจาก The House of Spiders แรงขึ้น +10% - เมื่อถูก Stagger จะฟื้นตัวจาก Stagger ทันทีเมื่อเริ่มเทิร์นถัดไป และได้รับ Attack Power Up 1 หน่วย (1 ครั้งต่อ Encounter)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Ryoshu_IndexFightBuff",
+      "name": "Mutilated Memory and Recollection",
+      "desc": "- Skill Slot +1 - สร้างความเสียหายแก่ศัตรูจาก The House of Spiders แรงขึ้น +10% - เมื่อได้รับความเสียหายที่ควรจะทำให้ยูนิตนี้ Stagger จะไม่เกิดสถานะ Stagger และลบ Stagger Threshold ที่เกี่ยวข้องออก; จากนั้น ได้รับ Attack Power Up 1 หน่วย ในเทิร์นถัดไป (1 ครั้งต่อเทิร์น) - สำหรับ Encounter นี้: หลังจากใช้ Skill จะได้รับทรัพยากร E.G.O 1 หน่วย ตาม Affinity ของ Skill นั้น และได้รับทรัพยากร E.G.O 1 หน่วย สำหรับทรัพยากร E.G.O ที่มีน้อยที่สุด (2 ครั้งต่อเทิร์น) - ไม่สามารถ Retreat ได้",
+      "summary": "เอฟเฟกต์เฉพาะของ Ryōshū",
+      "undefined": "-"
+    },
+    {
+      "id": "Malkuth_Imperfect",
+      "name": "Malkuth's Reign - Imperfect Manifestation",
+      "desc": "<i><color=#d3a562>การเหลือบเห็นพลังอันไม่สมบูรณ์ที่จะปกครองอาณาจักรแห่งนี้</color></i>",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleDesc",
+      "name": "Afterimage Entanglement",
+      "desc": "Afterimages are Entangled ระดับของเอฟเฟกต์จะเปลี่ยนไปตามความคืบหน้าของรูปแบบการต่อสู้",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptDon_0",
+      "name": "Prescript: [Device] I",
+      "desc": "ใช้ Skill ที่มี Mark of the Prescript หรือโจมตีเป้าหมายด้วย Skill ที่มีเครื่องหมายดังกล่าว - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้เมื่อยูนิตนี้ไม่มี Unlock - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptDon_1",
+      "name": "Prescript: [Device] II",
+      "desc": "โจมตีเป้าหมายด้วย Skill ที่มี Mark of the Prescript - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - I - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptDon_2",
+      "name": "Prescript: [Device] III",
+      "desc": "โจมตีเป้าหมายด้วย Awakening Skill E.G.O หรือในสถานะ Effloresced E.G.O::Procuration ให้ใช้ 'Skill 3' ที่มี Mark of the Prescript - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - II - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "IndexPrescriptDon_3",
+      "name": "Prescript: [Device] IV",
+      "desc": "กำจัดศัตรูทั้งหมดก่อนที่ Prescript ถัดไปจะมาถึง - เริ่มเทิร์น: ได้รับเอฟเฟกต์นี้หากยูนิตนี้มี Unlock - III",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากพระเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการเลือกวิธีที่มันจะมาถึง"
+    },
+    {
+      "id": "UnlockBuff_Base",
+      "name": "Unlock",
+      "desc": "- ได้รับเอฟเฟกต์นี้เมื่อมี Grace of the Prescript Stack ถึงระดับที่กำหนด - ระดับเอฟเฟกต์เพิ่มขึ้นตาม Grace of the Prescript Stack - สูงสุด: ระดับ 3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_1",
+      "name": "ปลดล็อก - I",
+      "desc": "- Defense Level +1 - จบการต่อสู้: ฟื้นฟู SP 5 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_2",
+      "name": "ปลดล็อก - II",
+      "desc": "- Defense Level +2 - จบการต่อสู้: ฟื้นฟู SP 10 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_3",
+      "name": "ปลดล็อก - III",
+      "desc": "- Defense Level +3 - จบการต่อสู้: ฟื้นฟู SP 15 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Blandishment",
+      "name": "ศรัทธาที่ไร้ข้อกังขา",
+      "desc": "- Min & Max Speed +1 - Offense Level +2, Defense Level +2 - ได้รับ Poise Potency เพิ่มขึ้น 1 หน่วยจาก Base Skills - SP ของยูนิตนี้จะไม่ลดลงต่ำกว่า -15 จากเอฟเฟกต์การสูญเสีย SP ใน Base Attack Skills ของยูนิตนี้ - สะสมสูงสุด: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Blandishment_Shin",
+      "name": "Shin (心) - Procuration",
+      "desc": "- Min & Max Speed +2 - Offense Level +1, Defense Level +1 - ได้รับ Poise Potency และ Poise Count เพิ่มขึ้น 1 หน่วยจาก Base Skills - สร้างความเสียหาย +(เปอร์เซ็นต์ HP ที่ขาดไป / 2)% ด้วย Base Skills (สูงสุด 40%) - สะสมสูงสุด: 1",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

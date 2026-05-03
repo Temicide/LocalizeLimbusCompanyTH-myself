@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 130802,
+      "name": "Faelantern",
+      "subDesc": "",
+      "desc": "\"ด-เดี๋ยวก่อน เกิดอะไรขึ้นกับเจ้านี่กันแน่? ความรู้สึกมันไม่เหมือนกับตัวที่เราเจอใน Mirror Dungeon เลย!\" \"... หากเราจะเจาะลึกให้มากกว่านี้ ดูเหมือนว่ามันจะสะท้อนถึงตัวที่เราพบใน Refraction Railway\" \"... แม้ว่า Hohenheim จะมีความสนใจในเรื่องนี้อยู่บ้าง...\" \"แต่เขาก็ไม่ได้เป็นอัจฉริยะพอที่จะเปลี่ยนความอยากรู้นั้นให้กลายเป็นความจริงได้\" \"ถ้าอย่างนั้น ทำไมเรื่องแบบนี้ถึงเกิดขึ้นได้ล่ะ...?\" \"เดี๋ยวนะ—มีคนทิ้งสิ่งนี้ไว้ที่นี่\" \"หืม ดูเหมือนจะเป็นหน้ากระดาษที่ฉีกมาจากบันทึกแฮะ มีสีเรืองแสงทาไว้ด้วยเพื่อให้สังเกตเห็นได้ง่ายขึ้น\" คนที่ทิ้งมันไว้คงไม่รู้ว่าเราจะมาที่นี่ มันน่าจะเป็นบันทึกที่ตั้งใจทิ้งไว้ให้ผู้รอดชีวิตที่อาจจะหลงเหลืออยู่ ไม่มีเหตุผลอะไรที่จะไม่อ่านมัน - บันทึกการสังเกตการณ์: ความผิดปกติ เขียนโดย Moses, หัวหน้าทีมวิเคราะห์การสืบสวนภาคสนาม LCD เอนทิตีตัวนี้หลุดออกจากหน่วยกักกันอย่างกะทันหันในระหว่างการโจมตี ขอเตือนผู้ที่อ่านบันทึกฉบับนี้ว่า เอนทิตีตัวนี้แสดงความผิดปกติบางอย่างที่ไม่เคยถูกสังเกตเห็นมาก่อน",
+      "options": [
+        {
+          "message": "Keep reading the record",
+          "messageDesc": "",
+          "result": [
+            "When a high number of employees within the Research Facility were killed, the Faelantern breached containment.\n\nUnder the LCE's Abnormality control protocols, such an escape is known to occur only when an employee with inherently low aptitude exhibits an Attunement level exceeding 75% with LCE E.G.O::Faelantern, or when the outcome of the managerial work is determined to be above \"Very Good.\"\n\nThe Faelantern, whose escape was triggered by deaths around it, has deviated from its expected behavior pattern of preying on charmed victims one by one, and instead has begun consuming multiple targets all at once.\nPresumably, the entity must have realized that its food reserves were being rapidly depleted.\n\nAfter Ezra destroyed the bai... amending: After Ezra destroyed the luring unit twice (designated as \"Blue Fairy\" in the LCB Observation Log), the Faelantern's aggressiveness significantly increased. At that point, Ezra was no longer affected by its charm.\n\nBased on these observations, I was able to establish a hypothesis that anyone who observes the \"Blue Fairy\" for at least 7 seconds and then immediately destroys its head becomes immune to its influence. As this effect applies only to the individual who destroys it, this information may not be of much use to most researchers; however, I shall leave a note of it to be consulted should the need arise.\n\nAddendum: When the Faelantern identified only a single individual, it did not attempt to charm them, and instead, appeared wary enough to simply watch them. Yet, due to the limited sample size, further confirmation will be necessary.\n\n\"That's quite a bit of useful tips.\"\n\"Well... Now I think I've got a rough idea of how to deal with it.\"\n\n<... All right. Let's refer to this record for the intel and try suppressing it again.>"
+          ]
+        }
+      ]
+    }
+  ]
+}

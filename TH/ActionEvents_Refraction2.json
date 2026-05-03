@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": 855601,
+      "name": "สัญลักษณ์แห่งกุหลาบ",
+      "subDesc": "UNUSED TEXT",
+      "desc": "\"เจ้าปรารถนาสิ่งใด?\" สัญลักษณ์นั้นเอ่ยถามเหล่า Sinner \"กุหลาบจะผลิบานได้ ก็ต่อเมื่อเจ้ามีความปรารถนาที่ชัดเจนเท่านั้น\" \"ยิ่งบาปของเจ้าหนักหนาเพียงใด สีของกลีบดอกก็จะยิ่งเข้มขึ้นเท่านั้น\" \"เห็นไหม? จงปรารถนา ปรารถนามันเสีย ทั้งที่รู้ว่านั่นคือบาป เพราะมีเพียงวิธีนี้เท่านั้น เจ้าถึงจะทำให้กุหลาบสีสันงดงามเช่นนี้ผลิบานได้\" \"เจ้าต้องทำให้กุหลาบผลิบาน เจ้าอยากจะหนีไปจากสวนแห่งนี้ไม่ใช่หรือ?\" \"ให้พวกเรา... ให้ข้าช่วยเจ้าเถิด\" \"ความปรารถนาเพียงหนึ่งเดียวของพวกเรา คือการได้เห็นสวนแห่งนี้ผลิบานเต็มไปด้วยมวลดอกไม้\" \"เอาละ เจ้าจะทำอย่างไรต่อไป?\"",
+      "options": [
+        {
+          "message": "Refuse.",
+          "result": [
+            "\"Foolish.\"\n\n\"Everyone has wishes. To deny them is to deny yourself.\"\n\n\"I can see how… vivid your seeds are. To not allow them to bloom isn't fair.\"\n\n\"Well… That's too bad.\"\n\n\"If you have no wishes, then remain here forevermore.\"\n\n\"Until you realize that there is no moving on without acceptance.\"\n\n\"Be with us. With me.\""
+          ]
+        },
+        {
+          "message": "Accept.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

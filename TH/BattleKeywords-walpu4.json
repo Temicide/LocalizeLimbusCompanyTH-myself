@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": "RedEyeFirst",
+      "name": "Red Eyes",
+      "desc": "- เอฟเฟกต์ Base Skill Coin มอบ Bleed เพิ่มขึ้น +1 - ค่าสูงสุด : 20 - Charge เฉพาะตัว (ค่า Potency คงที่) - ทรัพยากรที่ใช้โดยบาง Skill เพื่อสร้างเอฟเฟกต์เพิ่มเติม - เสริมพลังบัฟตามค่า Value · Stage 1 (1~7) : Red Eyes · Stage 2 (8~15) : Red Eyes - Alert · Stage 3 (16~20) : Red Eyes - Devouring - จำนวน Bleed เพิ่มเติมที่มอบโดยบรรทัดแรกของบัฟนี้ จะเท่ากับ Stage การเสริมพลังของบัฟ (สูงสุด 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeSecond",
+      "name": "Red Eyes - Alert",
+      "desc": "- เอฟเฟกต์ Base Skill Coin มอบ Bleed เพิ่มขึ้น +2 - ค่าสูงสุด : 20 - Charge เฉพาะตัว (ค่า Potency คงที่) - ทรัพยากรที่ใช้โดยบาง Skill เพื่อสร้างเอฟเฟกต์เพิ่มเติม - เสริมพลังบัฟตามค่า Value · Stage 1 (1~7) : Red Eyes · Stage 2 (8~15) : Red Eyes - Alert · Stage 3 (16~20) : Red Eyes - Devouring - จำนวน Bleed เพิ่มเติมที่มอบโดยบรรทัดแรกของบัฟนี้ จะเท่ากับ Stage การเสริมพลังของบัฟ (สูงสุด 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeThird",
+      "name": "Red Eyes - Devouring",
+      "desc": "- เอฟเฟกต์ Base Skill Coin มอบ Bleed เพิ่มขึ้น +3 - ค่าสูงสุด : 20 - Charge เฉพาะตัว (ค่า Potency คงที่) - ทรัพยากรที่ใช้โดยบาง Skill เพื่อสร้างเอฟเฟกต์เพิ่มเติม - เสริมพลังบัฟตามค่า Value · Stage 1 (1~7) : Red Eyes · Stage 2 (8~15) : Red Eyes - Alert · Stage 3 (16~20) : Red Eyes - Devouring - จำนวน Bleed เพิ่มเติมที่มอบโดยบรรทัดแรกของบัฟนี้ จะเท่ากับ Stage การเสริมพลังของบัฟ (สูงสุด 3)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceFirst",
+      "name": "Penitence",
+      "desc": "- ฟื้นฟู SP 2 หน่วย เมื่อโจมตีโดนด้วย Base Skill Coin ที่ได้รับ Penitence - ค่าสูงสุด : 20 - Charge เฉพาะตัว (ค่า Potency คงที่) - เริ่มเทิร์น: ได้รับ Shield เป็นจำนวน (Penitence)% ของค่าสูงสุดของ HP - ทรัพยากรที่ใช้โดยบาง Skill เพื่อสร้างเอฟเฟกต์เพิ่มเติม - เสริม Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Penitence · Stage 2 (8~15) : Penitence - Periphery · Stage 3 (16~20) : Penitence - Confession - จำนวน SP ที่ฟื้นฟูโดยบรรทัดแรกของบัฟนี้ จะขึ้นอยู่กับ Stage การเสริมพลัง (Stage การเสริมพลัง x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceSecond",
+      "name": "Penitence - Periphery",
+      "desc": "- ฟื้นฟู SP 4 หน่วย เมื่อโจมตีโดนด้วย Base Skill Coin ที่ได้รับ Penitence - ค่าสูงสุด : 20 - Charge เฉพาะตัว (ค่า Potency คงที่) - เริ่มเทิร์น: ได้รับ Shield เป็นจำนวน (Penitence)% ของค่าสูงสุดของ HP - ทรัพยากรที่ใช้โดยบาง Skill เพื่อสร้างเอฟเฟกต์เพิ่มเติม - เสริม Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Penitence · Stage 2 (8~15) : Penitence - Periphery · Stage 3 (16~20) : Penitence - Confession - จำนวน SP ที่ฟื้นฟูโดยบรรทัดแรกของบัฟนี้ จะขึ้นอยู่กับ Stage การเสริมพลัง (Stage การเสริมพลัง x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceThird",
+      "name": "Penitence - Confession",
+      "desc": "- ฟื้นฟู SP 6 หน่วย เมื่อโจมตีโดนด้วย Base Skill Coin ที่ได้รับ Penitence - ค่าสูงสุด : 20 - Charge เฉพาะตัว (ค่า Potency คงที่) - เริ่มเทิร์น: ได้รับ Shield เป็นจำนวน (Penitence)% ของค่าสูงสุดของ HP - ทรัพยากรที่ใช้โดยบาง Skill เพื่อสร้างเอฟเฟกต์เพิ่มเติม - เสริม Stage ของบัฟตามค่า Value · Stage 1 (1~7) : Penitence · Stage 2 (8~15) : Penitence - Periphery · Stage 3 (16~20) : Penitence - Confession - จำนวน SP ที่ฟื้นฟูโดยบรรทัดแรกของบัฟนี้ จะขึ้นอยู่กับ Stage การเสริมพลัง (Stage การเสริมพลัง x 2)",
+      "summary": ""
+    },
+    {
+      "id": "Emptiness",
+      "name": "Only Ashes Remain",
+      "desc": "- ไม่สามารถคงสถานะ Red Eyes และ Penitence ไว้ได้ - เมื่อได้รับ Red Eyes จากเอฟเฟกต์ Base Skill, ฟื้นฟูตัวเองและเพื่อนร่วมทีม 1 คนที่มีเปอร์เซ็นต์ HP ต่ำที่สุด ตามจำนวน (Red Eyes ที่ได้รับ)% ของค่าสูงสุดของ HP ของยูนิตนี้ (2 ครั้งต่อเทิร์น) - เมื่อได้รับ Penitence จากเอฟเฟกต์ Base Skill, ฟื้นฟูตัวเองและเพื่อนร่วมทีม 1 คนที่มี SP น้อยที่สุด ตามจำนวน ((Penitence ที่ได้รับ)/2) SP (2 ครั้งต่อเทิร์น) - จบเทิร์น: เอฟเฟกต์นี้จะหมดลง",
+      "summary": ""
+    },
+    {
+      "id": "SinkingWhite",
+      "name": "Butterfly",
+      "desc": "- Sinking แบบพิเศษ - ค่าพื้นฐาน: 0, ค่าสูงสุด: 15 - Potency และ Count ของเอฟเฟกต์นี้จะถูกเรียกว่า \"The Living\" และ \"The Departed\" ตามลำดับ - เมื่อถูกโจมตี ผู้โจมตีจะฟื้นฟู (The Living/4) SP (ขั้นต่ำ 1; ปัดเศษลง) - เมื่อถูกโจมตี และหาก SP ของยูนิตนี้มีค่าน้อยกว่า 0 จะได้รับความเสียหาย Gloom (Sinking Potency/5) ตามจำนวนของ The Departed (ความเสียหาย Gloom สูงสุด 30; ปัดเศษลง; สร้างความเสียหายครึ่งหนึ่งแก่เป้าหมายที่ไม่มี SP) - จบเทิร์น: รีเซ็ต The Departed ของเอฟเฟกต์นี้เป็น 0 จากนั้นได้รับ Sinking เท่ากับจำนวน The Living และเปลี่ยน The Living ให้กลายเป็น The Departed - ไม่มีเอฟเฟกต์ภายนอกใดๆ ที่สามารถเพิ่มจำนวน Butterfly ที่สร้างได้ เอฟเฟกต์ \"สร้าง Sinking เพิ่มเติม\" จะสร้าง Sinking เพิ่มเติมแทนการสร้าง Butterfly เพิ่มเติม - เอฟเฟกต์นี้จะหมดลงเมื่อทั้ง The Living และ The Departed มีค่าเป็น 0",
+      "summary": ""
+    },
+    {
+      "id": "SinkingBlack",
+      "name": "!!!เอฟเฟกต์ที่ล้าสมัย!!!",
+      "desc": "",
+      "summary": ""
+    },
+    {
+      "id": "BulletLament",
+      "name": "The Living & The Departed",
+      "desc": "- Ammo แบบพิเศษ - ผลรวมของ Potency และ Count มีค่าสูงสุดที่ 20 - ถูกใช้สำหรับ Skill บางอย่าง - จะสุ่มเลือกว่าจะใช้ The Living (Potency) หรือ The Departed (Count) ในการยิงแต่ละนัด - การโจมตีบางอย่างจะถูกยกเลิกหากยูนิตนี้กระสุนหมด",
+      "summary": ""
+    },
+    {
+      "id": "TrainTeamCaptain",
+      "name": "กัปตันทีมฝึกซ้อม",
+      "desc": "Skill Slot +1 ปรับเปลี่ยน Skill pool: ได้รับการใช้งาน Skill 3 เพิ่มขึ้น 1 ครั้ง แต่เสียการใช้งาน Skill 1 ไป 1 ครั้ง เริ่มเทิร์น: ฟื้นฟู 15 SP เพิ่มจำนวนของ Burn, Bleed, Rupture, Sinking หรือ Tremor ที่สร้างขึ้น +1 (รวมถึง 'Unique Status Effects') เพิ่มจำนวนของ Poise หรือ Charge (รวมถึง 'Unique Charge') ที่ได้รับ +1 เมื่อสังหารศัตรู ได้รับทรัพยากร E.G.O +2 ให้กับ Affinity ของ Skill ที่กำจัดศัตรู และได้รับทรัพยากร E.G.O +1 ให้กับ Affinity อื่นๆ ที่เหลือ",
+      "summary": ""
+    },
+    {
+      "id": "VioletUnderstand",
+      "name": "ความเข้าใจ",
+      "desc": "- สร้างความเสียหาย +5% ต่อ Stack - ได้รับความเสียหาย +5% ต่อ Stack (ค่าสูงสุด: 5)",
+      "summary": ""
+    },
+    {
+      "id": "MentalCrack",
+      "name": "จิตใจแตกสลาย",
+      "desc": "ประสิทธิภาพการสูญเสีย SP +1 ต่อ Stack (สูงสุด 5) หมดลงเมื่อถึง 5 Stack และได้รับความเสียหาย SP 10 หน่วย เสีย 1 Stack ต่อเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "ImpendingCollapse",
+      "name": "การเสื่อมสลายที่ใกล้เข้ามา",
+      "desc": "จบเทิร์น: เสีย 1 Stack เริ่มเทิร์น: เมื่อมี 1- Stack จะใช้ Skill พิเศษ",
+      "summary": ""
+    },
+    {
+      "id": "ReloadLament",
+      "name": "Reload",
+      "desc": "- เอฟเฟกต์ที่ใช้กับ The Living & The Departed (Unique Ammo) - ใช้ SP จำนวน (30 - (The Living + The Departed))/2 (ปัดเศษลง) - รีเซ็ตทั้งค่า The Living และ The Departed ของตนเองเป็น 0 และได้รับค่าสูงสุดของผลรวมตามความน่าจะเป็นที่ระบุไว้ใน Passive 'ISeeTheDyingButterfly' - เมื่อ Reload จะได้รับ The Living และ The Departed อย่างน้อย 1 หน่วย",
+      "summary": ""
+    }
+  ]
+}

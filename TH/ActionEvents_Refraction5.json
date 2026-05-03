@@ -1,0 +1,63 @@
+{
+  "dataList": [
+    {
+      "id": 863201,
+      "name": "",
+      "subDesc": "",
+      "desc": "หัวกะโหลกยักษ์ชูคอขึ้นพร้อมเสียงดังเอี๊ยดอ๊าด ตามมาด้วยเสียงหัวเราะแหลมสูงที่ดังก้องอย่างน่าขนลุก ภายใต้บรรยากาศที่ดูสงบกลับมีพลังงานระเบิดสั่นสะเทือนอยู่ภายใน หัวกะโหลกกำลังเตรียมที่จะปลดปล่อยการโจมตีอันทรงพลัง ทว่ามันคงจะฝืนตัวเองมากเกินไป ร่างกายของมันเริ่มปริแตกและสั่นคลอน ทำให้เราเห็นช่องโหว่ มันน่าจะดีกว่าถ้าเราโจมตีจุดอ่อนที่ร่างกายของมัน แทนที่จะรอให้มันโจมตีเราก่อน เราควรจะทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Attack the body.",
+          "messageDesc": "Select this to weaken the Abnormality's Resistances but raise its Critical Damage",
+          "result": [
+            "The frontline Sinners quickly dashed into the opening and struck the Abnormality's body.\n\nThe crack on its torso grows even wider, opening into a crevice.\n\nThat moment, I felt a pair of eyes peering at me from the utter darkness past the bones."
+          ]
+        },
+        {
+          "message": "Wait and see.",
+          "messageDesc": "Select this to apply Protection to allies",
+          "result": [
+            "Immediately before attacking, I noticed through the endless stream of exhalation the eyes of the figure in shadows.\n\nPerhaps the true threat isn't the protective skeleton, but the figure.\n\nA certain momentary intuition stays my hand. We shouldn't be rash about this; let's maintain our defenses and see how this plays out."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863301,
+      "name": "",
+      "subDesc": "",
+      "prevDesc": "ลองใส่บางอย่างลงไป",
+      "desc": "ดอกกุหลาบสูบกลืนกระแสเลือดจำนวนมหาศาลจนเปล่งประกายสีแดงฉาน แต่ถึงจะอาบเลือดมากเพียงนี้ ก็ยังไม่เพียงพอ ดวงตาที่เป็นมันวาวจ้องเขม็งมาที่ Sinner จากระหว่างกลีบดอกไม้",
+      "options": [
+        {
+          "message": "Ignore them.",
+          "messageDesc": "Select this to raise the Abnormality's offenses while reducing its defenses",
+          "result": [
+            "We agreed to not feed it blood.\n\nDissatisfaction begets frustration, it seems.\n\nThe rose raises its sharp thorns and charges the Sinners."
+          ]
+        },
+        {
+          "message": "Every Sinner feeds it a little bit of blood.",
+          "messageDesc": "Select this to consume HP from allies to reduce the Abnormality's offenses while raising its defenses",
+          "result": [
+            "The rose appears somewhat satisfied after having drunk the Sinners' blood.\n\nThe rose withdraws its glistening glares, and its petals shrink away."
+          ]
+        },
+        {
+          "message": "Every Sinner feeds it a moderate amount of blood.",
+          "messageDesc": "Select this to consume HP from allies to reduce the Abnormality's offenses while raising its defenses",
+          "result": [
+            "The rose appears somewhat satisfied after having drunk the Sinners' blood.\n\nThe rose withdraws its glistening glares, and its petals shrink away."
+          ]
+        },
+        {
+          "message": "Make the Sinners clean up the blood.",
+          "messageDesc": "Select this to partially eliminate Bloodfeast, raise the Abnormality's offenses, and reduce its defenses",
+          "result": [
+            "The Sinners busily ran about, cleaning as much blood as they can from the premises.\n\nFacing an even greater dearth of blood...\n\n... its petals begin to shudder uncannily as the thorns rise threateningly."
+          ]
+        }
+      ]
+    }
+  ]
+}

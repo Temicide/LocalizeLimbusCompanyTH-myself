@@ -1,0 +1,76 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "L Corp.",
+      "model": "장미침식혈귀",
+      "teller": "Bloodfiend ที่ถูกกัดกร่อน",
+      "title": "La Manchaland",
+      "content": "ฉันไม่เคย... ไม่เคยรู้เลยว่าจะมีอะไรที่รสชาติวิเศษขนาดนี้มาก่อน...!"
+    },
+    {
+      "id": 1,
+      "model": "장미침식혈귀",
+      "teller": "Bloodfiend ที่ถูกกัดกร่อน",
+      "title": "La Manchaland",
+      "content": "พวกเราทนมีชีวิตอยู่มานานขนาดนี้ได้ยังไง โดยที่ไม่ได้ลิ้มรสของอร่อยแบบนี้? พวกเราจะลืมสัมผัสนี้ลงได้ยังไงกัน?"
+    },
+    {
+      "id": 2,
+      "model": "히스클리프",
+      "content": "บ้าเอ๊ย Bloodfiends เจอพวกเราแล้ว"
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "พวกเขาถูกกัดกร่อนโดย Abnormality"
+    },
+    {
+      "id": 4,
+      "model": "장미침식혈귀",
+      "teller": "Bloodfiend ที่ถูกกัดกร่อน",
+      "title": "La Manchaland",
+      "content": "พ-พวกเจ้า... เลือดที่เจ้าหลั่งออกมาจนถึงตอนนี้... พวกเราตามกลิ่นคาวเลือดของเจ้ามา..."
+    },
+    {
+      "id": 5,
+      "model": "장미침식혈귀",
+      "teller": "Bloodfiend ที่ถูกกัดกร่อน",
+      "title": "La Manchaland",
+      "content": "โอ... ฉันคิดถึงมันเหลือเกิน..."
+    },
+    {
+      "id": 6,
+      "model": "장미침식혈귀",
+      "teller": "Bloodfiend ที่ถูกกัดกร่อน",
+      "title": "La Manchaland",
+      "content": "วันที่เกิดอุบัติเหตุครั้งแรกใน La Manchaland..."
+    },
+    {
+      "id": 7,
+      "model": "장미침식혈귀",
+      "teller": "Corroded Bloodfiend",
+      "title": "La Manchaland",
+      "content": "เลือดที่หยดลงมาจากแขกคนหนึ่งของเรา..."
+    },
+    {
+      "id": 8,
+      "model": "장미침식혈귀",
+      "teller": "Corroded Bloodfiend",
+      "title": "La Manchaland",
+      "content": "พวกเราคลานสี่ขาไปกับพื้น เพียงเพื่อให้ได้ลิ้มรสมันสักนิด..."
+    },
+    {
+      "id": 9,
+      "model": "장미침식혈귀",
+      "teller": "Corroded Bloodfiend",
+      "title": "La Manchaland",
+      "content": "โอ้ ความปิติยินดีที่ฉันรู้สึกในตอนนั้น..."
+    },
+    {
+      "id": 10,
+      "model": "산초",
+      "content": "ใช่แล้ว นั่นคือจุดเริ่มต้นที่ทุกอย่างพังทลายลง"
+    }
+  ]
+}

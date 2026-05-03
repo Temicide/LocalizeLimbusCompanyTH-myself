@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "id": "CandyForCharon",
+      "name": "ลูกอมเหรอ?",
+      "desc": "- ค่าสูงสุด: 1 - ลูกอมอยู่ไหน?",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TickTockTickTock",
+      "name": "ติ๊ก-ต็อก?!",
+      "desc": "- ฟื้นฟู SP 10 หน่วย เมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CandyForCharon_LowMorale",
+      "name": "ลูกอม",
+      "desc": "- ขวัญกำลังใจต่ำ - เมื่อ Clash กับ Identity ที่มีลูกอม, Clash Power +3; เมื่อปะทะกับ Identity อื่นๆ, Clash Power -1",
+      "summary": "การผันผวนของ Clash Power ตามเงื่อนไข",
+      "undefined": "-"
+    },
+    {
+      "id": "CandyForCharon_Panic",
+      "name": "ลูกอม",
+      "desc": "- Panic - เมื่อ Clash กับ Identity ที่มีลูกอม, Clash Power +5; เมื่อปะทะกับ Identity อื่นๆ, Clash Power -2",
+      "summary": "การผันผวนของ Clash Power ตามเงื่อนไข",
+      "undefined": "-"
+    }
+  ]
+}

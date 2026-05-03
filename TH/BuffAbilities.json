@@ -1,0 +1,464 @@
+{
+  "dataList": [
+    {
+      "id": "AtkDamageMultiplier",
+      "desc": "เพิ่มความเสียหายที่ทำได้ {0}%",
+      "variation": "เพิ่มความเสียหาย {0} ที่ทำได้ {1}%"
+    },
+    {
+      "id": "AtkAndTakeAtkDamageMultiplier",
+      "desc": "เพิ่มความเสียหายที่ทำได้และได้รับ {0}%",
+      "variation": "เพิ่มความเสียหายที่ทำได้และได้รับ {1}% สำหรับ Affinity {0}"
+    },
+    {
+      "id": "GiveBuffOnSucceedAttack",
+      "desc": "มอบ {1} {0} เมื่อโจมตีโดน"
+    },
+    {
+      "id": "MaxHpMultiplierRail",
+      "desc": "HP สูงสุด {0}%"
+    },
+    {
+      "id": "SlotWeightAdder",
+      "desc": "น้ำหนัก Slot {0}"
+    },
+    {
+      "id": "AtkAdder",
+      "desc": "Offense Level {0}"
+    },
+    {
+      "id": "DefAdder",
+      "desc": "ระดับ Defense {0}"
+    },
+    {
+      "id": "AtkAdderIfNotDamagedPrevTurn",
+      "desc": "Offense Level {0} หากผู้ใช้ไม่ได้รับความเสียหาย HP เป็นเวลา 1 เทิร์น (ความเสียหาย Shield ≠ ความเสียหาย HP)"
+    },
+    {
+      "id": "MaxSpeedAdderAsStack",
+      "desc": "Speed สูงสุด {0}"
+    },
+    {
+      "id": "MaxSpeedAdder",
+      "desc": "Speed สูงสุด {0}"
+    },
+    {
+      "id": "MinSpeedAdder",
+      "desc": "Speed ขั้นต่ำ {0}"
+    },
+    {
+      "id": "TakeHpHealMultiplier",
+      "desc": "ฟื้นฟู HP จาก Skill และ Effect Coin {0}%"
+    },
+    {
+      "id": "RecoverSelfHpOnSucceedAttackByDmg",
+      "desc": "ฟื้นฟู {0}% ของความเสียหายที่ทำได้"
+    },
+    {
+      "id": "RailEnemyBuffF",
+      "desc": "{0} ต่อจำนวนทรัพยากร E.G.O ที่ Sinners ใช้เมื่อใช้ Skill E.G.O"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "desc": "HP สูงสุด {0}%"
+    },
+    {
+      "id": "AtkAndDefAdder",
+      "desc": "Offense Level {0}, Defense ระดับ {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAlly",
+      "desc": "เมื่อเริ่มเทิร์น มอบ {1} {0} และ +{2} {0} Count ให้กับพันธมิตรทั้งหมด",
+      "variation": "เมื่อเริ่มเทิร์น มอบ {1} {0} ให้กับพันธมิตรทั้งหมด",
+      "variation2": "เมื่อเริ่มเทิร์น มอบ +{1} {0} Count ให้กับพันธมิตรทั้งหมด"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAllyExtra",
+      "desc": "เมื่อเริ่มเทิร์น มอบ {1} {0} ให้กับพันธมิตรทั้งหมด และมอบ {0} Count เพิ่มอีก +{2} ให้กับพันธมิตรที่มี {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllEnemyExtra",
+      "desc": "เมื่อเริ่มเทิร์น มอบ {1} {0} ให้กับศัตรูทั้งหมด และมอบ {0} Count เพิ่มอีก +{2} ให้กับศัตรูทั้งหมดที่มี {0}"
+    },
+    {
+      "id": "LoseTurnOnRoundEnd",
+      "desc": "จบเทิร์น: เสีย {0} Count"
+    },
+    {
+      "id": "Vibration",
+      "desc": "เมื่อถูกโจมตีที่ทำให้เกิด Tremor Burst, เพิ่ม Stagger Threshold ขึ้น {0} คงอยู่ {1} เทิร์น"
+    },
+    {
+      "id": "DefAdderByStackCeilToInt",
+      "desc": "เสีย Defense ระดับ 1 ต่อทุกๆ 4 Tremor Potency"
+    },
+    {
+      "id": "Crack",
+      "desc": "เมื่อติด Stagger และผลรวมของ Tremor Potency และ Count มีค่าตั้งแต่ 20 ขึ้นไป, เพิ่ม Stagger Level ขึ้น 1 เอฟเฟกต์นี้ไม่สามารถทำให้ Stagger Level เกินระดับสูงสุดได้"
+    },
+    {
+      "id": "VibrationEcho",
+      "desc": "เมื่อถูกโจมตีที่ทำให้เกิด Tremor Burst, ได้รับความเสียหาย Sloth {0}"
+    },
+    {
+      "id": "VibrationDistribution",
+      "desc": "- จบเทิร์น: ได้รับ Offense Level Up ในเทิร์นถัดไป ((ผลรวมของ Tremor ของพันธมิตรทั้งหมด - Distribution Count) / (จำนวนพันธมิตรที่มี Tremor - Distribution)) (สูงสุด 5)"
+    },
+    {
+      "id": "VibrationChain",
+      "desc": "เสีย Clash Power 1 ต่อทุกๆ 10 Tremor Potency ของเป้าหมาย (สูงสุด 3)"
+    },
+    {
+      "id": "VibrationContinue",
+      "desc": "- เมื่อทำให้เกิด Tremor Burst ด้วยสกิลหรือเอฟเฟกต์ Coin, มีโอกาส {0}% ที่จะทำให้เกิด Tremor Burst เพิ่มเติม (สูงสุด 50%) - เมื่อทำให้เกิด Tremor Burst ด้วยสกิลหรือเอฟเฟกต์ Coin, มีโอกาส {1}% ที่จะทำให้เกิด Tremor Burst เพิ่มเติม (สูงสุด 50%)"
+    },
+    {
+      "id": "TimeSuspend",
+      "desc": "เมื่อเปิดใช้งาน, สร้างความเสียหาย Sloth {3} และทำให้เกิด Tremor Burst {0} ครั้ง"
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "เวลาที่หยิบยืมมา",
+      "desc": "เมื่อจบเทิร์น: ได้รับ Haste {1}, Clash Power Up, และ Fragile ในเทิร์นถัดไป เมื่อ Count เหลือ 1 จะได้รับ Bind {0} ในเทิร์นถัดไปแทน",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "Tremor - Chain",
+      "desc": "เสีย Clash Power 1 ต่อทุกๆ 10 Tremor Potency (สูงสุด 3)",
+      "summary": ""
+    },
+    {
+      "id": "DefSkillPowerResultAdder",
+      "desc": "Final Power ของสกิล Defense {0}"
+    },
+    {
+      "id": "TakeAtkDamageMultiplier",
+      "desc": "ความเสียหายที่ได้รับ {0}%"
+    },
+    {
+      "id": "ParryingResultAdder",
+      "desc": "Clash Power {0}"
+    },
+    {
+      "id": "SkillPowerResultAdder",
+      "desc": "Final Power {0}"
+    },
+    {
+      "id": "SkillPowerAdder",
+      "desc": "Base Power {0}"
+    },
+    {
+      "id": "PlusCoinScaleAdder",
+      "desc": "บวก Coin Power {0}"
+    },
+    {
+      "id": "MinusCoinScaleAdder",
+      "desc": "ลบ Coin Power {0}"
+    },
+    {
+      "id": "DefaultMaxHpMultiplier",
+      "desc": "HP สูงสุด {0}%"
+    },
+    {
+      "id": "ResistAdderForLastBoss",
+      "desc": "บอสใหญ่ของ Section 3 {0} ความต้านทาน {1}"
+    },
+    {
+      "id": "MRR519P",
+      "desc": "เมื่อใดก็ตามที่เพื่อนร่วมทีมตาย จะสร้างความเสียหายคงที่เท่ากับ 20% ของ HP สูงสุดของเพื่อนร่วมทีมที่ตายแก่ศัตรูทั้งหมด"
+    },
+    {
+      "id": "HealSelfOnSucceedAttackByDmgRatio",
+      "desc": "เมื่อโจมตีโดน หากการโจมตีนั้นลด HP ของเป้าหมาย จะฟื้นฟู HP {0}% ของความเสียหายที่ทำได้"
+    },
+    {
+      "id": "MRR524P",
+      "desc": "ทุกสกิลสร้างความเสียหาย +1% ต่อทุกๆ 10 {0} ที่มีอยู่บนตัวเอง (สูงสุด 30%)"
+    },
+    {
+      "id": "MRR525",
+      "desc": "จบเทิร์น: ลด {1} {0} Count"
+    },
+    {
+      "id": "CoinScaleAdderByAtkType",
+      "desc": "สกิล {0} ได้รับ Plus Coin Power +{1}, Minus Coin Power -{1}"
+    },
+    {
+      "id": "GiveBuffOnReleaseStandBy",
+      "desc": "ได้รับ {1} {0} เมื่อทำการ Substitute"
+    },
+    {
+      "id": "MRR532",
+      "desc": "หลังจากใช้ Awakening E.G.O จะใช้ทรัพยากร E.G.O 1 หน่วย จาก Sin Affinity แบบสุ่ม 3 ชนิดที่มีทรัพยากร E.G.O มากกว่า 1 หน่วย"
+    },
+    {
+      "id": "LacerationStackAndTurnAdder",
+      "desc": "+{0} ให้กับ Potency และ Count ของ {1} ที่สร้างด้วยสกิลและเอฟเฟกต์ Coin"
+    },
+    {
+      "id": "MRR536",
+      "desc": "เมื่อถูกโจมตีด้วยสกิล ในเทิร์นถัดไปจะได้รับหนึ่งในเอฟเฟกต์ต่อไปนี้แบบสุ่ม: {0}, {1} (สูงสุด 4 ครั้ง)"
+    },
+    {
+      "id": "MRR540",
+      "desc": "สกิลที่ใช้ {0} จะได้รับผลดังนี้: Final Power +1, สร้างความเสียหาย +10%"
+    },
+    {
+      "id": "MRR541",
+      "desc": "เมื่อเป้าหมายหลักคือยูนิตที่มี {1} ต่ำที่สุด Final Power ของสกิล +{0}"
+    },
+    {
+      "id": "MRR518P",
+      "desc": "เริ่มการต่อสู้: พันธมิตร 3 คนที่ Deployed เร็วที่สุดในขณะนี้ ได้รับ Poise Potency 10"
+    },
+    {
+      "id": "MRR520P",
+      "desc": "เมื่อตาย สร้างความเสียหายคงที่เท่ากับ {0}% ของ HP สูงสุดของยูนิตที่ตาย แก่ศัตรูทั้งหมด (สำหรับ Focused Encounters จะส่งผลต่อทุก Part)"
+    },
+    {
+      "id": "MRR517",
+      "desc": "เมื่อถูกโจมตีด้วยสกิล ในเทิร์นถัดไปจะได้รับ Offense Level Up 2 (สูงสุด 6)"
+    },
+    {
+      "id": "MRR5051",
+      "desc": "เมื่อโจมตีโดนด้วยสกิลที่ใช้ {0} Count 8 หน่วยขึ้นไป: +0.1 ให้กับ {1} Resistance ของเป้าหมายในการ Encounter นี้ - มีผลหนึ่งครั้งต่อหนึ่งสกิลต่อศัตรูหนึ่งตัว - ปรับค่า Resistance สูงสุดด้วยเอฟเฟกต์นี้ได้: 0.3"
+    },
+    {
+      "id": "MRR5052",
+      "desc": "สกิลที่ได้รับหรือใช้ {0} Count จะสร้างความเสียหาย +(10 + (Charge Count ที่ใช้ x 2))% (สูงสุด 50%)"
+    },
+    {
+      "id": "MRR506",
+      "desc": "จบเทิร์น: สำหรับแต่ละ Keyword จะสร้างความเสียหาย {1} เท่ากับ {0} Potency แก่ทุก Part ของศัตรูที่มี Count 2 หน่วยขึ้นไป; จากนั้น ลด {0} Count ของ Part เหล่านั้นลง 1, เปิดใช้งาน {2} หนึ่งครั้ง และลด {3} Count ลง 1"
+    },
+    {
+      "id": "MRR507",
+      "desc": "สกิลที่สร้าง {0} Potency หรือ Count: Final Power +2"
+    },
+    {
+      "id": "MRR508",
+      "desc": "สร้างความเสียหาย +({0} Potency ของเป้าหมาย)% ต่อเป้าหมายที่มี SP น้อยกว่า 0 หรือไม่มี SP (สูงสุด 45%)"
+    },
+    {
+      "id": "MRR509P",
+      "desc": "สร้างความเสียหาย +{0}% ต่อ Part ที่ถูก Destroyed หรือ Staggered"
+    },
+    {
+      "id": "GiveBuffOnFirstRoundStartPerWave",
+      "desc": "เริ่มเทิร์นแรกของ Wave: ได้รับ {1} {0} Potency และ +{2} {0} Count"
+    },
+    {
+      "id": "GiveBuffOnBattleStartAR",
+      "desc": "หากเปิดใช้งาน {0} Reson. พันธมิตรทั้งหมดจะได้รับ {2} {1} Potency และ +{3} {1} Count เมื่อเริ่มการต่อสู้"
+    },
+    {
+      "id": "MRR511PMaxSpeedAdder",
+      "desc": "พันธมิตรที่ Deploy #1: Speed สูงสุด +1"
+    },
+    {
+      "id": "MRR511PMinSpeedAdder",
+      "desc": "พันธมิตรที่ Deploy #1: Speed ต่ำสุด +1"
+    },
+    {
+      "id": "MRR511PMinSpeedChangeSkill",
+      "desc": "พันธมิตรที่ Deploy #1: เสีย Skill 1 แต่ได้รับ Skill 3 แทน"
+    },
+    {
+      "id": "MRR512",
+      "desc": "เริ่มตั้งแต่ Sinner ที่ Deploy #7 ในเทิร์นที่ทำการ Substitute เข้ามา จะฟื้นฟู {0} SP, ได้รับ {2} {1} ตลอดการปะทะ และได้รับทรัพยากร E.G.O จำนวน {3} สำหรับ Skill 1, 2 และ 3 ของตนเอง"
+    },
+    {
+      "id": "AddSinStockOnKillTargetByUsedSkillAttribute",
+      "desc": "หลังจากใช้ Attack หรือ Counter Skill หากศัตรูถูกกำจัด จะได้รับทรัพยากร E.G.O จำนวน {0} ตาม Skill Affinity ที่ใช้ (1 ครั้งต่อ Skill รวมถึง Skill E.G.O)"
+    },
+    {
+      "id": "MRR514",
+      "desc": "เมื่อศัตรูเสริมเข้าสู่การต่อสู้ จะมอบ 5 Bleed และ +3 Bleed แก่ศัตรูเหล่านั้นเมื่อเริ่มการต่อสู้ หากมี <Bloodfiend> อยู่ในกลุ่มพันธมิตร: เมื่อเงื่อนไขข้างต้นบรรลุผล จะเปิดใช้งาน Bleed กับศัตรูทั้งหมดหนึ่งครั้ง และลด Bleed Count ของศัตรูลง 1"
+    },
+    {
+      "id": "EnemyLevelTextOnly",
+      "desc": "เลเวลศัตรู {0}"
+    },
+    {
+      "id": "MRR501",
+      "desc": "+{0} ให้กับ Potency ของ Burn, Bleed, Tremor, Rupture และ Sinking ที่สร้างแก่ศัตรูที่มี Skill และเอฟเฟกต์ Coin"
+    },
+    {
+      "id": "TakeBuffTurnAdder",
+      "desc": "{1} ให้กับ {0} Count ที่พันธมิตรที่มี Skill และเอฟเฟกต์ Coin ได้รับ"
+    },
+    {
+      "id": "MRR503",
+      "desc": "พันธมิตร {0} คนที่มี SP น้อยที่สุด จะฟื้นฟู {1} SP เมื่อจบเทิร์น (ยกเว้น: พันธมิตรที่อยู่ในสถานะ Panicked หรือ Corroded)"
+    },
+    {
+      "id": "CriticalDamageBoostWithBuffUse",
+      "desc": "เมื่อเกิด Crit หากมี {0} Potency มากกว่า {1} จะใช้ {0} Potency ส่วนเกินสูงสุด {1} เพื่อสร้างความเสียหาย +(Poise Potency ที่ใช้ x {2})% เมื่อเกิด Critical Hit (สูงสุด {3}%)"
+    },
+    {
+      "id": "GainSinStockOnDieByDefaultSkill",
+      "desc": "เมื่อพ่ายแพ้ จะได้รับทรัพยากร E.G.O ตาม Affinity และ Rank ของแต่ละ Attack Skill ที่ยูนิตนี้มี"
+    },
+    {
+      "id": "MRR547",
+      "desc": "เริ่มเทิร์น: Skill ของศัตรูทั้งหมดได้รับ Final Power +1~3"
+    },
+    {
+      "id": "MRR544",
+      "desc": "เริ่มเทิร์น: Skill ของพันธมิตรทั้งหมดได้รับ Final Power +1~3"
+    },
+    {
+      "id": "MRR551",
+      "desc": "เริ่มเทิร์น: เมื่อ HP ถึงระดับสูงสุด จะได้รับ {0} Potency {1} และ +{2} Count (เกิดขึ้นหนึ่งครั้งต่อศัตรูหนึ่งตัวต่อหนึ่ง Part ต่อการ Encounter)"
+    },
+    {
+      "id": "MRR552",
+      "desc": "เมื่อตาย พันธมิตร 1 รายที่มี HP ปัจจุบันน้อยที่สุด จะได้รับ {0} {1} ในเทิร์นถัดไป"
+    },
+    {
+      "id": "MRR553",
+      "desc": "Skill E.G.O สร้างความเสียหาย +{0}%"
+    },
+    {
+      "id": "MRR521",
+      "desc": "ลบเกณฑ์ Stagger ขั้นแรกออก"
+    },
+    {
+      "id": "MRR557",
+      "desc": "สร้างความเสียหาย +(10 + {0} Potency + {0} Count)% เมื่อเกิด Critical Hit (สูงสุด 50%)"
+    },
+    {
+      "id": "LacerationStackAndTurnAdderIfNotZero",
+      "desc": "+{0} ให้กับ Potency และ Count ของ {1} ที่สร้างด้วยสกิลและเอฟเฟกต์ Coin"
+    },
+    {
+      "id": "AttackDmgMultiplierSpecificType",
+      "desc": "Skill {0} สร้างความเสียหาย +30%"
+    },
+    {
+      "id": "MRR565MaxSpeedAdder",
+      "desc": "Speed สูงสุด {0}"
+    },
+    {
+      "id": "MRR565MinSpeedAdder",
+      "desc": "Speed ขั้นต่ำ {0}"
+    },
+    {
+      "id": "DefaultLevelAdder",
+      "desc": "Base Offense Level {0}, Base Defense Level {0}, Base Unit Defense Level {0}"
+    },
+    {
+      "id": "VibrationIgnition",
+      "desc": "เป็นเวลา {1} เทิร์น เมื่อเกิด Tremor Burst จะได้รับความเสียหาย Wrath ({0} + Burn Potency) / 2 จากนั้นลด Tremor Count ลง 1"
+    },
+    {
+      "id": "Heishou10212",
+      "desc": "Heishou Pack - Mao Branch Adept Faust: ได้รับความเสียหายจาก Skill -5%"
+    },
+    {
+      "id": "Heishou10411",
+      "desc": "Heishou Pack - Mao Branch Ryōshū: หาก Speed ของยูนิตนี้เร็วกว่าเป้าหมาย จะสร้างความเสียหาย +5%"
+    },
+    {
+      "id": "Heishou11112",
+      "desc": "Heishou Pack - Mao Branch Outis: มอบ Rupture Count +1 เมื่อโจมตีโดนด้วย Attack ที่ไม่มีการปะทะ (หนึ่งครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "Heishou10912",
+      "desc": "Heishou Pack - Si Branch Rodion: มอบ Rupture 1 เมื่อเกิด Critical Hit (3 ครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "Heishou11212",
+      "desc": "Heishou Pack - Si Branch Gregor: เมื่อสร้างความเสียหาย Rupture, ได้รับ Poise Count +1 (หนึ่งครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "Heishou11014",
+      "desc": "Heishou Pack - You Branch Sinclair: เมื่อสร้าง Rupture ด้วย Skill, จะสร้าง Burn 1 หน่วย (3 ครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "Heishou10114",
+      "desc": "Heishou Pack - Wu Branch Adept Yi Sang: เมื่อโจมตีด้วย Coin สุดท้ายของ Base Skill, จะทำให้เกิด Tremor Burst หนึ่งครั้ง (หนึ่งครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "GiveMpDmgAsValueOnRESelf",
+      "desc": "ทุกสิ้นเทิร์น: พันธมิตรเสีย SP {0}"
+    },
+    {
+      "id": "GiveHpDmgAsValueAndIncreaseOnRESelf",
+      "desc": "สิ้นเทิร์น: พันธมิตรได้รับความเสียหายคงที่ HP {0} ความเสียหายคงที่จะเพิ่มขึ้น {1} ในทุกเทิร์น (สูงสุด {2})"
+    },
+    {
+      "id": "CantRecoverMpOverValue",
+      "desc": "ไม่สามารถฟื้นฟู SP ให้เกิน {0}"
+    },
+    {
+      "id": "MD6LimitTest105",
+      "desc": "คูณการใช้ทรัพยากร E.G.O ด้วย {0}"
+    },
+    {
+      "id": "RemoveFirstBreakSection",
+      "desc": "ลบ Stagger Threshold ขั้นแรกออก"
+    },
+    {
+      "id": "MinSpeedAdderIncludeFirstTurn",
+      "desc": "Speed ขั้นต่ำ {0}"
+    },
+    {
+      "id": "MaxSpeedAdderIncludeFirstTurn",
+      "desc": "Speed สูงสุด {0}"
+    },
+    {
+      "id": "DefaultMaxHpMultiplierBossRoomOnly",
+      "desc": "HP สูงสุดของบอส {0}%"
+    },
+    {
+      "id": "MaxHpReducerMirrorDungeonPersonality",
+      "desc": "HP สูงสุด {0}%"
+    },
+    {
+      "id": "VibrationBleeding",
+      "desc": "เป็นเวลา {1} เทิร์น, เมื่อเกิด Tremor Burst, จะได้รับความเสียหาย Lust เท่ากับ ({0} + Potency ของ Bleed) / 2 จากนั้นลด Bleed Count ลง 1"
+    },
+    {
+      "id": "Heishou10714",
+      "desc": "Heishou Pack - You Branch Adept Heathcliff: สร้างความเสียหาย Wrath เท่ากับ 5% ของความเสียหาย Gluttony ที่สร้างด้วย Base Skill"
+    },
+    {
+      "id": "Heishou10313",
+      "desc": "Heishou Pack - Wei Branch Don Quixote: เมื่อสร้าง Rupture ด้วย Skill, จะสร้าง Sinking 1 หน่วย (3 ครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "MD7LimitGiveBuffAllyDie",
+      "desc": "เมื่อพันธมิตรตาย: ได้รับ {0} {1} และ +{2} {0} Count ในเทิร์นถัดไป ({3} ครั้งต่อเทิร์น)",
+      "variation": "เมื่อพันธมิตรตาย: ได้รับ {0} {1} ในเทิร์นถัดไป ({2} ครั้งต่อเทิร์น)",
+      "variation2": "เมื่อพันธมิตรตาย: ได้รับ +{1} {0} Count ในเทิร์นถัดไป ({2} ครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "MD7LimitGiveBuffAllyDieAlt",
+      "desc": "เมื่อพันธมิตรตาย: ได้รับ {0} {1} และ +{2} {0} Count ในเทิร์นถัดไป ({3} ครั้งต่อเทิร์น)",
+      "variation": "เมื่อพันธมิตรตาย: ได้รับ {0} {1} ในเทิร์นถัดไป ({2} ครั้งต่อเทิร์น)",
+      "variation2": "เมื่อพันธมิตรตาย: ได้รับ +{1} {0} Count ในเทิร์นถัดไป ({2} ครั้งต่อเทิร์น)"
+    },
+    {
+      "id": "RecoverSelfMpOnRoundStart",
+      "desc": "เริ่มเทิร์น: ฟื้นฟู {0} SP"
+    },
+    {
+      "id": "MD7LimitGiveShield",
+      "desc": "ได้รับ {0} Shield"
+    },
+    {
+      "id": "MD7LimitSinBuffGiveBooster",
+      "desc": "สกิลและ Coin จะสร้าง Burn, Bleed, Tremor, Rupture และ Sinking เพิ่มขึ้น x{0} เท่า"
+    },
+    {
+      "id": "GiveRandomNegativeSinbuffOnRoundStart",
+      "desc": "เริ่มเทิร์น: สุ่มได้รับ Potency {0} จาก Burn, Bleed, Tremor, Rupture หรือ Sinking"
+    },
+    {
+      "id": "MD7LimitMpAdjuster",
+      "desc": "เริ่มเทิร์น: ฟื้นฟู {0} SP - หากสกิลทั้งหมดเป็นสกิล Minus Coin จะเสีย SP {1} แทน"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "dataList": [
+    {
+      "id": "NetherseaBrand",
+      "name": "Nethersea Brand",
+      "desc": "Nethersea Brand จะขยายตัวไปยัง Sinners ในทุกเทิร์นที่ผ่านไป - Stage 1 : พื้นที่ของ Sea Terror - Stage 2 : Sinners 2 ตัวที่อยู่หน้าสุด - Stage 3 : Sinners 5 ตัวที่อยู่หน้าสุด - Stage 4 : Sinners ทั้งหมด",
+      "summary": "Nethersea Brand จะขยายตัวในทุกเทิร์น"
+    },
+    {
+      "id": "NetherseaBrandUnit",
+      "name": "Nethersea Brand",
+      "desc": "- Sinners ที่อยู่บน Nethersea Brand: เมื่อจบเทิร์น จะได้รับความเสียหายคงที่เท่ากับ 5% ของ HP และได้รับ Nervous Impairment 3 หน่วย - เพิ่มจำนวน Stack ของ Nervous Impairment ที่ Sea Terror ซึ่งอยู่บน Nethersea Brand จะสร้างให้กับ Sinners อย่างมาก - อิทธิพลของ Nethersea Brand จะขยายตัวไปยังพื้นที่ของ Sinner ในทุกเทิร์นที่ผ่านไป · Stage 1 : พื้นที่ของ Sea Terror · Stage 2 : ส่งผลต่อ Sinners 2 ตัวที่อยู่หน้าสุด · Stage 3 : ส่งผลต่อ Sinners 5 ตัวที่อยู่หน้าสุด · Stage 4 : ส่งผลต่อ Sinners ทั้งหมด",
+      "summary": "พันธมิตรที่อยู่บน Nethersea Brand จะได้รับความเสียหายคงที่และได้รับ Nervous Impairment เพิ่มจำนวน Nervous Impairment ที่ศัตรูจะสร้างให้กับพันธมิตรที่อยู่บน Nethersea Brand อย่างมาก"
+    },
+    {
+      "id": "SeaTerrorCell",
+      "name": "Sea Terror Assimilation",
+      "desc": "- Max Stack : 5 - ได้รับ 1 Stack เมื่อเริ่มเทิร์น - ได้รับ Offense Level Down 1 ระดับ และ Defense Level Down 1 ระดับ ต่อ 1 Stack - จบเทิร์น: หาก Sinner ฝ่ายพันธมิตรมีเอฟเฟกต์นี้ 5 Stack จะ Escape Battlefield - เมื่อ Sinner ฝ่ายพันธมิตรติดตั้ง Skill Defense ในขณะที่มีเอฟเฟกต์นี้ จะ Escape Battlefield เมื่อเริ่มการต่อสู้",
+      "summary": "ได้รับ Offense Level Down และ Defense Level Down ตามจำนวน Stack"
+    },
+    {
+      "id": "NervousImpairment",
+      "name": "Nervous Impairment",
+      "desc": "- Max Stack : 30 - เมื่อครบ 30 Stack จะติด Staggered จากนั้นได้รับความเสียหายคงที่เท่ากับ 25% ของ HP สูงสุดของยูนิตนี้ และลบเอฟเฟกต์นี้ออก",
+      "summary": "ติด Staggered และได้รับความเสียหาย HP อย่างรุนแรง"
+    },
+    {
+      "id": "WaitingforCommandMod",
+      "name": "Standby State",
+      "desc": "- เมื่ออยู่ใน Standby State ยูนิตนี้จะไม่ใช้ Skill Attack จนกว่าจะได้รับความเสียหาย",
+      "summary": "เมื่ออยู่ใน Standby State ยูนิตนี้จะไม่ใช้ Skill Attack จนกว่าจะได้รับความเสียหาย"
+    },
+    {
+      "id": "ParticipationMod",
+      "name": "Combat-Ready State",
+      "desc": "- หลังจากได้รับความเสียหาย ยูนิตนี้จะเริ่มใช้ Skill Attack - เริ่มเทิร์นขณะอยู่ในสถานะ Combat-Ready: · มอบ Nervous Impairment 3 หน่วย ให้กับศัตรูทั้งหมด · Min & Max Speed +3 · ได้รับ Offense Level Up 1 ระดับ ต่อทุกๆ 10% ของ HP ที่หายไป (สูงสุด 8) - จบเทิร์นขณะอยู่ในสถานะ Combat-Ready: ได้รับความเสียหายคงที่เท่ากับ 10% ของ HP",
+      "summary": "หลังจากได้รับความเสียหาย ยูนิตนี้จะเริ่มใช้ Skill Attack"
+    },
+    {
+      "id": "AbyssalVitality",
+      "name": "Abyssal Vitality",
+      "desc": "- Stack สูงสุด: 100 - ถูกใช้เมื่อใช้ Skill บางอย่าง - ทุกครั้งที่เอฟเฟกต์นี้ถูกใช้ จะ Heal SP ให้ตัวเองตามจำนวนที่ถูกใช้",
+      "summary": "ถูกใช้เมื่อใช้ Skill บางอย่าง - ทุกครั้งที่เอฟเฟกต์นี้ถูกใช้ จะ Heal SP"
+    },
+    {
+      "id": "IndelibleGoodwill",
+      "name": "Indelible Compassion",
+      "desc": "- ยูนิตนี้จะไม่เสีย Shield เมื่อจบเทิร์น (ยกเว้นถูกลบออกด้วยความเสียหายหรือเอฟเฟกต์บางอย่าง) - เมื่อ Shield แตกจากการถูกโจมตี จะติดสถานะ Staggered และได้รับ Fragile 5 หน่วย จนถึงเทิร์นถัดไป - เมื่อติดสถานะ Staggered เนื่องจากการเพิ่มเกณฑ์ Stagger จะได้รับ Fragile 5 หน่วย จนถึงเทิร์นถัดไป - Fragile ที่ได้รับจากเอฟเฟกต์ของบัฟนี้จะไม่สะสม - Shield HP สามารถสะสมได้ อย่างไรก็ตาม เมื่อเอฟเฟกต์นี้ทำงาน โล่ HP จะมีค่าไม่เกิน 50% ของ max HP ของยูนิตที่ถูก Shield - เอฟเฟกต์นี้ถือเป็นเอฟเฟกต์ 'Shield Management' (จะถูกแทนที่เมื่อได้รับเอฟเฟกต์ Shield Management แบบอื่น)",
+      "summary": "ไม่เสีย Shield เมื่อจบเทิร์น เมื่อ Shield แตก จะอยู่ในสภาวะเปราะบางอย่างมาก"
+    },
+    {
+      "id": "ColdAirDOQ",
+      "name": "Cold",
+      "desc": "- Stack สูงสุด: 3 - Speed -1 ต่อทุกๆ 1 Cold Stack - หากยูนิตนี้มี 3 Stack หลังจากจบ Skill: ได้รับความเสียหาย Gloom 20 หน่วย และความเสียหาย SP 20 หน่วย จากนั้นจะได้รับ Frozen 1 หน่วยในเทิร์นนี้และเทิร์นถัดไป - Cold Stack จะหมดลงหลังจากเอฟเฟกต์ทั้งหมดทำงาน - จบเทิร์น: หากยูนิตนี้ไม่ได้โจมตี The Last Knight เอฟเฟกต์จะหมดลง",
+      "summary": ""
+    },
+    {
+      "id": "FreezingDOQ",
+      "name": "Frozen",
+      "desc": "- Cold แบบพิเศษ - ไม่สามารถดำเนินการได้ในเทิร์นนี้ - การทำงานของ Skill บางอย่างจะถูกยกเลิกที่ 1 HP",
+      "summary": ""
+    },
+    {
+      "id": "BloodborneDOQ",
+      "name": "The Knight's Corpus",
+      "desc": "ได้รับความเสียหาย +80%",
+      "summary": ""
+    },
+    {
+      "id": "WeakenDOQ",
+      "name": "Misery and Calamity",
+      "desc": "- Offense Level -?? - Defense Level -??",
+      "summary": ""
+    },
+    {
+      "id": "DOQ_LowMorale",
+      "name": "Hive Mind",
+      "desc": "เปลี่ยน Resistances ทั้งหมดเป็น 'Normal'",
+      "summary": "เปลี่ยน Resistances ทั้งหมดเป็น 'Normal'"
+    },
+    {
+      "id": "DOQ_Panic",
+      "name": "Hive Mind",
+      "desc": "เปลี่ยน Resistances ทั้งหมดเป็น 'Normal' เพิ่มจำนวน Potency ของ Burn, Bleed, Tremor และ Rupture ที่ได้รับจากเอฟเฟกต์ Skill เป็น 2 เท่า",
+      "summary": "เปลี่ยน Resistances ทั้งหมดเป็น 'Normal' เพิ่มจำนวน Potency ของ Burn, Bleed, Tremor และ Rupture ที่ได้รับจากเอฟเฟกต์ Skill เป็น 2 เท่า"
+    },
+    {
+      "id": "CallOfSea_LowMorale",
+      "name": "Call of the Bloodkin",
+      "desc": "จบเทิร์น: ใช้ HP 3% เพื่อมอบ 1 Attack Power Up และ 1 Fragile ให้กับพันธมิตรทั้งหมดรวมถึงยูนิตนี้ ในเทิร์นถัดไป",
+      "summary": "ใช้ HP เพื่อมอบ Attack Power Up และ Fragile ให้กับพันธมิตร"
+    },
+    {
+      "id": "CallOfSea_Panic",
+      "name": "Call of the Bloodkin",
+      "desc": "จบเทิร์น: ใช้ HP 5% และได้รับ 1 Fragile เพื่อมอบ 1 Attack Power Up และ 1 Fragile ให้กับพันธมิตรทั้งหมดรวมถึงยูนิตนี้ ในเทิร์นถัดไป",
+      "summary": "ใช้ HP เพื่อมอบ Attack Power Up และ Fragile ให้กับพันธมิตร"
+    },
+    {
+      "id": "BitOfEmotion",
+      "name": "Emotional Connection",
+      "desc": "- เมื่อโจมตีโดนศัตรู: มีโอกาส (50 / จำนวน Coin)% ที่จะได้รับ 1 E.G.O resource ตาม Affinity ของ Skill ที่ใช้ - เมื่อศัตรูตายหลังจาก Skill โจมตีของพันธมิตรสิ้นสุดลง ได้รับ 2 E.G.O Resources ชนิดที่มีน้อยที่สุด - ใน Encounter, ได้รับ 1 E.G.O resource ของแต่ละ Affinity ที่ถูกใช้เมื่อใช้ E.G.O Skills ดังต่อไปนี้ (ได้รับอย่างละ 2 เมื่อใช้ Overclocked Skills) · To Remain Oneself Hong Lu · Command : Meltdown Faust · Unbrilliant Glory Gregor · Tidal Elegy Ishmael",
+      "summary": "เมื่อโจมตีโดน หรือเมื่อศัตรูตาย ได้รับ E.G.O Resources เมื่อใช้ E.G.O Skills บางอย่าง ได้รับ E.G.O Resources"
+    },
+    {
+      "id": "WildernessSurvivalModule",
+      "name": "Little Handy - Wilderness Survival Module",
+      "desc": "- Max HP +20%. ฮีลแรงขึ้น +40% จาก Skill, Passive และเอฟเฟกต์บัฟ",
+      "summary": "เพิ่ม Max HP และฮีลแรงขึ้น"
+    },
+    {
+      "id": "HousekeepingAssistantModule",
+      "name": "Little Handy - Housekeeping Assistant Module",
+      "desc": "- เมื่อเปิดใช้งาน Hand of the Saint จะเปิดใช้งานอีกครั้งหนึ่งครั้งในเทิร์นถัดไป - เริ่มเทิร์น: ได้รับ Offense Level Up และ Defense Level Up ตามจำนวนครั้งที่ลบ Nethersea Brand ออกด้วยการใช้ Hand of the Saint ในการปะทะครั้งนี้ (สูงสุดอย่างละ 4 หน่วย)",
+      "summary": "เมื่อเปิดใช้งาน Hand of the Saint จะเปิดใช้งานอีกครั้งหนึ่งครั้งในเทิร์นถัดไป เริ่มเทิร์น: ได้รับ Offense Level Up และ Defense Level Up ตามจำนวนครั้งที่ลบ Nethersea Brand ออก"
+    },
+    {
+      "id": "IncrementalMotionFirmware",
+      "name": "Little Handy - Incremental Motion Firmware",
+      "desc": "- ลบ Stagger threshold ที่สูงสุดที่สุด 1 ระดับ จากยูนิตพันธมิตรทุกยูนิต - เมื่อถูก Stagger จะฟื้นตัวจาก Stagger ทันทีเมื่อเริ่มเทิร์นถัดไป (หนึ่งครั้ง)",
+      "summary": "ลบ Stagger Threshold หนึ่งระดับ เมื่อถูก Stagger จะฟื้นตัวทันทีในเทิร์นถัดไป"
+    },
+    {
+      "id": "MiniDecontaminationKit",
+      "name": "Little Handy - Mini Decontamination Kit",
+      "desc": "- Nethersea Brand จะไม่ทำให้เกิด Nervous Impairment หรือสร้างความเสียหายแก่พันธมิตรอีกต่อไป",
+      "summary": "Nethersea Brand จะไม่ทำให้เกิด Nervous Impairment หรือสร้างความเสียหายแก่พันธมิตรอีกต่อไป"
+    },
+    {
+      "id": "ExternalUpgradeModule",
+      "name": "Little Handy - External Upgrade Module",
+      "desc": "- เป็นเวลา 3 เทิร์นหลังจากได้รับเอฟเฟกต์นี้: ได้รับ 2 Power Up และ 2 Damage Up เมื่อเริ่มแต่ละเทิร์น (ยูนิตที่ Substitute เข้ามาจะได้รับในเทิร์นที่ Substitute)",
+      "summary": "เป็นเวลา 3 เทิร์นหลังจากได้รับเอฟเฟกต์นี้: ได้รับ Power Up และ Damage Up"
+    },
+    {
+      "id": "DesireToSave_LowMorale",
+      "name": "Heart of Compassion",
+      "desc": "- สร้างความเสียหาย +(Nervous Impairment ของเป้าหมาย / 2)% (สูงสุด 15%) - เริ่มเทิร์น: ได้รับ 1 Damage Up และ 2 Fragile",
+      "summary": "สร้างความเสียหายเพิ่มขึ้นตามค่า Nervous Impairment ของเป้าหมาย"
+    },
+    {
+      "id": "DesireToSave_Panic",
+      "name": "Heart of Compassion",
+      "desc": "- สร้างความเสียหาย +(Nervous Impairment ของเป้าหมาย)% (สูงสุด 30%) - เริ่มเทิร์น: ได้รับ 2 Damage Up และ 3 Fragile",
+      "summary": "สร้างความเสียหายเพิ่มขึ้นตามค่า Nervous Impairment ของเป้าหมาย"
+    }
+  ]
+}

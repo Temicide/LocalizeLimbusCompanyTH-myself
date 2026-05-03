@@ -1,0 +1,25 @@
+{
+  "dataList": [
+    {
+      "id": "TheDrifter_LowMorale",
+      "name": "Podao",
+      "desc": "- ขวัญกำลังใจต่ำ - ได้รับความเสียหายเพิ่มขึ้น +10% จาก Attack ที่ไม่มีการปะทะ; สร้างความเสียหายเพิ่มขึ้น +30% ด้วยการ Counterattack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TheDrifter_Panic",
+      "name": "Podao",
+      "desc": "- ตื่นตระหนก - ได้รับความเสียหายเพิ่มขึ้น +20% จาก Attack ที่ไม่มีการปะทะ; สร้างความเสียหายเพิ่มขึ้น +50% ด้วยการ Counterattack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SipOfAlcohol",
+      "name": "Swig",
+      "desc": "- Stack สูงสุด :5 - จบเทิร์น: เมื่อมี 3 Stack, ฟื้นฟู HP (Core, Part) 3% - จบเทิร์น: เมื่อมี 5 Stack, ได้รับ Power Up ของ Attack 3 หน่วย และได้รับ Fragile 2 หน่วย ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

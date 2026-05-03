@@ -1,0 +1,25 @@
+{
+  "dataList": [
+    {
+      "id": "Grudge",
+      "name": "ความแค้นที่สั่งสม",
+      "desc": "เมื่อยูนิตนี้มีบัฟที่เกี่ยวข้อง: ได้รับ Growing Resentment เท่ากับดาเมจที่ได้รับ จะหายไปเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBg",
+      "name": "Resentment",
+      "desc": "เริ่มเทิร์น: ได้รับ Damage Up 2 หน่วย และ Defense Level Down 3 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBh",
+      "name": "Resentment",
+      "desc": "เริ่มเทิร์น: ได้รับ Attack Power Up 1 หน่วย และ Defense Level Down 5 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

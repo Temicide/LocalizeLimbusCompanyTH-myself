@@ -191,6 +191,57 @@
 - 1D105A: Batch 1 failed (API timeout), 10 entries left in English. Batches 2-3 translated correctly.
 - All restored originals after testing
 
+## Session 8 — 2026-05-03 — Canto 1 Re-translation (Phase 15)
+
+### Goal
+Re-translate all 20 Canto 1 story files with the complete improved translation system.
+
+### Setup:
+- Backed up current TH/StoryData/1D*.json files to TH_Test/Canto1_pre_retranslate/
+- Created scripts/retranslate_canto1.py for targeted re-translation
+
+### Files Re-translated (20/20 success):
+1D101A, 1D102A, 1D103A, 1D104B, 1D105A, 1D105B, 1D201B, 1D202A, 1D202B, 1D203B, 1D204B, 1D301B, 1D302B, 1D303B, 1D304B, 1D305B, 1D306A, 1D306B, 1D306I, 1D306I2
+
+### Quality Improvements Verified:
+
+**1. Place Translations Fixed (glossary system working)**
+- OLD: 6 files had places = "L Corp." (generic fallback)
+- NEW: All places properly translated
+  - "L Corp." → "ท่ามกลางสงครามควัน" (1D301B)
+  - "L Corp." → "แนวหน้ากลางสงครามควัน" (1D302B-305B)
+  - "L Corp." → "บนรถเมฆิสโตเฟเลส" (1D306A)
+
+**2. Teller Mapping Fixed (100% Thai)**
+- OLD: English tellers untranslated — "Yuri", "Tomah", "Jia Huan", "Hermann", "Security Guard", "Gubo", "Statuehead"
+- NEW: All mapped to Thai — "ยูริ", "โทมาห์", "เจี่ยฮวน", "แฮร์มันน์", "รปภ.", "กูโป", "หัวรูปปั้น"
+
+**3. Title Consistency Fixed**
+- OLD: "Fixer Fixer ระดับ 8" bug in 1D306A
+- OLD: 3 variants of "ผู้รอดชีวิต?" / 4 variants of "Reminisced Soldier"
+- NEW: All titles deterministic — "Fixer ระดับ 8", "ผู้รอดชีวิตงั้นเหรอ?", "ทหารในความทรงจำ"
+
+**4. Character Voice Improvements**
+- Yuri: More consistent use of polite particle "ค่ะ"
+- Kind Citizen: Better word choice ("ได้โปรด" instead of "ขอร้องล่ะ")
+- Security Guard: More natural phrasing
+
+### Assessment:
+All 20 Canto 1 files successfully re-translated with zero failures. Glossary, teller mapping, title consistency, and place translation systems all working correctly in production.
+
+---
+
+## Session 9 — 2026-05-03 — Full Remaining Translation Run
+
+### Scope
+- 1,015 pending files across all categories
+- Major categories: PersonalityVoiceDlg (176), BattleAnnouncerDlg (53), BgmLyrics (15), EGOVoiceDig (14)
+- Plus 750+ individual UI, skill, buff, event, and other files
+- Engine modified to process ALL EN/*.json files recursively (was StoryData-only)
+- Fixed UTF-8 BOM handling in file_processor.load_json() for ProjectGS.json
+
+---
+
 ## Session 7 — 2026-05-02 — Translation Consistency Fix (Phases 8-13)
 
 ### Problem Summary

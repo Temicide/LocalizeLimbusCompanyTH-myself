@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": "BloodyHand",
+      "name": "หัตถ์เปื้อนเลือด",
+      "desc": "- ค่าสูงสุด: 10 - ค่าเริ่มต้น: 0 - เมื่อสะสมครบ 10 Stack: มอบ Rupture เพิ่มขึ้น +1 เมื่อโจมตีด้วย Skill ของยูนิตนี้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns",
+      "name": "หนามผลิบาน",
+      "desc": "- ค่าสูงสุด: 10 - เมื่อได้รับความเสียหายจาก Skill, มอบ Bleed ให้กับ Attacker เท่ากับครึ่งหนึ่งของ Stack ของเอฟเฟกต์นี้ (ปัดเศษขึ้น)",
+      "summary": "มอบ Bleed ให้กับ Attacker เท่ากับจำนวน Stack",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns_2nd",
+      "name": "หนามถักโลหิต",
+      "desc": "- เอฟเฟกต์ใดก็ตามที่ได้รับ Blooming Thorn จะได้รับเอฟเฟกต์นี้แทน - ค่าสูงสุด: 10 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ ต่อทุกๆ 3 Stack (สูงสุด 3) - เมื่อได้รับความเสียหายจาก Skill, มอบ Bleed ให้กับ Attacker เท่ากับ Stack ของเอฟเฟกต์นี้ จากนั้นเสีย 1 Stack (ปัดเศษขึ้น) - เมื่อโจมตีโดน, มอบ Bleed และ Bleed Count เพิ่มขึ้น +1 ด้วยเอฟเฟกต์ Skill ของยูนิตนี้ - เมื่อมอบ Offense Level Up หรือ Defense Level Up ให้กับเพื่อนร่วมทีมคนอื่นด้วยเอฟเฟกต์ Skill Coin, จะมอบ Clash Power Up 1 หน่วยในเทิร์นถัดไปด้วย - Skill ทั้งหมดที่ใช้ Bloodfeast จะได้รับ Coin Power +1",
+      "summary": "มอบ Bleed ให้กับ Attacker เท่ากับจำนวน Stack มอบ Bleed Potency & Count เพิ่มขึ้น +1 มอบ Clash Power Up 1 หน่วย ให้กับเพื่อนร่วมทีม หาก Skill นี้ใช้ Bloodfeast, Coin Power +1",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns_3rd",
+      "name": "หนามหล่อโลหิต",
+      "desc": "- เอฟเฟกต์ใดก็ตามที่ได้รับ Blooming Thorn จะได้รับเอฟเฟกต์นี้แทน - ค่าสูงสุด: 10 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ ต่อทุกๆ 2 Stack (สูงสุด 5) - เมื่อได้รับความเสียหายจาก Skill, มอบ Bleed ให้กับ Attacker เท่ากับ Stack ของเอฟเฟกต์นี้ จากนั้นเสีย 1 Stack (ปัดเศษขึ้น) - เมื่อโจมตีโดน, มอบ Bleed และ Bleed Count เพิ่มขึ้น +2 ด้วยเอฟเฟกต์ Skill ของยูนิตนี้ - เมื่อมอบ Offense Level Up หรือ Defense Level Up ให้กับเพื่อนร่วมทีมคนอื่นด้วยเอฟเฟกต์ Skill Coin, จะมอบ Clash Power Up 2 หน่วยในเทิร์นถัดไปด้วย - Skill ทั้งหมดที่ใช้ Bloodfeast จะได้รับ Coin Power +2 และสร้างความเสียหาย +50% - เมื่อใช้ Skill 'The Parade Repeats for Eternity', จะฟื้นฟู SP ในจำนวนที่เท่ากับแทนการฟื้นฟู HP",
+      "summary": "มอบ Bleed ให้กับ Attacker เท่ากับจำนวน Stack มอบ Bleed Potency & Count เพิ่มขึ้น +2 มอบ Clash Power Up 2 หน่วย ให้กับเพื่อนร่วมทีม หาก Skill นี้ใช้ Bloodfeast, Coin Power +2 และสร้างความเสียหาย +50%",
+      "undefined": "-"
+    },
+    {
+      "id": "FestivalFever",
+      "name": "ความคลั่งฉลอง",
+      "desc": "- ค่าสูงสุด: 10 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ ต่อทุกๆ 3 Stack (สูงสุด 3) - ใช้สำหรับ Skill พิเศษ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IncompleteParade",
+      "name": "พาเหรดที่ไม่สมบูรณ์",
+      "desc": "- ค่าสูงสุด: 50 - ได้รับ 2 หน่วย เมื่อ Bloodbag ตาย - ได้รับ 3 หน่วย เมื่อ Bloodfiend ตาย - เริ่มเทิร์น: ได้รับ Fragile 1 หน่วย ทุกครั้งที่ยูนิตนี้ใช้ Stack สะสมครบ 5 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodDolci_LowMorale",
+      "name": "บังเหียนแห่งความว่างเปล่า",
+      "desc": "- ขวัญกำลังใจต่ำ - เริ่มเทิร์น: ได้รับ Attack Power Up 1 หน่วย และ Defense Level Down 3 หน่วย - จบเทิร์น: ได้รับความเสียหาย SP 5 หน่วย",
+      "summary": "ได้รับ Attack Power Up 1 หน่วย และ Defense Level Down 3 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodDolci_Panic",
+      "name": "บังเหียนแห่งความว่างเปล่า",
+      "desc": "- ตื่นตระหนก - เริ่มเทิร์น: ได้รับ Attack Power Up 2 หน่วย และ Defense Level Down 6 หน่วย - จบเทิร์น: ฟื้นฟู SP 10 หน่วย",
+      "summary": "ได้รับ Attack Power Up 2 หน่วย และ Defense Level Down 6 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDolcineaOne",
+      "name": "เหี่ยวเฉา",
+      "desc": "- หิวกระหายเลือดมาเนิ่นนานเหลือเกิน - ลด Base Offense Level 35 หน่วย - ลด Base Defense Level 35 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDolcineaServant",
+      "name": "เหี่ยวเฉา",
+      "desc": "- หิวกระหายเลือดมาเนิ่นนานเหลือเกิน - ลด Base Offense Level 15 หน่วย - ลด Base Defense Level 15 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornyFall_LowMorale",
+      "name": "หนาม",
+      "desc": "ชนะ Clash: ได้รับ Damage Up 1 หน่วย",
+      "summary": "ชนะ Clash: ได้รับ Damage Up 1 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornyFall_Panic",
+      "name": "หนาม",
+      "desc": "ชนะ Clash: ได้รับ Damage Up 1 หน่วย จบเทิร์น: ได้รับ Clash Power Up 2 หน่วย ในเทิร์นถัดไป",
+      "summary": "ชนะ Clash: ได้รับ Damage Up 1 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "HonorableDuel_Don",
+      "name": "การดวลอันทรงเกียรติ",
+      "desc": "เรื่องเล่าการผจญภัยในความทรงจำ กลายเป็นผู้มีพลังมหาศาล",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HonorableDuel_Knight",
+      "name": "การดวลอันทรงเกียรติ",
+      "desc": "เรื่องเล่าการผจญภัยในความทรงจำ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingPriestOne",
+      "name": "เหี่ยวเฉา",
+      "desc": "- หิวกระหายเลือดมาเนิ่นนานเหลือเกิน - ลด Base Offense Level 15 หน่วย - ลด Base Defense Level 15 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodPriestServant_LowMorale",
+      "name": "ความหิวโหย",
+      "desc": "- ขวัญกำลังใจต่ำ - เริ่มเทิร์น: ได้รับ Clash Power Up 1 หน่วย และ Defense Level Down 3 หน่วย - จบเทิร์น: ได้รับความเสียหาย SP 5 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodPriestServant_Panic",
+      "name": "ความหิวโหย",
+      "desc": "- ตื่นตระหนก - เริ่มเทิร์น: ได้รับ Clash Power Up 2 หน่วย และ Defense Level Down 6 หน่วย - จบเทิร์น: ฟื้นฟู SP 10 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnstoppableFunny",
+      "name": "ความสุขที่ไม่อาจหยุดยั้ง",
+      "desc": "เมื่อตาย: - ได้รับทรัพยากร E.G.O 1 หน่วย สำหรับทรัพยากร E.G.O 3 ชนิดที่มีจำนวนน้อยที่สุด - มอบ Bleed Count +3 ให้กับศัตรู (ลำดับความสำคัญคือยูนิตที่กำจัดยูนิตนี้) - พันธมิตรทั้งหมดที่มี Festive Fever 5+ หน่วย จะได้รับ Haste 1 หน่วยในเทิร์นถัดไป - พันธมิตรทั้งหมดที่ไม่มี Festive Fever จะได้รับ Power Up Clash 1 หน่วย",
+      "summary": "ได้รับทรัพยากร E.G.O อย่างละ 1 หน่วย จากทรัพยากร 3 ชนิด มอบ Bleed Count +3",
+      "undefined": "-"
+    }
+  ]
+}

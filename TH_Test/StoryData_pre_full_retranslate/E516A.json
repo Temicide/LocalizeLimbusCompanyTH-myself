@@ -1,0 +1,310 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "L Corp.",
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "เฮ้อ... ทีนี้เรามาคุยกันหน่อยดีกว่า"
+    },
+    {
+      "id": 1,
+      "content": "ดูเหมือน Aeng-du จะฟื้นตัวขึ้นมาบ้างแล้วในระหว่างที่เราสู้กัน เธอใช้เชือกมัด Jun เอาไว้ก่อนจะเหวี่ยงเขาลงกับพื้น"
+    },
+    {
+      "id": 2,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "อัก..."
+    },
+    {
+      "id": 3,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "ข้าไม่ได้คาดหวังว่าแค่ระดับ Captain อย่างเจ้า จะรู้เหตุผลที่องค์กรของเจ้าตั้งค่าหัวพวกเราหรอกนะ"
+    },
+    {
+      "id": 4,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "แต่... ข้ายังไม่เข้าใจเหตุผลที่เจ้ามายืนเฝ้าหน้าห้องนี้ ราวกับว่าเจ้ากำลังปกป้องท่านอาจารย์จากพวกเรา... ทั้งที่เป็นพวกเราแท้ ๆ"
+    },
+    {
+      "id": 5,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "เดี๋ยวสิ ไม่ใช่แค่แกคนเดียวใช่ไหม? พวกสวะ Kurokumo Clan ทุกตัวที่เราฆ่าระหว่างทางขึ้นมาที่ชั้นนี้ ต่างก็ขวางทางพวกเราเหมือนกำลังปกป้องอะไรบางอย่างด้วยชีวิตเลย"
+    },
+    {
+      "id": 6,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "ก็ได้ งั้นนี่คือความจริง"
+    },
+    {
+      "id": 7,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "... พวกเราต่างหากที่เป็นเหยื่อในเรื่องนี้"
+    },
+    {
+      "id": 8,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "...? หมายความว่ายังไงกัน?"
+    },
+    {
+      "id": 9,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "พวกแกนี่รู้วิธีกวนประสาทฉันจริงๆ เลยนะ..."
+    },
+    {
+      "id": 10,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "เฮ้อ... พวกเราไม่ได้อยู่ในกลุ่มที่ไล่ล่าหรือกวาดล้างพวกแกหรอกนะ เรื่องนั้นไม่เกี่ยวกับฉันเลยสักนิด"
+    },
+    {
+      "id": 11,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "พวกแกก็แค่หนึ่งในหลายๆ Syndicates หรือองค์กรที่โชคร้ายไปอยู่ในบัญชีดำของพวก Thumb ก็เท่านั้น การที่เรามาเจอกันมันก็แค่เรื่องบังเอิญ"
+    },
+    {
+      "id": 12,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "พวกเราแค่ได้รับคำสั่งจาก Thumb ให้มาเฝ้าศิลาจารึกสีดำแถวนี้ก็แค่นั้นเอง"
+    },
+    {
+      "id": 13,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "ทุกคนกำลังตึงเครียดกันอยู่ เพราะเราต้องขนย้ายมันไปที่อื่นในอีกไม่ช้านี้แล้ว..."
+    },
+    {
+      "id": 14,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "...แล้วจู่ๆ พวกแกที่เป็นไอ้พวกสวะ Blade Lineage ก็โผล่มาจากไหนไม่รู้"
+    },
+    {
+      "id": 15,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "...จู่ๆ ก็โผล่มาเนี่ยนะ?"
+    },
+    {
+      "id": 16,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "เข้าใจแล้ว... ที่นี่สินะ คือที่ที่ท่านอาจารย์ของเราตื่นขึ้น"
+    },
+    {
+      "id": 17,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "แก... ดูเหมือนแกจะรู้อะไรบางอย่างที่ฉันไม่รู้สินะ..."
+    },
+    {
+      "id": 18,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "ไม่เคยได้ยินมาก่อนเลยว่ามีเทคโนโลยีที่เสกคนให้โผล่มาดื้อๆ แบบนี้ได้ นึกว่าใช้ Singularity หรืออะไรทำนองนั้นซะอีก ชิ"
+    },
+    {
+      "id": 19,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "อีกอย่าง... พวก Blade Lineage น่ะไม่มีโอกาสชนะตั้งแต่แรกแล้ว"
+    },
+    {
+      "id": 20,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "จำนวนคนที่มากกว่าของเรานั้นเป็นข้อได้เปรียบที่ไม่อาจเอาชนะได้"
+    },
+    {
+      "id": 21,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "... แน่นอนอยู่แล้ว"
+    },
+    {
+      "id": 22,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "พวกเราต้อนเพื่อนของแกจนมุม การจะฟันพวกมันทิ้งทีละคนไม่ใช่เรื่องยากเลย จนกระทั่งเหลือแค่พวกแกสามคนนี่แหละที่ยังยืนอยู่ได้"
+    },
+    {
+      "id": 23,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "แล้วจู่ๆ ดวงตาของหัวหน้าแกก็เริ่มเรืองแสงขึ้นมา และ..."
+    },
+    {
+      "id": 24,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "เหอะ เขาฟันทุกคนรอบตัวจนเหี้ยน มันคือการไล่ฆ่าอยู่ฝ่ายเดียวชัดๆ"
+    },
+    {
+      "id": 25,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "อะไรนะ...? งั้นก็..."
+    },
+    {
+      "id": 26,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "นายพูดถูกแล้วล่ะ ไม่ว่าจะเป็น Blade Lineage หรือ Kurokumo Clan มันก็ไม่สำคัญหรอก เพราะเจ้านั่นมันฟันเรียบ *ทุกคน* เลย"
+    },
+    {
+      "id": 27,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "แล้วจะให้ฉันทำยังไงวะ? พวกเราควรจะทำยังไง? ฉันเป็น Captain ของพวกเขา—ชีวิตของลูกน้องคือความรับผิดชอบของฉัน ฉันต้องหาทางช่วยพวกเขาให้ได้"
+    },
+    {
+      "id": 28,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "ฉันก็เลยรั้งท้ายเพื่อเฝ้าประตู ในขณะที่ลูกน้องของฉันเฝ้าทางเข้าตึกนี้ไว้ ฉันจะมีทางเลือกอื่นอีกหรือไง?"
+    },
+    {
+      "id": 29,
+      "model": "시계쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "เฮ้อ... บ้าเอ๊ย กำหนดส่งของก็ใกล้เข้ามาแล้ว... ฉันจบเห่แน่"
+    },
+    {
+      "id": 30,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "เรื่องนี้คงไม่จบแค่ต้องตัดนิ้วสักนิ้วสองนิ้วหรอกนะ... บัดซบเอ๊ย"
+    },
+    {
+      "id": 31,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "..."
+    },
+    {
+      "id": 32,
+      "model": "쥰",
+      "teller": "Jun",
+      "title": "Kurokumo Clan Captain",
+      "content": "กึ๊ก?!"
+    },
+    {
+      "id": 33,
+      "content": "แองดูสับเข้าที่ท้ายทอยของจุนด้วยความแม่นยำและรวดเร็ว จนเขาร่วงลงไปกองกับพื้น"
+    },
+    {
+      "id": 34,
+      "model": "돈키호테",
+      "content": "แองดู?! ชายผู้นั้นถูกสยบไปแล้วมิใช่หรือ! เหตุใดเจ้าจึง—"
+    },
+    {
+      "id": 35,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "ข้าแค่ทำให้เขาหลับไปเท่านั้น หากเราพยายามจะเข้าไปในห้องนั้นตอนที่เขายังมีสติอยู่ เขาคงสร้างปัญหาให้เราแน่"
+    },
+    {
+      "id": 36,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "ข้า... ต้องคุยกับท่านอาจารย์ ต้องเห็นเขาด้วยตาของข้าเอง"
+    },
+    {
+      "id": 37,
+      "model": "히스클리프",
+      "content": "หูหนวกหรือไงแม่หนู? หัวหน้าของเจ้าน่ะจะฟันทุกคนที่เข้าใกล้เกินไปนะ"
+    },
+    {
+      "id": 38,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "ไม่... มันเป็นไปไม่ได้"
+    },
+    {
+      "id": 39,
+      "model": "파우스트",
+      "content": "ดันเต้ จากข้อมูลที่เรารวบรวมมาได้ เราพอจะอนุมานได้ว่า..."
+    },
+    {
+      "id": 40,
+      "model": "단테",
+      "content": "<ใช่ ฉันเห็นด้วย... มีออร่าที่ทรงพลังแผ่ออกมาจากหลังประตูบานนั้น ฉันสัมผัสได้เลย>"
+    },
+    {
+      "id": 41,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "ท่านอาจารย์ของพวกเรา..."
+    },
+    {
+      "id": 42,
+      "content": "มือของ Aeng-du สั่นระริกขณะที่เธอกำลังเอื้อมไปจับลูกบิดประตู"
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "...พวกเราต้องเตรียมตัวให้พร้อมสำหรับการต่อสู้"
+    },
+    {
+      "id": 44,
+      "model": "앵두",
+      "teller": "Aeng-du",
+      "title": "Blade Lineage",
+      "content": "ฉันรู้ดีว่าท่านอาจารย์ Bamboo-hatted Kim จะไม่มีวันทำเรื่องแบบนั้นเด็ดขาด!"
+    },
+    {
+      "id": 45,
+      "place": "สำนักงาน L Corp.",
+      "content": "เธอผลักประตูให้เปิดออกอย่างแรง..."
+    },
+    {
+      "id": 46,
+      "content": "...เพียงเพื่อที่จะได้เผชิญหน้ากับ Distortion แบบจังๆ"
+    }
+  ]
+}

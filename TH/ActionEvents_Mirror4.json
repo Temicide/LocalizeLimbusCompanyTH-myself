@@ -1,0 +1,262 @@
+{
+  "dataList": [
+    {
+      "id": 971001,
+      "name": "ศึกชิงไก่",
+      "desc": "มีคนบางกลุ่มกำลังขวางทางอยู่ พวกเขานั่งอยู่บนระเบียงและตะโกนใส่กัน “ดูชิ้นนี้สิ! น้ำชุ่มฉ่ำไหลเยิ้มตามเส้นใยของเนื้อที่แสนนุ่มนวล... นี่แหละคือแก่นแท้ของไก่!” “ผิดแล้ว ชิ้นนี้ต่างหากที่มีรสสัมผัสสะอาดสะอ้าน ไม่มีคราบมันมาทำให้ลิ้นเสียรส นี่แหละของจริง” ทั้งสองหันมาทางคุณพร้อมกัน “เธอน่ะ! ช่วยบอกทีว่าอันไหนดีกว่ากัน!”",
+      "options": [
+        {
+          "message": "Chicken’s chicken, duh.",
+          "messageDesc": "Select to gain a Burn E.G.O Gift and a Rupture E.G.O Gift",
+          "result": [
+            "“That’s… true.”\n“An irrefutable point.”\nThey lowered their hands and settled down.\n“What a strange thing we were fighting over.”\n“They’re right… The one truth is that the chicken is always right.”\nAfter a passionate handshake, the two gave you their bucket of chicken.\n“A wise gourmet such as yourself deserves both pieces. Please, take this, we insist.”"
+          ]
+        },
+        {
+          "message": "Gotta be the drumsticks, all rich and juicy.",
+          "messageDesc": "Select to gain a Burn E.G.O Gift",
+          "result": [
+            "“You see! The drumsticks are better!”\n“You don’t know what good taste is.”\nThe person holding a chicken breast let out a baffled sigh.\n“Ey! Here’s your reward. You deserve a drumstick of your own.”\nSatisfied, the one with a drumstick handed you another from the bucket.\n“I’m counting on you to keep that leg up!”\nUnsure of what you’re being trusted with, you left the table with the drumstick."
+          ]
+        },
+        {
+          "message": "The breast, of course, unsullied and spotless.",
+          "messageDesc": "Select to gain a Rupture E.G.O Gift",
+          "result": [
+            "“There ain’t no way! You’d give up this banquet of juiciness…?”\n“It’s fat, not just juice. The breast is healthy, light, comes in hefty servings, and is easy to eat—it’s obviously the reasonable choice.”\nThe person holding a piece of chicken breast pleasantly remarked.\n“Here, a reward for you. Take this breast.”\nA sizable piece was brought out of the bucket.\n“Best of luck with your gains. I hope you stay healthy.”\nUnsure of what you’re supposed to gain, you left the table with the chicken breast."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971003,
+      "name": "แทงโก้แห่งความหลงใหลในสัตว์ปีก",
+      "desc": "แสงสปอตไลท์สว่างจ้าส่องลงมายังพื้นที่อันวุ่นวายส่วนหนึ่ง ดูเหมือนว่าพวกไก่กำลังเข้าร่วม... งานเต้นรำ “นั่นคือแทงโก้” เมื่อมองดูการเคลื่อนไหวที่ก้ำกึ่งระหว่างการเต้นรำกับการตะลุมบอน คุณสังเกตเห็นซอสไหลซึมออกมาจากตัวหนึ่งในนั้น ดูเหมือนว่ามันจะไม่รู้ตัวเลย...",
+      "options": [
+        {
+          "message": "Alert it truthfully.",
+          "messageDesc": "Gain a Bleed E.G.O Gift depending on the result of the following choice",
+          "result": [
+            "“Heed me!!!!! Sauce is leaking from thy body!!!!!!”\n“Don’t shout it that loud, you dummy…”\nNotified of its leakage, the chicken quickly ran its wings over its back—or what appeared to be its back, rather.\nSadly, the knot had loosened on its stitching.\n“Kieegh, kiiierg…”\nDoes it mean it can’t do it on its own? Approaching with a trail of sauce dripping behind, it held some thread and a needle in its hands, er, wings.\nDoes it want you to stitch its back?"
+          ]
+        },
+        {
+          "message": "You saw nothing.",
+          "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+          "result": [
+            "“Should we not inform them?”\n“Yeah, but~ They look pretty happy right now, don’t they? Couldn’t hurt to sit and watch just a bit longer, right?”\n“What will become of it when it loses all its sauce?”\n“Maybe it’ll just become an underseasoned chicken.”\nIn time, the leakage ceased.\n“Kiehg!”\nPerhaps it noticed that it’s become lighter? It suddenly performed a highly technical move.\n“Astonishing.”\nThe chickens around it stopped their dances and watched its performance, mesmerized. Soon enough, they approached the performer, letting out screams that sounded like cheers.\nThey walked out of the light, tossing the special one up and down as a celebration.\nAll that remained… was the spilled sauce."
+          ]
+        },
+        {
+          "message": "Give a few subtle hints.",
+          "messageDesc": "Select for a 50% chance to gain a Keywordless E.G.O Gift.",
+          "result": [
+            "“Mm-mmm~ Boy, I smell something tasty! I sure wonder where this smell’s coooming frooom~?!”\n“…I suppose it would be foolish of me to expect more believable acting.”\nThe Sinner’s voice caused the chickens to stop their passionate dance at once.\nExamining each other’s backs, they soon found the source of the leakage.\n“Kieh, kierg.”\n“Giiegh.”\nWithout panicking, they brought some thread and a needle to sew up its back—or what appears to be its back.\nThey were unsullied in their expertise.\nOnce the stitching was done, they scuttled into the dark.\nAll that remained was the thread and needle they used."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971012,
+      "name": "ทางเลือกสมุดบัญชีดำ",
+      "subDesc": "",
+      "desc": "\"จากตรงนี้ไปเป็นเขตของพวกเรากลุ่ม Kurokumo Clan\" \"เข้าใจยากนักหรือไงว่าถ้าจะใช้ถนนของพวกเรา ก็ต้องจ่ายค่าผ่านทาง? หือ?\" กลุ่มคนที่สวมชุดของ Kurokumo Clan ยืนขวางทางพลเรือนที่ไม่มีอาวุธ พร้อมกับข่มขู่พวกเขา \"...ฉันว่าข้ออ้างนั่นคงเพียงพอที่จะทำให้พวกนั้นกล้าล้ำเส้นเข้ามาในเขตของเราสินะ\" แองดูไม่ปิดบังความโกรธเคือง เธอขบฟันแน่น เราควรจะจัดการกับพวกเขายังไงดี?",
+      "options": [
+        {
+          "message": "Save the civilians.",
+          "messageDesc": "Gain a Keywordless E.G.O Gift depending on the result of the following choice"
+        },
+        {
+          "message": "Turn a blind eye.",
+          "result": [
+            "\"Another day, another mugging in the City.\"\n\nOne of the Sinners mutters with a sigh.\n\n\"......\"\n\nAeng-du stands there with her eyes pleading us to do something, but does not step forward.\n\nWe should avoid unnecessary battles...\n\n... if we are to survive the coming challenges and face Distorted Bamboo-hatted Kim who awaits us at the end of this path.\n\nThis left a bad taste in our mouths as we ignored the commotion and walked away."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97101202,
+      "name": "ทางเลือกสมุดบัญชีดำ #2",
+      "subDesc": "",
+      "desc": "\"ขอบคุณ ขอบคุณมากจริงๆ...\" เหล่าพลเรือนที่หลุดพ้นจากคำขู่ของ Kurokumo Clan ต่างพากันก้มหัวขอบคุณพวกเรา \"แต่ว่า... พวกคุณไม่ได้แต่งตัวเหมือนคนแถวนี้เลย\" \"ถ้าไม่เป็นการเสียมารยาทที่พวกเราจะถาม... พวกคุณคือใครกันหรือ?\"",
+      "options": [
+        {
+          "message": "Say that you're just passing by.",
+          "result": [
+            "\"Huhh...?\"\n\nThe civilians appear puzzled.\n\n\"You're just... 'passing by' with this many people behind you?\"\n\nMaybe I should've given my answer more thought before replying...\n\n\"Why would you help us if you don't have anything to do with the Kurokumo Clan...?\"\n\nThey looked at each other, clearly perplexed.\n\n\"T-thank you anyways.\"\n\n\"Sa-safe travels to you!\"\n\nWith that, they hurriedly left the scene."
+          ]
+        },
+        {
+          "message": "Say that you're with the Blade Lineage.",
+          "messageDesc": "Pride Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        }
+      ]
+    },
+    {
+      "id": 971013,
+      "name": "ทางเลือกด้ามดาบสนิมเขรอะ",
+      "subDesc": "",
+      "desc": "\"ที่นี่น่าจะเป็นโรงเตี๊ยม...\" บาร์หรือที่พักแห่งนี้คึกคักมาก บรรดาแขกเหรื่อต่างพูดคุยกันอย่างออกรส ดูเหมือนทุกคนจะอยู่ในอารมณ์ที่ดีทีเดียว ท่ามกลางฝูงชน มีคนสามคนกำลังโต้เถียงกันอย่างดุเดือดและชี้หน้ากันไปมา \"ไม่ ไม่! ฉันไม่เข้าใจเลยว่าทำไมเรื่องนี้ถึงต้องเถียงกัน! ดาบคืออาวุธที่สร้างมาเพื่อตัด และวิธีที่ 'ถูกต้อง' ในการใช้ดาบก็คือการฟัน\" \"แกไม่รู้อะไรเลย! แค่แทงจุดเดียวด้วยแรงทั้งหมดที่มี ศัตรูก็ล้มคว่ำแน่นอน!\" \"...พวกแกผิดทั้งคู่ การฟันหรือแทงแบบครึ่งๆ กลางๆ ของพวกแกน่ะ นอกจากจะทำให้พวกมันโมโหแล้วก็ไม่มีประโยชน์อะไรเลย เดี๋ยวพวกมันก็ลุกขึ้นมาใหม่!\" \"ต้องใช้ด้ามดาบหรือฝักดาบฟาดเข้าที่หัวให้เต็มแรง ให้พวกมันสลบเหมือดไปเลย! ฟาดให้มึนจนลุกไม่ขึ้นนั่นแหละ!\" ทั้งสามคนดูเหมือนจะคุยเรื่องที่จริงจังมาก เราจึงหยุดฟังการโต้เถียงของพวกเขา... ทันใดนั้นพวกเขาก็หันมาทางเราและเรียกให้เข้าไปหา \"เธอน่ะ! กลุ่มของเธอดูท่าทางจะใช้เป็นอาวุธได้คล่องแคล่ว ฉันพูดผิดไหม?\" \"ตอบมาสิ วิธีที่ยอดเยี่ยมที่สุดในการกวัดแกว่งดาบคืออะไร?\" \"แน่นอนว่าการฟันคือวิธีใช้ดาบที่ดีที่สุด ใช่ไหมล่ะ?\" ฉันควรจะตอบว่ายังไงดี?",
+      "options": [
+        {
+          "message": "Right. Slashing is the way to go when wielding a blade.",
+          "messageDesc": "Lust & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+        },
+        {
+          "message": "Not true. Slash, Pierce, and Blunt all have their uses.",
+          "result": [
+            "\"Hm.\"\n\nThe three of them suddenly grow very obviously uncomfortable.\n\n\"That's the right answer, isn't it?\"\n\n\"That's certainly the textbook answer.\"\n\n\"It's not like we don't know what the right answer is...\"\n\nThey all take frustrated swigs from their respective cups.\n\n\"What, you think we're sitting here talking about weapons like generals preparing for war?\"\n\n\"It's just a fun topic to argue about with liquor in our bellies. What a way to kill the mood with that uninspired answer...\"\n\n\"Bah, forget it. Be on your way, then!\"\n\nThey turned away from us and returned to drinking, clearly having lost interest."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971014,
+      "name": "ทางเลือกดาบแตกหัก",
+      "subDesc": "",
+      "desc": "\"แปลกจัง... หมอกนี่มัน...\" ไม่รู้ว่าเกิดขึ้นตั้งแต่เมื่อไหร่ แต่จู่ๆ หมอกหนาทึบก็ปกคลุมไปทั่วบริเวณรอบตัวเรา \"ฉันเคยได้ยินเรื่องเล่าเกี่ยวกับการเดินเล่นยามค่ำคืนแบบนี้ ในเรื่องเล่ามีนักเดินทางผู้ไม่รู้อิโหน่อิเหน่เดินหลงเข้าไปในม่านหมอก และได้พบกับสิ่งมีชีวิตจากต่างโลก—\" \"อ๊ากกก! หยุด หยุดพูดเดี๋ยวนี้!\" ขณะที่ Sinners เริ่มทะเลาะกันเสียงดัง ฉันก็ตระหนักได้ว่ามีบางอย่างที่ดูเลือนลางยืนขวางทางเราอยู่ \"เจ้านั่น... กำลังเต้นรำอยู่เหรอ?\" สิ่งลึกลับในชุดสีขาว เต้นรำอย่างสง่างามต่อหน้าเราพร้อมกับถือดาบเล่มใหญ่ในมือ เมื่อมันสบตาฉัน... หรือตอนที่ฉันคิดว่ามันสบตา... ...ดาบที่อยู่ในฝักเล่มหนึ่งก็ปรากฏขึ้นในมือของฉัน มันต้องการให้ฉันทำอะไรกับดาบเล่มนี้กันแน่?",
+      "options": [
+        {
+          "message": "Assume a stance like I'm about to draw the sword.",
+          "messageDesc": "Lust & Gloom Advantage check. Pass to gain a Bleed E.G.O Gift."
+        },
+        {
+          "message": "Unsheathe the sword and hold it on my side.",
+          "messageDesc": "Pride & Wrath Advantage check. Pass to gain a Poise E.G.O Gift."
+        },
+        {
+          "message": "Leave the sword, let's leave.",
+          "result": [
+            "It's not an Abnormality we have to deal with, and the company never said that we had to engage them.\n\nI should always avoid battles against unknown entities.\n\nI tossed the sword on the ground before fleeing from the scene with the Sinners.\n\nA weeping laughter seemed to follow me the entire way back."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971016,
+      "name": "ทางเลือกพู่สีแดง",
+      "subDesc": "",
+      "desc": "เราได้ยินเสียงคนสองคนคุยกันขณะเดินเลียบกำแพงหิน นักเดินทางทั้งสองคนต่างก็พกดาบติดตัว \"ฉันล่ะสงสารคนที่นี่จริงๆ...\" \"ก็นะ การตัดสินใจของ Wing ย่อมเป็นเด็ดขาดสำหรับเหล่า Feather ของมัน พวกเขาทำอะไรไม่ได้มากหรอก\" หนึ่งในนั้นดูโดดเด่น—เสื้อผ้าของเขาทำให้ดูแตกต่างจากคนท้องถิ่น บางทีเขาอาจจะไม่ได้มาจากแถวนี้ \"แต่ถึงอย่างนั้น การปล่อยให้ Kurokumo Clan เข้ามาวุ่นวายในนี้ได้เนี่ย มันเกินไปหน่อยนะ\" \"Wing ไม่สนใจอะไรหรอก นอกจากจะขยับปีกของตัวเอง สิ่งอื่นล้วนไร้ความหมาย\" ฟังดูเหมือนพวกเขากำลังพูดถึง S Corp ในตอนนี้ \"มีคนนอกมาเพิ่มอีกแล้วสินะ สะดวกดีจริงๆ\" ทั้งคู่หยุดเดิน แล้วหันกลับมาเผชิญหน้ากับเรา \"Kurokumo Clan... ไม่สิ พวกเธอไม่ได้สวมชุดของพวกนั้น และดูไม่เหมือนพวกชาวบ้านที่หวังจะหาเงินจากความวุ่นวายใน Backstreets ด้วย...\" \"ถ้าอย่างนั้น ในฐานะคนนอก พวกเธอคิดยังไงกับสถานการณ์ตอนนี้ล่ะ?\" ฉันควรจะตอบคำถามนี้ว่ายังไงดี?",
+      "options": [
+        {
+          "message": "It's the City. That's just what happens to small fries getting mixed up in large-scale conflicts.",
+          "messageDesc": "Gloom & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+        },
+        {
+          "message": "I have no thoughts regarding the matter. A pity, though.",
+          "result": [
+            "\"A pity, you say...\"\n\nThe sword-carrying man crosses his arms, then sighs.\n\n\"Sure, I suppose that's one way of looking at it. A thought must remain free, indeed.\"\n\n\"Yet, if you have no thoughts regarding the matter, do understand that to feel pity may be a sin of its own.\"\n\nThe pair walks away. They both wear a dark expression."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971017,
+      "name": "ทางเลือกหมวกไม้ไผ่และชุดโดโป",
+      "subDesc": "",
+      "desc": "ตัวอักษรสีฟ้าเป็นประกายลอยอยู่ตรงหน้าคุณ การเรียงลำดับคำที่คล้ายคลึงกันเหล่านี้ทำให้ยากที่จะเข้าใจว่ามันพยายามจะสื่ออะไร การบอกว่าสิ่งที่ถูกคือถูกและสิ่งที่ผิดคือผิดนั้นไม่ถูกต้อง แต่นั่นก็ไม่ได้หมายความว่าการบอกว่าสิ่งที่ผิดคือถูกและสิ่งที่ถูกคือผิดนั้นจะผิด การบอกว่าสิ่งที่ผิดคือถูกและสิ่งที่ถูกคือผิดนั้นไม่ผิด และการบอกว่าสิ่งที่ถูกคือถูกและสิ่งที่ผิดคือผิดนั้น ในทางกลับกัน คือการบอกว่าความผิดนี้คือสิ่งที่ถูกต้อง ... มันต้องการให้ฉันบอกความรู้สึกที่มีต่อคำพูดเหล่านี้งั้นเหรอ? นี่มันพูดเรื่องอะไรกันเนี่ย?",
+      "options": [
+        {
+          "message": "What is 'right' and what is 'wrong'... is it really that important to tell which is which? Say that what really matters is something else.",
+          "messageDesc": "Lust & Pride Advantage check. Pass to gain a Poise E.G.O Gift."
+        },
+        {
+          "message": "Still, it must be said that what is right, is right.",
+          "messageDesc": "Gloom & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+        }
+      ]
+    },
+    {
+      "id": 971021,
+      "name": "Factory Laborer",
+      "subDesc": "",
+      "desc": "ก็แค่โรงงานนาฬิกาที่แสนวุ่นวายอีกแห่งหนึ่ง \"!@#$!#$#!$@#$!$#@$.\" ชายในรองเท้าหนังขัดเงาวับและชุดสูทสะอาดสะอ้าน ซึ่งเห็นได้ชัดว่าเป็นเจ้าของโรงงาน กำลังตะโกนใส่พนักงานในชุดทำงานที่สกปรกและเปรอะเปื้อนไปด้วยคราบน้ำมัน บางอย่างดูเหมือนจะสะดุดตาเขา ทำให้เขาจ้องเขม็งไปยังพนักงานคนหนึ่งและแผดเสียงด้วยความโกรธ พนักงานคนนั้นซึ่งกำลังยุ่งอยู่กับงานของตนมีท่าทีลนลานและพยายามจะพูดบางอย่าง แต่เขากลับต้องใช้เวลานานมากเพียงเพื่อจะอ้าปากพูด เจ้าของโรงงานหยิบเครื่องบันทึกเสียงออกมาด้วยความหงุดหงิดเพื่อพยายามสื่อสาร แต่มันก็ไม่ได้ช่วยอะไรเลย \"ฉันเพิ่งเช็กกล้องวงจรปิดมา แกแอบงีบหลับไปตั้งสองชั่วโมงเต็มๆ! อธิบายมาเดี๋ยวนี้\" \"ฟ... ... ... อ... ... ...\" \"... ... ค... ... ... ท...\" \"แกจะพูดให้มันเร็วกว่านี้หน่อยไม่ได้หรือไงวะ?!\" พอจะมีอะไรแถวนี้ที่ช่วยคลี่คลายสถานการณ์นี้ได้บ้างไหม?",
+      "options": [
+        {
+          "message": "Take a look around the factory.",
+          "messageDesc": "Gluttony & Pride Advantage check. Pass to gain a Tremor E.G.O Gift."
+        },
+        {
+          "message": "Take a good look at the factory owner and the employee.",
+          "messageDesc": "Gloom & Sloth Advantage check. Pass to gain a Tremor E.G.O Gift."
+        }
+      ]
+    },
+    {
+      "id": 971022,
+      "name": "T Corp. การเก็บภาษี",
+      "subDesc": "",
+      "desc": "ถนนสายหนึ่งใน T Corp. โดยสุ่ม Collection Staff กำลังเก็บภาษีจากใครบางคน \"คุณจะชำระเป็นเวลา หรือชำระเป็นเงินสดครับ?\" \"ก็บอกแล้วไงว่าเราจ่ายภาษีเวลาครบถ้วนแล้ว! อีกอย่าง สามร้อยล้าน Ahn เนี่ยนะ? มันจะบ้าไปแล้ว...!\" \"ตามบันทึกระบุว่าคุณมีภาระภาษีเวลาเพิ่มเติม เนื่องมาจากภาษีการให้โดยเสน่หาครับ\" \"บ้าน่า เป็นเพราะฉันสละเวลาให้เด็กพวกนั้นใน Backstreets. งั้นเหรอ?\" \"ฉันให้พวกเขาไปแค่สามร้อยชั่วโมงเองนะ แล้วมันกลายเป็นภาษีสามร้อยล้าน Ahn ได้ยังไงกัน?! มันไม่สมเหตุสมผลเลยสักนิด!\" \"การคำนวณภาษีใน T Corp. นั้นแม่นยำเป็นพิเศษเสมอครับ\" Time Collector ก้าวเท้าตรงไปยังพลเมืองคนนั้นเพื่อจัดการให้สงบลง",
+      "options": [
+        {
+          "message": "Talk to them.",
+          "messageDesc": "Gloom & Sloth Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Walk away.",
+          "result": [
+            "Looks like he'll have to defend himself somehow at the Collections Office.\n\nIt's not like you can change anything by stepping in.\n\n... You suddenly come to a realization that this is the kind of thought that transformed T Corp. to a place like this. You whip around and try to intervene...\n\n... But the Time Collector had already extracted time from the citizen, slowing him to a crawl."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971023,
+      "name": "ถนนใน T Corp.",
+      "subDesc": "",
+      "desc": "ผู้คนจากทุกชนชั้น ซึ่งต่างก็มีชั่วโมงที่ใช้ได้ในแต่ละวันไม่เท่ากัน ต่างพูดและเคลื่อนไหวด้วยความเร็วที่แตกต่างกัน เสียงที่เกิดจากความไม่เท่าเทียมอันแปลกประหลาดนี้ทำให้ถนนเต็มไปด้วยความไม่สอดประสาน ท่ามกลางความโกลาหลนั้น มีคนสองคนที่ดึงดูดความสนใจของคุณ วัยรุ่นท่าทางร่ำรวยคนหนึ่ง แม้จะดูมีเวลาเหลือเฟือ แต่กลับเดินด้วยฝีเท้าที่เร่งรีบมุ่งหน้าไปยังถนน... ... และชายชราท่าทางยากจนคนหนึ่ง แม้จะดูขาดแคลนเวลา แต่กลับเดินเข้าไปในตรอกอย่างช้าๆ ด้วยสีหน้าที่ดูผ่อนคลาย จะตามใครดี?",
+      "options": [
+        {
+          "message": "Follow the youth.",
+          "messageDesc": "Pride & Gluttony Advantage check. Pass to gain a Tremor E.G.O Gift."
+        },
+        {
+          "message": "Follow the old man.",
+          "messageDesc": "Sloth & Lust Advantage check. Pass to gain a Tremor E.G.O Gift."
+        },
+        {
+          "message": "Don't follow anyone.",
+          "result": [
+            "They're just two people minding their own business, spending their own time as they see fit.\n\nWhy go after them? Let's just spend our time as we see fit.\n\nYou continue down the street, your head brimming with thoughts of time inequality."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971024,
+      "name": "ที่กบดาน Yurodiviye",
+      "subDesc": "",
+      "desc": "ที่กบดานลับของ Yurodiviye โดยมี Yurodivy คนหนึ่งกำลังท่องข้อความที่ได้รับจาก Saint อย่างแรงกล้า \"พวกเราไม่ต่างอะไรจากฟันเฟืองในเครื่องจักรที่มีไว้เพื่อเหล่านักอุตสาหกรรม ชนชั้นนายทุน และเหล่า Wing เท่านั้น\" \"แล้วยังเหลือความสัมพันธ์แบบมนุษย์แบบไหนอีกเล่าในหมู่พลเมือง นอกจากผลประโยชน์ส่วนตนอันคับแคบและพันธนาการที่ไร้หัวใจซึ่งถูกสร้างขึ้นโดยทุนนิยม?\" \"ดังนั้น เราจะละทิ้งโลหะที่เย็นชาราวกับไร้ความรู้สึกที่เรียกว่าเหรียญกษาปณ์ และจะแลกเปลี่ยนความอบอุ่นให้แก่กันและกันตามความจำเป็นแทน!\" \"สำหรับผู้ที่มี ผู้ที่ถือครอง กฎหมายของ Nests คือโล่ที่ปกป้องสิทธิพิเศษของพวกเขา แต่สำหรับผู้ที่ไม่มี กฎหมายเหล่านั้นคือโซ่ตรวนที่ล่ามเราไว้!\" \"ถ้าอย่างนั้น เราจะขัดขืนกฎหมายของ Nest! เราจะแสดงให้พวกมันเห็นถึงความโกรธเกรี้ยวของผู้ที่ไม่มีอะไรจะเสีย!\" \"สิ่งเดียวที่ Yurodiviye จะสูญเสียได้ก็คือโซ่ตรวนของเรา และสิ่งเดียวที่เราจะได้รับคือโลกที่ปราศจากความหิวโหย!\" จู่ๆ Yurodivy คนนั้นก็ชี้มาทางพวกเรา ดูเหมือนว่าเราจะต้องพูดอะไรบางอย่างแล้วล่ะ",
+      "options": [
+        {
+          "message": "T-the Yurodiviye of the City, Unite!",
+          "messageDesc": "Wrath & Envy & Gluttony Advantage check. Pass to gain a Tremor E.G.O Gift."
+        },
+        {
+          "message": "I like the idea, but there's no way it'll work right.",
+          "result": [
+            "As soon as the Sinner finishes speaking, the room immediately falls cold and silent.\n\nThe Yurodivy who appears to be their leader points at the door and motions you to leave.\n\nYou leave the place before something happens."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971025,
+      "name": "ฉากสังหารเวลา (The Timekilling Scene)",
+      "subDesc": "",
+      "desc": "คุณเห็นเหยื่อของ Time Ripper คุณไม่สามารถแม้แต่จะแตะต้องตัวพวกเขาได้ เนื่องจากปรากฏการณ์การซ้อนทับของการเคลื่อนที่ทางกาลอวกาศ (spatio-temporal displacement superposition phenomenon) พอจะมีอะไรที่คุณทำได้เพื่อช่วยเหลือที่นี่บ้างไหม?",
+      "options": [
+        {
+          "message": "Try to help.",
+          "messageDesc": "Sloth & Gluttony & Pride Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Ignore them and move on.",
+          "result": [
+            "You have to go after the Time Ripper.\n\nNo time to waste."
+          ]
+        }
+      ]
+    }
+  ]
+}

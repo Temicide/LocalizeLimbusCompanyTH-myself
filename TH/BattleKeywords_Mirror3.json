@@ -1,0 +1,229 @@
+{
+  "dataList": [
+    {
+      "id": "MDcFaBa",
+      "name": "มอบ Burn เพิ่มเติม",
+      "desc": "มอบ Burn เพิ่มขึ้น +1 หน่วย ด้วย Skill"
+    },
+    {
+      "id": "MDcFaBb",
+      "name": "มอบ Bleed เพิ่มเติม",
+      "desc": "มอบ Bleed เพิ่มขึ้น +1 หน่วย ด้วย Skill"
+    },
+    {
+      "id": "MDcFaBc",
+      "name": "มอบ Tremor เพิ่มเติม",
+      "desc": "มอบ Tremor เพิ่มขึ้น +1 หน่วย ด้วย Skill"
+    },
+    {
+      "id": "MDcFaBd",
+      "name": "มอบ Rupture เพิ่มเติม",
+      "desc": "มอบ Rupture เพิ่มขึ้น +1 หน่วย ด้วย Skill"
+    },
+    {
+      "id": "MDcFaBe",
+      "name": "มอบ Sinking เพิ่มเติม",
+      "desc": "มอบ Sinking เพิ่มขึ้น +1 หน่วย ด้วย Skill"
+    },
+    {
+      "id": "MDcFaBf",
+      "name": "บูสต์ Slash",
+      "desc": "ความเสียหาย Slash +15%"
+    },
+    {
+      "id": "MDcFaBg",
+      "name": "บูสต์ Pierce",
+      "desc": "ความเสียหาย Pierce +15%"
+    },
+    {
+      "id": "MDcFaBh",
+      "name": "บูสต์ Blunt",
+      "desc": "ความเสียหาย Blunt +15%"
+    },
+    {
+      "id": "MDcFbBa",
+      "name": "เพิ่ม Affinity Res (ยกเว้น Wrath)",
+      "desc": "Resistance ต่อทุก Affinity -0.1 (ยกเว้น Wrath)"
+    },
+    {
+      "id": "MDcFbBb",
+      "name": "เพิ่ม Affinity Res (ยกเว้น Lust)",
+      "desc": "Resistance ต่อทุก Affinity -0.1 (ยกเว้น Lust)"
+    },
+    {
+      "id": "MDcFbBc",
+      "name": "เพิ่ม Affinity Res (ยกเว้น Sloth)",
+      "desc": "Resistance ต่อทุก Affinity -0.1 (ยกเว้น Sloth)"
+    },
+    {
+      "id": "MDcFbBd",
+      "name": "เพิ่ม Affinity Res (ยกเว้น Glut.)",
+      "desc": "Resistance ต่อทุก Affinity -0.1 (ยกเว้น Gluttony)"
+    },
+    {
+      "id": "MDcFbBe",
+      "name": "เพิ่ม Affinity Res (ยกเว้น Gloom)",
+      "desc": "Resistance ต่อทุก Affinity -0.1 (ยกเว้น Gloom)"
+    },
+    {
+      "id": "MDcFbBf",
+      "name": "เพิ่ม Affinity Res (ยกเว้น Pride)",
+      "desc": "ความต้านทานต่อทุก Affinity -0.1 (ยกเว้น Pride)"
+    },
+    {
+      "id": "MDcFbBg",
+      "name": "เพิ่ม Affinity Res (ยกเว้น Envy)",
+      "desc": "ความต้านทานต่อทุก Affinity -0.1 (ยกเว้น Envy)"
+    },
+    {
+      "id": "MDcFbBh",
+      "name": "Max HP +",
+      "desc": "Max HP +15%"
+    },
+    {
+      "id": "MDcFcBa",
+      "name": "Slot Weight +",
+      "desc": "Slot Weight +1"
+    },
+    {
+      "id": "MDcFcBb",
+      "name": "Siphon Damage",
+      "desc": "เมื่อโจมตีโดน, ฟื้นฟู HP 5% ของดาเมจที่ทำได้"
+    },
+    {
+      "id": "MDcFcBc",
+      "name": "Boost Speed",
+      "desc": "Max Speed +1"
+    },
+    {
+      "id": "MDcFcBd",
+      "name": "Sanity Attack",
+      "desc": "เมื่อโจมตีโดน, สร้างความเสียหาย SP แบบคงที่ 2 หน่วย"
+    },
+    {
+      "id": "MDcFcBe",
+      "name": "Keenness",
+      "desc": "เริ่มเทิร์น: ได้รับ Damage Up 1 หน่วย หากยูนิตนี้สร้างความเสียหายได้อย่างน้อยหนึ่งครั้งในเทิร์นที่แล้ว"
+    },
+    {
+      "id": "MDcFcBf",
+      "name": "Regroup",
+      "desc": "เริ่มเทิร์น: ได้รับ Offense Level Up 3 หน่วย หากยูนิตนี้ไม่ได้รับความเสียหาย HP ในเทิร์นที่แล้ว"
+    },
+    {
+      "id": "MDcFcBg",
+      "name": "Unopposed Attack Boost",
+      "desc": "Final Power +1 ให้กับ Unopposed Attack"
+    },
+    {
+      "id": "MDcFcBh",
+      "name": "Clash Attack Boost",
+      "desc": "Final Power +1 ใน Clash"
+    },
+    {
+      "id": "MDHcFaBa",
+      "name": "Defense Level Up",
+      "desc": "Defense Level +4"
+    },
+    {
+      "id": "MDHcFaBb",
+      "name": "Defense Power Up",
+      "desc": "Skill Base Power ของ Defense +2"
+    },
+    {
+      "id": "MDHcFaBc",
+      "name": "Max HP Up",
+      "desc": "Max HP +10%"
+    },
+    {
+      "id": "MDHcFaBd",
+      "name": "Damage Taken Down",
+      "desc": "Damage Taken -10%"
+    },
+    {
+      "id": "MDHcFbBa",
+      "name": "Offense Level Up",
+      "desc": "Offense Level +3, Max HP +5%"
+    },
+    {
+      "id": "MDHcFbBb",
+      "name": "เพิ่ม Final Power",
+      "desc": "Final Power +1, Max HP +5%"
+    },
+    {
+      "id": "MDHcFbBc",
+      "name": "เพิ่ม Base Power",
+      "desc": "Base Power +1, Max HP +5%"
+    },
+    {
+      "id": "MDHcFbBd",
+      "name": "เพิ่มความเสียหายที่ทำได้",
+      "desc": "ทำความเสียหาย +15%, Max HP +5%"
+    },
+    {
+      "id": "MDHcFcBa",
+      "name": "เพิ่ม Final Power I",
+      "desc": "Final Power +1, Max HP +15%"
+    },
+    {
+      "id": "MDHcFcBb",
+      "name": "เพิ่ม Final Power II",
+      "desc": "Final Power +2, Defense Level -4, Max HP +15%"
+    },
+    {
+      "id": "MDHcFcBc",
+      "name": "เพิ่ม Base Power I",
+      "desc": "Base Power +1, Max HP +10%"
+    },
+    {
+      "id": "MDHcFcBd",
+      "name": "เพิ่ม Base Power II",
+      "desc": "Base Power +2, Defense Level -4, Max HP +10%"
+    },
+    {
+      "id": "MDHcFcBe",
+      "name": "เพิ่ม Coin Power I",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1"
+    },
+    {
+      "id": "MDHcFcBf",
+      "name": "Overload I",
+      "desc": "Offense Level +7, Defense Level -7"
+    },
+    {
+      "id": "MDHcFdBa",
+      "name": "Final Power Up III",
+      "desc": "Final Power +2, Defense Level +6, Max HP +10%"
+    },
+    {
+      "id": "MDHcFdBb",
+      "name": "Final Power Up IV",
+      "desc": "Final Power +3, Max HP +10%"
+    },
+    {
+      "id": "MDHcFdBc",
+      "name": "Coin Power Up II",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Max HP +15%"
+    },
+    {
+      "id": "MDHcFdBd",
+      "name": "Base Power Up III",
+      "desc": "Base Power +2, Defense Level +3, Max HP +10%"
+    },
+    {
+      "id": "MDHcFdBe",
+      "name": "Overload II",
+      "desc": "Offense Level +10, Defense Level -7"
+    },
+    {
+      "id": "MDHcFdBf",
+      "name": "Resilient",
+      "desc": "Max HP +25%, Defense Level +5"
+    },
+    {
+      "id": "MDHcFdBg",
+      "name": "มุทะลุ",
+      "desc": "สร้างความเสียหาย +50% และได้รับความเสียหาย -50%"
+    }
+  ]
+}

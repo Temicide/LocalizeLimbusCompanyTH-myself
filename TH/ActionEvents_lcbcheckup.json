@@ -1,0 +1,158 @@
+{
+  "dataList": [
+    {
+      "id": 971042,
+      "name": "",
+      "desc": "เรามาถึงจุดเริ่มต้นของ Dungeon of the Fathoms แล้ว เราพบว่าตัวเองอยู่ในห้องที่ดูเหมือนจะเป็นเวิร์กชอปของเฟือง E.G.O 'หากคุณทำคะแนนอัตราการซิงโครไนซ์ในแบบทดสอบความเหมาะสมได้ต่ำกว่า 100% ให้หยิบ E.G.O เพียงชิ้นเดียวจากที่นี่' ป้ายคำเตือนที่ดูไม่เป็นมงคลปรากฏแก่สายตาพวกเรา และมีเสียงจากลำโพงพูดประโยคเดิมซ้ำไปซ้ำมาไม่หยุด เหล่า Sinners ต่างพากันเข้าไปดูด้วยความสนใจ เพราะป้ายบอกว่าสามารถหยิบเฟือง E.G.O ได้จากที่นี่... แต่สิ่งที่พวกเราพบกลับเป็น Gifts E.G.O \"หือ? นี่ไม่ใช่เฟือง E.G.O นี่นา แต่มันคือ... พวก Gift หรืออะไรสักอย่างใช่ไหม?\" \"ดูเหมือนว่า E.G.O จะปรากฏที่นี่ในรูปแบบของ Gifts E.G.O\" \"หืม แล้วเราหยิบไปให้หมดเลยไม่ได้เหรอ?\" \"ที่นี่คือ Dungeon of the Fathoms ซึ่งแตกต่างจาก Mirror Dungeon ทั่วไป ดังนั้นขอแนะนำอย่างยิ่งให้ปฏิบัติตามกฎของที่นี่\" เราควรทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Take the flaming gauntlet.",
+          "messageDesc": "Select to gain a Burn E.G.O Gift",
+          "result": [
+            "This one seems best suited for the situation we're in.\n\nWe take the 'Combustion Gloves' E.G.O Gift."
+          ]
+        },
+        {
+          "message": "Take the combat boots with spiky bits on them.",
+          "messageDesc": "Select to gain a Rupture E.G.O Gift",
+          "result": [
+            "This one seems best suited for the situation we're in.\n\nWe take the 'Spiked Combat Boots' E.G.O Gift."
+          ]
+        },
+        {
+          "message": "Take the cleaning solution spray.",
+          "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+          "result": [
+            "This one seems best suited for the situation we're in.\n\nWe take the 'Illusory Hunt' E.G.O Gift."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971043,
+      "name": "",
+      "desc": "เราพบกับกลุ่มนักวิจัยที่กำลังก้มหน้าก้มตาศึกษาเอกสารต่างๆ อย่างขะมักเขม้น พวกเขากำลังถกเถียงกันในสองหัวข้อ คือ เรื่องของอารมณ์และเปลวไฟ \"เปลวไฟปกติไม่น่าจะทำอันตราย Abnormalities ได้มากนัก แล้วทำไมวิธีนี้ถึงได้ผลกันนะ...?\" \"บางทีอารมณ์โกรธแค้นที่รุนแรงขึ้น อาจช่วยเปิดช่องให้ความร้อนของไฟสัมผัสกับ Abnormalities และ Distortions ซึ่งทั้งคู่ต่างเป็นตัวตนที่ไม่อาจระบุได้\" พวกเขาคงสังเกตเห็นว่าพวกเรากำลังตั้งใจฟังการสนทนาอยู่ หนึ่งในนั้นจึงเดินเข้ามาหาเราด้วยสายตาที่เป็นประกาย \"คุณคือ 'ตัวอย่าง' ที่ตกลงเข้าร่วมการทดลองนี้ใช่ไหม?\" \"ถ้าใช่ ลองสวมเจ้านี่ดู\" ในมือนักวิจัยคือสิ่งที่ดูเหมือนหัวเทียน... หรือไม่ก็เครื่องทดสอบอะไรสักอย่าง",
+      "options": [
+        {
+          "message": "You have the wrong person.",
+          "messageDesc": "",
+          "result": [
+            "\"Wha? You're not the sample?\"\n\n\"Then what the hell are you doing in here? Get out, now!\"\n\nWe were kicked out."
+          ]
+        },
+        {
+          "message": "We're the 'samples'.",
+          "messageDesc": "Run a Wrath & Lust Advantage check to gain a Burn E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971044,
+      "name": "",
+      "desc": "นักวิจัยหลายคนกำลังเดินวุ่นวายอยู่ในห้องปฏิบัติการที่ดูโกลาหล มีอะไรหลุดออกมา หรือว่าเกิดอะไรขึ้นกันแน่? ขณะที่พวกเรายืนอึ้งกับความเละเทะตรงหน้า ใครบางคนก็เดินตรงมาที่ Sinners \"ถอยไปให้พ้นทาง!\" \"อ-เอ้อ จริงด้วย นึกขึ้นได้พอดี\" \"เอาเจ้านี่ไป ลองใช้ซะ เราไม่มีเวลาเหลือมากแล้วก่อนจะถึงกำหนดส่งรายงานการทดลองทางคลินิก!\"",
+      "options": [
+        {
+          "message": "Eat it.",
+          "messageDesc": "Run a Gluttony & Gloom Advantage check to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "We're not eating that. We don't even know what that is.",
+          "messageDesc": "",
+          "result": [
+            "\"Well, then get the hell outta my way!\"\n\nThe researcher pushed us aside."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971045,
+      "name": "",
+      "desc": "เราเห็น Ardor Blossom Moth อยู่ภายในหน่วยกักกัน อนุภาคเปลวไฟสีแดงฉานขนาดเล็กรายล้อมมันไว้ราวกับออร่า ปีกที่ลุกโชนดับลงในชั่วขณะหนึ่ง ก่อนจะโหมกระหน่ำอย่างรุนแรงในวินาทีถัดมา มันพยายามจุดไฟเผาทุกสิ่งรอบตัวอย่างไม่ลดละ \"ช่างเป็นตัวอย่างที่งดงามจริงๆ นะ Ardor Blossom Moth ตัวนี้ คุณทำการสังเกตการณ์เสร็จหรือยัง?\" \"ช่วงนี้เราได้เรียนรู้เกี่ยวกับ Abnormality เยอะเลยล่ะ\" \"ถึงจะยังมีเรื่องที่ไม่รู้อีกมาก แต่ก็ถือว่าก้าวหน้า\" \"พูดถึงเรื่องนี้ ขอทดสอบความรู้หน่อยแล้วกัน Gift ของ E.G.O ชิ้นไหนที่คุณสามารถได้รับจาก Ardor Blossom Moth?\"",
+      "options": [
+        {
+          "message": "Subaquatic Blossom",
+          "messageDesc": "Select the right answer to gain a Burn E.G.O Gift",
+          "result": [
+            "\"…….\"\n\n\"Pay more attention next time.\"\n\nThe researcher brushed past us."
+          ]
+        },
+        {
+          "message": "Hellterfly’s Dream",
+          "messageDesc": "Select the right answer to gain a Burn E.G.O Gift",
+          "result": [
+            "\"Right on the money. You know your Ardor Blossom Moth.\"\n\n\"But that's not all. Recently, it's been giving out these things, too.\"\n\n\"Take this with you. I'm just glad to have run into a kindred soul.\"\n\nYou receive a burning, flickering flame. It seems to have come directly from the Ardor Blossom Moth itself."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971046,
+      "name": "",
+      "desc": "เราเห็น Faelantern อยู่ภายในหน่วยกักกัน แฟรี่สีฟ้าไซแอนบินร่อนไปยังกิ่งไม้โบราณที่แห้งเหี่ยว และค่อยๆ ร่อนลงจอดบนกิ่งหนึ่ง กิ่งไม้ที่มีแฟรี่เกาะอยู่สั่นไหว ราวกับจะล่อลวงให้พวกเราเข้าไปใกล้ๆ... ดวงตาสีเหลืองนับไม่ถ้วนส่องประกายวับวาวจากเงามืดใต้รากไม้ \"ช่างเป็นตัวอย่างที่งดงามจริงๆ นะ Faelantern ตัวนี้ คุณทำการสังเกตการณ์เสร็จหรือยัง?\" \"ช่วงนี้เราได้เรียนรู้เกี่ยวกับ Abnormality เยอะเลยล่ะ\" \"ถึงจะยังมีเรื่องที่ไม่รู้อีกมาก แต่ก็ถือว่าก้าวหน้า\" \"พูดถึงเรื่องนี้ ขอทดสอบความรู้หน่อยแล้วกัน Gift ของ E.G.O ชิ้นไหนที่คุณสามารถได้รับจาก Faelantern?\"",
+      "options": [
+        {
+          "message": "Midwinter Nightmare",
+          "messageDesc": "Select the right answer to gain a Rupture E.G.O Gift",
+          "result": [
+            "\"Right on the money. You know your Faelantern.\"\n\n\"But that's not all. Recently, it's been giving out these things, too.\"\n\n\"Take this with you. I'm just glad to have run into a kindred soul.\"\n\nYou receive a bony twig. It seems to have come directly from the Faelantern itself."
+          ]
+        },
+        {
+          "message": "Concavity",
+          "messageDesc": "Select the right answer to gain a Rupture E.G.O Gift",
+          "result": [
+            "\"…….\"\n\n\"Pay more attention next time.\"\n\nThe researcher brushed past us."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971047,
+      "name": "",
+      "desc": "ที่สุดทางเดินนี้ มีกลุ่มนักวิจัยกำลังสนทนากันอยู่หน้าสถานที่ที่มืดมิดอย่างผิดปกติ เมื่อสังเกตเห็นการมาถึงของพวกเรา ใบหน้าของพวกเขาก็ดูสดใสขึ้นขณะที่เดินเข้ามาหา \"ได้โปรด ช่วยไปสำรวจพื้นที่ข้างหน้าให้พวกเราหน่อยได้ไหม?\" \"หากคุณตกลง เราจะช่วยเหลืออย่างเต็มความสามารถ\"",
+      "options": [
+        {
+          "message": "Accept and investigate.",
+          "messageDesc": "Heal all allies\nRun a Pride & Envy Advantage check to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Refuse.",
+          "messageDesc": "",
+          "result": [
+            "\"Fine, walk away.\"\n\n\"We're not the ones losing out on a good deal.\"\n\nThe researchers all turned around without a moment's hesitation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971048,
+      "name": "",
+      "desc": "ข้อความที่เขียนอย่างลนลานและยุ่งเหยิงหลายประโยคถูกสลักไว้บนกำแพงด้วยมีด ฉันสัมผัสได้ถึงความสยองขวัญและความสิ้นหวังอย่างรุนแรงของผู้เขียนผ่านตัวอักษรที่บิดเบี้ยวเหล่านั้น เมื่อพิจารณาอย่างใกล้ชิด รอยสลักลึกเหล่านั้นได้บอกเล่าเรื่องราวที่เขียนขึ้นด้วยความหวาดกลัว 'พวกมันรุมล้อมเราอยู่ สัตว์ประหลาด ฉันได้ยินเสียงลมหายใจของพวกมัน พวกมันจะฆ่าเราให้หมด' 'ช่วยฉันด้วย ได้โปรด ใครก็ได้ช่วยฉันที ฉันไม่อยากตาย ได้โปรด' 'ความกลัวคือสิ่งที่ผลักดันมนุษย์ไปสู่ความบ้าคลั่ง สัตว์ประหลาดอยู่ใกล้ๆ แล้ว ฉันรู้สึกได้ถึงแรงสั่นสะเทือนจากฝีเท้าของพวกมัน พวกมันกำลังมา...' มีประโยคที่เขียนไม่จบปรากฏอยู่บนกำแพง และความตายได้สลักรอยลึกคั่นกลางระหว่างประโยคเหล่านั้น",
+      "options": [
+        {
+          "message": "Ignore them and move on.",
+          "messageDesc": "",
+          "result": [
+            "Nothing good can possibly come out of poking around in here. This won't be good for the Sinners.\n\nWe decided to quickly walk away from that place."
+          ]
+        },
+        {
+          "message": "Look around some more.",
+          "messageDesc": "Run a Wrath & Gloom Advantage check to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

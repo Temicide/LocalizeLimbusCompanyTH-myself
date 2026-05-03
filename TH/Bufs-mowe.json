@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "KeptBlood",
+      "name": "Stored Blood",
+      "desc": "- ค่าสูงสุด: 10 - ลดลง 1 หน่วย ทุกครั้งที่ยูนิตนี้เสีย HP 5% - เมื่อโจมตีโดน, ฟื้นฟู 1% ของ HP ของยูนิตนี้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyCrave",
+      "name": "Bloodtinged Craving",
+      "desc": "- ได้รับ Clash Power Up 1 หน่วย และ Damage Up 1 หน่วย - เมื่อโจมตีโดน, ได้รับ Stored Blood 1 หน่วย - หากยูนิตนี้ไม่ได้รับ Stored Blood ในเทิร์นนี้ จะได้รับ Fragile 2 หน่วย, Haste 1 หน่วย และ Offense Level Up 4 หน่วยในเทิร์นถัดไป แทนที่เอฟเฟกต์ข้างต้น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodPocket_LowMorale",
+      "name": "Bloodthirst",
+      "desc": "เริ่มเทิร์น: ได้รับ Fragile 1 หน่วย และ Damage Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodPocket_Panic",
+      "name": "Bloodthirst",
+      "desc": "เริ่มเทิร์น: ได้รับ Fragile 2 หน่วย และ Damage Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HardenedBlood",
+      "name": "Coagulated Blood",
+      "desc": "เพิ่ม Offense Level และ Defense Level ตามค่าที่มี (สูงสุด 5)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

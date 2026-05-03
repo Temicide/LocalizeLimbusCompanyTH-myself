@@ -1,0 +1,141 @@
+{
+  "dataList": [
+    {
+      "id": "ObjectOfExploration",
+      "name": "Curio",
+      "desc": "เมื่อบรรลุเงื่อนไขบางประการ จะเปลี่ยนเอฟเฟกต์นี้เป็น 'Art Medium'",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Inspire",
+      "name": "Spark of Inspiration",
+      "desc": "สร้างความเสียหาย +10% ต่อเป้าหมายที่มี Art Medium",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PaintingMaterial",
+      "name": "Art Medium",
+      "desc": "หากยูนิตนี้มี Bleed (ใน Focused Encounters จะนับ Bleed แยกตามแต่ละ Part) จะได้รับความเสียหายจาก Lust Skills +10%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GreatAesthetics",
+      "name": "Exquisite Aesthetics",
+      "desc": "- สกิล Plus Coin จะได้รับ Coin Power +1 - สกิล Minus Coin จะได้รับ Base Power +(4 / จำนวนของ Coin) - สร้างความเสียหายด้วยสกิล +30%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GiftCannon",
+      "name": "Firepower",
+      "desc": "- Stack สูงสุด: 10 - สร้างความเสียหาย +10% ต่อทุกๆ 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GiftGlass",
+      "name": "Delicateness",
+      "desc": "- Stack สูงสุด: 10 - ได้รับความเสียหาย +10% ต่อทุกๆ 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlandishmentShinEnemyDelete",
+      "name": "Shin (心) - ???",
+      "desc": "- Min & Max Speed +1 - Offense Level +2, Defense Level +2 - ได้รับ Poise Potency และ Poise Count จากสกิลเพิ่มขึ้นอีก +1 - สร้างความเสียหาย +(เปอร์เซ็นต์ HP ที่ขาดไป + 25)% (สูงสุด 100%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceRoseSign",
+      "name": "Bridle",
+      "desc": "- พันธมิตรทั้งหมดได้รับ max HP ((Floor ปัจจุบัน - 4) x 10)% (สูงสุด 60%) - พันธมิตรทั้งหมดได้รับ Offense Level +(Floor ปัจจุบัน - 4) (สูงสุด 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LookingFutureMirror",
+      "name": "Glimpse of Precognition",
+      "desc": "- Stack สูงสุด: 5 - Clash Power +2 ต่อทุก 1 Stack - ทุกๆ 2 Stack: - สกิล Plus Coin ได้รับ Coin Power +1 - สกิล Minus Coin ได้รับ Final Power +2 - หมดผลเมื่อจบสกิล",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFatherGutsMirror",
+      "name": "Ridiculous Grit",
+      "desc": "- ได้รับความเสียหายจากสกิล -(50 + เปอร์เซ็นต์ HP ที่ขาดไป)% (ปัดเศษลง) - เมื่อชนะ Clash, ฟื้นฟู SP เพิ่มขึ้น (Clash Count x 5) (สูงสุด 15) - จบเทิร์น: หากยูนิตนี้เสีย SP ในเทิร์นนี้เนื่องจากผลของสกิล, ได้รับ Damage Up 3 ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"ฉันไม่จำเป็นต้องใช้ไม้ค้ำยันโง่ๆ อย่างไอ้เรื่อง 'Shin (心)' บ้าบอนั่นหรอก แค่รีดพลังจากรอยสักพวกนี้ออกมาให้เต็มที่แล้วกัดฟันสู้ ฉันก็ขยี้ทริคกระจอกๆ ของแกได้สบายอยู่แล้ว\""
+    },
+    {
+      "id": "FutureEyeOnMirror",
+      "name": "Eye of Precognition",
+      "desc": "- Stack สูงสุด: 30 - Clash Power +2 - เริ่มเทิร์น: ได้รับ 5 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"ดวงตานี้ไม่ได้มีพลังเหนือธรรมชาติที่แสดงอนาคตที่ถูกกำหนดไว้ให้ผู้ใช้เห็น แต่มันใกล้เคียงกับอุปกรณ์คำนวณที่วิเคราะห์ทุกสิ่งที่มองเห็น และนำเสนอสถานการณ์ที่มีความเป็นไปได้มากที่สุดในชั่วพริบตาถัดไป\""
+    },
+    {
+      "id": "FutureEyeOffMirror",
+      "name": "Eye of Precognition - Overheat",
+      "desc": "- Stack สูงสุด: 30 - สกิล Attack สร้างความเสียหาย -20% - เปลี่ยน Coin ทั้งหมดในสกิลที่ใช้ Acceleration Round ให้เป็น Unbreakable Coin - เริ่มเทิร์น: ได้รับ 10 Stack - เมื่อครบ 30 Stack, เปลี่ยนเป็น \"Eye of Precognition\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TeachersPreyMirror",
+      "name": "Game Target",
+      "desc": "ล็อก Speed ของยูนิตนี้ไว้ที่ 1; กลายเป็นเป้าหมายหลักของสกิล \"Disposal\" ของ \"The Thumb Nursefather - Valencina\"",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "เหยื่อที่ถูกหมายหัวโดย Famiglia Bognatelli จะถูกล่าจนถึงที่สุดโดยไม่มีข้อยกเว้น"
+    },
+    {
+      "id": "ObservationTheRingsHidden",
+      "name": "Viewing the Tableau",
+      "desc": "- Base Offense Level -20 - Base Defense Level -20 - เริ่มเทิร์น: ได้รับความเสียหายสุดท้าย -70% หาก The Ring Apprentice ยังไม่ได้ถอนตัวจาก Encounter นี้ (ปัดเศษลง; ไม่มีค่าต่ำสุด)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"การชื่นชมผลงานศิลปะในหอศิลป์จำเป็นต้องใช้การพินิจพิจารณาอย่างไม่เร่งรีบ โปรดจำไว้ว่า—ความใจร้อนจะทำให้สุนทรียภาพในการชมศิลปะลดน้อยลง\""
+    },
+    {
+      "id": "MD7Limit101",
+      "name": "Force Redistribution",
+      "desc": "เมื่อศัตรูถูกกำจัด จะมอบ Offense Level Up 3 หน่วย ให้กับพันธมิตรทั้งหมดในตอนเริ่มเทิร์นถัดไป (3 ครั้งต่อเทิร์น; การเริ่ม Wave ใหม่จะนับเป็นเริ่มเทิร์นด้วยเช่นกัน)"
+    },
+    {
+      "id": "MD7Limit111",
+      "name": "Psychological Elation",
+      "desc": "เริ่มเทิร์น: ฟื้นฟู SP 20 หน่วย ให้กับศัตรูทั้งหมด - (ศัตรูที่มีเฉพาะสกิลลบ Coin จะเสีย SP 15 หน่วยแทน)"
+    },
+    {
+      "id": "MD7Limit121",
+      "name": "Shield Generation",
+      "desc": "มอบ Shield 3000 หน่วย ให้กับศัตรูทั้งหมด (ใน Focused Encounter จะส่งผลเฉพาะ Core เท่านั้น; Shield ที่ได้รับจากเอฟเฟกต์นี้จะไม่หายไปเมื่อจบเทิร์น)"
+    },
+    {
+      "id": "MD7Limit131",
+      "name": "Fracture Proliferation",
+      "desc": "สกิลของศัตรูจะมอบ Burn, Bleed, Tremor, Rupture และ Sinking แรงขึ้น x2"
+    },
+    {
+      "id": "MD7Limit141",
+      "name": "Status Infliction",
+      "desc": "เริ่มเทิร์น: มอบสถานะแบบสุ่ม 5 Potency จาก Burn, Bleed, Tremor, Rupture และ Sinking ให้กับพันธมิตร (Identities) ทั้งหมด"
+    },
+    {
+      "id": "RingFingerPhysical",
+      "name": "Beauty of the Physique",
+      "desc": "- เมื่อสู้กับศัตรูที่มี Bleed 20+ หน่วย, Base Skill จะได้รับ Coin Power +1 และสร้างความเสียหาย +20% (คำนวณจากผลรวมของ Bleed ของเป้าหมายทั้งหมดสำหรับสกิลที่มี Atk Weight 2+ หน่วย) - Base Skill ที่ใช้ 'Unique Charge' จะได้รับ Coin Power +1 (ยกเว้นสกิล E.G.O) - จบเทิร์น: เอฟเฟกต์นี้จะหมดลง"
+    },
+    {
+      "id": "RingFingerFauvism",
+      "name": "Charm of the Beastly",
+      "desc": "- เมื่อสู้กับศัตรูที่มี Bleed 20+ หน่วย, Base Skills จะได้รับ Coin Power +1 และสร้างความเสียหาย +20% (คำนวณจากผลรวมของ Bleed ของเป้าหมายทั้งหมดสำหรับ Skill ที่มี Atk Weight 2+ หน่วย) - เมื่อเริ่ม Attack, หากเป้าหมายมี SP Potency 15- หน่วย หรือมี Sinking Potency 20+ หน่วย, จะได้รับ Blunt Power Up 1 หน่วยในเทิร์นถัดไป (1 ครั้งต่อเทิร์น) - จบเทิร์น: เอฟเฟกต์นี้จะหมดลง"
+    }
+  ]
+}

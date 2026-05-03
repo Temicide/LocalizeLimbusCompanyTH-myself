@@ -1,0 +1,42 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPbBe",
+      "name": "เหยื่อที่ถูกหมายหัว",
+      "desc": "- หากยูนิตนี้ไม่ได้รับความเสียหายในเทิร์นนี้ จะมอบ Inferiority Complex 1 หน่วย ให้กับ Attack เมื่อจบเทิร์น จากนั้นจะหายไป - Stack สูงสุด: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "Inferiority Complex",
+      "desc": "- ทุกครั้งที่ยูนิตนี้ถูกโจมตี จะได้รับความเสียหาย ((20% ของความเสียหายที่ HP ได้รับ) * Value) - Value สูงสุด: 5",
+      "summary": "ได้รับความเสียหาย ((20% ของความเสียหายที่ HP ได้รับ) * Value)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "Explosive Gloom",
+      "desc": "- ความต้านทาน Affinity Gloom +0.3 - ความต้านทาน Affinity อื่นๆ -0.5 - เมื่อถูกโจมตี: มอบความเสียหาย SP 3 หน่วย แก่ผู้โจมตี, ได้รับ Sinking Count 1 หน่วย และได้รับ Offense Level Up 1 ระดับ ในเทิร์นถัดไป (สูงสุด 9 ครั้งต่อเทิร์น)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "Explosive Envy",
+      "desc": "- ความต้านทาน Affinity Envy +0.3 - ความต้านทาน Affinity อื่นๆ -0.5 - เมื่อถูกโจมตี: มอบ Offense Level Up 1 ระดับ, มอบ Bleed 2 หน่วย และ Bleed Count 2 หน่วย แก่ผู้โจมตี และได้รับ Defense Level Down 1 ระดับ ในเทิร์นถัดไป (สูงสุด 9 ครั้งต่อเทิร์น)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Explosive Wrath",
+      "desc": "- ความต้านทาน Affinity Wrath +0.3 - ความต้านทาน Affinity อื่นๆ -0.5 - เมื่อถูกโจมตี: ได้รับ Offense Level Up 1 ระดับ และ Defense Level Down 1 ระดับ ในเทิร์นถัดไป (สูงสุด 9 ครั้งต่อเทิร์น)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Deep Bereavement",
+      "desc": "เริ่มเทิร์น: ลด Speed 5 หน่วย และได้รับ Defense Level Down 5 ระดับ",
+      "undefined": "-"
+    }
+  ]
+}

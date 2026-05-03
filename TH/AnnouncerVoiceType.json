@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "Danger",
+      "content": "อันตราย"
+    },
+    {
+      "id": "SpecialSkill",
+      "content": "คำเตือน: สกิลศัตรูที่รุนแรง"
+    },
+    {
+      "id": "SpecialGimmick",
+      "content": "คำเตือน: กิมมิคศัตรู"
+    },
+    {
+      "id": "AllyDebuff",
+      "content": "พันธมิตรติด Debuff"
+    },
+    {
+      "id": "AllyBuff",
+      "content": "พันธมิตรติด Buff"
+    },
+    {
+      "id": "SpecialCheer",
+      "content": "รวมพลตามสถานการณ์"
+    },
+    {
+      "id": "EnemyAdv",
+      "content": "ศัตรูได้เปรียบ"
+    },
+    {
+      "id": "AllyDead",
+      "content": "พันธมิตรเสียชีวิต"
+    },
+    {
+      "id": "AllyBigDamage_Round",
+      "content": "เริ่มเทิร์นหลังจากได้รับความเสียหายรุนแรง"
+    },
+    {
+      "id": "AllyAdvEx",
+      "content": "พันธมิตรพลิกสถานการณ์"
+    },
+    {
+      "id": "AllyAdv",
+      "content": "พันธมิตรได้เปรียบ"
+    },
+    {
+      "id": "AllyBreak",
+      "content": "พันธมิตรติด Staggered"
+    },
+    {
+      "id": "KillEnemy",
+      "content": "กำจัดศัตรู"
+    },
+    {
+      "id": "EnemyDestroy_RoundStart",
+      "content": "เริ่มเทิร์นหลังจากทำลายชิ้นส่วนศัตรู"
+    },
+    {
+      "id": "EnemyBigDamage_Round",
+      "content": "เริ่มเทิร์นหลังจากสร้างความเสียหายรุนแรง"
+    },
+    {
+      "id": "EnemyBreak",
+      "content": "ศัตรูเสียหลัก"
+    },
+    {
+      "id": "Cheer",
+      "content": "รวมพล"
+    },
+    {
+      "id": "AllyBigDamage",
+      "content": "ได้รับความเสียหายรุนแรง"
+    },
+    {
+      "id": "EnemyBigDamage",
+      "content": "สร้างความเสียหายรุนแรง"
+    },
+    {
+      "id": "EnemyDestroy_Battle",
+      "content": "ทำลายชิ้นส่วนศัตรู"
+    },
+    {
+      "id": "MultiKillEnemy",
+      "content": "เพื่อนร่วมทีมสังหารต่อเนื่อง"
+    },
+    {
+      "id": "Equip",
+      "content": "ติดตั้งผู้บรรยาย"
+    },
+    {
+      "id": "PhysicalAdv",
+      "content": "ประเภท Attack ที่ได้เปรียบ"
+    },
+    {
+      "id": "AttrAdv",
+      "content": "ประเภท Affinity ที่ได้เปรียบ"
+    },
+    {
+      "id": "PhysicalDisadv",
+      "content": "ประเภท Attack ที่เสียเปรียบ"
+    },
+    {
+      "id": "AttrDisadv",
+      "content": "ประเภท Affinity ที่เสียเปรียบ"
+    },
+    {
+      "id": "EnemyBuff",
+      "content": "ศัตรูได้รับบัฟ"
+    },
+    {
+      "id": "EnemyDebuff",
+      "content": "ศัตรูได้รับดีบัฟ"
+    },
+    {
+      "id": "Neglect",
+      "content": "ไม่มีการตอบสนองเป็นเวลานาน"
+    },
+    {
+      "id": "MultiKillAlly",
+      "content": "เพื่อนร่วมทีมเสียชีวิตหลายคน"
+    },
+    {
+      "id": "Win",
+      "content": "เสียงโห่ร้องแห่งชัยชนะ"
+    },
+    {
+      "id": "Defeat",
+      "content": "เสียงคร่ำครวญแห่งความพ่ายแพ้"
+    }
+  ]
+}

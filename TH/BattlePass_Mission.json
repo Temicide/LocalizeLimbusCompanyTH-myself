@@ -1,0 +1,60 @@
+{
+  "dataList": [
+    {
+      "id": "CLEAR_STAGE",
+      "content": "ผ่านด่านใดก็ได้ {0} ครั้ง"
+    },
+    {
+      "id": "KILL_ENEMY_ANY",
+      "content": "กำจัดศัตรู {0} ตัว"
+    },
+    {
+      "id": "KILL_ENEMY_ABNORMALITY",
+      "content": "Suppress Abnormalities {0} ครั้ง"
+    },
+    {
+      "id": "SOMEONE_PARTICIPATED_IN_BATTLE",
+      "content": "นำ {1} เข้าสู่การต่อสู้ {0} ครั้ง"
+    },
+    {
+      "id": "MIRROR_DUNGEON_TRY",
+      "content": "เข้าสู่ Mirror Dungeon {0} ครั้ง"
+    },
+    {
+      "id": "MIRROR_DUNGEON_CLEAR",
+      "content": "ผ่าน Mirror Dungeon {0} ครั้ง"
+    },
+    {
+      "id": "BATTLEPASS_LEVELUP",
+      "content": "บรรลุ Battle Pass เลเวล {0}"
+    },
+    {
+      "id": "USE_EGO_20402",
+      "content": "ใช้ 4th Match Flame ของ เรียวชู {0} ครั้ง"
+    },
+    {
+      "id": "USE_ANNOUNCER_2",
+      "content": "ให้ เกรกอร์ เป็น Announcer {0} ครั้ง"
+    },
+    {
+      "id": "LOGIN_ONCE",
+      "content": "ล็อกอินรายวัน {0} วัน"
+    },
+    {
+      "id": "LOGIN_MULTIPLE",
+      "content": "ล็อกอินรายวันทั้งหมด {0} วัน"
+    },
+    {
+      "id": "EXPDUNGEON_CLEAR",
+      "content": "ผ่าน EXP Luxcavation {0} ครั้ง"
+    },
+    {
+      "id": "THREADDENGEON_CLEAR",
+      "content": "ผ่าน Thread Luxcavation {0} ครั้ง"
+    },
+    {
+      "id": "PURCHASE_ENKEPHALIN_MODULE",
+      "content": "ประกอบ Module Enkephalin {0} ชิ้น"
+    }
+  ]
+}

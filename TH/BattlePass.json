@@ -1,0 +1,268 @@
+{
+  "dataList": [
+    {
+      "id": "battlepass_battlepass",
+      "content": "Battle Pass"
+    },
+    {
+      "id": "battlepass_passmission",
+      "content": "ภารกิจ Pass"
+    },
+    {
+      "id": "battlepass_dailymission",
+      "content": "รายวัน"
+    },
+    {
+      "id": "battlepass_weeklymission",
+      "content": "รายสัปดาห์"
+    },
+    {
+      "id": "battlepass_seasonmission",
+      "content": "รายซีซัน"
+    },
+    {
+      "id": "battlepass_freeandpaid",
+      "content": "แบบชำระเงิน {0} แบบฟรี {1}"
+    },
+    {
+      "id": "battlepass_mission_tag_normal",
+      "content": "ทั่วไป"
+    },
+    {
+      "id": "battlepass_mission_tag_battle",
+      "content": "การต่อสู้"
+    },
+    {
+      "id": "battlepass_remain_time",
+      "content": "เหลือเวลา {0} วัน {1} ชั่วโมง"
+    },
+    {
+      "id": "battlepass_ask_purchase_limbus_pass",
+      "content": "การซื้อ Limbus Pass จะทำให้คุณได้รับสิทธิประโยชน์ดังต่อไปนี้ในช่วง {0}:"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_reward",
+      "content": "รางวัล Limbus Pass พร้อมรับแล้ว"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_reward",
+      "content": "อัปเกรดรางวัล Pass เลเวลสูงสุดแล้ว"
+    },
+    {
+      "id": "battlepass_level_up",
+      "content": "เลเวล Pass เพิ่มขึ้น"
+    },
+    {
+      "id": "battlepass_level_up_ask",
+      "content": "ใช้ [Paid Lunacy] เพื่อเพิ่มเลเวล Pass หรือไม่?"
+    },
+    {
+      "id": "battlepass_level_upgrade",
+      "content": "เพิ่มเลเวล Pass"
+    },
+    {
+      "id": "battlepass_level_max",
+      "content": "เลเวล Pass สูงสุด <color=#f8c200> ถึงระดับ </color> แล้ว"
+    },
+    {
+      "id": "battlepass_purchase_level_up_failed",
+      "content": "ไม่สามารถซื้อเลเวล Pass ได้"
+    },
+    {
+      "id": "lack_if_paid_lunacy",
+      "content": "Lunacy แบบชำระเงินไม่เพียงพอ"
+    },
+    {
+      "id": "remain_days_with_label",
+      "content": "เหลือเวลา {0} วัน"
+    },
+    {
+      "id": "remain_hours_with_label",
+      "content": "เหลือเวลา {0} ชม."
+    },
+    {
+      "id": "remain_minutes_with_label",
+      "content": "เหลือเวลา {0} นาที"
+    },
+    {
+      "id": "update_progress",
+      "content": "อัปเดตความคืบหน้าแล้ว"
+    },
+    {
+      "id": "able_to_acquire_ex_pass_level_reward",
+      "content": "มีสิทธิ์รับรางวัลเลเวล Pass สูงสุด"
+    },
+    {
+      "id": "ask_to_use_paid_lunacy_to_level_up_pass",
+      "content": "ใช้ Lunacy แบบชำระเงิน {0} เพื่อซื้อเลเวล Pass หรือไม่?"
+    },
+    {
+      "id": "battlepass_purchase_level_up",
+      "content": "ซื้อเลเวล Pass"
+    },
+    {
+      "id": "lack_of_paid_lunacy",
+      "content": "คุณมี Lunacy แบบชำระเงินไม่เพียงพอ"
+    },
+    {
+      "id": "only_paid_lunacy_for_battlepass_levelup",
+      "content": "※ การซื้อเลเวล Battle Pass ใช้ Lunacy แบบชำระเงิน 300"
+    },
+    {
+      "id": "buy_battlepass_word",
+      "content": "ซื้อ"
+    },
+    {
+      "id": "battlepass_level_ex_reward",
+      "content": "รางวัลเลเวล Pass สูงสุด"
+    },
+    {
+      "id": "battlepass_progress",
+      "content": "XP Battle Pass"
+    },
+    {
+      "id": "battlepass_free",
+      "content": "ฟรี"
+    },
+    {
+      "id": "battlepass_limbuspass",
+      "content": "Limbus Pass"
+    },
+    {
+      "id": "battlepass_unable_levelup_by_level",
+      "content": "เลเวลสูงสุดแล้ว"
+    },
+    {
+      "id": "battlepass_reward_opened_at",
+      "content": "อัปเดต {0}"
+    },
+    {
+      "id": "battlepass_package_purchase",
+      "content": "แพ็กเกจ <font=\"BebasKai SDF\">LIMBUS PASS</style>"
+    },
+    {
+      "id": "battlepass_package_desc_level",
+      "content": "ประกอบด้วยรางวัลต่าง ๆ รวมถึง 「แบนเนอร์พิเศษสำหรับแพ็กเกจ Limbus Pass」"
+    },
+    {
+      "id": "battlepass_package_desc_banner",
+      "content": "เปิดใช้งาน [LIMBUS PASS] +"
+    },
+    {
+      "id": "battlepass_package_ask_purchase",
+      "content": "ใช้ Lunacy แบบชำระเงิน {0} เพื่อซื้อแพ็กเกจนี้หรือไม่?"
+    },
+    {
+      "id": "battlepass_package_warning",
+      "content": "※ ไอเทมนี้จะถูกใช้งานทันทีหลังการซื้อ อาจไม่สามารถขอคืนเงินได้"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward",
+      "content": "รับรางวัล Max Pass Level EX ดังต่อไปนี้เมื่อซื้อ"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
+      "content": "<size=75%>(ตามเลเวล Pass ของคุณ คุณจะได้รับ <style=\"highlightConverted\">{1}</style> กล่อง Nominable Egoshard ซีซัน {0} เมื่อซื้อ)</size>"
+    },
+    {
+      "id": "battlepass_select_product_popup_title",
+      "content": "เลือก Pass/แพ็กเกจ"
+    },
+    {
+      "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
+      "content": "※ การซื้อเลเวล Pass ใช้ Lunacy แบบชำระเงิน {0}"
+    },
+    {
+      "id": "battle_pass_package_button_desc",
+      "content": "รางวัลต่าง ๆ รวมถึงแบนเนอร์พิเศษ"
+    },
+    {
+      "id": "battle_pass_select_popup_package_desc",
+      "content": "รางวัลต่าง ๆ รวมถึงแบนเนอร์พิเศษ"
+    },
+    {
+      "id": "battle_pass_select_popup_limbus_desc",
+      "content": "◆ ปลดล็อกรางวัล Limbus Pass ◆ อัปเกรดรางวัล Max Pass Level EX"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc",
+      "content": "◆ เพิ่มเลเวล Pass 10 เลเวลทันทีเมื่อซื้อ ◆ ประกอบด้วยเนื้อหาดังต่อไปนี้"
+    },
+    {
+      "id": "battle_pass_limbus_purchase_popup_desc",
+      "content": "◆ รับรางวัลต่าง ๆ จาก Limbus Pass ◆ รับ Nominable Egoshard Crate จำนวน [Season 3] กล่อง แทนที่จะเป็น 1 กล่อง จากรางวัล Max Pass Level EX"
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus",
+      "content": "รางวัลต่าง ๆ รวมถึง Special Banner + [LIMBUS PASS]"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc_in_box",
+      "content": "- Limbus Pass Package Special Banner - Level Boost Ticket IV"
+    },
+    {
+      "id": "until_season_4_start",
+      "content": "~ จนถึงการอัปเดต Season 4"
+    },
+    {
+      "id": "until_season_5_start",
+      "content": "จนถึงการอัปเดต Season 6"
+    },
+    {
+      "id": "battlepass_ask_purchase_limbus_pass_package",
+      "content": "เมื่อซื้อ Limbus Pass Package คุณจะได้รับสิทธิประโยชน์ดังต่อไปนี้ในช่วง {0}:"
+    },
+    {
+      "id": "battlepass_purchase_desc_pass",
+      "content": "รางวัลต่าง ๆ ที่รวมอยู่ใน Limbus Pass"
+    },
+    {
+      "id": "battlepass_purchase_desc_ex",
+      "content": "รับ Nominable Egoshard Crate ของ Season 7 จำนวน <style=\"highlightConverted\">{1}</style> กล่อง จากรางวัล Max Pass Level+ แทนที่จะเป็น <style=\"highlightConverted\">{0}</style> กล่อง"
+    },
+    {
+      "id": "battlepass_purchase_desc_pass_level",
+      "content": "เพิ่มเลเวล Pass 10 เลเวลทันทีเมื่อซื้อ"
+    },
+    {
+      "id": "battlepass_purchase_desc_level_ticket",
+      "content": "Level Boost Ticket VI"
+    },
+    {
+      "id": "battlepass_purchase_desc_special_banner",
+      "content": "Limbus Pass Package Special Banner"
+    },
+    {
+      "id": "battlepass_purchase_desc_policy",
+      "content": "※ ไอเทมนี้จะถูกใช้งานทันทีเมื่อซื้อ จึงไม่สามารถขอคืนเงินได้ ※ Battle Pass จะมีระยะเวลาใช้งานจนถึง [at least 90 days from the start of the Season] วันสิ้นสุดที่แน่นอนของ Battle Pass จะมีการแจ้งให้ทราบเมื่อมีการโพสต์ [Guide for the upcoming Season] ครั้งถัดไป โปรดทราบว่าวันที่คุณซื้อ Battle Pass จะไม่มีผลต่อระยะเวลาการใช้งานของ Battle Pass"
+    },
+    {
+      "id": "owned_count",
+      "content": "ครอบครอง {0}"
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus_2",
+      "content": "◆ เพิ่มเลเวล Pass 10 เลเวลทันทีเมื่อซื้อ ◆ รับ Special Banner ◆ Level Boost Ticket VI"
+    },
+    {
+      "id": "battle_pass_product_limbus_desc_summary",
+      "content": "◆ ปลดล็อกรางวัล Limbus Pass ◆ อัปเกรดรางวัล Max Pass Level EX"
+    },
+    {
+      "id": "battle_pass_product_package_with_limbus_desc_summary",
+      "content": "◆ Limbus Pass ซีซัน 6 ◆ รับ Pass LV 10 ทันทีเมื่อซื้อ ◆ ตั๋วเร่งเลเวล V ◆ แบนเนอร์พิเศษ Limbus Package"
+    },
+    {
+      "id": "battle_pass_product_package_without_limbus_desc_summary",
+      "content": "◆ รับ Pass LV 10 ทันทีเมื่อซื้อ ◆ ตั๋วเร่งเลเวล V ◆ แบนเนอร์พิเศษ Limbus Package x2"
+    },
+    {
+      "id": "battle_pass_sale_10",
+      "content": "ส่วนลด 10%"
+    },
+    {
+      "id": "until_season_6_start",
+      "content": "- จนกว่าจะมีการอัปเดตซีซัน 7"
+    }
+  ]
+}

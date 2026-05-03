@@ -1,0 +1,79 @@
+{
+  "dataList": [
+    {
+      "id": 10501,
+      "name": "ตรวจสอบเรือ",
+      "subDesc": "",
+      "desc": "เพิ่งจะออกเรือได้ไม่นาน... \"ว้าว!\" ... เราเริ่มได้ยินเสียงบางอย่างสั่นสะเทือนอยู่ใต้ท้องเรือ \"นั่นมันอะไรน่ะ...?\" \"ให้ตายเถอะ อาจจะมีศัตรูอยู่ใต้เรือเรา คอยข่วนอยู่ก็ได้!\" \"... ใช่ ลางไม่ดีเลย เราควรไปตรวจสอบดู\" จะทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Check underneath the ship.",
+          "messageDesc": "Ishmael gains 10 SP. Proceed to the next choice prompt.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "We don't know what'll happen if we do. Let's stay put.",
+          "messageDesc": "Ishmael loses 10 SP. 50% chance for a Combat Encounter. Gain an E.G.O Gift upon victory",
+          "result": [
+            "\"You're going to ignore that? What the hell is...\"\n\nThe annoyed Sinner was about to say something... but stopped herself. Maybe she thought it was a waste of effort.\n\n\"... The scratching noises are intensifying.\"\n\nTo be fair, this is no normal ship... so maybe this ship just makes scratching noises from time to time.\n\n\"... It has ceased.\"\n\n\"Sometimes, inaction can be a solution indeed.\"\n\nFew minutes later, the scratching noises stopped.\n\n... I guess it wasn't the boat that made the noise. We got lucky.",
+            "\"You're going to ignore that? What the hell is...\"\n\nThe annoyed Sinner was about to say something... before stopping herself. Maybe she thought it was a waste of effort.\n\n\"... The scratching noises are intensifying.\"\n\nTo be fair, this is no normal ship... so maybe this ship just makes scratching noises from time to time.\n\nIf it doesn't...\n\n\"Wait, that reminds me. The pirate ships...\"\n\n\"I guess this is what those spikes were for.\"\n\nThe scratching noises continue to intensify, until it moves to the side of the ship. Soon, the source of scratching noises reveals itself.\n\n... Mermaids.\n\n\"Damnit, we should've checked.\"\n\nI had nothing to say to that.\n\nWe had to fight."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10504,
+      "name": "หลอดเลือดแดง",
+      "subDesc": "",
+      "desc": "นี่ต้องเป็นหลอดเลือดแดงที่ Ahab พูดถึงแน่ๆ เมื่อเราตัดสิ่งนี้ให้ขาด... เส้นทางสู่ใจกลางหัวใจก็จะเปิดออก",
+      "options": [
+        {
+          "message": "Cut open the artery.",
+          "messageDesc": "Proceed to the next choice prompt",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10505,
+      "name": "กล่องเสบียง",
+      "subDesc": "",
+      "desc": "\"นั่นมัน... กล่องไม้เหรอ?\" Sinners พบกองกล่องที่ถูกโยนทิ้งไว้อย่างระเกะระกะ \"จากรูปลักษณ์ภายนอก สันนิษฐานได้ว่าสิ่งเหล่านี้ถูกใช้เป็นกล่องเสบียง\" บางกล่องมีโลโก้ของ Twinhook Pirates วาดอยู่ และบางกล่องก็เป็นโลโก้ของ Before Team เจ้าวาฬตัวนั้นคงจะกลืนกล่องพวกนี้เข้าไปด้วยเหมือนกัน \"เป็นการดีที่จะเก็บพวกมันไว้เป็นเสบียงของเรา!\" นั่นสินะ เราไม่รู้เลยว่าจะเกิดอะไรขึ้นเมื่อไปถึงหัวใจ เราควรเก็บพวกมันไว้เผื่อฉุกเฉินดีไหม?",
+      "options": [
+        {
+          "message": "Rummage through the supply crates.",
+          "messageDesc": "Proceed to the next choice prompt.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave.",
+          "messageDesc": "Nothing happened.",
+          "result": [
+            "Nothing good ever comes from messing with suspicious items like these.\n\nWe left the room as it is."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810601,
+      "name": "Ahab",
+      "subDesc": "",
+      "desc": "\"ฉันล้มเหลว\" \"<...!>\" นั่นคือภาพหลอนเหรอ? หรือว่า... นั่นก็คือ Ishmael เหมือนกัน? เบื้องหลังของกัปตัน ปรากฏเงาร่างของ Ishmael ที่ถูกหุ้มด้วยเยื่อบางๆ สีซีด \"ฉันแก้ปัญหาอะไรไม่ได้เลย ฉันล้มเหลวในทุกๆ เรื่อง\" \"สิ่งที่ฉันทำได้มีเพียงแค่เอาชีวิตรอด น่าสมเพชเหมือนกับพวกสวะ ที่เกาะติดอยู่กับโลงศพของเพื่อนรัก\" กัปตันหัวเราะลั่นอย่างบ้าคลั่ง \"จริงด้วย Ishmael! เธอช่วยใครไม่ได้เลย! ทั้งลูกเรือ! ทั้งเพื่อน! ไม่มีใครเลยสักคน!\" \"และเธอก็จะยอมแพ้อีกครั้ง เพราะเธอหวาดกลัว! เธอจะยอมแพ้ตั้งแต่ยังไม่ทันได้เริ่มด้วยซ้ำ!\" Sinners เริ่มมีท่าทีลุกลี้ลุกลน \"ยัยสารเลวนั่น...!\" \"อย่าไปฟังเธอเลย Ishmael! ข-เธอไม่รู้หรอกว่าพูดเรื่องอะไรอยู่!\" \"<......>\" Manager นิ่งเงียบ ก่อนจะเอ่ยขึ้นว่า",
+      "options": [
+        {
+          "message": "That's not Ishmael.",
+          "messageDesc": "Proceed to the next choice prompt.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

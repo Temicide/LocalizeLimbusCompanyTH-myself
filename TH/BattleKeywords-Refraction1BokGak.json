@@ -1,0 +1,17 @@
+{
+  "dataList": [
+    {
+      "id": "AggressiveBokgak",
+      "name": "สัญชาตญาณ",
+      "desc": "Stack สูงสุด: 5 จบเทิร์น: เมื่อมี 4 Stack ขึ้นไป จะเปลี่ยนเป็นสถานะ \"ดุดัน\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeadEGOResource",
+      "name": "ความมุ่งมั่นที่ยังคงอยู่",
+      "desc": "เมื่อพ่ายแพ้ จะได้รับทรัพยากร E.G.O ตาม Affinity และ Rank ของแต่ละ Skill Attack ที่ Identity นี้มี",
+      "undefined": "-"
+    }
+  ]
+}

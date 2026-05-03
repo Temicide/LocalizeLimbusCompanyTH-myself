@@ -1,0 +1,25 @@
+{
+  "dataList": [
+    {
+      "id": "Bloodthirst",
+      "name": "กระหายเลือด",
+      "desc": "- Base Offense Level -35 - Base Defense Level -35",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ObservedPerson",
+      "name": "เป้าหมายการสังเกตการณ์",
+      "desc": "- Max Stack: 30 - เริ่มเทิร์น: ได้รับ 3 Stack (เริ่มตั้งแต่เทิร์นหลังจากที่ยูนิตนี้ได้รับเอฟเฟกต์นี้) - ได้รับ 1 Stack ทุกครั้งที่ยูนิตนี้สร้างหรือได้รับความเสียหายด้วยเอฟเฟกต์ Attack Skill ต่อ Distorted Hohenheim - ได้รับความเสียหายจากศัตรู +(Stack x 4)% - สร้างความเสียหาย +(Stack x 2)%, แต่เมื่อโจมตีโดน จะได้รับความเสียหาย HP เท่ากับ (Stack / 2)% ของความเสียหายที่สร้างได้ (ไม่สามารถถูก Staggered จากเอฟเฟกต์นี้ได้)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodthirstHard",
+      "name": "กระหายเลือด",
+      "desc": "- Base Offense Level -25 - Base Defense Level -25",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

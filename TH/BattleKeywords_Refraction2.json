@@ -1,0 +1,153 @@
+{
+  "dataList": [
+    {
+      "id": "TipsinessRail",
+      "name": "มึนกึ่ม",
+      "desc": "ลด Power ลง Clash ตาม Count ของเอฟเฟกต์ (สูงสุด 5)",
+      "summary": "ลด Power ลง Clash ตาม Count ของเอฟเฟกต์"
+    },
+    {
+      "id": "PassedPortal_Red",
+      "name": "มิติตกเลือด",
+      "desc": "Damage Up +10%",
+      "summary": "Damage Up +10%"
+    },
+    {
+      "id": "PassedPortal_Green",
+      "name": "มิติพิษ",
+      "desc": "Max HP +20%",
+      "summary": "Max HP +20%"
+    },
+    {
+      "id": "PassedPortal_Yellow",
+      "name": "มิติTremor",
+      "desc": "Boost Speed +1",
+      "summary": "Boost Speed +1"
+    },
+    {
+      "id": "PassedPortal_Blue",
+      "name": "มิติไฟฟ้า",
+      "desc": "Coin Power +1",
+      "summary": "Coin Power +1"
+    },
+    {
+      "id": "FairyCharm",
+      "name": "หลงเสน่ห์",
+      "desc": "- ดาเมจทั้งหมดที่ทำต่อ Fairy จะลดลงเหลือ 0 - สิ้นสุดผลเมื่อ Fairy ตาย",
+      "summary": "ดาเมจถูกตรึงไว้ที่ 0"
+    },
+    {
+      "id": "DecoyRegenerated",
+      "name": "Regenerate",
+      "desc": "ได้รับ 1 หน่วย ทุกครั้งที่ส่วนร่างกายถูกฟื้นฟู",
+      "summary": ""
+    },
+    {
+      "id": "WaveFoxUmbrella",
+      "name": "Protection Umbrella",
+      "desc": "ทุกส่วนได้รับ Protection ตามจำนวนค่าที่กำหนด เมื่อใช้ Waiting Skill จะอัญเชิญ Old Umbrella ตามจำนวนค่าที่กำหนด ใช้ไป 1 หน่วย ทุกครั้งที่ Umbrella ถูกทำลาย"
+    },
+    {
+      "id": "InterlockingTime_Re",
+      "name": "Interlocking Time",
+      "desc": "ลดความเสียหายสุดท้ายลง 30% และเก็บสะสมไว้ เมื่อครบ 3 Count จะได้รับความเสียหายคงที่ 2 เท่าของความเสียหายที่สะสมไว้ และได้รับ Bind 3 หน่วยในเทิร์นถัดไป",
+      "summary": "ลดความเสียหายสุดท้ายลง 30% และเก็บสะสมไว้ เมื่อครบ 3 Count จะได้รับความเสียหายคงที่ 2 เท่าของความเสียหายที่สะสมไว้ และได้รับ Bind 3 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "TimeRental_Re",
+      "name": "Borrowed Time",
+      "desc": "เมื่อจบเทิร์น ได้รับ Haste 3 หน่วย, Damage Up 2 และ Offense Level Up 2; หากเหลือเพียง 1 Count จะได้รับ Bind 3 หน่วย, Attack Power Down 1 หน่วย และ Fragile 2 หน่วยในเทิร์นถัดไป",
+      "summary": "เมื่อจบเทิร์น ได้รับ Haste 3 หน่วย, Damage Up 2 และ Offense Level Up 2; หากเหลือเพียง 1 Count จะได้รับ Bind 3 หน่วย, Attack Power Down 1 หน่วย และ Fragile 2 หน่วยในเทิร์นถัดไป"
+    },
+    {
+      "id": "ReattachedCurseTag_Re",
+      "name": "Reattached Curse Talisman",
+      "desc": "เมื่อมี 9+ หน่วย จะได้รับ Bind 5 หน่วยเมื่อเริ่มเทิร์น เมื่อมี 12+ หน่วย จะได้รับ Attack Power Down 5 หน่วยเมื่อเริ่มเทิร์น (สูงสุด 12)",
+      "summary": "เมื่อมี 9+ หน่วย จะได้รับ Bind 5 หน่วยเมื่อเริ่มเทิร์น เมื่อมี 12+ หน่วย จะได้รับ Attack Power Down 5 หน่วยเมื่อเริ่มเทิร์น"
+    },
+    {
+      "id": "WrappedCurseTagRe",
+      "name": "Entangled Curse Talisman",
+      "desc": "สร้างความเสียหาย +1% ต่อ 1 Count เมื่อมี 9+ Count จะได้รับ Attack Power Down 2 หน่วยเมื่อเริ่มเทิร์น (สูงสุด 9)",
+      "summary": "สร้างความเสียหาย +1% ต่อ 1 Count; เมื่อมี 9+ Count จะได้รับ Attack Power Down 2 หน่วยเมื่อเริ่มเทิร์น"
+    },
+    {
+      "id": "AccumulatedPast",
+      "name": "Accumulated Past",
+      "desc": "ได้รับ 11 หน่วยเมื่อจบเทิร์น จะถูกใช้จนหมดเมื่อส่วนร่างกายถูกทำลาย",
+      "summary": ""
+    },
+    {
+      "id": "PrepareSinRose",
+      "name": "มงกุฎหนาม",
+      "desc": "สร้างยูนิตกุหลาบที่มี Affinity ตรงกับ Skill Affinity ที่เป้าหมายซึ่งติดเอฟเฟกต์นี้มีอยู่มากที่สุด",
+      "summary": ""
+    },
+    {
+      "id": "BloomingRose",
+      "name": "บาปผลิบาน",
+      "desc": "เมื่อจบเทิร์น - เพิ่ม 1 Count - Bound Identity เสีย HP เท่ากับ 25% ของ Max HP - เสียทรัพยากร E.G.O 10% ตามประเภทของกุหลาบ - The Sign of Roses ฟื้นฟู HP เท่ากับ 5% ของ Max HP เมื่อครบ 4 Count - Bound Identity ตาย - เสียทรัพยากร E.G.O ทั้งหมดตามประเภทของกุหลาบ",
+      "summary": ""
+    },
+    {
+      "id": "EatingSin",
+      "name": "บาปชุ่มโชก",
+      "desc": "Max HP เพิ่มขึ้น (E.G.O ตามจำนวนทรัพยากรที่ถูกสูบ)% เมื่อตาย - ฟื้นฟูทรัพยากร E.G.O ที่ถูกสูบไป - ฟื้นฟู HP ของ Bound Identity (25% ของ Max HP ของ Identity * Blooming Sin Count)",
+      "summary": ""
+    },
+    {
+      "id": "EnhanceRose",
+      "name": "สถานะ Power-up",
+      "desc": "เปิดใช้งานพาสซีฟสถานะ Power-up",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Crimson",
+      "name": "กุหลาบบาน",
+      "desc": "เพิ่มความเสียหายที่ทำได้และได้รับด้วย Affinity Wrath ของ Identity",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Scarlet",
+      "name": "กุหลาบบาน",
+      "desc": "เพิ่มความเสียหายที่ทำได้และได้รับด้วย Affinity Lust ของ Identity",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Amber",
+      "name": "กุหลาบบาน",
+      "desc": "เพิ่มความเสียหายที่ทำได้และได้รับด้วย Affinity Sloth ของ Identity",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Shamrock",
+      "name": "กุหลาบบาน",
+      "desc": "เพิ่มความเสียหายที่ทำได้และได้รับด้วย Affinity Gluttony ของ Identity",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Azure",
+      "name": "กุหลาบบาน",
+      "desc": "เพิ่มความเสียหายที่ทำได้และได้รับด้วย Affinity Gloom ของ Identity",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Indigo",
+      "name": "กุหลาบบาน",
+      "desc": "เพิ่มความเสียหายที่ทำได้และได้รับด้วย Affinity Pride ของ Identity",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose_Violet",
+      "name": "กุหลาบบาน",
+      "desc": "เพิ่มความเสียหายที่ทำได้และได้รับด้วย Affinity Envy ของ Identity",
+      "summary": ""
+    },
+    {
+      "id": "KalpaVine",
+      "name": "Brambles of Eternity",
+      "desc": "ตัวละครทั้งหมดสร้างความเสียหายลดลง ตัวละครทั้งหมดได้รับความเสียหายลดลง",
+      "summary": ""
+    }
+  ]
+}

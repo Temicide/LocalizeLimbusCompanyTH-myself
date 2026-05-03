@@ -1,0 +1,151 @@
+{
+  "dataList": [
+    {
+      "id": "LegStrengthHorse",
+      "name": "Strider【Wu】",
+      "desc": "- Stack สูงสุด: 3 - จบเทิร์น: ได้รับ Haste 2 หน่วย และเพิ่มเลเวล Defense (Stack x 2) ในเทิร์นถัดไป - เมื่อโจมตีโดนด้วย Skill, มอบ Tremor Potency เพิ่มเติมตามจำนวน Stack (สูงสุด 6 หน่วยต่อเทิร์น)",
+      "summary": ""
+    },
+    {
+      "id": "ConcussionWei",
+      "name": "Concussion",
+      "desc": "- Stack สูงสุด: 3 - เมื่อถูกโจมตี, ได้รับความเสียหาย +30% ต่อทุก 1 Stack (สูงสุด 90%) - เพิ่มจำนวน Stagger Threshold ที่เพิ่มขึ้นจาก Tremor Burst และความเสียหาย Rupture ที่ทำได้ต่อยูนิตนี้เป็น 1.5 เท่า (ปัดเศษลง)",
+      "summary": ""
+    },
+    {
+      "id": "SweptAwayWei",
+      "name": "Galestruck",
+      "desc": "- Stack สูงสุด: 10 - เพิ่มจำนวน Stagger Threshold ที่เพิ่มขึ้นต่อยูนิตนี้จาก Tremor Burst เป็น 2 เท่า - ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "ReboundWei",
+      "name": "Recoiling",
+      "desc": "- Stack สูงสุด: 5",
+      "summary": "",
+      "flavor": "เกิด Tremor Burst ใส่เป้าหมายที่ผิดพลาด เพราะท้ายที่สุดแล้ว ทุกการกระทำย่อมมีแรงสะท้อนกลับที่เท่ากันและตรงกันข้ามเสมอ"
+    },
+    {
+      "id": "SipOfAlcoholJin",
+      "name": "Swig (眞)",
+      "desc": "- Stack สูงสุด: 5 - จบเทิร์น: ได้รับ Poise Potency (Stack x 2) ในเทิร์นถัดไป - จบเทิร์น: ได้รับ Haste (Stack / 2) ในเทิร์นถัดไป (ปัดเศษลง) - จบเทิร์น: เมื่อมี 3+ Stack, ฟื้นฟู HP 1.5% (ทั้ง Core และ Part)",
+      "summary": ""
+    },
+    {
+      "id": "DrunkBlood",
+      "name": "Bloodpour (血注)",
+      "desc": "- Stack สูงสุด: 5 - Bleed เฉพาะตัว - เมื่อทอยการโจมตี Coin, ได้รับความเสียหายคงที่ตามจำนวน Stack ของเอฟเฟกต์นี้",
+      "summary": ""
+    },
+    {
+      "id": "DrunkAwakening",
+      "name": "Mental Awakening",
+      "desc": "- Stack สูงสุด: 1 - ตราบใดที่ยูนิตนี้มีเอฟเฟกต์นี้, ได้รับ Final Power +4 และได้รับความเสียหาย +30% - เมื่อโจมตีโดนด้วย Coin ที่มอบ Bleed Potency: มอบ Bleed เพิ่มอีก +2 เมื่อโจมตีโดน (สูงสุด 10 หน่วยต่อเทิร์น) - หากยูนิตนี้มี Poise, ทำความเสียหาย +50%",
+      "summary": ""
+    },
+    {
+      "id": "RunawayHorseWei_LowMorale",
+      "name": "อาชาไร้บังเหียน",
+      "desc": "- ขวัญกำลังใจต่ำ - เริ่มเทิร์น: ได้รับ Offense Level Up 2 หน่วย และ Fragile 1 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "RunawayHorseWei_Panic",
+      "name": "อาชาไร้บังเหียน",
+      "desc": "- ตื่นตระหนก - ได้รับ Max Speed +1, Offense Level Up 2 หน่วย และ Fragile 2 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "DrunkDrifter_LowMorale",
+      "name": "ผู้พเนจรราตรีแห่งฝ่ามือเมามาย",
+      "desc": "- ขวัญกำลังใจต่ำ - ได้รับความเสียหายจาก Jia Xichun +10%; สร้างความเสียหายด้วยการ Counterattack +30%",
+      "summary": ""
+    },
+    {
+      "id": "DrunkDrifter_Panic",
+      "name": "ผู้พเนจรราตรีแห่งฝ่ามือเมามาย",
+      "desc": "- ตื่นตระหนก - Final Power +1; ได้รับความเสียหายจาก Jia Xichun +20%; สร้างความเสียหายด้วยการ Counterattack +50%",
+      "summary": ""
+    },
+    {
+      "id": "DarkBeastSnake_LowMorale",
+      "name": "แขนเงา",
+      "desc": "- ขวัญกำลังใจต่ำ - Clash Power -1; ได้รับความเสียหาย -10%",
+      "summary": ""
+    },
+    {
+      "id": "DarkBeastSnake_Panic",
+      "name": "แขนเงา",
+      "desc": "- ตื่นตระหนก - Clash Power -2; ได้รับความเสียหาย -20%",
+      "summary": ""
+    },
+    {
+      "id": "NightDrifterGuilty",
+      "name": "ความรู้สึกผิดอันเลือนราง",
+      "desc": "- Offense Level -15 - Defense Level -15",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair",
+      "name": "ดิ้นรนเพื่อฟักตัว",
+      "desc": "- เสริมพลังเอฟเฟกต์ตามผลรวมของ Zhi, Yong และ Ren ที่ได้รับจากคลาส",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_A",
+      "name": "ดิ้นรนเพื่อฟักตัว Ⅰ",
+      "desc": "- ฟื้นฟู SP 3 หน่วย ทุกเทิร์น - ได้รับ Min & Max Speed +1 - ได้รับ Offense Level 2 หน่วย - ได้รับ Defense Level 2 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_B",
+      "name": "Thrashing to Hatch ⅠⅠ",
+      "desc": "- ฟื้นฟู SP 5 หน่วย ทุกเทิร์น - เพิ่ม Min & Max Speed 1 หน่วย - ได้รับ Attack Power Up 1 หน่วย และ Protection 1 หน่วย ทุกเทิร์น - เพิ่ม Offense Level 2 ระดับ - เพิ่ม Defense Level 2 ระดับ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_C",
+      "name": "Thrashing to Hatch ⅠⅠⅠ",
+      "desc": "- ฟื้นฟู SP 5 หน่วย ทุกเทิร์น - เพิ่ม Min & Max Speed 1 หน่วย; ได้รับ Attack Power Up 1 หน่วย และ Protection 1 หน่วย ทุกเทิร์น - Base Skill ได้รับ Clash Power +1 - เพิ่ม Offense Level 3 ระดับ - เพิ่ม Defense Level 3 ระดับ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_D",
+      "name": "Thrashing to Hatch ⅠⅤ",
+      "desc": "- ฟื้นฟู SP 10 หน่วย ทุกเทิร์น - เพิ่ม Min & Max Speed 1 หน่วย; ได้รับ Attack Power Up 1 หน่วย และ Protection 1 หน่วย ทุกเทิร์น - Base Skill ได้รับ Clash Power +1 - เพิ่ม Offense Level 4 ระดับ - เพิ่ม Defense Level 4 ระดับ",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_E",
+      "name": "Thrashing to Hatch Ⅴ",
+      "desc": "- ฟื้นฟู SP 15 หน่วย ทุกเทิร์น - เพิ่ม Min & Max Speed 2 หน่วย; ได้รับ Attack Power Up 1 หน่วย และ Protection 1 หน่วย ทุกเทิร์น - Base Skill ได้รับ Clash Power +1 - Base Skill ได้รับ Coin Power +1 - เพิ่ม Offense Level 5 ระดับ - เพิ่ม Defense Level 5 ระดับ",
+      "summary": ""
+    },
+    {
+      "id": "StudySignSinclair",
+      "name": "A Sign",
+      "desc": "- ฟื้นฟู SP 30 หน่วย ในเทิร์นถัดไป - จบเทิร์น: หมดผล",
+      "summary": "",
+      "flavor": "ผู้ที่ปรารถนาจะเกิดใหม่ จักต้องทำลายโลกใบหนึ่งเสียก่อน"
+    },
+    {
+      "id": "CrazyWei",
+      "name": "Berserking",
+      "desc": "- ลด Offense Level 15 ระดับ - ลด Defense Level 15 ระดับ - จบเทิร์น: ไม่ได้รับ Defense Level จาก Strider【Wu】; แต่จะได้รับ Offense Level Up ตามจำนวน Stack ของ Strider【Wu】 แทน",
+      "summary": "",
+      "flavor": "\"ข้าจะเหยียบย่ำทุกคนที่บังอาจทำร้ายนายหญิงของข้า... จะเหยียบให้จมดินไปเลย...\""
+    },
+    {
+      "id": "SnakePoisonJinWeak",
+      "name": "Snake Venom",
+      "desc": "- Offense Level -1 - Defense Level -1",
+      "summary": ""
+    },
+    {
+      "id": "SnakePoisonJin",
+      "name": "แพร่พิษงู",
+      "desc": "- Offense Level -7 - Defense Level -7 ได้รับความเสียหาย HP 1% ทุกครั้งที่ Clash",
+      "summary": ""
+    }
+  ]
+}

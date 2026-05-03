@@ -1,0 +1,169 @@
+{
+  "dataList": [
+    {
+      "id": "ColdBlackTear",
+      "name": "Cold, Black Tears",
+      "desc": "- Max Stack: 5 - เริ่มเทิร์น: ได้รับ Clash Power Down 1 หน่วย - หากยูนิตนี้ถูกโจมตีในขณะที่มีเอฟเฟกต์นี้ จะเสีย SP (Stack x 2) (เกิดขึ้นครั้งเดียวต่อเทิร์น; ไม่ทำงานเมื่อถูกโจมตีด้วย Coin ที่ถูกทำลาย) - หาก Queen of Hatred ลดเอฟเฟกต์นี้ จะฟื้นฟู SP 5 หน่วย - เอฟเฟกต์นี้ไม่สามารถลด SP ของยูนิตนี้ให้ต่ำกว่า -40 ได้",
+      "summary": ""
+    },
+    {
+      "id": "HelplessTear",
+      "name": "Helpless Tears",
+      "desc": "- Max Stack: 1 - ได้รับ Offense Level 3 ระดับ - เสีย Defense Level 6 ระดับ - สกิลทั้งหมด Atk Weight +1 - สกิลทั้งหมดกลายเป็น Unbreakable Coin - มอบ Sinking Potency และ Count เพิ่มขึ้น +1",
+      "summary": ""
+    },
+    {
+      "id": "WornOutKnight",
+      "name": "Weathered Knight",
+      "desc": "รับความเสียหาย +100% ในเทิร์นนี้",
+      "summary": "",
+      "flavor": "<color=#2e72b9>อัศวินผู้ปรารถนาจะไถ่บาปด้วยการช่วยเหลือผู้อื่น บัดนี้กลับถูกขนานนามอย่างอัปยศว่าอัศวินแห่งความสิ้นหวัง ถูกลบเลือนไปจากความทรงจำของผู้คน เช่นเดียวกับคนอื่นๆ</color>"
+    },
+    {
+      "id": "SignOfDespair",
+      "name": "Blessing of Despair",
+      "desc": "Attack จบ: หากมีเป้าหมายที่ไม่มี Cold, Black Tears จะลบเอฟเฟกต์นี้ในเทิร์นถัดไป ได้รับ Clash Power Up 1 หน่วย และ Damage Up 1 หน่วย มอบ Cold, Black Tears เพิ่มขึ้น +1",
+      "summary": ""
+    },
+    {
+      "id": "CollapsedPride",
+      "name": "Crumbled Pride",
+      "desc": "ใช้สำหรับ Passive \"Weathered Knight\"",
+      "summary": "",
+      "flavor": "<color=#2e72b9>สิ่งที่หลงเหลืออยู่ มีเพียงศักดิ์ศรีอันว่างเปล่าของอัศวินผู้ร่วงโรย</color>"
+    },
+    {
+      "id": "FailedToAssistQueen",
+      "name": "ฉัน... จะมีประโยชน์... อะไร...?",
+      "desc": "- Max Stack: 1 - เสีย Offense Level 3 ระดับ - เสีย Defense Level 3 ระดับ",
+      "summary": ""
+    },
+    {
+      "id": "UsedTooMuchPower",
+      "name": "ฉันใช้พลังมากเกินไป",
+      "desc": "- Stack สูงสุด: 1 - จบเทิร์น: หลบหนีจากการเผชิญหน้า (Encounter)",
+      "summary": "",
+      "flavor": "<color=#ff3d8f>หมดแรงและไม่สามารถเคลื่อนไหวได้</color>"
+    },
+    {
+      "id": "ChasingArcana",
+      "name": "Chanting - Arcana Slave",
+      "desc": "- Stack สูงสุด: 3 - ได้รับ 1 หน่วยเมื่อเริ่มเทิร์น - เมื่อมี 3 Stack, เพิ่ม Speed 20 และใช้ ARCANA SLAVE ในเทิร์นถัดไป",
+      "summary": ""
+    },
+    {
+      "id": "PowerOfLoveAndJustice",
+      "name": "Love/Justice",
+      "desc": "- ทุกๆ 1 Stack, มอบ Rupture Potency เพิ่มขึ้น +1",
+      "summary": ""
+    },
+    {
+      "id": "CentralCommandTeamCaptain",
+      "name": "กัปตันทีม Central Command",
+      "desc": "- Skill Slot +1 - ปรับเปลี่ยน Skill pool: ได้รับการใช้งาน Skill 3 เพิ่มขึ้น 1 ครั้ง แต่เสียการใช้งาน Skill 1 ไป 1 ครั้ง - เพิ่มจำนวน Burn, Bleed, Rupture, Sinking หรือ Tremor Potency ที่มอบด้วย Skill เพิ่มขึ้น +1 (รวมถึง 'Unique Status Effects') - เพิ่มจำนวน Poise Potency หรือ Charge Count (รวมถึง 'Unique Charge') ที่ได้รับจาก Skill เพิ่มขึ้น +1 - แทนที่จะเกิดอาการ Panic หรือ Corroding, จะรีเซ็ต SP เป็น 0 ในเทิร์นถัดไป (หนึ่งครั้งต่อการเผชิญหน้า) - Skill Attack พื้นฐานที่มี Atk Weight 2+ จะสร้างความเสียหาย +30% - เมื่อกำจัดศัตรูได้, ได้รับทรัพยากร E.G.O +2 ให้กับ Affinity ของ Skill ที่กำจัดศัตรู; ได้รับทรัพยากร E.G.O +1 ให้กับ Affinity ที่เหลือทั้งหมด",
+      "summary": ""
+    },
+    {
+      "id": "BestWelfareTeamMember",
+      "name": "พนักงานตัวอย่างทีม Welfare",
+      "desc": "- เมื่อมอบ Burn, Bleed, Rupture, Sinking และ Tremor Potency ด้วย Skill ของยูนิตนี้, จะมอบเพิ่มขึ้นอย่างละ +1 (รวมถึง 'Unique Status Effects') - แทนที่จะเกิดอาการ Panic หรือ Corroding, จะรีเซ็ต SP ของยูนิตนี้เป็น 0 ในเทิร์นถัดไป (หนึ่งครั้งต่อการเผชิญหน้า) - หากเอฟเฟกต์นี้ถูกใช้กับ Lobotomy E.G.O::The Sword Sharpened with Tears Rodion, จะได้รับ Pierce DMG Up 1 หน่วยทุกครั้งที่เริ่มเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "ChasingArcanahard",
+      "name": "Chanting - Arcana Slave",
+      "desc": "- Stack สูงสุด: 3 - ได้รับ 1 หน่วยเมื่อเริ่มเทิร์น - เมื่อมี 3 Stack: ในเทิร์นถัดไป, ได้รับ Bind 20 หน่วย และใช้ ARCANA SLAVE",
+      "summary": ""
+    },
+    {
+      "id": "HystericGauge",
+      "name": "Hysteria",
+      "desc": "- Stack พื้นฐาน: 0 - Stack สูงสุด: 3 - เมื่อจบเทิร์น... · หากมี SP ตั้งแต่ 0 ขึ้นไป, เสีย 1 Stack · หากมี SP น้อยกว่า 0, ได้รับ 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "MagicalGirlAppear",
+      "name": "Magical Girl มาแล้ว!",
+      "desc": "- ในเทิร์นนี้, ยูนิตนี้จะใช้ Plus Coin Base Attack Skills - Base Attack Skills จะสร้างความเสียหาย +3% ต่อทุกๆ Love/Hate ที่มีอยู่ในตัวเอง (สูงสุด 15%)",
+      "summary": ""
+    },
+    {
+      "id": "NoVillain",
+      "name": "Regressive Transformation - Reversed",
+      "desc": "- ในเทิร์นนี้ ยูนิตนี้จะใช้ Minus Coin Base Attack Skills",
+      "summary": ""
+    },
+    {
+      "id": "VillainMark",
+      "name": "Mark of Villainy",
+      "desc": "- ได้รับความเสียหายจาก Don Quixote +10% - มีผลเฉพาะกับเป้าหมายแรกที่ได้รับเอฟเฟกต์นี้ในแต่ละเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "ArcanaQueenOfHate",
+      "name": "Magical Arcana",
+      "desc": "- Stack สูงสุด: 3 - Base Attack Skills สร้างความเสียหาย +(Stack x 5)% - จบเทิร์น: เมื่อมี 3 Stack และมี SP -25 หรือสูงกว่า ให้เปลี่ยน SP เป็น -25",
+      "summary": ""
+    },
+    {
+      "id": "ThePowerOfLoveAndHate",
+      "name": "Love/Hate",
+      "desc": "- Count สูงสุด: 20 - Charge เฉพาะตัว - ทรัพยากรที่ใช้โดยบางสกิลเพื่อผลเพิ่มเติม โดย Count สามารถเพิ่มได้สูงสุดถึง 20 และจะลดลง 1 หน่วยเมื่อจบแต่ละเทิร์น (มีผลตอบสนองต่อเอฟเฟกต์ที่เพิ่มหรือลด Potency/Count ของ Charge ในลักษณะเดียวกับ Charge ปกติ)",
+      "summary": ""
+    },
+    {
+      "id": "MagicalGirlResponse",
+      "name": "Magical Girl's Chant",
+      "desc": "- Stack สูงสุด: 2 - เมื่อได้รับเอฟเฟกต์นี้ ได้รับ 1 Attack Power Up และ 1 Damage Up - Attack Skills ของยูนิตนี้ที่เพิ่มหรือใช้ Charge Count จะได้รับ Final Power +1 และสร้างความเสียหาย +10% - ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "BlessingAlly",
+      "name": "Blessing",
+      "desc": "- เริ่มเทิร์น: ได้รับ 1 Protecting Sword ต่อทุกๆ 8 SP (สูงสุด 5) - เมื่อ Clash สิ้นสุดลง จะมอบ 2 Sinking (หนึ่งครั้งต่อเทิร์น) - เมื่อถูกโจมตี จะมอบ 2 Sinking ให้แก่ผู้โจมตี (หนึ่งครั้งต่อเทิร์น) - ต่อทุกๆ 20 SP จะมอบ Potency ของ Sinking เพิ่มขึ้น +1 จากเอฟเฟกต์ข้างต้น (สูงสุด 2) - เปลี่ยน Base Skills ของยูนิตนี้เป็น Plus Coin Skills",
+      "summary": ""
+    },
+    {
+      "id": "ProtectiveSword",
+      "name": "Protecting Sword",
+      "desc": "- เริ่มเทิร์น: ได้รับ 1 Defense Level Up ต่อทุกๆ Stack (สูงสุด 5) - เริ่มเทิร์น: +(Stack x 3) Aggro ให้กับ Skill Slot ซ้ายสุดบน Dashboard (สูงสุด 15) - Stack สูงสุด: 5 - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "DespairAlly",
+      "name": "Despair",
+      "desc": "- เริ่มเทิร์น: ได้รับ Piercing Sword 1 หน่วย ต่อทุกๆ -8 SP (สูงสุด 5) - เมื่อ Clash สิ้นสุดลง, มอบ Sinking Count +1 (หนึ่งครั้งต่อเทิร์น) - เมื่อโจมตีโดนด้วย Coin แรกของ Base Attack Skill, มอบ Sinking Count +1 (หนึ่งครั้งต่อเทิร์น) - ต่อทุกๆ -20 SP, มอบ Sinking Count เพิ่มขึ้นอีก +1 จากเอฟเฟกต์ข้างต้น (สูงสุด 2) - เปลี่ยน Base Skills ของยูนิตนี้เป็น Minus Coin Skills",
+      "summary": ""
+    },
+    {
+      "id": "PenetratingSword",
+      "name": "Piercing Sword",
+      "desc": "- เริ่มเทิร์น: ได้รับ Offense Level Up 1 ระดับ ต่อทุกๆ 1 Stack (สูงสุด 5) - เริ่มเทิร์น: -(Stack x 0.15) Aggro ให้กับทุก Skill Slot บน Dashboard (สูงสุด 0.75) - Stack สูงสุด: 5 - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "SwordCutwithTear",
+      "name": "Tear-sharpened",
+      "desc": "- เริ่มเทิร์น: ได้รับ Deep Tears 5 หน่วย · เมื่อมี 3 Stack, ได้รับ Deep Tears เพิ่มอีก 5 หน่วย - จบเทิร์น: เสีย SP (Stack x 15) - Base Attack Skills สร้างความเสียหาย +(Stack x 10)% (สูงสุด 30%) - หากยูนิตนี้มี Blessing, ได้รับ Clash Power Up ตามจำนวน Stack ของเอฟเฟกต์เมื่อเริ่มเทิร์น - หากยูนิตนี้มี Despair, ได้รับ Pierce Power Up ตามจำนวน Stack ของเอฟเฟกต์เมื่อเริ่มเทิร์น - Stack สูงสุด: 3",
+      "summary": ""
+    },
+    {
+      "id": "BlackTearsAlly",
+      "name": "Deep Tears",
+      "desc": "- Charge เฉพาะตัว (ค่า Potency คงที่) - ทรัพยากรที่ใช้โดยบางสกิลเพื่อสร้างเอฟเฟกต์เพิ่มเติม - Stack สูงสุด: 20",
+      "summary": ""
+    },
+    {
+      "id": "KnightBless",
+      "name": "Blessing",
+      "desc": "- เริ่มเทิร์น: ได้รับ Protection 2 หน่วย - ปรับค่าการต้านทาน Attack Type ที่เกิน 1 ให้เหลือ 1 (ยกเว้นเมื่อติด Staggered)",
+      "summary": ""
+    },
+    {
+      "id": "TraumaShield",
+      "name": "Trauma Shield",
+      "desc": "- ลดความเสียหาย SP จากศัตรูลง 80% - ลดความเสียหาย Sinking ที่ได้รับลง 80% - ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": ""
+    }
+  ]
+}

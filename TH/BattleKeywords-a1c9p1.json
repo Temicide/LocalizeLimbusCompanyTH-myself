@@ -1,0 +1,206 @@
+{
+  "dataList": [
+    {
+      "id": "MuscleContraction",
+      "name": "การทำงานของเส้นใยกล้ามเนื้ออัตโนมัติ",
+      "desc": "- Stack สูงสุด: 2 - สร้างความเสียหาย +15% ต่อ 1 Stack - เริ่มการต่อสู้: เมื่อมี 2 Stack จะเปลี่ยน Coin ทั้งหมดของ Attack ของยูนิตนี้ ให้กลายเป็น Unbreakable Coin - เมื่อสิ้นสุด Attack: สูญเสียเอฟเฟกต์นี้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelEdge",
+      "name": "การดวลที่ทวีความรุนแรง",
+      "desc": "- Stack สูงสุด: 20 - 'The Thumb Apprentice - Lucio' จะได้รับ Skill Power และสร้างความเสียหายมากขึ้น ทุกครั้งที่ Clash กับยูนิตนี้ - เอฟเฟกต์จะหมดลงเมื่อจบเทิร์น หากยูนิตนี้ไม่ได้ Clash กับ 'The Thumb Apprentice - Lucio' ในเทิร์นนี้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HostageCharon",
+      "name": "สถานการณ์ตัวประกัน",
+      "desc": "- เมื่อ Clash กับ 'The Thumb Apprentice - Lucio', Clash Power -1 - สร้างความเสียหายให้ 'The Thumb Apprentice - Lucio' -20%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SeveredTendon",
+      "name": "เอ็นขาด",
+      "desc": "- Stack สูงสุด: 3 - Base Power ของ Attack Skill -1 ต่อ 1 Stack - จบเทิร์น: สูญเสีย 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HowDareYouApple",
+      "name": "บังอาจนัก...!",
+      "desc": "- Stack สูงสุด: 4 - สร้างความเสียหาย +20% ต่อ 1 Stack - ถูกใช้ไปเมื่อใช้ Skill บางอย่าง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RapidGrowthApple",
+      "name": "การเติบโตอย่างรวดเร็ว",
+      "desc": "- Stack สูงสุด: 3 - สูญเสีย Defense Level 1 ระดับ ต่อ 1 Stack; ระดับ Defense ต่ำสุดจากเอฟเฟกต์นี้คือ 1 - สูญเสียเอฟเฟกต์นี้เมื่อ Arms ทั้งหมดถูกทำลาย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HumanFleshTheRings",
+      "name": "วัตถุดิบจากซากศพ",
+      "desc": "- Stack สูงสุด: 2 - Charge พิเศษ (ค่า Potency คงที่)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BoneBladeTheRings",
+      "name": "Artwork: Fascia",
+      "desc": "- เริ่มเทิร์น: ได้รับ Base Power Up 4 หน่วย - เมื่อสร้าง Bleed ด้วยสกิล Attack, สร้าง Bleed Potency เพิ่มเติม 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnsteadyTheRings",
+      "name": "เกราะสั่นสะเทือนจากแรงกระแทก",
+      "desc": "- Stack สูงสุด: 3 - เมื่อใช้ 'Repressed Flesh', เสีย Final Power 10 หน่วยต่อทุก 1 Stack - เมื่อมี 3 Stack หลังจากใช้ 'Repressed Flesh', จะเสียเอฟเฟกต์นี้และติด Staggered จนถึงเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IronMaiden_LowMorale",
+      "name": "Iron Maiden",
+      "desc": "- ขวัญกำลังใจต่ำ - เริ่มเทิร์น: ได้รับ Offense Level Down 1 หน่วย และ Defense Level Up 1 หน่วย",
+      "summary": "เริ่มเทิร์น: ได้รับ Offense Level Down 1 หน่วย และ Defense Level Up 1 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "IronMaiden_Panic",
+      "name": "Iron Maiden",
+      "desc": "- ตื่นตระหนก - เริ่มเทิร์น: ได้รับ Offense Level Down 2 หน่วย และ Defense Level Up 2 หน่วย",
+      "summary": "เริ่มเทิร์น: ได้รับ Offense Level Down 2 หน่วย และ Defense Level Up 2 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "DicipleLittleFinger",
+      "name": "Moonlit Azure Blade",
+      "desc": "- Stack สูงสุด: 50 - เริ่มเทิร์น: ได้รับ Shield 5 หน่วยต่อทุก 1 Stack - สร้างความเสียหายเพิ่มขึ้น +1% เมื่อ Critical Hit ต่อทุก 1 Stack - เสีย 1 Stack เมื่อถูกโจมตี",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuSlotPlusA1C9",
+      "name": "กลิ่นสาบแห่งกาลก่อน",
+      "desc": "- Skill Slot +1 - สร้างความเสียหายแก่ศัตรูจาก The House of Spiders เพิ่มขึ้น +10% - เมื่อติด Staggered, จะฟื้นตัวจาก Stagger ทันทีเมื่อเริ่มเทิร์นถัดไป และได้รับ Attack Power Up 1 หน่วย (หนึ่งครั้งต่อการ Encounter) - ไม่สามารถถอยทัพได้",
+      "summary": "สร้างความเสียหายแก่ศัตรูจาก The House of Spiders ได้รุนแรงขึ้น",
+      "undefined": "-"
+    },
+    {
+      "id": "ObservationMoses",
+      "name": "การสังเกตอย่างเฉียบคม",
+      "desc": "- ไม่ตกเป็นเป้าหมายของ Charmed - สร้างความเสียหายแก่ Fairy เพิ่มขึ้น +25%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CalmAnalysisMoses",
+      "name": "การวิเคราะห์อันไร้กังวล",
+      "desc": "- สร้างความเสียหายแก่ Faelantern +25%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TeachersCommand",
+      "name": "คำสั่งของ Nursefather แห่ง The Thumb",
+      "desc": "- เสีย Offense Level 5 ระดับ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuStartA1C9",
+      "name": "ความตื่นเต้นที่ถูกจุดขึ้นใหม่",
+      "desc": "- สร้างความเสียหายแก่ศัตรูจาก The House of Spiders +10% - เมื่อถูก Staggered จะฟื้นตัวจาก Stagger ทันทีเมื่อเริ่มเทิร์นถัดไป และได้รับ Power Up Attack 1 หน่วย (หนึ่งครั้งต่อการ Encounter)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BreathLoss_LowMorale",
+      "name": "ลมหายใจที่ขาดห้วง",
+      "desc": "เริ่มเทิร์น: เสีย Poise Potency 3 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BreathLoss_Panic",
+      "name": "ลมหายใจที่ขาดห้วง",
+      "desc": "เริ่มเทิร์น: เสีย Poise Potency 5 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptTargetMarkToEnemy",
+      "name": "ตราประทับแห่ง Prescript",
+      "desc": "- มอบตราประทับแห่ง Prescript ให้กับ Base Attack Skill บน Dashboard ของยูนิตนี้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptTargetToEnemy",
+      "name": "เป้าหมายของ Prescript",
+      "desc": "- ได้รับความเสียหายจากยูนิต The Index +10% - เอฟเฟกต์นี้จะส่งผลต่อเป้าหมายเดียวในทุกเทิร์น โดยไม่คำนึงถึงจำนวนยูนิต The Index ที่ถูกส่งลงสนาม",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlessingOfIndexPrescriptAlly",
+      "name": "ความเมตตาแห่ง Prescript",
+      "desc": "- Offense Level +1 ต่อทุกๆ 3 Stack - Stack สูงสุด: 9",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescript_Base",
+      "name": "Prescript",
+      "desc": "- ได้รับ 'Prescript: [Paper Slip]' ภายใต้เงื่อนไขที่กำหนด",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการควบคุมว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "IndexPrescriptFaust_0",
+      "name": "Prescript: [Paper Slip] I",
+      "desc": "ใช้ Skill ที่มี Mark of the Prescript หรือโจมตีเป้าหมายด้วย Skill ที่มีเครื่องหมายดังกล่าว - เริ่มเทิร์น: เมื่อมี Grace of the Prescript 0~2 หน่วย, จะได้รับเอฟเฟกต์นี้ - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 3 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการควบคุมว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "IndexPrescriptFaust_1",
+      "name": "Prescript: [Paper Slip] II",
+      "desc": "โจมตีเป้าหมายด้วย Skill ที่มี Mark of the Prescript - เริ่มเทิร์น: เมื่อมี Grace of the Prescript 3~5 หน่วย, จะได้รับเอฟเฟกต์นี้ - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 6 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการควบคุมว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "IndexPrescriptFaust_2",
+      "name": "Prescript: [Paper Slip] III",
+      "desc": "โจมตีเป้าหมายด้วย E.G.O Awakening Skill หรือ 'Skill 3' ที่มี Mark of the Prescript - เริ่มเทิร์น: เมื่อมี Grace of the Prescript 6~8 หน่วย, จะได้รับเอฟเฟกต์นี้ - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 9 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการควบคุมว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "IndexPrescriptFaust_3",
+      "name": "Prescript: [Paper Slip] IV",
+      "desc": "กำจัดศัตรูทั้งหมดก่อนที่ Prescript ถัดไปจะมาถึง - เริ่มเทิร์น: เมื่อมี Grace of the Prescript 9 หน่วย, จะได้รับเอฟเฟกต์นี้",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการควบคุมว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "KarmaOfIndexAlly",
+      "name": "Karmic Consequence",
+      "desc": "- เริ่มเทิร์น: · ได้รับ Defense Level Down 1 ระดับ ต่อทุกๆ 10 Stack · ได้รับ Fragile 1 หน่วย ต่อทุกๆ 20 Stack - Stack สูงสุด: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "รับ Prescript และปฏิบัติตามนั้น การดำเนินการของมันถูกจารึกไว้เป็นกรรม ซึ่งถูกดึงเข้าสู่กงล้อที่หมุนวนไม่สิ้นสุดและย้อนกลับมาสู่มือของผู้ปฏิบัติงาน"
+    }
+  ]
+}

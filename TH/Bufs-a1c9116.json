@@ -1,0 +1,95 @@
+{
+  "dataList": [
+    {
+      "id": "BurstAgility",
+      "name": "Deathrite【Haste】",
+      "desc": "- Stack เริ่มต้น: 3 - เมื่อ Rupture ทำงานจากการถูกโจมตีด้วย Skill Attack จากเป้าหมายที่มี Speed 10+ หน่วย, ลด 1 Stack และได้รับ Rupture Count +1 - เมื่อเหลือ 0 Stack, สร้างความเสียหาย Gluttony แก่ตนเองเท่ากับ Potency ของ Rupture จากนั้นเอฟเฟกต์นี้จะหมดลง ※ ไม่สามารถรับ Stack เพิ่มเติมของเอฟเฟกต์นี้ได้ในขณะที่เอฟเฟกต์ยังทำงานอยู่",
+      "summary": "หากครบเงื่อนไข: สร้างความเสียหายโบนัส Gluttony",
+      "undefined": "-"
+    },
+    {
+      "id": "LegStrength",
+      "name": "Strider【Mao】",
+      "desc": "Stack สูงสุด: 3 จบเทิร์น: ได้รับ Haste 5 หน่วยในเทิร์นถัดไป ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": "หากครบเงื่อนไข: สร้างความเสียหายโบนัส Gluttony",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkBeast_LowMorale",
+      "name": "Deception",
+      "desc": "- ขวัญกำลังใจต่ำ - หาก Speed ของยูนิตนี้สูงกว่าเป้าหมาย หรือเมื่อใช้ Attack แบบ Unopposed, สร้างความเสียหายแก่เป้าหมาย +10%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkBeast_Panic",
+      "name": "Deception",
+      "desc": "- Panic - หาก Speed ของยูนิตนี้สูงกว่าเป้าหมาย หรือเมื่อใช้ Attack แบบ Unopposed, สร้างความเสียหายแก่เป้าหมาย +20%; หาก Speed ของยูนิตนี้สูงกว่าเป้าหมาย, ได้รับความเสียหาย -20%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RepressedMurderousIntend",
+      "name": "Repressed Bloodthirst",
+      "desc": "Base Offense Level -10 Base Defense Level -10",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeighedMurderousIntend",
+      "name": "Crushed Bloodthirst",
+      "desc": "Base Offense Level -25 Base Defense Level -25",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerBook",
+      "name": "The Middle's Vendetta Mark",
+      "desc": "Stack สูงสุด: 10 เมื่อถูกโจมตีโดย The Middle, ได้รับความเสียหาย +3% ต่อ 1 Stack (สูงสุด 30%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Persistent",
+      "name": "Persistence",
+      "desc": "Stack สูงสุด: 4 เมื่อได้รับความเสียหายถึงตาย มีโอกาส 80% ที่จะไม่ได้รับความเสียหายนั้น, ฟื้นฟู HP 60 หน่วย, ฟื้นตัวจาก Stagger และสูญเสียเอฟเฟกต์นี้ เอฟเฟกต์ข้างต้นจะไม่ทำงานภายใต้เงื่อนไขดังต่อไปนี้: - เมื่อความเสียหาย Coin ที่ได้รับ สูงกว่า HP สูงสุดของยูนิตนี้ - เมื่อยูนิตนี้มีเอฟเฟกต์ Healing Down ของ HP ลดลง 1 หน่วยเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BackstreetsNight_LowMorale",
+      "name": "ค่ำคืนใน Backstreets",
+      "desc": "- ขวัญกำลังใจต่ำ - เริ่มเทิร์น: ได้รับ Attack Power Up 1 หน่วย, HP Healing Boost 1 หน่วย และ Fragile 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BackstreetsNight_Panic",
+      "name": "ค่ำคืนใน Backstreets",
+      "desc": "- ตื่นตระหนก - เริ่มเทิร์น: ได้รับ Attack Power Up 2 หน่วย, HP Healing Boost 2 หน่วย และ Fragile 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperA",
+      "name": "เวฟแรก",
+      "desc": "เวฟแรกจะสิ้นสุดลงหลังจากผ่านไป {0} เทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperB",
+      "name": "เวฟที่สอง",
+      "desc": "เวฟที่สองจะสิ้นสุดลงหลังจากผ่านไป {0} เทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperC",
+      "name": "เวฟที่สาม",
+      "desc": "เวฟที่สามจะสิ้นสุดลงหลังจากผ่านไป {0} เทิร์น",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

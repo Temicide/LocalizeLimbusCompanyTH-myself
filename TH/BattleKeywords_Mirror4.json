@@ -1,0 +1,239 @@
+{
+  "dataList": [
+    {
+      "id": "MDEMaa",
+      "name": "Defense เลเวลเพิ่มขึ้น",
+      "desc": "Defense เลเวล +2"
+    },
+    {
+      "id": "MDEMab",
+      "name": "Skill เพิ่มขึ้น",
+      "desc": "Skill Final Power +1"
+    },
+    {
+      "id": "MDEMac",
+      "name": "Offense Level เพิ่มขึ้น",
+      "desc": "Offense Level +1"
+    },
+    {
+      "id": "MDEMad",
+      "name": "Max HP เพิ่มขึ้น",
+      "desc": "Max HP +5%"
+    },
+    {
+      "id": "MDEMae",
+      "name": "ได้รับความเสียหายน้อยลง",
+      "desc": "ความเสียหายที่ได้รับ -5%"
+    },
+    {
+      "id": "MDEMca",
+      "name": "ร่างกายกำยำ",
+      "desc": "Offense Level +2, Defense เลเวล +2, Max HP +5%"
+    },
+    {
+      "id": "MDEMcb",
+      "name": "เสริมแกร่งร่างกาย",
+      "desc": "Offense Level +2, Defense เลเวล +4"
+    },
+    {
+      "id": "MDEMcc",
+      "name": "Max HP เพิ่มขึ้น",
+      "desc": "Max HP +20%"
+    },
+    {
+      "id": "MDEMcd",
+      "name": "บูสต์ Final Attack",
+      "desc": "Final Power +1, Max HP +5%"
+    },
+    {
+      "id": "MDEMce",
+      "name": "บูสต์ Base Attack",
+      "desc": "Base Power +1, Max HP +5"
+    },
+    {
+      "id": "MDEMcf",
+      "name": "บูสต์ Clash Attack",
+      "desc": "Clash Power +2, Defense Level -3"
+    },
+    {
+      "id": "MDEMcg",
+      "name": "เพิ่ม Final Power",
+      "desc": "Final Power +1, Final Power ของ Skill Defense +1"
+    },
+    {
+      "id": "MDEMda",
+      "name": "การเจริญเติบโตของร่างกาย",
+      "desc": "Offense Level +3, Defense Level +2, Max HP +10%"
+    },
+    {
+      "id": "MDEMdb",
+      "name": "การเสริมแกร่งร่างกาย",
+      "desc": "Offense Level +5, Max HP +7.5%"
+    },
+    {
+      "id": "MDEMdc",
+      "name": "อุปกรณ์ต่อสู้พื้นฐาน",
+      "desc": "Base Power +1, Defense Level +3, Max HP +5%"
+    },
+    {
+      "id": "MDEMdd",
+      "name": "อุปกรณ์ต่อสู้ขั้นสุดท้าย",
+      "desc": "Final Power +1, Defense Level -2, Max HP +17.5%"
+    },
+    {
+      "id": "MDEMde",
+      "name": "อุปกรณ์ Defense",
+      "desc": "Defense Level +3, Max HP +22.5%"
+    },
+    {
+      "id": "MDEMdf",
+      "name": "บูสต์ Coin Attack",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Defense Level +2"
+    },
+    {
+      "id": "MDEMdg",
+      "name": "พลังไร้เทียมทาน",
+      "desc": "Base Power +1, Plus Coin Power +1, Minus Coin Power -1"
+    },
+    {
+      "id": "MDEMdh",
+      "name": "ตาต่อตา ฟันต่อฟัน",
+      "desc": "ความเสียหายที่ได้รับ -25%, ความเสียหายที่ทำได้ +25%"
+    },
+    {
+      "id": "MDHMaa",
+      "name": "เสริมแกร่งร่างกาย I",
+      "desc": "Offense Level +1, Defense Level +1"
+    },
+    {
+      "id": "MDHMab",
+      "name": "ทนทาน",
+      "desc": "Defense Level +2, Final Power ของสกิล Defense +1"
+    },
+    {
+      "id": "MDHMac",
+      "name": "ขยายร่างกาย I",
+      "desc": "Defense Level +1, Max HP +5%"
+    },
+    {
+      "id": "MDHMad",
+      "name": "Max HP Boost I",
+      "desc": "Max HP +7.5%"
+    },
+    {
+      "id": "MDHMae",
+      "name": "ลดความเสียหายที่ได้รับ",
+      "desc": "ความเสียหายที่ได้รับ -7.5%"
+    },
+    {
+      "id": "MDHMba",
+      "name": "Amplify Body II",
+      "desc": "Offense Level +2, Defense เลเวล +2, Max HP +5%"
+    },
+    {
+      "id": "MDHMbb",
+      "name": "Expand Body II",
+      "desc": "Offense Level +2, Max HP +10%"
+    },
+    {
+      "id": "MDHMbc",
+      "name": "Final Power Boost I",
+      "desc": "Final Power +1, Max HP +5%"
+    },
+    {
+      "id": "MDHMbd",
+      "name": "Base Power Boost I",
+      "desc": "Base Power +1, Defense Level +1"
+    },
+    {
+      "id": "MDHMbe",
+      "name": "Resilient I",
+      "desc": "Defense Level +4, Max HP +10%"
+    },
+    {
+      "id": "MDHMbf",
+      "name": "Take an Eye I",
+      "desc": "ความเสียหายที่ได้รับ -10%, ความเสียหายที่ทำได้ +10%"
+    },
+    {
+      "id": "MDHMca",
+      "name": "Amplify Body III",
+      "desc": "Offense Level +4, Defense Level +3, Max HP +7.5%"
+    },
+    {
+      "id": "MDHMcb",
+      "name": "ขยายร่างกาย III",
+      "desc": "Offense Level +4, Max HP +15%"
+    },
+    {
+      "id": "MDHMcc",
+      "name": "เสริมพลัง Final Power II",
+      "desc": "Final Power +1, Defense Level +6"
+    },
+    {
+      "id": "MDHMcd",
+      "name": "เสริมพลัง Base Power II",
+      "desc": "Base Power +1, Defense Level +5"
+    },
+    {
+      "id": "MDHMce",
+      "name": "เสริมพลัง Final Power III",
+      "desc": "Final Power +2, Defense Level -2, Max HP +5%"
+    },
+    {
+      "id": "MDHMcf",
+      "name": "เสริม Max HP II",
+      "desc": "Max HP +30%"
+    },
+    {
+      "id": "MDHMcg",
+      "name": "เสริมพลัง Clash Attack I",
+      "desc": "Clash Power +2, Max HP +7.5%"
+    },
+    {
+      "id": "MDHMda",
+      "name": "ขยายขีดจำกัดร่างกาย IV",
+      "desc": "Offense Level +6, Defense Level +6, Max HP +15%"
+    },
+    {
+      "id": "MDHMdb",
+      "name": "ขยายร่างกาย IV",
+      "desc": "Offense Level +4, Defense Level +3, Max HP +30%"
+    },
+    {
+      "id": "MDHMdc",
+      "name": "Final Power Boost IV",
+      "desc": "Final Power +2, Max HP +25%"
+    },
+    {
+      "id": "MDHMdd",
+      "name": "Base Power Boost III",
+      "desc": "Base Power +1, Final Power +1, Max HP +20%"
+    },
+    {
+      "id": "MDHMde",
+      "name": "Resilient II",
+      "desc": "Defense Level +9, Max HP +30%"
+    },
+    {
+      "id": "MDHMdf",
+      "name": "Coin Power Boost",
+      "desc": "Plus Coin Power +2, Minus Coin Power -2"
+    },
+    {
+      "id": "MDHMdg",
+      "name": "Clash Attack Boost II",
+      "desc": "Clash Power +2, Max HP +30%"
+    },
+    {
+      "id": "MDHMdh",
+      "name": "Headstrong",
+      "desc": "ความเสียหายที่ได้รับ -50%, ความเสียหายที่ทำได้ +50%"
+    },
+    {
+      "id": "AccumulatedPastMirror",
+      "name": "Accumulated Past",
+      "desc": "ได้รับ 11 เมื่อจบเทิร์น จะถูกใช้จนหมดเมื่อ Body Part ถูกทำลาย"
+    }
+  ]
+}

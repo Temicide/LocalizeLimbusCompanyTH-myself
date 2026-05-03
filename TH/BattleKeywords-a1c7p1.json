@@ -1,0 +1,186 @@
+{
+  "dataList": [
+    {
+      "id": "BloodScissor",
+      "name": "Blood-tinged Scissorblades",
+      "desc": "- ค่าสูงสุด: 10 - Blood-tinged Scissorblades ขั้นที่ 1 - ใช้สำหรับสกิลพิเศษ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorTwo",
+      "name": "Blood-tinged Scissorblades II",
+      "desc": "- ค่าสูงสุด: 20 - Blood-tinged Scissorblades ขั้นที่ 2 - เริ่มเทิร์น: ได้รับ Offense Level Up 1 หน่วย และ Defense Level Down 1 หน่วย ต่อทุกๆ 5 Stack - ใช้สำหรับบางสกิล",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorThree",
+      "name": "Blood-tinged Scissorblades III",
+      "desc": "- ค่าสูงสุด: 30 - Blood-tinged Scissorblades ขั้นที่ 3 - เริ่มเทิร์น: ได้รับ Offense Level Up 2 หน่วย และ Defense Level Down 1 หน่วย ต่อทุกๆ 5 Stack - ใช้สำหรับบางสกิล",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner",
+      "name": "Bloodfeast",
+      "desc": "- ค่าสูงสุด: 999 - สะสมความเสียหาย Bleed ทั้งหมดที่ทำได้ในโซนนี้ - รีเซ็ตเมื่อเคลื่อนที่ไปยังโซนอื่น - ค่านี้จะถูกแชร์ร่วมกันในทุกตัวละคร - หากมี Kindred ระดับสูงกว่าในหมู่พันธมิตรที่ใช้ Bloodfeast เช่นกัน ยูนิตนี้จะไม่สามารถใช้ Bloodfeast ได้จนกว่าพันธมิตรคนนั้นจะใช้ก่อน",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner_Accumulation",
+      "name": "Bloodfeast Consumed",
+      "desc": "- ค่าสูงสุด: 999 - แสดงจำนวน Bloodfeast ทั้งหมดที่ถูกใช้ไปในการ Encounter นี้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_LowMorale",
+      "name": "Hunger",
+      "desc": "- ขวัญกำลังใจต่ำ เริ่มเทิร์น: ได้รับ Bind Power Up 1 หน่วย และ Attack Power Up 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_Panic",
+      "name": "Hunger",
+      "desc": "- ตื่นตระหนก เริ่มเทิร์น: ได้รับ Bind Power Up 2 หน่วย และ Attack Power Up 4 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclaration_Camille",
+      "name": "Declared Duel - Camille",
+      "desc": "- ในการ Clash ระหว่างยูนิตที่มอบ Declared Duel และยูนิตที่มีสถานะนี้ ผู้ประกาศจะได้รับ Clash Power +1 เมื่อโจมตีโดน ผู้ประกาศจะได้รับ Haste 1 หน่วยในเทิร์นถัดไป (สูงสุด 4 ครั้งต่อเทิร์น) - สถานะจะหมดลงเมื่อยูนิตมอบ Declared Duel ให้กับเป้าหมายอื่น - จะถูกแทนที่เมื่อมียูนิตอื่นมอบ Declared Duel ให้กับเป้าหมายเดียวกัน",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RecklessDuel",
+      "name": "การดวลที่บ้าบิ่น",
+      "desc": "จบเทิร์น: ได้รับ Power Up Clash 1 หน่วยในเทิร์นถัดไป ต่อทุกๆ 10% ของ HP ที่ขาดหายไป (สูงสุด 5) จบเทิร์น: ได้รับ Bind 1 หน่วยในเทิร์นถัดไป ต่อทุกๆ 10% ของ HP ที่ขาดหายไป (สูงสุด 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttack",
+      "name": "Attack ที่จดจ่อ",
+      "desc": "เมื่อใช้ Skill ใส่ Slot เดียวกับที่ยูนิตนี้โจมตีสำเร็จในเทิร์นที่แล้ว จะได้รับเอฟเฟกต์ดังต่อไปนี้ตามจำนวนเทิร์นที่โจมตี Slot นั้นสำเร็จติดต่อกัน - โจมตีสำเร็จติดต่อกัน 1 ครั้ง: Clash Power +1 - โจมตีสำเร็จติดต่อกัน 2 ครั้ง: Base Power +1 - โจมตีสำเร็จติดต่อกัน 3 ครั้ง: Base Power +1, Coin Power +1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TrulyWeak",
+      "name": "ผู้ต่ำต้อย",
+      "desc": "- ความเสียหายที่ทำได้ -10%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RealPaperBear",
+      "name": "หมีจริงๆ นะ",
+      "desc": "- มันกินคนด้วยล่ะ น่ากลัวชะมัด!",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorScars",
+      "name": "แผลฉกรรจ์",
+      "desc": "- ได้รับ Bleed Count +3 และเปิดใช้งาน Bleed กับตัวเอง จากนั้นเสีย Bleed Count 1 หน่วย - หมดผลเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LineCutting",
+      "name": "เป้าหมายการเย็บ",
+      "desc": "- ถูกให้ความสำคัญโดย ??? - หมดผลเมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberOne",
+      "name": "เหี่ยวเฉา",
+      "desc": "- หิวโหยเลือดมาอย่างยาวนาน - Base Offense Level -15 - Base Defense Level -15",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberTwo",
+      "name": "เหี่ยวเฉา",
+      "desc": "- หิวโหยเลือดมาอย่างยาวนาน - Base Offense Level -25 - Base Defense Level -25",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodShooting",
+      "name": "พ่นเลือด!!",
+      "desc": "เมื่อตาย: - Bloodfeast +30 - ได้รับทรัพยากร E.G.O 2 หน่วย สำหรับทรัพยากร E.G.O ที่มีจำนวนน้อยที่สุด - เทิร์นถัดไป: พันธมิตรทั้งหมดได้รับ Phys. Resistances ทุกประเภท +0.1 เอฟเฟกต์นี้สามารถสะสมได้ (สูงสุด 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeeling",
+      "name": "ช่างเที่ยงธรรมยิ่งนัก!!",
+      "desc": "- ทุกครั้งที่จบเทิร์น: ได้รับ Haste 1 หน่วย, Offense Level Up 3 ระดับ และ Defense Level Down 3 ระดับในเทิร์นถัดไป - ได้รับ Offense Level Up เพิ่มเติม 2 ระดับ ทุกๆ 3 เทิร์นที่สะสม (สูงสุด 6) - เมื่อชนะ Clash, ฟื้นฟู SP 3 หน่วย - เมื่อสังหาร, ได้รับ Clash Power Up 1 หน่วยในเทิร์นถัดไป (หนึ่งครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclarationMeursault",
+      "name": "ประกาศดวล - Meursault",
+      "desc": "- ในการ Clash ระหว่างยูนิตที่มอบ Declared Duel และยูนิตที่มีสถานะนี้ ผู้ประกาศจะได้รับ Clash Power +1 เมื่อโจมตีโดน ผู้ประกาศจะได้รับ Haste 1 หน่วยในเทิร์นถัดไป (สูงสุด 4 ครั้งต่อเทิร์น) - สถานะจะหมดลงเมื่อยูนิตมอบ Declared Duel ให้กับเป้าหมายอื่น - จะถูกแทนที่เมื่อมียูนิตอื่นมอบ Declared Duel ให้กับเป้าหมายเดียวกัน",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttackMeursault",
+      "name": "Attack เพ่งเล็ง - Meursault",
+      "desc": "<เฉพาะ Focused Encounters เท่านั้น> ยูนิตที่สร้าง Focused Attack นี้จะได้รับเอฟเฟกต์ดังต่อไปนี้ โดยขึ้นอยู่กับจำนวน Focused Attack Stack ของ Slot เป้าหมาย · 1 Stack: ได้รับ Clash Power +1 · 2 Stack: ได้รับ Base Power +1 · 3 Stack: ได้รับ Base Power +1 และ Coin Power +1 - สิ้นสุดผลหากในหนึ่งเทิร์น ยูนิตที่สร้างเอฟเฟกต์นี้โจมตี Slot ที่ถูก Focused Attack ไม่โดน - สิ้นสุดผลหากยูนิตที่สร้าง Focused Attack สร้างเอฟเฟกต์นี้ใส่ Slot อื่น - ถูกแทนที่หากยูนิตอื่นสร้าง Focused Attack ลงบน Slot ที่มี Focused Attack อยู่แล้ว - เมื่อเริ่มเทิร์นถัดไป หาก Slot ที่ถูก Focused Attack ไม่อยู่แล้ว ให้จัดเรียง Focused Attack ทั้งหมดที่สร้างใส่ Slot ของ Part นั้นใหม่ตามลำดับการ Deployment",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_LowMorale",
+      "name": "ผู้เชี่ยวชาญการดวล",
+      "desc": "- ขวัญกำลังใจต่ำ - เริ่มเทิร์น: ได้รับ Offense Level Up 2 ระดับ เมื่อแพ้ Clash จะได้รับ Defense Level Down 1 ระดับ (สูงสุด 3 ต่อเทิร์น) Min. Speed -1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_Panic",
+      "name": "ผู้เชี่ยวชาญการดวล",
+      "desc": "- ตื่นตระหนก - เริ่มเทิร์น: ได้รับ Offense Level Up 4 ระดับ เมื่อแพ้ Clash จะได้รับ Defense Level Down 2 ระดับ (สูงสุด 6 ต่อเทิร์น) Min. Speed -1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeelingSancho",
+      "name": "ฉันจะขอรับผิดชอบเอง ด้วยน้ำตาที่เป็นสายเลือดของฉัน",
+      "desc": "- ได้รับ Hardblood เพิ่มเติม 1 หน่วย ทุกครั้งที่ยูนิตนี้ได้รับ Hardblood (5 ครั้งต่อเทิร์น) - ทุกครั้งที่จบเทิร์น: ได้รับ Haste 2 หน่วย และ Offense Level Up 3 ระดับในเทิร์นถัดไป - ได้รับ Offense Level Up เพิ่มเติม 2 ระดับ ทุกๆ 3 เทิร์นที่สะสม (สูงสุด 6) - เมื่อชนะ Clash, ฟื้นฟู SP 3 หน่วย - เมื่อสังหาร, ได้รับ Clash Power Up 1 หน่วยในเทิร์นถัดไป (หนึ่งครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDreamSancho",
+      "name": "ว่าด้วยเรื่องราวของพันธนาการแห่งสายเลือดที่เข้มข้นยิ่งกว่าน้ำ",
+      "desc": "- ได้รับ Hardblood เพิ่มเติม 2 หน่วย ทุกครั้งที่ยูนิตนี้ได้รับ Hardblood (5 ครั้งต่อเทิร์น) - ทุกครั้งที่จบเทิร์น: ได้รับ Haste 2 หน่วย และ Offense Level Up 3 ระดับในเทิร์นถัดไป - ได้รับ Offense Level Up เพิ่มเติม 2 ระดับ ทุกๆ 3 เทิร์นที่สะสม (สูงสุด 6) - เมื่อชนะ Clash, ฟื้นฟู SP 3 หน่วย - เมื่อสังหาร, ได้รับ Clash Power Up 2 หน่วยในเทิร์นถัดไป (หนึ่งครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeSancho",
+      "name": "ว่าด้วยงานเลี้ยงเลือดเพื่อความทุกข์ระทมของครอบครัว",
+      "desc": "ได้รับ Power Up Clash ตามจำนวน Stack สร้างความเสียหาย +10%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeTwoSancho",
+      "name": "เกี่ยวกับเรื่องราวที่ Bloodfiend คนหนึ่ง ต้องแบกรับความรู้สึกผิดจากการฆ่าบิดาเพียงลำพัง",
+      "desc": "- Clash Power +4 ตามจำนวนค่าที่กำหนด - มอบ Shield ให้กับตัวเองและพันธมิตรทั้งหมดเมื่อเริ่มการต่อสู้ - สร้างความเสียหาย +20% - เมื่อโจมตีโดน สร้างความเสียหายคงที่ 1 หน่วยเพิ่มเติม",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

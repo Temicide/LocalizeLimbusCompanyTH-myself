@@ -1,0 +1,107 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPcBe",
+      "name": "ความโศกเศร้าลึกล้ำ",
+      "desc": "สร้างความเสียหาย SP 5 หน่วย เมื่อสิ้นสุด Attack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBf",
+      "name": "ความทุกข์ที่พันธนาการ",
+      "desc": "ภายใต้เงื่อนไขบางประการ และเมื่อมี Value 3+ หน่วยเมื่อจบเทิร์น ทุกส่วนจะติด Staggered ในเทิร์นถัดไป ผลจะหมดลงหลังจากมอบ Fragile ให้กับ Chain Part ครบ 3 ครั้ง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBg",
+      "name": "เป้าหมายแห่งโทสะ",
+      "desc": "กลายเป็นเป้าหมายโจมตีลำดับแรกของ Heathcliff The Heartbroken เมื่อยูนิตนี้ถูกกำจัด เอฟเฟกต์นี้จะย้ายไปยัง Identity อื่น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBb",
+      "name": "ตราประทับของพ่อบ้าน",
+      "desc": "ใช้เพื่อเพิ่ม Atk Weight ของสกิล Attack บางสกิล",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBc",
+      "name": "เทคนิค Bind",
+      "desc": "- สูงสุด 3 - จบเทิร์น: เพิ่มขึ้น 1 - จบเทิร์น: ได้รับ Bind ตาม Value ของเอฟเฟกต์นี้ - จบเทิร์น: หากมี Value 3 หน่วย จะติด Staggered ตลอดช่วงที่เหลือของ Encounter เอฟเฟกต์นี้ไม่มีวันหมดอายุ",
+      "summary": "ได้รับ Bind ตาม Value ในเทิร์นถัดไป หากมี Value 3 หน่วย จะติด Staggered ตลอดช่วงที่เหลือของ Encounter",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBa",
+      "name": "ความมุ่งมั่น",
+      "desc": "- เมื่อถูกโจมตี จะได้รับ Offense Level Up 1 ระดับในเทิร์นถัดไป (สูงสุด 3 ครั้งต่อเทิร์น) - เริ่มเทิร์น: หากมี SP น้อยกว่า 0 จะได้รับ Attack Power Up 3 หน่วย ความสามารถในการ Retreat ของยูนิตนี้จะไม่ทำงานตลอดช่วง Encounter นี้",
+      "summary": "เมื่อถูกโจมตี จะได้รับ Offense Level Up 1 ระดับในเทิร์นถัดไป เริ่มเทิร์น: หากมี SP น้อยกว่า 0 จะได้รับ Attack Power Up 3 หน่วย",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBh",
+      "name": "ความโกรธเกรี้ยวอันแสนทรมาน",
+      "desc": "หากผู้โจมตีมี Explosive Wrath, ได้รับความเสียหาย +100%",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBm",
+      "name": "Lightning of Suffering",
+      "desc": "- Clash ชนะ: มอบ Breaking Heart และสร้างความเสียหาย 7 HP - Clash แพ้ หรือ หลังจากการโจมตีแบบไม่ปะทะ Attack: ได้รับ Breaking Heart และได้รับความเสียหาย 7 HP - ลดลง 1 หน่วยเมื่อจบสกิล",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBn",
+      "name": "Breaking Heart",
+      "desc": "- เพิ่มความต้านทาน Sin Affinity ทุกประเภทตาม (Value x 0.2) - เมื่อมี Value ถึง 3 จะติดสถานะ Staggered",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBp",
+      "name": "Courage to Approach",
+      "desc": "- จบเทิร์น: ฟื้นฟู 10 SP - ได้รับ 3 Attack Power Up และ 5 Protection ในทุกเทิร์น - เมื่อถูกโจมตี, ฟื้นฟู 5 SP และได้รับ Offense Level Up 1 ระดับในเทิร์นถัดไป (สูงสุด 3 ครั้งต่อเทิร์น) - เริ่มเทิร์น: หากมี SP น้อยกว่า 0, ได้รับ 3 Attack Power Up - ตราบใดที่มีพันธมิตรคนอื่นรอดชีวิตตั้งแต่ 1 คนขึ้นไปในการปะทะนี้ HP ของ Heathcliff จะไม่ลดลงต่ำกว่า 1 ความสามารถในการถอยทัพ (Retreat) ของยูนิตนี้จะไม่ทำงานตลอดการปะทะนี้",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBo",
+      "name": "ความมุ่งมั่น",
+      "desc": "- จบเทิร์น: ฟื้นฟู 10 SP เมื่อถูกโจมตี, ฟื้นฟู 5 SP และได้รับ Offense Level Up 1 ระดับในเทิร์นถัดไป (สูงสุด 3 ครั้งต่อเทิร์น) - เริ่มเทิร์น: หากมี SP น้อยกว่า 0, ได้รับ 3 Attack Power Up - ตราบใดที่มีพันธมิตรคนอื่นรอดชีวิตตั้งแต่ 1 คนขึ้นไปในการปะทะนี้ HP ของ Heathcliff จะไม่ลดลงต่ำกว่า 1 ความสามารถในการถอยทัพ (Retreat) ของยูนิตนี้จะไม่ทำงานตลอดการปะทะนี้",
+      "summary": "จบเทิร์น: ฟื้นฟู 10 SP เมื่อถูกโจมตี, ได้รับ Offense Level Up 1 ระดับ เริ่มเทิร์น: หากมี SP น้อยกว่า 0, ได้รับ 3 Attack Power Up",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBq",
+      "name": "Broken Heart",
+      "desc": "- Max Speed +2 - ได้รับ Damage Up 3 หน่วย และ 3 Fragile ในทุกเทิร์น - หากเป้าหมายหลักคือ Heathcliff, สกิล Attack จะได้รับ Final Power +2 - Clash แพ้ต่อ Heathcliff: ได้รับ 3 Bind และ Damage Down 3 หน่วยในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBr",
+      "name": "ขอให้เธอ... ตื่นขึ้นในความทรมาน!",
+      "desc": "Clash Power -6 ในการ Clash ต่อเป้าหมายที่มี Lightning of Suffering",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBi",
+      "name": "Superthermogenesis",
+      "desc": "จบเทิร์น: ได้รับความเสียหายคงที่ตามจำนวน Stack และลบเอฟเฟกต์นี้ออก",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBs",
+      "name": "ไปให้พ้น",
+      "desc": "มูลค่า Shield ที่เหลือ : {0}",
+      "undefined": "-"
+    },
+    {
+      "id": "RageResonance",
+      "name": "โทสะที่ถูกยึดครอง",
+      "desc": "จบเทิร์น: ได้รับ Offense Level Up {0} หน่วยในเทิร์นถัดไป (เอฟเฟกต์จะรุนแรงขึ้นในทุกๆ เทิร์น)",
+      "undefined": "-"
+    }
+  ]
+}

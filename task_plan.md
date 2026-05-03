@@ -80,6 +80,20 @@ Fix systematic consistency problems in character names, titles, tone, and place 
 - Verify teller mapping bug is fixed
 - Check for regressions in character voice quality
 
+### Phase 15: Re-translate Canto 1 — COMPLETE
+- ✅ Backed up current TH/StoryData/1D*.json files to TH_Test/Canto1_pre_retranslate/
+- ✅ Re-translated all 20 Canto 1 story files with full system improvements (20/20 success)
+- ✅ Place translations fixed: 6 files had generic "L Corp." → all now properly translated
+- ✅ Teller mapping fixed: 100% Thai (was English tellers like "Yuri", "Tomah", "Hermann")
+- ✅ Title consistency fixed: no more "Fixer Fixer" bug, deterministic titles
+- ✅ Character voice improvements: Yuri's "ค่ะ", better word choice for NPCs
+
+### Phase 16: Translate All Remaining Files — IN PROGRESS
+- ~719 pending files across all categories (StoryData, UI, Skills, Buffs, Battle, Events, etc.)
+- Using resume support — state already tracks completed files
+- 10 API clients in parallel for maximum throughput
+- Expected: several hours of runtime
+
 ## Errors Encountered
 | Error | Attempt | Resolution |
 |-------|---------|------------|

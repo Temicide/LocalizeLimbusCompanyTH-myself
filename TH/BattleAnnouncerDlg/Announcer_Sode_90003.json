@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_9SV-SA1_90003_1",
+      "dlg": "ศูนย์ควบคุมภารกิจ กำลังสนับสนุนการสั่งการ เอาละ รีบจบเรื่องนี้ให้ได้ก่อนที่ Ring Nursefather จะมาถึงเถอะ",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_2",
+      "dlg": "ตรวจพบปฏิกิริยาการเผาไหม้จากหุ่นศพ! ทำลายพวกมันก่อนที่จะจุดระเบิดเต็มที่!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_3",
+      "dlg": "บั่นทอนกำลังเธอให้ได้มากที่สุดก่อนที่— ก่อนที่ดาบนั่นจะจู่โจมเข้ามาด้วยความดุร้ายยิ่งกว่านี้!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_4",
+      "dlg": "เดี๋ยวก่อน ฉันจำสิ่งนี้ได้จากรายงานชันสูตร— อ๊ะ! ส-สแตนด์บายไว้ก่อน อย่าเพิ่งปะทะ! อย่าเพิ่งโจมตีเธอตอนนี้!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_5",
+      "dlg": "Hohenheim ทำได้ดีมาก... เป้าหมายจะถูกกำจัดในไม่ช้า",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_6",
+      "dlg": "คุณกำลังเผชิญหน้ากับ Maestro ของ Ring... แต่ไม่มีทางเลี่ยงการต่อสู้ครั้งนี้ได้ ทุกคน ได้โปรดทำให้เต็มที่ด้วย...!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_7",
+      "dlg": "หนึ่งในพันธมิตรของเรากำลัง—! เร็วเข้า ทำลายหุ่นจำลองนั่นซะ!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_8",
+      "dlg": "บั่นทอนกำลังเธอให้ได้มากที่สุดก่อนที่— ก่อนที่ดาบนั่นจะจู่โจมเข้ามาด้วยความดุร้ายยิ่งกว่านี้!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_9",
+      "dlg": "การโจมตีนี้จะครอบคลุมทั้งสนามรบ...! ไม่มีเวลาหนีออกจากระยะแล้ว—ต้องยืนหยัดและเผชิญหน้ากับมันตรงๆ เท่านั้น...!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_10",
+      "dlg": "คุณ Alyssa... คุณกำลังทำอะไรน่ะ?!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_11",
+      "dlg": "ยืนยันเหตุฉุกเฉินระดับ B2! โปรดฉีด K Corp Ampule ให้กับผู้บาดเจ็บตามระเบียบปฏิบัติ",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_12",
+      "dlg": "อะไร... เกิดอะไรขึ้น? ค่าพารามิเตอร์การต่อสู้ของ ซินแคลร์ มัน...!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_13",
+      "dlg": "พวกเขา... พวกเขาต้านทานแรงปะทะมหาศาลจากศัตรูทั้งสองฝั่งไม่ไหว...! ม-มันต้องมีวิธีโต้กลับสิ...!",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_14",
+      "dlg": "เขากวาดล้างพวกมันทั้งหมดด้วยการโจมตีเพียงครั้งเดียว...",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    },
+    {
+      "id": "announcer_9SV-SA1_90003_15",
+      "dlg": "...อัปเดตการพยากรณ์การรบ... \"เหนือกว่าอย่างสมบูรณ์\" ซินแคลร์ ทำแบบนั้นได้ยังไงกัน...?",
+      "imgStr": "Saude_announcer",
+      "isHide": true
+    }
+  ]
+}

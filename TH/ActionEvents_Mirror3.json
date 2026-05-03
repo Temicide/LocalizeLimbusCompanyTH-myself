@@ -1,0 +1,412 @@
+{
+  "dataList": [
+    {
+      "id": 901054,
+      "name": "",
+      "subDesc": "",
+      "desc": "วืด-แก๊ก วืด-แก๊ก เสียงกลไกนาฬิกาที่เหนียวเหนอะและเต็มไปด้วยคราบน้ำมันดังสะท้อนไปมา มันคือเสียงของฟันเฟืองแต่ละซี่ที่ขบเข้าหากัน เป็นเสียงของสายน้ำที่ไหลมารวมตัวกัน เป็ดท่าทางเหนื่อยล้าและหดหู่ตัวหนึ่งยืนอยู่ตรงหน้าคุณ กลไกนาฬิกาหมุนวนอย่างรุนแรง แต่เจ้ากระต่ายกลับดูอ่อนแรง ... ไม่สิ บางทีนี่อาจจะเป็นเป็ด เจ้ากระต่ายถามขึ้นว่า 'ในสายตาของคุณ ฉันเป็นตัวอะไร?'",
+      "options": [
+        {
+          "message": "A duck.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "A rabbit.",
+          "messageDesc": "Sloth & Envy Advantage check. Pass to gain a Sinking E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901058,
+      "name": "",
+      "subDesc": "",
+      "desc": "'คุณคิดว่ายังไงล่ะ?' เศษเสี้ยวที่ลอยคว้างอยู่ในอากาศเอ่ยถาม 'สิ่งเหล่านั้นที่หมุนวนไปตามราง' 'พวกมันถูกผูกมัดด้วยแรงที่มองไม่เห็น ใช่ไหมล่ะ?' เศษเสี้ยวนั้นถูกล้อมรอบด้วยรางสองประเภทที่แตกต่างกัน บางส่วนหมุนวนอย่างบ้าคลั่ง ในขณะที่บางส่วนหมุนอย่างแผ่วเบา 'แต่ฉันไม่ได้ผูกมัดพวกมันไว้ที่นี่เพราะฉันอยากทำหรอกนะ' 'พวกมันติดหนึบอยู่กับฉันต่างหากล่ะ' 'คุณคิดว่ายังไง?'",
+      "options": [
+        {
+          "message": "I pity the ones that are bound.",
+          "messageDesc": "Gluttony & Wrath Advantage check. Pass to level up currently deployed Identities",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "I pity the one that binds.",
+          "messageDesc": "Gluttony & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901061,
+      "name": "",
+      "subDesc": "",
+      "desc": "สถานที่แห่งนี้เหมือนกับลานขยะยักษ์ ขยะทุกรูปแบบถูกส่งมาที่นี่ เพียงเพื่อจะถูกเผาทิ้ง ข้อแตกต่างคือ ลานขยะแห่งนี้ไม่เก็บอะไรเลยนอกจากกระดูก กระดูกมนุษย์ กระดูกสัตว์ และกระดูกของบางสิ่งที่มิใช่ทั้งมนุษย์และสัตว์ กระดูกทุกชนิดล้วนเดินทางมาที่นี่ มีเสียงแผ่วเบาดังมาจากกองกระดูก แต่มันเบาเกินกว่าจะจับใจความได้",
+      "options": [
+        {
+          "message": "Search to find where the voice is coming from.",
+          "messageDesc": "Gloom & Gluttony Advantage check. Pass to gain a Sinking E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ignore the voice. Keep going.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901066,
+      "name": "",
+      "subDesc": "",
+      "desc": "ชิ้ง-แกรก ชิ้ง-แกรก มีโครงกระดูกตัวหนึ่ง กำลังส่งเสียงหอบหายใจอย่างยากลำบากและน่าขนลุก มีเงาของใครบางคนอยู่ในกระดูกสันหลังของมัน ต้องลองตรองดูว่า เงานั้นหายใจอยู่หรือไม่",
+      "options": [
+        {
+          "message": "Pick up a respirator and put it in its mouth.",
+          "messageDesc": "Pride & Gloom Advantage check. Pass to gain a Poise E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Watch.",
+          "result": [
+            "The shadow in the skull was nothing but a lingering feeling.\n\nResentment. Penance. All of it, to no avail. So it fades away in silence.\n\nAll that remains is a hollow skull."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901068,
+      "name": "",
+      "subDesc": "",
+      "desc": "มีตัวตนหนึ่งถูกพันธนาการไว้กับเก้าอี้ที่ประดับประดาอย่างหรูหรา ดูเหมือนว่าตัวตนนั้นกำลังจ้องมองมาทางนี้ด้วยสายตาที่ดุดัน มันพยายามจะพูดบางอย่าง... แต่ปากของมันถูกมัดไว้ ราชาบนบัลลังก์บิดตัวและดิ้นรน พยายามจะเข้ามาใกล้... แต่สิ่งที่พันธนาการไว้กลับลากเขากลับไป แถบผ้าสีแดงฉานที่งดงามทว่าโหดร้าย พวกมันฉุดกระชากอย่างไร้ความปรานี สิ่งนั้นคือ...",
+      "options": [
+        {
+          "message": "... Bandages.",
+          "messageDesc": "Pride & Wrath Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "... Chains.",
+          "messageDesc": "Pride & Envy Advantage check. Pass to level up currently deployed Identities.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901069,
+      "name": "",
+      "subDesc": "",
+      "desc": "เสียงหินก้อนใหญ่ครูดเข้าหากัน สิ่งที่ดูเหมือนฝ่ามือทำมาจากหินสีดำ ที่ปลายนิ้วซึ่งติดกับฝ่ามือ มีฝ่ามือที่เล็กลงและนิ้วที่เล็กลงติดอยู่ มันยื่นมือของมือออกมา",
+      "options": [
+        {
+          "message": "Shake hands.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Push the hand away.",
+          "messageDesc": "Pride & Envy Advantage check. Pass to gain a Charge E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901073,
+      "name": "",
+      "subDesc": "",
+      "desc": "เสียงนั้นเอ่ยขึ้น 'ใช่แล้ว ทะเลลึกคือสถานที่ที่มืดมิด' 'แต่ที่ปลายทางของเส้นทางอันมืดมิดนั้นมีแสงสว่าง' 'เพราะที่นั่นมีสิ่งที่ส่องประกายในความมืด' 'ไปที่นั่นกันเถอะ' 'แล้วเราจะส่องประกายให้ยิ่งกว่าสิ่งใดในสถานที่อันมืดมิดแห่งนั้น' 'พวกเราต่างถูกทอดทิ้ง ใช่... แต่พวกเราทุกคนก็มีความฝันเหมือนกัน จำได้ไหม?' 'เอาล่ะ มาทำให้ความฝันของพวกเราเป็นจริงกันเถอะ จมลงสู่ห้วงลึกไปด้วยกัน' แสงไฟฟลูออเรสเซนต์สลัวๆ ที่ปักทะลุหลังของตัวตนนั้นกะพริบถี่ๆ",
+      "options": [
+        {
+          "message": "Say that you will sink together.",
+          "messageDesc": "Sloth & Gloom Advantage check. Pass to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Fix the entity's flickering fluorescent lights.",
+          "messageDesc": "Sloth & Envy Advantage check. Pass to gain a Poise E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Yank out the fluorescent lights.",
+          "messageDesc": "Win the battle to earn a Rupture E.G.O Gift and a Poise E.G.O Gift",
+          "result": [
+            "'No. We're not there yet.'\n'They can still glimmer on.'\n'It must shine and shine down to its last flicker.'\n'Give it back.'"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901074,
+      "name": "",
+      "subDesc": "",
+      "desc": "นี่คือทางเดินของคฤหาสน์ไม้หลังใหญ่ แผ่นไม้ที่พื้นนั้นเก่าแก่มาก คุณได้ยินเสียงเอี๊ยดอ๊าดดังใกล้เข้ามาจากระยะไกล มีบางอย่างกำลังเดินมาทางนี้ 'เจ้านายของฉันมีชีวิตที่โชคร้ายมาก' 'ฉันคือพ่อบ้านของบ้านหลังนี้' 'เรื่องเศร้า... เรื่องที่น่าสลดใจเกิดขึ้นที่นี่มากมาย' 'ฉันยังคงพกภาพเหมือนของเจ้านายไว้กับตัว เพราะไม่มีใครจำพวกเขาได้อีกแล้ว' 'เป็นยังไงบ้าง? มองเห็นชัดไหม?'",
+      "options": [
+        {
+          "message": "Say that you can't see it well.",
+          "messageDesc": "Envy & Pride Advantage check. Pass to gain a Sinking E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Say that you can see it well.",
+          "messageDesc": "Envy & Sloth Advantage check. Pass to level up currently deployed Identities.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Say that it's too dusty to tell.",
+          "messageDesc": "Gloom & Sloth Advantage check. Pass to gain a Poise E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901084,
+      "name": "",
+      "subDesc": "",
+      "desc": "มีรูปปั้นหินอ่อนมีปีกขนาดมหึมาตั้งอยู่ ทว่า แขนและส่วนหัวของมันไม่ได้ทำจากหิน แต่กลับมีแสงสว่างที่โปร่งแสงและเข้มข้นส่องประกายอยู่ตรงนั้น ส่วนหัวที่ส่องประกายราวกับภาพลวงตากำลังเป่าแตร ส่วนแขนข้างหนึ่งถือใบมีด รูปปั้นนี้ถูกสร้างขึ้นเพื่อระลึกถึงสิ่งใดกันแน่?",
+      "options": [
+        {
+          "message": "Pray before the statue.",
+          "messageDesc": "Gluttony & Lust Advantage check. Pass to gain a Slash E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave.",
+          "messageDesc": "Gluttony & Wrath Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901085,
+      "name": "",
+      "subDesc": "",
+      "desc": "ใครบางคนกำลังหอบหายใจอย่างหนักและโกรธเกรี้ยว ร่างสูงใหญ่กำยำกำลังสั่นเทา การหายใจของมันดูยากลำบาก ไม่แน่ชัดว่านั่นเป็นเพราะความโกรธหรือความเศร้า 'แก! ใครอยู่ตรงนั้น?!' ร่างนั้นพูดกับคุณ 'ดูนี่สิ ตรงนี้มันเขียนว่าอะไรกันแน่?' ร่างนั้นยื่นกระดาษแผ่นหนึ่งมาตรงหน้าคุณ ดูเหมือนว่ามันจะตาบอด ในกระดาษระบุว่า ความลับเกี่ยวกับ... บางสิ่ง... จะต้องถูกเก็บรักษาไว้ มันคือบันทึกของคนไข้รายหนึ่ง 'บอกมา กระดาษแผ่นนี้เขียนว่าอะไร?'",
+      "options": [
+        {
+          "message": "Tell the truth.",
+          "messageDesc": "Gloom & Lust Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Tell the figure that it's nothing.",
+          "messageDesc": "Gloom & Sloth Advantage check. Pass to gain a Blunt E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901091,
+      "name": "",
+      "subDesc": "",
+      "desc": "ระฆังดังเหง่งหง่าง มันส่งเสียงเอี๊ยดอ๊าดสองสามครั้ง... แล้วก็ดังขึ้นอีกครั้ง ระฆังดังเพื่อบอกเวลา มันแกว่งไปจนสุดทางราวกับจะล้มลง... ก่อนจะทรงตัวได้อีกครั้ง ทุกครั้งที่มันทรงตัวได้ เสียงของระฆังที่ร้าวจะดังขึ้น ระฆังแกว่งกลับไปอย่างน่าหวาดเสียวอีกครั้ง",
+      "options": [
+        {
+          "message": "Help the bell find balance.",
+          "messageDesc": "Envy & Gluttony Advantage check. Pass to level up currently deployed Identities.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Push it further.",
+          "messageDesc": "Envy & Sloth Advantage check. Pass to gain a Tremor E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901095,
+      "name": "",
+      "subDesc": "",
+      "desc": "ป้ายบอกทางโดดเดี่ยวตั้งอยู่บนยอดเขาหิมะ เมื่อพินิจดูใกล้ๆ จึงพบว่า แท้จริงแล้วมันไม่ใช่ป้ายบอกทาง แต่มันทำหน้าที่เป็นป้ายบอกทาง ศพที่แข็งทื่อชี้ไปยังทิศทางต่างๆ ด้วยแขนที่ถูกแช่แข็ง สิ่งใดรออยู่ที่ปลายทางที่นิ้วเหล่านี้ชี้ไป?",
+      "options": [
+        {
+          "message": "North, to where the burst-open arm points.",
+          "result": [
+            "At the end of the path is an ashen village, burned to the ground.\n\nMost buildings are in ruins, as though this village had once been an epicenter of a great explosion.\n\nThe snowstorm carries with it a burnt scent.\n\nA cabin stands out amidst this ashen ruin buried under ash and snow."
+          ]
+        },
+        {
+          "message": "East, to where the warning hand points.",
+          "messageDesc": "Gain a Sinking E.G.O Gift depending on the result of the following choice",
+          "result": [
+            "There is a dark cave.\n\nTerrifying shrieks emanate from the cave. A cacophony of horrible screams."
+          ]
+        },
+        {
+          "message": "West, to where the broken hand points.",
+          "result": [
+            "A flowerbed appears past the snowstorm. It looks rather out of place.\n\nMaybe this can be a place of respite."
+          ]
+        },
+        {
+          "message": "Turn back.",
+          "result": [
+            "We decided to ignore the signpost of hands and walk past it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90109505,
+      "name": "",
+      "subDesc": "",
+      "desc": "เกิดอะไรขึ้นที่นี่?",
+      "options": [
+        {
+          "message": "Investigate.",
+          "result": [
+            "You find a boiling pot inside the cabin.\n\nMany must have perished in the cold, having failed to find this cabin."
+          ]
+        },
+        {
+          "message": "Walk past it.",
+          "result": [
+            "The cabin is completely buried by an avalanche.\n\nThe cabin, which was the only recognizable structure in this village, is completely gone from sight."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90109506,
+      "name": "",
+      "subDesc": "",
+      "desc": "เกิดอะไรขึ้นที่นี่?",
+      "options": [
+        {
+          "message": "Investigate.",
+          "messageDesc": "Select to gain a Sinking E.G.O Gift",
+          "result": [
+            "There is a compass there that keeps spinning, unable to find a direction.\n\nThe screams stop as soon as you pick up the compass."
+          ]
+        },
+        {
+          "message": "Walk past it.",
+          "result": [
+            "The lost ones' screams continue to echo.\n\nOne may assume that they know the way... but there's no telling directions in this endless field of snow."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90109507,
+      "name": "",
+      "subDesc": "",
+      "desc": "เราควรพักสักหน่อยไหม?",
+      "options": [
+        {
+          "message": "Rest a little.",
+          "result": [
+            "After taking a brief respite, you notice that the frost had dwindled somewhat.\n\nThe path forward is unclear... but let's keep moving anyway."
+          ]
+        },
+        {
+          "message": "Walk past it.",
+          "result": [
+            "The path ahead is an endless blizzard.\n\nA respite like the one you saw earlier will not be easy to find."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901099,
+      "name": "",
+      "subDesc": "",
+      "desc": "ยินดีต้อนรับ นี่คือเมืองแห่งสันติภาพ Metropolaris ไม่มีใครได้รับบาดเจ็บที่ Metropolaris แห่งนี้ ตัวตนนั้นเรียกมันว่าเมือง... แต่ที่นี่ไม่มีอะไรเลย สิ่งเดียวที่พอจะระบุได้คือตัวตนที่ทักทายคุณ โดยที่ไม่ได้แม้แต่จะมองมาทางคุณเลยด้วยซ้ำ",
+      "options": [
+        {
+          "message": "Ask if there are any other citizens.",
+          "result": [
+            "'There are. Somewhere.'\n\n'But you can't meet them.'\n\n'Citizens of this city can never see nor touch each other. That is our revolutionary policy.'\n\n'If no one can touch another...'\n\nThe entity adds, a tinge of pride in its words.\n\n'... then no one can hurt another.'"
+          ]
+        },
+        {
+          "message": "Ask to shake hands.",
+          "messageDesc": "Gain a Charge E.G.O Gift depending on the result of the following choice",
+          "result": [
+            "'What are you doing?'\n\n'Reaching out with your hands... to touch is a taboo.'\n\n'If our hands touch, I'll be hurt. You'll be hurt too.'\n\n'And one day... everyone will be hurt.'"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90109903,
+      "name": "",
+      "subDesc": "",
+      "desc": "คุณจะทำอย่างไร?",
+      "options": [
+        {
+          "message": "Walk past the city.",
+          "result": [
+            "'Do as you will.'\n\n'Time does not heal all wounds. It only turns them into scars.'\n\n'You will one day remember us and miss us. You will miss our world where no one can hurt or be hurt by anyone.'"
+          ]
+        },
+        {
+          "message": "Stroll this city where there is no one and no one to meet.",
+          "result": [
+            "The city was infinitely vast, and no one even dares to breathe as we walk.\n\nAnd its citizens are forever at peace."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90109904,
+      "name": "",
+      "subDesc": "",
+      "desc": "คุณจะทำอย่างไร?",
+      "options": [
+        {
+          "message": "Try to shake its hands anyway.",
+          "messageDesc": "Select to gain a Charge E.G.O Gift",
+          "result": [
+            "'NO NO NO NO NO NO!'\n\n'NOTHING CAN HURT ME. DON'T LOOK AT ME. DON'T GIVE ME YOUR HAND. DON'T HURT ME.'\n\nThe entity cries as it disappears. It leaves something behind."
+          ]
+        },
+        {
+          "message": "Back off and withdraw your hand.",
+          "result": [
+            "It didn't even have a hand to shake ours.\n\nYou lower your confused, lost hand."
+          ]
+        }
+      ]
+    }
+  ]
+}

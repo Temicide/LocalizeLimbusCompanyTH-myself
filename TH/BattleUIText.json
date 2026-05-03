@@ -1,0 +1,876 @@
+{
+  "dataList": [
+    {
+      "id": "battle_battleunit_guard",
+      "content": "Guard"
+    },
+    {
+      "id": "popup_message_ego_seat_lack",
+      "content": "ไม่สามารถใช้ E.G.O นี้ได้ โปรดตรวจสอบพื้นที่ว่าง"
+    },
+    {
+      "id": "popup_message_ego_resources_lack",
+      "content": "ไม่สามารถใช้ E.G.O นี้ได้ โปรดตรวจสอบทรัพยากรของคุณ"
+    },
+    {
+      "id": "option_title",
+      "content": "ตั้งค่า"
+    },
+    {
+      "id": "option_btn_exit",
+      "content": "ออกจากด่าน"
+    },
+    {
+      "id": "option_btn_statistical",
+      "content": "ข้อมูลการต่อสู้"
+    },
+    {
+      "id": "creature_destroy_notice",
+      "content": "ชิ้นส่วนถูกทำลาย"
+    },
+    {
+      "id": "oneside_attack",
+      "content": "ไร้คู่ต่อสู้"
+    },
+    {
+      "id": "guard",
+      "content": "Guard"
+    },
+    {
+      "id": "power",
+      "content": "Potency"
+    },
+    {
+      "id": "require",
+      "content": "ต้องการ"
+    },
+    {
+      "id": "battle_log_atk_hp",
+      "content": "{0} สร้างความเสียหาย {2} ให้กับ {1}!"
+    },
+    {
+      "id": "battle_log_atk_mp",
+      "content": "{0} สร้างความเสียหาย {2} ให้กับค่า sanity ของ {1}!"
+    },
+    {
+      "id": "battle_log_recover_hp",
+      "content": "{0} ฟื้นฟู HP จำนวน {2} โดยใช้ {1}"
+    },
+    {
+      "id": "battle_log_guard",
+      "content": "{0} ตั้งการ์ด"
+    },
+    {
+      "id": "battle_log_buf_to_other",
+      "content": "{0} มอบ {2} จำนวน {3} ให้กับ {1}"
+    },
+    {
+      "id": "battle_log_buf_to_self",
+      "content": "{0} ใช้ {2} {1} กับตัวเอง"
+    },
+    {
+      "id": "battle_log_use_ego",
+      "content": "{0} ปลุกพลัง {1}!!"
+    },
+    {
+      "id": "battle_log_use_ego_corrosion",
+      "content": "{1} กัดกร่อน {0}!!"
+    },
+    {
+      "id": "battle_log_personality_corrosion",
+      "content": "{0} สติแตก!!"
+    },
+    {
+      "id": "battle_log_low_morale",
+      "content": "ขวัญกำลังใจของ {0} ต่ำลง!"
+    },
+    {
+      "id": "battle_log_panic",
+      "content": "{0} กำลังตื่นตระหนก!!"
+    },
+    {
+      "id": "choice_result_success",
+      "content": "ผ่านการตรวจสอบ"
+    },
+    {
+      "id": "choice_result_fail",
+      "content": "ไม่ผ่านการตรวจสอบ"
+    },
+    {
+      "id": "choice_result_skip",
+      "content": "ข้ามการตรวจสอบ"
+    },
+    {
+      "id": "info_button_detailinfo",
+      "content": "รายละเอียด"
+    },
+    {
+      "id": "info_button_skill",
+      "content": "Skill"
+    },
+    {
+      "id": "info_button_awakenskill",
+      "content": "Awakening"
+    },
+    {
+      "id": "info_button_erosionskill",
+      "content": "Corrosion"
+    },
+    {
+      "id": "resonance",
+      "content": "Res"
+    },
+    {
+      "id": "perfect_resonance",
+      "content": "A-Res"
+    },
+    {
+      "id": "break",
+      "content": "STAGGER"
+    },
+    {
+      "id": "mental_break",
+      "content": "BREAKDOWN"
+    },
+    {
+      "id": "low_morale",
+      "content": "ขวัญกำลังใจต่ำ"
+    },
+    {
+      "id": "panic",
+      "content": "Panic"
+    },
+    {
+      "id": "status",
+      "content": "สถานะ"
+    },
+    {
+      "id": "status_abnormal",
+      "content": "เอฟเฟกต์"
+    },
+    {
+      "id": "immunity_information",
+      "content": "ความต้านทาน"
+    },
+    {
+      "id": "awaken_ego_skill",
+      "content": "Awakening"
+    },
+    {
+      "id": "erosion_ego_skill",
+      "content": "Corrosion"
+    },
+    {
+      "id": "turnplace_test_name",
+      "content": "LC Branch ที่ถูกทิ้งร้าง"
+    },
+    {
+      "id": "death",
+      "content": "ตาย"
+    },
+    {
+      "id": "slash",
+      "content": "Slash"
+    },
+    {
+      "id": "penetrate",
+      "content": "Pierce"
+    },
+    {
+      "id": "hit",
+      "content": "Blunt"
+    },
+    {
+      "id": "action_disable",
+      "content": "เคลื่อนที่ไม่ได้"
+    },
+    {
+      "id": "ab_event_select_character",
+      "content": "เลือก Sinner"
+    },
+    {
+      "id": "ab_event_select_desc",
+      "content": "ข้อมูล"
+    },
+    {
+      "id": "ab_event_rate",
+      "content": "อัตราความสำเร็จ"
+    },
+    {
+      "id": "formet_event_rate",
+      "content": "อัตราความสำเร็จ: {0}"
+    },
+    {
+      "id": "ab_event_decision",
+      "content": "เริ่มดำเนินการ"
+    },
+    {
+      "id": "ab_event_need",
+      "content": "ต้องการ"
+    },
+    {
+      "id": "ab_battle_resume",
+      "content": "กลับเข้าสู่การต่อสู้"
+    },
+    {
+      "id": "info_button_choice_log",
+      "content": "บันทึกการตัดสินใจ"
+    },
+    {
+      "id": "info_button_story",
+      "content": "เนื้อเรื่อง"
+    },
+    {
+      "id": "info_button_ego",
+      "content": "E.G.O"
+    },
+    {
+      "id": "dungeon_encounter_start",
+      "content": "เริ่มต้น"
+    },
+    {
+      "id": "dungeon_encounter_battle",
+      "content": "การเผชิญหน้าทั่วไป"
+    },
+    {
+      "id": "dungeon_encounter_ab_battle",
+      "content": "การเผชิญหน้าแบบเน้นย้ำ"
+    },
+    {
+      "id": "dungeon_encounter_hard_battle",
+      "content": "การเผชิญหน้าที่มีความเสี่ยง"
+    },
+    {
+      "id": "dungeon_encounter_event",
+      "content": "อีเวนต์"
+    },
+    {
+      "id": "dungeon_encounter_save",
+      "content": "จุดเช็คพอยท์"
+    },
+    {
+      "id": "dungeon_encounter_boss",
+      "content": "บอสประจำชั้น"
+    },
+    {
+      "id": "bottom_winrate",
+      "content": "อัตราการชนะ"
+    },
+    {
+      "id": "bottom_dmg",
+      "content": "ดาเมจ"
+    },
+    {
+      "id": "ab_event_next",
+      "content": "ดำเนินการต่อ"
+    },
+    {
+      "id": "explanatory",
+      "content": "คำอธิบาย"
+    },
+    {
+      "id": "get_ego_gift",
+      "content": "ได้รับ Gift E.G.O"
+    },
+    {
+      "id": "get_ego_gift_desc",
+      "content": "E.G.O ได้รับ Gift!"
+    },
+    {
+      "id": "selection",
+      "content": "ตัวเลือก"
+    },
+    {
+      "id": "result",
+      "content": "ผลลัพธ์"
+    },
+    {
+      "id": "choice_total_rate",
+      "content": "อัตราความสำเร็จรวม"
+    },
+    {
+      "id": "enter",
+      "content": "เข้าสู่"
+    },
+    {
+      "id": "recommend_level",
+      "content": "LVL ที่แนะนำ"
+    },
+    {
+      "id": "enemy_info",
+      "content": "ข้อมูลศัตรู"
+    },
+    {
+      "id": "enter_clear_requirement",
+      "content": "เป้าหมายเพิ่มเติม"
+    },
+    {
+      "id": "choice_event_resume",
+      "content": "ดำเนินการต่อ"
+    },
+    {
+      "id": "crime_state_judgment",
+      "content": "การตรวจสอบ {0}"
+    },
+    {
+      "id": "choice_personality",
+      "content": "เลือกตัวละครที่จะใช้ในการตรวจสอบ:"
+    },
+    {
+      "id": "success_result",
+      "content": "เกณฑ์ขั้นต่ำ"
+    },
+    {
+      "id": "expectation_result",
+      "content": "คาดการณ์"
+    },
+    {
+      "id": "outcome_result",
+      "content": "ผลลัพธ์"
+    },
+    {
+      "id": "choice_event_percent",
+      "content": "โอกาสสำเร็จ"
+    },
+    {
+      "id": "skill_expectition_value",
+      "content": "ช่วงที่คาดการณ์: {0}-{1}"
+    },
+    {
+      "id": "skill_expectition_or_value",
+      "content": "ค่าที่คาดการณ์: {0} / {1}"
+    },
+    {
+      "id": "skill_correction_value",
+      "content": "ตัวคูณ {0}: {1}"
+    },
+    {
+      "id": "correction_based_on_association",
+      "content": "ตัวคูณฝ่าย {0}: {1}(, )"
+    },
+    {
+      "id": "action_choice_event_result_example_battle",
+      "content": "การปะทะในการต่อสู้"
+    },
+    {
+      "id": "action_choice_event_result_example_event",
+      "content": "อีเวนต์"
+    },
+    {
+      "id": "action_choice_event_result_example_resume",
+      "content": "ดำเนินการต่อ"
+    },
+    {
+      "id": "areaatk_attack",
+      "content": "สกิล AoE"
+    },
+    {
+      "id": "enter_battle",
+      "content": "เริ่มการต่อสู้"
+    },
+    {
+      "id": "choice_event_five_percent",
+      "content": "โอกาส 5%"
+    },
+    {
+      "id": "choice_event_five_percent_success",
+      "content": "โอกาสสำเร็จ 5%"
+    },
+    {
+      "id": "skillinfo_passivetitle",
+      "content": "Passive"
+    },
+    {
+      "id": "skillinfo_coinabilitytitle",
+      "content": "เอฟเฟกต์สกิล"
+    },
+    {
+      "id": "dungeon_save_desc",
+      "content": "ถึงจุด Checkpoint แล้ว บันทึกความคืบหน้าของ Dungeon เรียบร้อยแล้ว Sinners ทั้งหมดได้รับการฟื้นฟูแล้ว"
+    },
+    {
+      "id": "battle_battleunit_evade",
+      "content": "Evade"
+    },
+    {
+      "id": "battle_battleunit_counter",
+      "content": "Counter"
+    },
+    {
+      "id": "battle_operation_defence",
+      "content": "Defense"
+    },
+    {
+      "id": "battle_increase_mp",
+      "content": "Sanity เพิ่มขึ้น"
+    },
+    {
+      "id": "battle_decrease_mp",
+      "content": "Sanity ลดลง"
+    },
+    {
+      "id": "dungeon_encounter_type_start",
+      "content": "เริ่มต้น"
+    },
+    {
+      "id": "dungeon_encounter_type_battle",
+      "content": "การเผชิญหน้าทั่วไป"
+    },
+    {
+      "id": "dungeon_encounter_type_ab_battle",
+      "content": "การเผชิญหน้าแบบเน้นย้ำ"
+    },
+    {
+      "id": "dungeon_encounter_type_hard_battle",
+      "content": "การเผชิญหน้าที่มีความเสี่ยง"
+    },
+    {
+      "id": "dungeon_encounter_type_event",
+      "content": "อีเวนต์"
+    },
+    {
+      "id": "dungeon_encounter_type_save",
+      "content": "ห้องปลอดภัย"
+    },
+    {
+      "id": "dungeon_encounter_type_boss",
+      "content": "เผชิญหน้าบอส"
+    },
+    {
+      "id": "battle_mp",
+      "content": "Sanity"
+    },
+    {
+      "id": "abnormality_part_hp",
+      "content": "ส่วนที่ HP"
+    },
+    {
+      "id": "abnormality_research_level",
+      "content": "ระดับการสังเกต"
+    },
+    {
+      "id": "abnormality_no_research_level",
+      "content": "ข้อมูลไม่เพียงพอ"
+    },
+    {
+      "id": "Insufficient_conditions",
+      "content": "เงื่อนไขไม่ครบถ้วน"
+    },
+    {
+      "id": "skillinfo_keyword",
+      "content": "Keyword"
+    },
+    {
+      "id": "ability_turn",
+      "content": "จำนวน"
+    },
+    {
+      "id": "ego_erosion",
+      "content": "การกัดกร่อนของ E.G.O"
+    },
+    {
+      "id": "continuous_turn",
+      "content": "เทิร์น"
+    },
+    {
+      "id": "status_buff_list",
+      "content": "เอฟเฟกต์"
+    },
+    {
+      "id": "stack",
+      "content": "Stack"
+    },
+    {
+      "id": "slash_resistance",
+      "content": "การต้านทานของ Slash"
+    },
+    {
+      "id": "penetrate_resistance",
+      "content": "การต้านทานของ Pierce"
+    },
+    {
+      "id": "hit_resistance",
+      "content": "การต้านทานของ Blunt"
+    },
+    {
+      "id": "Lack_Buff",
+      "content": "ไม่มี {0}!"
+    },
+    {
+      "id": "received_the_golden_bough",
+      "content": "กู้คืน Golden Bough แล้ว"
+    },
+    {
+      "id": "destroyable",
+      "content": "ทำลายได้"
+    },
+    {
+      "id": "resumption",
+      "content": "ดำเนินการต่อ"
+    },
+    {
+      "id": "stage_GiveUp",
+      "content": "ยอมแพ้"
+    },
+    {
+      "id": "show_skillTool",
+      "content": "แสดงเครื่องมือสกิล"
+    },
+    {
+      "id": "auto_coinToss",
+      "content": "สุ่ม Coin อัตโนมัติ"
+    },
+    {
+      "id": "babayaga_alert",
+      "content": "คุณเหลือโอกาสอีก {0} ครั้ง"
+    },
+    {
+      "id": "battle_operation_offset",
+      "content": "Offset"
+    },
+    {
+      "id": "oneside_defense",
+      "content": "One-sided Guard"
+    },
+    {
+      "id": "cantIdentify",
+      "content": "<color=#ff0000>[Indiscriminate]</color>"
+    },
+    {
+      "id": "popup_message_ego_irrevocable",
+      "content": "ไม่สามารถยกเลิกสกิล E.G.O ที่สร้างขึ้นในเทิร์นก่อนหน้าได้"
+    },
+    {
+      "id": "stock",
+      "content": "ครอบครอง"
+    },
+    {
+      "id": "stable",
+      "content": "Stable"
+    },
+    {
+      "id": "un_stable",
+      "content": "Unstable"
+    },
+    {
+      "id": "vibration_explosion",
+      "content": "Tremor Burst!"
+    },
+    {
+      "id": "sinking_surge",
+      "content": "Sinking Deluge!"
+    },
+    {
+      "id": "targetSlotWeight",
+      "content": "Atk Weight"
+    },
+    {
+      "id": "EGO_ErodeProbability",
+      "content": "เข้าสู่สภาวะ Corrode"
+    },
+    {
+      "id": "EGOSelectUI_resources_lack",
+      "content": "ทรัพยากรไม่เพียงพอ โปรดตรวจสอบสัญลักษณ์"
+    },
+    {
+      "id": "EGOSelectUI_DetailInfo",
+      "content": "รายละเอียด"
+    },
+    {
+      "id": "ab_part_destroyable",
+      "content": "ทำลายได้"
+    },
+    {
+      "id": "ab_part_destroyable_and_can_vanish",
+      "content": "ทำลาย & ตัดขาด"
+    },
+    {
+      "id": "ab_guidebook_view",
+      "content": "ดูบันทึก"
+    },
+    {
+      "id": "show_BattleAblityUI",
+      "content": "แสดง UI ข้อมูลโดยละเอียดใน Combat Phase"
+    },
+    {
+      "id": "Ahab_NotTarget_Onece",
+      "content": "จุดที่ฉมวกของฉันต้องปักลงไป..."
+    },
+    {
+      "id": "Ahab_NotTarget_Twice",
+      "content": "...บางครั้ง คำตอบก็ไม่ได้อยู่ตรงหน้าฉันเสมอไป"
+    },
+    {
+      "id": "Ahab_NotTarget_Thrice",
+      "content": "บางครั้ง การจะก้าวต่อไปข้างหน้า... ...ฉันต้องหันกลับไปมองข้างกาย"
+    },
+    {
+      "id": "show_BattleUnitAblityUI",
+      "content": "แสดง UI เอฟเฟกต์ที่ทำงานอยู่ใน Combat Phase"
+    },
+    {
+      "id": "LobotomyStartTypo_Title_1",
+      "content": "รุ่งอรุณแห่งสีเขียว"
+    },
+    {
+      "id": "LobotomyStartTypo_Name_1",
+      "content": "ความสงสัย"
+    },
+    {
+      "id": "LobotomyStartTypo_Desc_1",
+      "content": "วันหนึ่ง มีคำถามหนึ่งผุดขึ้นมาในใจของฉัน พวกเรามาจากไหนกัน? พวกเราได้รับชีวิตและถูกทิ้งไว้ในโลกใบนี้โดยที่ไม่ได้เต็มใจ"
+    },
+    {
+      "id": "LobotomyStartTypo_KillCountTitle_1",
+      "content": "สถานะ Suppression"
+    },
+    {
+      "id": "LobotomyClearTypo_Title_1",
+      "content": "รุ่งอรุณแห่งสีเขียว"
+    },
+    {
+      "id": "LobotomyClearTypo_Name_1",
+      "content": "ความสงสัย"
+    },
+    {
+      "id": "LobotomyClearTypo_Desc_1",
+      "content": "การมีชีวิตอยู่คือกระบวนการที่เต็มไปด้วยความเจ็บปวด"
+    },
+    {
+      "id": "LobotomyEndTypo_Title",
+      "content": "หมดเวลา"
+    },
+    {
+      "id": "LobotomyEndTypo_Desc",
+      "content": "Ordeal Entities ที่เหลือ: {0}"
+    },
+    {
+      "id": "abnormality_all_part",
+      "content": "ทุกชิ้นส่วน"
+    },
+    {
+      "id": "applying_buff_format",
+      "content": "{0} ทำงานแล้ว"
+    },
+    {
+      "id": "level_number_UNDEF",
+      "content": "ไม่ระบุ"
+    },
+    {
+      "id": "level_number_HYPHEN",
+      "content": "-"
+    },
+    {
+      "id": "received_the_golden_bough_undecided",
+      "content": "?"
+    },
+    {
+      "id": "vibration_fusion",
+      "content": "Amplitude Entanglement!"
+    },
+    {
+      "id": "BatonPassUIText",
+      "content": "ตัวแทน"
+    },
+    {
+      "id": "perfect",
+      "content": "A-Res"
+    },
+    {
+      "id": "ab_part_destroyed",
+      "content": "ถูกทำลาย"
+    },
+    {
+      "id": "ab_part_vanished",
+      "content": "ถูกทำลายและตัดขาด"
+    },
+    {
+      "id": "ab_part_cannot_destroy_and_vanish",
+      "content": "ไม่ถูกทำลายและไม่ถูกตัดขาด"
+    },
+    {
+      "id": "current_hp",
+      "content": "ปัจจุบัน HP"
+    },
+    {
+      "id": "break_section_format",
+      "content": "Stagger [{0}]"
+    },
+    {
+      "id": "no_break_section",
+      "content": "ไม่มีเกณฑ์ Stagger"
+    },
+    {
+      "id": "correction_based_on_unit_keyword",
+      "content": "ตัวปรับแต่ง Identity {0}: {1}(, )"
+    },
+    {
+      "id": "battle_operation_counter",
+      "content": "Power Counter"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
+      "content": "รุ่งสาง"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_1",
+      "content": "เที่ยงวัน"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
+      "content": "ยามโพล้เพล้"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
+      "content": "เที่ยงคืน"
+    },
+    {
+      "id": "LobotomyOrdealTypo_QliphothLevel",
+      "content": "Qliphoth Meltdown - ระดับ {0}"
+    },
+    {
+      "id": "SinkingWhite_stack",
+      "content": "ผู้มีชีวิต"
+    },
+    {
+      "id": "SinkingWhite_turn",
+      "content": "ผู้ล่วงลับ"
+    },
+    {
+      "id": "BulletLament_stack",
+      "content": "ผู้มีชีวิต(Ammo)"
+    },
+    {
+      "id": "BulletLament_turn",
+      "content": "ผู้ล่วงลับ(Ammo)"
+    },
+    {
+      "id": "Retreat_TextAlarm",
+      "content": "!ถอยทัพ!"
+    },
+    {
+      "id": "Retreat_TextPassive",
+      "content": "กำลังถอยทัพ"
+    },
+    {
+      "id": "battle_operation_defense",
+      "content": "Power Guard"
+    },
+    {
+      "id": "battle_operation_defense_TextTypo",
+      "content": "พลังหมดสิ้น!"
+    },
+    {
+      "id": "battle_StageBuffUI_Stackdesc",
+      "content": "(ค่าปัจจุบัน: {0})"
+    },
+    {
+      "id": "EGOSelectUI_not_allow",
+      "content": "ไม่สามารถติดตั้ง E.G.O นี้ได้ในขณะนี้"
+    },
+    {
+      "id": "laceration_surge",
+      "content": "Bleed Deluge!"
+    },
+    {
+      "id": "QTE_Notice",
+      "content": "ควบทะยานไป พร้อมกันเถอะHE!"
+    },
+    {
+      "id": "septempeccata_classification",
+      "content": "ระดับ {0}"
+    },
+    {
+      "id": "run_forBattlePortraitStateText",
+      "content": "หนีไปแล้ว"
+    },
+    {
+      "id": "ReturnPassUIText",
+      "content": "กลับ"
+    },
+    {
+      "id": "NoHavePassive",
+      "content": "Support Passive ถูกล็อกอยู่ ต้อง Uptie เพื่อปลดล็อก"
+    },
+    {
+      "id": "LocalSetButtonTitle_ImportanceLevel",
+      "content": "คำใบ้"
+    },
+    {
+      "id": "Retreat_Command_TextAlarm",
+      "content": "!คำสั่งถอยทัพ!"
+    },
+    {
+      "id": "Retreat_Quit_TextAlarm",
+      "content": "!หลบหนีออกจากสนามรบ!"
+    },
+    {
+      "id": "ab_part_gadget_activated",
+      "content": "เปิด"
+    },
+    {
+      "id": "ab_part_gadget_deactivated",
+      "content": "ปิด"
+    },
+    {
+      "id": "UpperSkillInfo_Player_ImportanceLevel_1_Desc",
+      "content": "!ลำดับความสำคัญ: กลาง!"
+    },
+    {
+      "id": "UpperSkillInfo_Player_ImportanceLevel_2_Desc",
+      "content": "!ลำดับความสำคัญ: สูง!"
+    },
+    {
+      "id": "UpperSkillInfo_Player_ImportanceLevel_3_Desc",
+      "content": "!ลำดับความสำคัญ: สูงมาก!"
+    },
+    {
+      "id": "UpperSkillInfo_Enemy_ImportanceLevel_1_Desc",
+      "content": "!ลำดับความสำคัญ: กลาง!"
+    },
+    {
+      "id": "UpperSkillInfo_Enemy_ImportanceLevel_2_Desc",
+      "content": "!ลำดับความสำคัญ: สูง!"
+    },
+    {
+      "id": "UpperSkillInfo_Enemy_ImportanceLevel_3_Desc",
+      "content": "!ลำดับความสำคัญ: สูงมาก!"
+    },
+    {
+      "id": "EgoGiftListPopupTabType_CANDIDATE",
+      "content": "แบบมีเงื่อนไข"
+    },
+    {
+      "id": "EgoGiftListPopupTabType_EXCLUDE_CANDIDATE",
+      "content": "ทำงานตลอดเวลา"
+    },
+    {
+      "id": "EgoGiftListPopupTabType_active",
+      "content": "เปิดใช้งานแล้ว"
+    },
+    {
+      "id": "UnitInformation_emptySkillList",
+      "content": "ไม่มีสกิลในหมวดหมู่นี้"
+    },
+    {
+      "id": "retire_forBattlePortraitStateText",
+      "content": "หมดสภาพต่อสู้"
+    },
+    {
+      "id": "KAA1C9ActivateEffect",
+      "content": "ใช้ K Corp Ampule แล้ว"
+    },
+    {
+      "id": "contMineInfo_Title",
+      "content": "ความคืบหน้า:"
+    },
+    {
+      "id": "contMineInfo_Desc_Valid_Reward",
+      "content": "※ หากสละสิทธิ์ด่านในตอนนี้ จะเสีย Enkephalin Modules จำนวน {0} ชิ้น และจะได้รับรางวัลตามจำนวน Modules ที่ใช้ไป"
+    },
+    {
+      "id": "contMineInfo_Desc_Invalid_Reward",
+      "content": "※ หากสละสิทธิ์ด่านในตอนนี้ จะไม่เสีย Enkephalin Modules และจะไม่ได้รับรางวัลใดๆ"
+    }
+  ]
+}

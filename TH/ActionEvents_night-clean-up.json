@@ -1,0 +1,89 @@
+{
+  "dataList": [
+    {
+      "id": 971051,
+      "name": "",
+      "desc": "ราตรีเริ่มลึกลง แสงสีหยกส่องผ่านหน้าต่างภายใต้ท้องฟ้ายามค่ำคืนที่ไร้จันทร์อันน่าอึดอัด ขณะที่ฉันกำลังสนทนากับ Sinner จู่ๆ ก็เหมือนมีบางอย่างเข้ามาบดบังแสงสว่างนั้น ในขณะที่เรายืนระแวดระวังอยู่ ใครบางคนก็วิ่งพรวดเข้ามาในห้องและเหวี่ยงอาวุธมีคมเข้าใส่พวกเรา โชคดีที่ Sinner ชักอาวุธออกมาบล็อกการโจมตีของผู้บุกรุกไว้ได้ทัน พวกนั้นคงตัดสินใจแล้วว่าภารกิจนี้ล้มเหลว ฝ่ายตรงข้ามจ้องมองพวกเราด้วยความเงียบงันครู่หนึ่ง ก่อนจะรีบหลบหนีไปจากที่เกิดเหตุ",
+      "options": [
+        {
+          "message": "Pursue the fleeing intruder.",
+          "messageDesc": "Run a Gluttony & Pride Advantage check to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Just watch the intruder run away.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971052,
+      "name": "",
+      "desc": "พวกเราสังเกตเห็นสมุนของ The Middle ยืนคุยอะไรบางอย่างอยู่ไกลๆ มีความเป็นไปได้ว่าพวกเขากำลังตามหาเป้าหมายที่บังเอิญถูกบันทึกชื่อไว้ใน Book of Vengeance เมื่อเราเดินเข้าไปใกล้ พวกเขาก็หยุดเราไว้แล้วโชว์รูปภาพใบหนึ่งให้ดู \"เคยเห็นไอ้หมอนี่ที่ไหนบ้างไหม?\"",
+      "options": [
+        {
+          "message": "Say \"I think I've seen him before\".",
+          "messageDesc": "Run a Gluttony, Pride, & Envy Advantage check to gain a Blunt E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Say \"Nope, never seen him before.\"",
+          "messageDesc": "",
+          "result": [
+            "We stared back at them with blank, innocent eyes until they decided to let us go without trouble."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971053,
+      "name": "",
+      "desc": "พวกเรามาถึงภายในอาคารที่มืดมิด กลุ่มคนที่สวมชุดสีดำยืนรวมตัวกันอยู่ ทุกคนสวมหมวกไม้ไผ่ ดูเหมือนว่าคนกลุ่มนี้กำลังเตรียมรับมือศัตรู พวกเขากำลังวุ่นอยู่กับการเตรียมการบางอย่าง \"เราได้รับข้อมูลวงในว่าจะมีคนบุกมาจัดการนายท่านในคืนนี้\" \"ทีมสนับสนุน ประจำอยู่ที่นี่และรอคำสั่งต่อไป\" \"ทีมปฏิบัติการ มุ่งหน้าไปยังจุดที่ศัตรูจะลอบเข้ามา และเตรียมพร้อมรับมือการมาถึงของพวกมัน\" \"ทุกคนรู้หน้าที่ของตัวเองดี ปฏิบัติตามนั้นซะ\"",
+      "options": [
+        {
+          "message": "Await orders.",
+          "messageDesc": "Run a Gluttony & Pride Advantage check to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Follow the Operation team.",
+          "messageDesc": "Run a Gluttony & Pride Advantage check to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971054,
+      "name": "",
+      "desc": "มันเป็นช่วงเวลาของค่ำคืนที่ยากจะคาดเดาเวลาได้ พวกเราลงจากรถบัสเพื่อออกสำรวจ และในตอนนั้นเองที่ฉันสัมผัสได้ถึงแรงสั่นสะเทือนที่น่าขนลุก ฉันหันไปมองต้นตอของแรงสั่นสะเทือนนั้น และได้เห็น Sweepers จำนวนมหาศาลกำลังพุ่งตรงมาทางเรา พร้อมกับแสงสีแดงที่กะพริบวูบวาบ พวกมันจะกวาดล้างทุกอย่างที่ขวางหน้าให้สิ้นซาก ยิ่งเราลังเลนานเท่าไหร่ พวกมันก็ยิ่งเข้าใกล้เรามากขึ้นเท่านั้น",
+      "options": [
+        {
+          "message": "Find a nearby shelter.",
+          "messageDesc": "Run a Gluttony & Pride Advantage check to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Run for the bus.",
+          "messageDesc": "50% chance to begin a combat encounter. Win to gain a Keywordless E.G.O Gift.",
+          "result": [
+            "Only by sprinting back to Mephistopheles do we make it all inside.\n\nThe relentless wave of Sweepers passes by moments after we close the door behind us.",
+            "We sprint back to Mephistopheles, but it seems that we were a second too late.\n\nWe do not even have the time to turn around before the swarm overwhelmed us."
+          ]
+        }
+      ]
+    }
+  ]
+}

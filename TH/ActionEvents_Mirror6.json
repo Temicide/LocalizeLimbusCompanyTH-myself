@@ -1,0 +1,197 @@
+{
+  "dataList": [
+    {
+      "id": 971055,
+      "name": "เครื่องจักรประหลาด",
+      "desc": "มีเครื่องจักรหน้าตาประหลาดเครื่องหนึ่งตั้งอยู่ และมีเหรียญวางอยู่ด้านหน้า จากนั้นก็มีช่องหยอดเหรียญที่ส่องแสงระยิบระยับบนเครื่องจักร—มันแทบจะยั่วยวนให้เราหยอดเหรียญลงไปข้างในนั้นเลยทีเดียว เสียงจักรกลที่ไร้ร่างดังสะท้อนมาจากที่ไหนสักแห่งเมื่อเราเดินเข้าไปใกล้เครื่องจักร \"ลองเสี่ยงโชคดูสิ!\" เสียงนั้นดังมาจากไหนกัน? ดังมาจากข้างในเครื่องจักร หรือว่าพื้นที่แห่งนี้กำลังกระซิบกับฉันกันแน่? ฉันเกือบจะคุมสติไม่อยู่หลังจากหยิบเหรียญขึ้นมาอย่างเหม่อลอยแล้วเดินตรงไปยังช่องหยอดเหรียญของเครื่องจักร ฉันควรจะคิดทบทวนเรื่องนี้ให้ดีก่อน",
+      "options": [
+        {
+          "message": "Just take the coin.",
+          "messageDesc": "",
+          "result": [
+            "On closer examination, this coin could come in useful in the dungeon.\n\n... We should quit while we're ahead, even for a small gain. Much better than gambling this coin away into that suspicious machine for some unknown, mysterious outcome we have no way of gauging.\n\nWe pocket the coin and leave the machine."
+          ]
+        },
+        {
+          "message": "Insert the coin in the slot.",
+          "messageDesc": "???",
+          "result": [
+            "The slot sucks the coin inside with a clack.\n\n“#%^*@%@!!#@$%”\n\nThe machine makes a strange, ineffable and unsettling noise. After a moment, it spits out something from its... vent-like apparatus.\n\nIt zooms off to somewhere before we even get a chance to realize what happened.",
+            "The slot sucks the coin inside with a clack.\n\n\"……\"\n\nThen nothing.\n\n\"Aw, darnit! It ate the coin!\"\n\nOne of the Sinners stomps forward to beat up the machine, but it zooms off to somewhere before we even get a chance to see what would happen."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971056,
+      "name": "Carnival of La Manchaland",
+      "desc": "\"ในคาร์นิวัลที่ได้รับพร... อย่างนิรันดร์... และไม่สิ้นสุดแห่งนี้...\" ขบวนพาเหรดนำมาซึ่งเสียงอุทานด้วยความดีใจและรอยยิ้มของผู้เข้าชม ไม่ว่าจะมองจากมุมไหนหรือมองอย่างไร มันก็ดูฉูดฉาดและหรูหราฟุ่มเฟือยไปหมด มันเหมือนกับเนื้อเพลงเลย... รู้สึกราวกับว่าคาร์นิวัลแห่งนี้ได้รับพรให้ดำเนินต่อไปชั่วนิรันดร์จริงๆ \"โอ๊ย\" ใครบางคนส่งเสียงร้องด้วยความเจ็บปวดสั้นๆ และเข็มฉีดยาที่เป็นสนิมก็ตกลงบนพื้นเสียงดังเคร้ง \"ล-เลือด! เลือด!\" \"ข-ขอแค่หยดเดียวเถอะ... ได้โปรด...!\" ขบวนพาเหรดพังทลายลงทันทีเมื่อทุกคนพุ่งเข้าหาเข็มฉีดยานั้นอย่างบ้าคลั่ง ดูเหมือนพวกเขาจะไม่รับรู้เลยว่าใครหรืออะไรอยู่รอบตัว และพร้อมที่จะฉีกกระชากทุกสิ่งที่ขวางทาง เราควรจะหยุดพวกเขาไหม?",
+      "options": [
+        {
+          "message": "Try to stop them.",
+          "messageDesc": "Lust & Sloth Advantage check. Pass to gain a Bleed E.G.O Gift."
+        },
+        {
+          "message": "Ignore them.",
+          "messageDesc": "",
+          "result": [
+            "Nothing happened."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971057,
+      "name": "ม้าหมุน",
+      "subDesc": "",
+      "desc": "นั่นมัน... ม้าหมุนงั้นเหรอ? มีโครงสร้างที่ส่องแสงเจิดจ้าจนเกือบจะทำให้ตาพร่ามัวแผ่รัศมีออกมาในพื้นที่อันมืดมิดแห่งนี้ “…….” \"ตายจริง มีอะไรผิดปกติหรือเปล่าคะ?\" \"หืม? ม-มิได้ มิมีสิ่งใดต้องกังวล\" ดูเหมือนม้าหมุนเครื่องนี้จะเข้าไปครอบงำจิตใจของ Sinners บางคนอยู่ เราควรแวะเข้าไปดูไหม?",
+      "options": [
+        {
+          "message": "Stop by the carousel.",
+          "messageDesc": "Lust & Sloth Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Seems dangerous. Let's move on.",
+          "result": [
+            "Nothing happened."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971058,
+      "name": "ถุงนอนหักเหของวันวาน",
+      "subDesc": "",
+      "desc": "มีบางอย่างกำลังหายใจหอบแรง ต้นตอของมันซึ่งมีรูปร่างประหลาดนอนอยู่ตรงนั้น ดูเหมือนว่ามันจะเป็น Abnormality สิ่งนั้นกำลังดิ้นรนแม้แต่จะหายใจ—ทุกลมหายใจของมันช่างยากลำบากและไม่เป็นจังหวะ มันกำลัง... ร้องไห้อยู่เหรอ?",
+      "options": [
+        {
+          "message": "Listen to the breathing.",
+          "messageDesc": "Run a Pride & Envy Advantage check. Pass to gain a Poise E.G.O Gift."
+        },
+        {
+          "message": "Block your ears.",
+          "result": [
+            "Listening to the pained breathing is heartrending.\n\nThe sheer sensation was so overwhelming that it was making me nauseous. The Sinners weren't doing much better, either; they were either grabbing their heads or were slowly getting drenched in cold sweat.\n\n\"P-plug your ears. I think this... this sound's driving me insane.\"\n\nI tell the rest of the Sinners to follow suit, and we slowly start to feel better.\n\n... The Abnormality continued to make that noise for a while, before falling completely silent."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971059,
+      "name": "กุหลาบสี่ร้อยดอกหักเห",
+      "subDesc": "",
+      "desc": "กลีบดอกไม้ที่ชุ่มไปด้วยเลือดนั้นแดงฉานเสียจนคนอาจเข้าใจผิดว่ามันกำลังเลือดออก ก้านของมันที่คอยสูบเลือดจากที่ไหนสักแห่งเพื่อเลี้ยงกลีบดอกไม้นั้น บิดเบี้ยว มืดมน และเป็นสีแดง หนามที่ดุร้ายและแหลมคมทิ่มแทงอยู่ทั่วผิวของมัน แต่ความอยากรู้อยากเห็นก็เข้าครอบงำ—บางทีการหักหนามออกอาจจะทำให้มันเลือดออกก็ได้นะ?",
+      "options": [
+        {
+          "message": "Break off a thorn.",
+          "messageDesc": "Lust & Envy Advantage check. Pass to gain a Bleed E.G.O Gift."
+        },
+        {
+          "message": "Don't do that.",
+          "result": [
+            "Everyone knows what killed the cat.\n\nLet's not provoke it unnecessarily this time."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971064,
+      "name": "ชีวิตประจำวัน",
+      "desc": "\"อา ตรงนั้น...!\" ฉันหันไปเห็นใครบางคนกำลังโซเซอย่างน่าหวาดเสียวอยู่ตรงราวกั้น... ก่อนจะร่วงหล่นลงไป ร่วงหล่น... เหมือนขนนกที่ร่วงลงมาจากความสูงที่ไม่ได้สูงเกินไปหรือต่ำเกินไป เหมือนกับคนที่ค่อยๆ จมลงในน้ำ \"ระวังตัวด้วย!!!\" หนึ่งใน Sinners ตะโกนเสียงดังเพื่อเตือนให้เรารู้ถึงอันตราย พวกเราทุกคนรีบวิ่งไปยังจุดที่คนคนนั้นกำลังร่วงหล่น แต่ดูเหมือนว่ากว่าจะไปถึง พวกเขาก็ยังคงร่วงลงมาอยู่ และเรายังมีเวลาพอที่จะหยุดพักหายใจด้วยซ้ำ ความเชื่องช้าของการร่วงหล่นนั้นทำให้ฉันสงสัยว่า การจะคว้าตัวพวกเขาไว้นั้นจะง่ายและเบาเหมือนกับการคว้าเศษกระดาษที่ค่อยๆ ปลิวลงมาหรือเปล่า \"...ปัจจัยเรื่องมวลเป็นสิ่งที่มองข้ามไม่ได้ในกรณีนี้ แม้ความเร็วในการร่วงหล่นจะเชื่องช้า แต่ถ้าเราหยุดพวกเขาอย่างกะทันหัน...\" \"เราจะได้เห็นทุกมิลลิวินาทีที่กระดูกสันหลังของพวกเขาค่อยๆ แตกละเอียดเป็นชิ้นๆ และตามด้วยความทรมานขั้นสุดท้ายที่ยืดเยื้อออกไปเป็นนาที\" \"อี๋...\" เรายังมีเวลาอีกนิดก่อนที่พวกเขาจะกระแทกพื้น เราต้องหาอะไรบางอย่างมาช่วยชะลอการตก...",
+      "options": [
+        {
+          "message": "Find something to break their fall.",
+          "messageDesc": "Run a Lust & Sloth Advantage check to gain a Tremor E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Reach out our arms to grab the falling civilian.",
+          "messageDesc": "",
+          "result": [
+            "\"No need to go that far. Come on, fellas. Let me show you how it's done.\"\n\nThe Sinners made a small circle under the falling person, and successfully broke their fall.\n\n\"T-thank you so much...\"\n\nThey thanked us, and handed us a small portion of what they were carrying.\n\n... Very slowly. But the Sinners had grown used to it at this point, so we all waited patiently before seeing them off.",
+            "\"No need to go that far. Come on, fellas. Let me show you how it's done.\"\n\nThe Sinners made a small circle under the falling person, and successfully broke their fall.\n\n\"T-thank you so much...\"\n\nThey thanked us, and handed us a small portion of what they were carrying.\n\nBut I'm pretty sure I saw one of the Sinners sprain their ankle..."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971065,
+      "name": "",
+      "desc": "\"หยุด! พื้นที่นี้ห้ามคนนอกเข้า!\" ชายที่สวมหมวกทรงสูง ซึ่งน่าจะเป็นพนักงานของ T Corp หยุดพวกเราไว้ \"เฉพาะผู้ที่ทำสัญญากับ T Corp หรือผู้ที่มีใบอนุญาตพิเศษเท่านั้นที่ผ่านทางนี้ได้\" เมื่อเห็นว่าพวกเราได้แต่ยืนอึ้งและไม่แน่ใจว่าต้องทำอย่างไร เขาจึงชี้ไปด้านข้างแล้วพูดต่อ \"หืม ดูเหมือนว่าพวกคุณจะมีสิทธิ์ผ่านทางนี้ได้นะ บางทีคุณอาจจะวางบัตรผ่านไว้ผิดที่\" \"คุณสามารถขอออกบัตรใหม่ได้ที่ตรงนั้น ทางด้านข้าง ลองไปเสี่ยงโชคดูแล้วกัน\"",
+      "options": [
+        {
+          "message": "Receive a pass.",
+          "messageDesc": "Lust & Sloth Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Take a contract.",
+          "messageDesc": "Begin a combat encounter. Win to gain a Keywordless E.G.O Gift.",
+          "result": [
+            "\"Well, we've had some trouble 'round these parts at T Corp. We'll welcome outside help if we can get it.\"\n\n\"One of them being the Yurodiviye—they've put out a manifesto or what have you, that they're thinking of stirring trouble here. Take them out, and we can hand you a badge without having to go through the process of getting a separate pass permit.\" As if on cue, we found ourselves surrounded by a group of people in striking scarves."
+          ]
+        },
+        {
+          "message": "Present the Warning Notice.",
+          "messageDesc": "Begin a combat encounter. Win to gain a Keywordless E.G.O Gift.",
+          "result": [
+            "\"... Alright? But... why?\"\n\n\"What benefit could you possibly have to gain from presenting that warning slip?\"\n\n\"I mean, I was going to search your names in the system, which would have shown that you've all been warned; meaning, it was only a matter of time before I—hang on, were you all trying to save my time?\"\n\n\"Well, I do appreciate the gesture, chaps. Let's not waste any more time and wrap this up.\"\n\nThen, as if on cue, a shudder drops in front of the reception desk, and a siren begins to blare.\n\n... It wasn't long before we were surrounded by T Corp. employees."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971066,
+      "name": "",
+      "desc": "เราเลี้ยวตรงมุมถนนและพบกับโปสเตอร์ที่วาดอย่างลวกๆ ใบหนึ่ง บนโปสเตอร์มีคำแนะนำสั้นๆ เขียนอยู่ข้างๆ โน้ตเล็กๆ ที่บอกเส้นทาง 'เวลาเหลือน้อย แต่ความคับแค้นใจยังเต็มเปี่ยมงั้นหรือ? ถ้าอย่างนั้นมาเข้าร่วมกับ Yurodiviye สิ คุณพอใจแล้วหรือที่จะปล่อยให้ความไม่เท่าเทียมเหยียบย่ำคุณ? หรือคุณอยากจะมีชีวิตอยู่เพื่อทำลายมันให้สิ้นซาก? ปรารถนามันสิ ปรารถนามันให้แรงกล้า! หยิบโปสเตอร์นี้ไป ให้มันเป็นตั๋วรถไฟของคุณ ที่ตรอก ■■■ หันหน้าไปทางถนน ■■ และเดินด้วยความเร็ว 120 กม. ต่อวัน เพียงลำพัง'",
+      "options": [
+        {
+          "message": "Take the poster, and follow the directions on the note.",
+          "messageDesc": "Run a Lust, Sloth, and Gluttony Advantage check to gain a Tremor E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ignore the poster.",
+          "messageDesc": "",
+          "result": [
+            "It does make one wonder: what could the Yurodiviye be recruiting for? But it seems to be a waste of time to follow this lead.\n\nI look away from the poster and hurry myself alongside the Sinners."
+          ]
+        },
+        {
+          "message": "Brandish the Chalice of Trickle-down.",
+          "messageDesc": "Select to gain a Tremor E.G.O Gift",
+          "result": [
+            "Someone approaches from a distance.\n\n\"Wait, that chalice...\"\n\n\"Of course, I've heard the tales. Someone working hard for the redistribution of wealth, despite not wearing our color...\"\n\n\"Keep up the good work, comrade... this machine'll come in handy, take it.\"\n\nClearly, he must've been mistaken. He patted my shoulder lightly before leaving something in my hands."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971067,
+      "name": "",
+      "desc": "เสียงสิ้นหวังดังสะท้อนมาจากที่ไกลๆ \"มาร่วมกับเราเถอะ มาทำลายความไม่เท่าเทียมนี้ไปด้วยกัน\" อีกเสียงหนึ่งพูดขึ้น \"เรากำลังช่วยประหยัดเวลาจากการตายที่น่าสมเพชและทุกข์ทรมานของพวกมัน นี่คือกุศลอันศักดิ์สิทธิ์\" อีกเสียงหนึ่งพูดขึ้นอย่างตื่นเต้น \"มาจอยกันเถอะเพื่อน มาเป็นหนึ่งในจอมโจรล่องหนกัน รู้จักพวกนั้นใช่ไหม? จอมโจรสุภาพบุรุษ ผู้รับใช้ความยุติธรรม... หืม หรือว่าพวกเราจะเหมือนพวกโจรปล้นความยุติธรรมมากกว่านะ?\" ... บางทีเราอาจใช้โอกาสนี้หลอกล่อพวกเขาได้",
+      "options": [
+        {
+          "message": "Pretend to join them.",
+          "messageDesc": "Run a Lust & Sloth Advantage check. Pass to gain Cost.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Refuse.",
+          "messageDesc": "",
+          "result": [
+            "\"You refuse...? You refused us...?\"\n\n\"No, this is better. It is not yet the time for the secrecy of our existence to be revealed.\"\n\n\"I never had any faith in them to begin with!\"\n\n\"Couldn't you have been a tad more careful? They already heard everything! About our purpose!\"\n\nThe voices seem to argue amongst one another for a moment before the figure finally approaches us.\n\n\"Forget we ever had this conversation. It seems that our offer was made in haste, without a proper agreement made even amongst us.\""
+          ]
+        }
+      ]
+    }
+  ]
+}

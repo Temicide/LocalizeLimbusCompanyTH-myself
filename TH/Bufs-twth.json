@@ -1,0 +1,149 @@
+{
+  "dataList": [
+    {
+      "id": "BearClawWound",
+      "name": "Mauled Color [Rouge]",
+      "desc": "- Stack สูงสุด: 9 - เมื่อถูกโจมตี, ได้รับ Bleed Potency 1 หน่วย ต่อทุกๆ 3 Stack (1 ครั้งต่อเทิร์น) - จบเทิร์น: ได้รับ Defense Level Down 1 ระดับ ในเทิร์นถัดไป ต่อทุกๆ 4 Stack (สูงสุด 2) - จบเทิร์น: เสีย 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'บางคนบอกว่าสีของ The Ring ทำมาจากวัสดุพื้นฐานชนิดเดียวกับรอยสักเสริมพลัง—ทั้งคู่เป็นเม็ดสีที่แทบจะลบไม่ออก ซึ่งต้องใช้ความพยายามอย่างมากในการลบ อย่าว่าแต่การฟอกสีเลย'"
+    },
+    {
+      "id": "EagleClawWound",
+      "name": "Mauled Color [Bleu]",
+      "desc": "- Stack สูงสุด: 9 - เมื่อถูกโจมตี, ได้รับ Sinking Potency 1 หน่วย ต่อทุกๆ 3 Stack (1 ครั้งต่อเทิร์น) - จบเทิร์น: เมื่อมี 5+ Stack, เสีย SP 5 หน่วย - จบเทิร์น: เสีย 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'ถ้า The Middle ใช้รอยสักเพื่อเสริมพลังให้ตัวเอง งั้นรอยสักของ The Ring จะเป็นเหมือนตราประทับที่เมื่อถูกบังคับใส่แล้ว จะทำให้ศัตรูอ่อนแอลงหรือเปล่านะ?'"
+    },
+    {
+      "id": "BoldBrushstrokes",
+      "name": "Touche Hardie",
+      "desc": "- ในขณะที่ยูนิตนี้มีเอฟเฟกต์นี้, ความเสียหายจาก HP และ SP ที่ยูนิตนี้ได้รับจาก Bleed และ Sinking จะเพิ่มขึ้นเป็นสองเท่า - จบเทิร์น: เสีย 1 Stack - Stack สูงสุด: 1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"กรงเล็บหมาป่า, กรงเล็บลิงซ์... และแม้แต่ของเต่าที่เล็กจ้อยแต่กลับจัดเรียงได้อย่างประณีต... ช่างเป็นการแสดงออกที่กล้าหาญเสียจริง\""
+    },
+    {
+      "id": "IntenseColors",
+      "name": "Palette Vibrante",
+      "desc": "- ได้รับความเสียหายจากยูนิตฝ่าย The Ring +(Stack x 5)% · หากผู้โจมตีอยู่ในฝ่าย The Ring School of Fauvism, จะได้รับความเสียหาย +(Stack x 10)% แทน - เริ่มการต่อสู้: ได้รับ Bleed, Sinking, Bleed Count และ Sinking Count (Stack +1) หน่วย - จบการต่อสู้: เอฟเฟกต์นี้สิ้นสุดลง ลดจำนวน Stack ของ Mauled Color [Rouge] และ Mauled Color [Bleu] บนยูนิตนี้ลงครึ่งหนึ่ง (ปัดเศษลง) - Stack สูงสุด: 4",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "FaubismWolfMask",
+      "name": "Le Fauvisme - Masque de Loup",
+      "desc": "- Min & Max Speed +1 - มอบ Bleed และ Sinking Potency เพิ่มขึ้น +1 หน่วย ด้วย Skill - ก่อนโจมตี, หากเป้าหมายไม่มี Sinking, มอบ Sinking Count +2 หน่วย (1 ครั้งต่อ Sinner ต่อเทิร์น) - ก่อนถูกโจมตี, หากเป้าหมายไม่มี Bleed, มอบ Bleed Count +2 หน่วย (1 ครั้งต่อ Sinner ต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"บางคนอาจสงสัยว่า: อะไรคือสิ่งที่แยกเหล่า Fauves ออกจากกลุ่มอย่าง Heishous, R Corp, Packs และกลุ่มอื่นๆ ที่นำสัตว์ป่ามาเป็นส่วนหนึ่งของอัตลักษณ์ของตน?\" \"เป็นคำถามที่สมเหตุสมผล และไม่มีข้อกังขาในเรื่องนั้น สำหรับเรื่องนี้ ข้าขอบอกว่าเราแตกต่างตรงที่การยกระดับความดุร้ายของสัตว์ป่าให้กลายเป็นเครื่องแต่งกายทางศิลปะ ในขณะที่พวก Heishous กลับยัดมันเข้าไปในร่างกายอย่างไร้สติ โดยไม่คำนึงถึงคุณค่าทางสุนทรียภาพเลย\""
+    },
+    {
+      "id": "FaubismWolfMaskBlooded",
+      "name": "Le Fauvisme - Masque de Loup Ensanglanté",
+      "desc": "- สร้างความเสียหาย +20%; เปลี่ยน Coin ทั้งหมดให้เป็น Unbreakable Coin - Min & Max Speed +1 - มอบเอฟเฟกต์เชิงลบดังต่อไปนี้เพิ่มขึ้น +1 หน่วย ด้วย Skill · Bleed Potency และ Count · Sinking Potency และ Count - ก่อนโจมตี, หากเป้าหมายไม่มี Sinking, มอบ Sinking Count +2 หน่วย (3 ครั้งต่อ Sinner ต่อเทิร์น) - ก่อนถูกโจมตี, หากเป้าหมายไม่มี Bleed, มอบ Bleed Count +2 หน่วย (3 ครั้งต่อ Sinner ต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "คนเราไม่สามารถปลุกพลังความดุร้ายภายในได้เพียงแค่การสวมหน้ากากสัตว์ป่า ภายในเครื่องหัวที่เหล่าศิลปินเหล่านี้สวมใส่ ถูกบุด้วยแผงเข็มที่ชุบด้วยสี Fauvist ซึ่งจะถูกฉีดเข้าสู่ร่างกายทันทีที่สวมใส่ นี่คือสีแห่ง Ring—และเหล่าศิลปินเหล่านี้ ไม่ว่าจะมาจาก School ใด ต่างก็ถูกผูกมัดให้ต้องใช้มัน"
+    },
+    {
+      "id": "PanicChangeLock",
+      "name": "Fixed Panic",
+      "desc": "Panic Type ของยูนิตนี้จะไม่เปลี่ยนแปลงเมื่อได้รับเอฟเฟกต์ที่เปลี่ยน Panic Type แต่ยูนิตนี้จะได้รับเอฟเฟกต์ที่ส่งผลต่อเป้าหมายที่ไม่มี SP แทน",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Fauvism_Lowmorale",
+      "name": "Faltering Inspiration",
+      "desc": "- Low Morale - หากเป้าหมายที่ยูนิตนี้โจมตีมี Mauled Color, สร้างความเสียหาย +10% - ได้รับ Fragile 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Fauvism_Panic",
+      "name": "Faltering Inspiration",
+      "desc": "- Panic - หากเป้าหมายที่ยูนิตนี้โจมตีมี Mauled Color, สร้างความเสียหาย +20% - ได้รับ Fragile 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FauvismDocent_Lowmorale",
+      "name": "Coloriage Impulsif",
+      "desc": "- Low Morale - สร้างความเสียหาย +2.5% ต่อประเภทของเอฟเฟกต์ด้านลบที่มีอยู่บนเป้าหมายที่ยูนิตนี้โจมตี (สูงสุด 15%) - ได้รับ Fragile 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FauvismDocent_Panic",
+      "name": "Coloriage Impulsif",
+      "desc": "- Panic - สร้างความเสียหาย +5% ต่อประเภทของเอฟเฟกต์ด้านลบที่มีอยู่บนเป้าหมายที่ยูนิตนี้โจมตี (สูงสุด 30%) - ได้รับ Fragile 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptEnemy_0",
+      "name": "Prescript: [Paper Slip] I",
+      "desc": "Attack และโจมตี Sinner - เริ่มเทิร์น: เมื่อมี Grace of the Prescript 0~2 หน่วย, จะได้รับเอฟเฟกต์นี้ - จำนวน Grace of the Prescript สูงสุดที่สะสมได้ด้วย Prescript นี้จำกัดอยู่ที่ 3 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการกำหนดว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "IndexPrescriptEnemy_1",
+      "name": "Prescript: [Paper Slip] II",
+      "desc": "Attack และโจมตี Prescript's Target - เริ่มเทิร์น: เมื่อมี Grace of the Prescript 3~5 หน่วย, จะได้รับเอฟเฟกต์นี้ - จำนวน Grace of the Prescript สูงสุดที่สะสมได้ด้วย Prescript นี้จำกัดอยู่ที่ 6 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการกำหนดว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "IndexPrescriptEnemy_2",
+      "name": "Prescript: [Paper Slip] III",
+      "desc": "ทำให้ Sinner แบบสุ่มติด Stagger หรือกำจัดทิ้ง ไม่ว่าจะโดยคุณหรือพันธมิตร - เริ่มเทิร์น: เมื่อมี Grace of the Prescript 6~8 หน่วย จะได้รับเอฟเฟกต์นี้ - จำนวน Grace of the Prescript สูงสุดที่สะสมได้จาก Prescript นี้จำกัดอยู่ที่ 9 หน่วย",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการกำหนดว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "IndexPrescriptEnemy_3",
+      "name": "Prescript: [Paper Slip] IV",
+      "desc": "กำจัดศัตรูทั้งหมดก่อนที่ Prescript ถัดไปจะมาถึง - เริ่มเทิร์น: เมื่อมี Grace of the Prescript 9 หน่วย จะได้รับเอฟเฟกต์นี้",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescripts ถูกส่งมาด้วยหลากหลายวิธีการ โดยสื่อกลางที่ใช้ถูกกำหนดไว้อย่างเด็ดขาดราวกับคำพยากรณ์จากเทพเจ้า ผู้ที่ได้รับมันไม่มีอำนาจในการกำหนดว่ามันจะมาถึงได้อย่างไร"
+    },
+    {
+      "id": "KarmaOfIndexEnemy",
+      "name": "Karmic Consequence",
+      "desc": "- เริ่มเทิร์น: · ได้รับ Defense Level Down 1 ระดับ ต่อทุกๆ 10 Stack · ได้รับ Fragile 1 หน่วย ต่อทุกๆ 20 Stack - Stack สูงสุด: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "รับ Prescript และดำเนินการตามนั้น การปฏิบัติของมันจะถูกสลักไว้เป็นกรรม ถูกดึงเข้าสู่กงล้อที่ไม่สิ้นสุดซึ่งจะวนกลับมาสู่มือของผู้ปฏิบัติในท้ายที่สุด"
+    },
+    {
+      "id": "ResentmentSpiderDaughterTwo",
+      "name": "<s>The Middle</s> - Grudge",
+      "desc": "- Stack สูงสุด: 10 - ลดลงเมื่อใช้ Skill บางอย่าง - ทุกๆ 1 Stack, Offense Level +1, Defense Level -2 และ Counter Skill สร้างความเสียหาย +5% - เมื่อ Stack สูงสุด จะได้รับความเสียหาย +20%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ReinforcedTattooSpiderDaughterTwo",
+      "name": "รอยสักเสริมพลัง <s>The Middle Styled</s>",
+      "desc": "- Stack สูงสุด: 3 - สร้างความเสียหาย Blunt และ Envy +10%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireOnSpiderTwo",
+      "name": "Thermal Blades ON",
+      "desc": "เมื่อโจมตีโดนด้วย Thermal Blade Skill Coin: มอบ Burn Potency และ Count เพิ่มเติม โดยมีค่าเท่ากับ Bleed Potency และ Count ที่มอบให้",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

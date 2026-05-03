@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": "battleTip_none",
+      "content": "(ดัมมี่)"
+    },
+    {
+      "id": "battleTip_10937_1",
+      "content": "ตรวจสอบให้แน่ใจว่า Hohenheim และ Alyssa จะไม่ถูกกำจัดก่อน Sinners"
+    },
+    {
+      "id": "battleTip_10937_2",
+      "content": "แนะนำให้เน้นไปที่ Skill ของ Ring Nursefather ในส่วนของ Clash ที่ต้องเอาชนะให้ได้"
+    },
+    {
+      "id": "battleTip_10937_3",
+      "content": "Skill อันทรงพลังของ Ring Nursefather และ Apprentice ของเขาสามารถทำให้ลดทอนลงได้ก่อนที่จะทำการ Clash"
+    },
+    {
+      "id": "battleTip_10943_1",
+      "content": "แนะนำให้ลองทำการ Clash ด้วย Skill ที่เอาชนะได้ง่ายกว่า"
+    },
+    {
+      "id": "battleTip_10943_2",
+      "content": "ลองจัดลำดับความสำคัญในการกำจัดศัตรูที่มี HP ต่ำก่อน"
+    },
+    {
+      "id": "battleTip_10938_1",
+      "content": "Nursefather เป็นศัตรูที่รับมือได้ยากสำหรับ Sinners"
+    },
+    {
+      "id": "battleTip_10938_2",
+      "content": "สิ่งสำคัญคือต้องใช้ Assist Defense ของ Vespa และ Ezra ให้เป็นประโยชน์"
+    },
+    {
+      "id": "battleTip_10942_phase1_1",
+      "content": "ใช้ Sinners เพื่อ Clash กับ Skill ของ The Thumb Apprentice เพื่อลดทอนความรุนแรงของ Skill อันทรงพลังของเขา"
+    },
+    {
+      "id": "battleTip_10942_phase1_2",
+      "content": "ลด HP ของ The Thumb Apprentice ให้เหลือต่ำกว่าครึ่ง"
+    },
+    {
+      "id": "battleTip_10942_phase2_1",
+      "content": "The Thumb Apprentice กำลังขัดขวางการโจมตีของ Assist Units แนะนำให้เน้นการโจมตีของ Sinners ไปที่ The Thumb Apprentice ก่อน"
+    },
+    {
+      "id": "battleTip_10942_phase2_2",
+      "content": "เมื่อถูกโจมตี The Thumb Nursefather จะใช้ Stack \"Eye of Precognition\" เพื่อหลบหลีก สิ่งสำคัญคือต้องให้พันธมิตรที่ไม่ใช่ Sinner คอยลด Stack Eye of Precognition ของเธออย่างต่อเนื่อง"
+    },
+    {
+      "id": "battleTip_10942_phase2_3",
+      "content": "คุณไม่สามารถเปลี่ยนเป้าหมาย Skill อันทรงพลังของ The Thumb Nursefather ได้ จงลด Eye of Precognition ของเธอให้ได้มากที่สุดก่อนที่ Skill จะทำงาน ยิ่งเธอมี Stack Eye of Precognition น้อยเท่าไหร่ Skill นั้นก็จะยิ่งอ่อนแอลงเท่านั้น"
+    },
+    {
+      "id": "battleTip_10944_1",
+      "content": "สิ่งสำคัญคือต้องใช้ Assist Defense ของ Vespa และ Ezra ให้เป็นประโยชน์"
+    },
+    {
+      "id": "battleTip_10944_2",
+      "content": "วางกลยุทธ์ให้เหมาะสมและใช้โอกาสในการทำให้ศัตรู Stagger ด้วย Unopposed Attack"
+    },
+    {
+      "id": "battleTip_10944_3",
+      "content": "เมื่อศัตรูถูกต้อนจนมุมและแข็งแกร่งขึ้น ให้เน้นไปที่การถ่วงเวลามากกว่าการเอาชนะ Clash และรอให้ Assist Units ใช้ไพ่ตายของพวกเขา"
+    },
+    {
+      "id": "battleTip_10945_1",
+      "content": "ยิ่ง The Roach Emperor ชนะ Clash กับ Sinners มากเท่าไหร่ เขาก็จะยิ่งอ่อนแอลงเท่านั้น อย่างไรก็ตาม การปล่อยให้ Sinners รับมือกับ Skill ทั้งหมดของเขาเพียงลำพังถือเป็นการตัดสินใจที่เสี่ยงมาก"
+    },
+    {
+      "id": "battleTip_10945_2",
+      "content": "จำนวน Stack ของ \"Hurting Pest [Roaches]\" สามารถลดลงได้โดยการปล่อยให้ Skill \"Emperor's Devouring\" ของ The Roach Emperor โจมตีคุณ"
+    },
+    {
+      "id": "battleTip_10945_3",
+      "content": "Skill ประเภท Excision Coin ของ The Roach Emperor จะรุนแรงขึ้นมากเมื่อใช้กับ Skill ที่มี Unbreakable Coin"
+    },
+    {
+      "id": "battleTip_10941_1",
+      "content": "ตรวจสอบ Sinners ที่สามารถ Clash ใส่ Skill 'Destinated Opponent' ด้วย Skill Attack ที่เหมาะสม เพื่อสะสมความเสียหายใส่ The Pinky Nursefather"
+    },
+    {
+      "id": "battleTip_10941_2",
+      "content": "ขึ้นอยู่กับสถานการณ์ สิ่งสำคัญคือต้องวางแผนเฉพาะหน้าและตัดสินใจว่าควร Clash Skill ไหนของ The Pinky Nursefather ก่อน"
+    },
+    {
+      "id": "battleTip_10948_1",
+      "content": "The Pinky Nursefather จะเริ่มบุกหากคุณเป็นฝ่ายได้เปรียบ และจะเปลี่ยนเป็นตั้งรับหากเธอเป็นฝ่ายได้เปรียบ"
+    },
+    {
+      "id": "battleTip_10948_2",
+      "content": "วางกลยุทธ์โดยเน้นการเอาชีวิตรอดจากการโจมตีของ The Pinky Nursefather และค่อยๆ ลดพลังชีวิตของเธอลงทีละนิด"
+    },
+    {
+      "id": "battleTip_10949_1",
+      "content": "ให้ความสำคัญกับการทำให้ เมอร์โซ และ อูทิส รอดชีวิตจากการต่อสู้ มากกว่าการกำจัด Sora และ Ren ซึ่งเป็น Apprentice ทั้งสองคน"
+    },
+    {
+      "id": "battleTip_10949_2",
+      "content": "ในทุกเทิร์น เรียวชู จะโจมตีศัตรูคนใดคนหนึ่งจากสองคนนี้—ไม่ว่าจะเป็น The Index Apprentice หรือ The Pinky Apprentice"
+    },
+    {
+      "id": "battleTip_10949_3",
+      "content": "อาจจะเป็นการดีถ้าปล่อยให้ เรียวชู จัดการกับ Apprentice คนหนึ่ง ในขณะที่ Sinners รุมโจมตีอีกคน"
+    },
+    {
+      "id": "battleTip_10950_1",
+      "content": "The Index Nursefather จะได้รับ Karmic Consequence เมื่อเขาไม่สามารถปฏิบัติตาม Prescripts ได้ การเพิ่ม Stack ของ Karmic Consequence จะทำให้ค่าสถานะต่างๆ ของเขาอ่อนแอลง รวมถึงค่าพลัง Clash ด้วย"
+    },
+    {
+      "id": "battleTip_10950_2",
+      "content": "ในช่วงรูปแบบการโจมตีพิเศษ คุณจำเป็นต้องมี Skill ที่มีค่า Clash สูงในทั้งสาม Attack Type ได้แก่ Slash, Pierce และ Blunt ขอแนะนำให้เตรียม Skill E.G.O ที่มีค่า Clash สูงในแต่ละ Attack Type ไว้"
+    },
+    {
+      "id": "battleTip_10950_3",
+      "content": "เมื่อค่า HP ต่ำ The Index Nursefather จะใช้ Skill ทรงพลังที่มีค่า Power สูงมาก Base E.G.O ของ เรียวชู อย่าง \"Forest for the Flames\" อาจจะมีประสิทธิภาพในการรับมือกับการโจมตีนี้"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPcBe",
+      "name": "ความโศกเศร้าอันลึกล้ำ",
+      "desc": "สร้างความเสียหาย SP 5 หน่วย เมื่อสิ้นสุด Attack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBf",
+      "name": "ความทุกข์ที่ถูกพันธนาการ",
+      "desc": "ภายใต้เงื่อนไขที่กำหนด และเมื่อมี Value 3+ หน่วย, Part ทั้งหมดจะติด Staggered ในเทิร์นถัดไป ผลนี้จะหมดลงหลังจากมอบ Fragile ให้กับ Chain Part ครบ 3 ครั้ง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBg",
+      "name": "เป้าหมายแห่งโทสะ",
+      "desc": "กลายเป็นเป้าหมายโจมตีลำดับแรกของ Heathcliff the Heartbroken เมื่อยูนิตนี้ถูกกำจัด เอฟเฟกต์นี้จะย้ายไปยัง Identity อื่น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBb",
+      "name": "ตราประทับของพ่อบ้าน",
+      "desc": "ใช้เพื่อเพิ่ม Atk Weight ของ Skill Attack บางอย่าง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBc",
+      "name": "เทคนิค Bind",
+      "desc": "- สูงสุด 3 - จบเทิร์น: เพิ่มขึ้น 1 หน่วย - จบเทิร์น: ได้รับ Bind ตาม Value ของเอฟเฟกต์นี้ - จบเทิร์น: หากมี Value 3 หน่วย จะติด Staggered ตลอดช่วงที่เหลือของการ Encounter เอฟเฟกต์นี้ไม่มีวันหมดอายุ",
+      "summary": "ได้รับ Bind ตาม Value ในเทิร์นถัดไป หากมี Value 3 หน่วย จะติด Staggered ตลอดช่วงที่เหลือของการ Encounter",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBh",
+      "name": "ความโกรธเกรี้ยวอันแสนทรมาน",
+      "desc": "หากผู้โจมตีมี Explosive Wrath จะได้รับความเสียหาย +100%",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBm",
+      "name": "สายฟ้าแห่งความทุกข์ระทม",
+      "desc": "- Clash ชนะ: มอบ Breaking Heart และสร้างความเสียหาย HP 7 หน่วย - Clash แพ้ หรือ หลังจากการโจมตีแบบ Unopposed Attack: ได้รับ Breaking Heart และได้รับความเสียหาย HP 7 หน่วย - ลดลง 1 หน่วย เมื่อสิ้นสุด Skill",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBn",
+      "name": "หัวใจที่แตกสลาย",
+      "desc": "- เพิ่มความต้านทาน Sin Affinity ทุกรูปแบบตาม (Value x 0.2) - เมื่อ Value ถึง 3 จะติด Staggered",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBp",
+      "name": "ความกล้าที่จะเข้าหา",
+      "desc": "- จบเทิร์น: ฟื้นฟู SP 10 หน่วย - ได้รับ Power Up Attack 3 หน่วย และ Protection 5 หน่วย ทุกเทิร์น - เมื่อถูกโจมตี ฟื้นฟู SP 5 หน่วย และได้รับ Offense Level Up 1 ระดับในเทิร์นถัดไป (สูงสุด 3 ครั้งต่อเทิร์น) - เริ่มเทิร์น: หากมี SP น้อยกว่า 0 จะได้รับ Power Up Attack 3 หน่วย - ตราบใดที่มีพันธมิตรคนอื่นเหลือรอดอย่างน้อย 1 คนในการต่อสู้ครั้งนี้ HP ของ Heathcliff จะไม่ลดลงต่ำกว่า 1 ความสามารถในการถอยทัพ (Retreat) ของยูนิตนี้จะไม่ทำงานตลอดการต่อสู้ครั้งนี้",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBo",
+      "name": "ความมุ่งมั่น",
+      "desc": "- จบเทิร์น: ฟื้นฟู SP 10 หน่วย - เมื่อถูกโจมตี จะได้รับ Offense Level Up 1 ระดับในเทิร์นถัดไป (สูงสุด 3 ครั้งต่อเทิร์น) - เริ่มเทิร์น: หากมี SP น้อยกว่า 0 จะได้รับ Power Up Attack 3 หน่วย - ตราบใดที่มีพันธมิตรคนอื่นเหลือรอดอย่างน้อย 1 คนในการต่อสู้ครั้งนี้ HP ของ Heathcliff จะไม่ลดลงต่ำกว่า 1 ความสามารถในการถอยทัพ (Retreat) ของยูนิตนี้จะไม่ทำงานตลอดการต่อสู้ครั้งนี้",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBq",
+      "name": "ใจสลาย",
+      "desc": "- Max Speed +2 - ได้รับ Damage Up 3 หน่วย และ Fragile 3 หน่วย ทุกเทิร์น - หากเป้าหมายหลักคือ Heathcliff สกิล Attack จะได้รับ Final Power +2 - เมื่อ Clash แพ้ต่อ Heathcliff: จะได้รับ Bind 3 หน่วย และ Damage Down 3 หน่วยในเทิร์นถัดไป",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBr",
+      "name": "ขอให้เธอ... ตื่นขึ้นในความทรมาน!",
+      "desc": "Clash Power -6 ในการ Clash ต่อเป้าหมายที่มี Lightning of Suffering",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBi",
+      "name": "Superthermogenesis",
+      "desc": "จบเทิร์น: ได้รับความเสียหายคงที่ตามจำนวน Stack และลบเอฟเฟกต์นี้ออก",
+      "undefined": "-"
+    },
+    {
+      "id": "Unobservable",
+      "name": "ไม่สามารถสังเกตได้",
+      "desc": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBs",
+      "name": "ไปให้พ้น",
+      "desc": "ค่า Shield ที่เหลือ",
+      "undefined": "-"
+    },
+    {
+      "id": "RageResonance",
+      "name": "ความโกรธเกรี้ยวที่ถูกยึดครอง",
+      "desc": "จบเทิร์น: เพิ่ม Offense Level {0} ในเทิร์นถัดไป (เอฟเฟกต์จะรุนแรงขึ้นในทุกๆ เทิร์น)",
+      "undefined": "-"
+    }
+  ]
+}

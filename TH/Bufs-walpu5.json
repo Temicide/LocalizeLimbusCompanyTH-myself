@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "Smoke",
+      "name": "Smoke",
+      "desc": "- Potency สูงสุด: 10 - Count สูงสุด: 5 - เมื่อมี Potency 9+ หน่วย, Final Power +1 - ได้รับความเสียหาย +5% ต่อ Potency 1 หน่วย - จบเทิร์น: เสีย 1 Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Church_LowMorale",
+      "name": "The Church",
+      "desc": "- Low Morale - ได้รับ Smoke หรือ Smoke Count เพิ่มขึ้น 1 หน่วย เมื่อได้รับสถานะดังกล่าว - เริ่มเทิร์น: ได้รับ Fragility 3 หน่วย, Damage Up 2 หน่วย และ Defense Power Up 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Church_Panic",
+      "name": "The Church",
+      "desc": "- Panic - ได้รับ Smoke หรือ Smoke Count เพิ่มขึ้น 2 หน่วย เมื่อได้รับสถานะดังกล่าว - เริ่มเทิร์น: ได้รับ Fragility 3 หน่วย, Damage Up 4 หน่วย และ Defense Power Up 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeatGearForce",
+      "name": "Meat Gear: Coercion",
+      "desc": "- HP จะไม่ลดลงต่ำกว่า 1 HP ในระหว่าง Combat Phase - ยูนิตนี้จะตายหากมี HP 1 หน่วย เมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AllSetForShooting",
+      "name": "Ready to Fire",
+      "desc": "- Skill Slot +1 - ปรับเปลี่ยน Skill pool: ได้รับการใช้งาน Skill 3 เพิ่มขึ้น 1 ครั้ง แต่เสียการใช้งาน Skill 1 ไป 1 ครั้ง - สร้างความเสียหาย +10% ต่อทุกๆ Ammo ที่ Base Attack Skill ใช้ - Attack Skill ที่ได้รับ Ammo จะสร้างความเสียหาย +10% ต่อทุกๆ Magic Bullet (มีผลกับอันที่เพิ่มความเสียหายได้สูงสุด) - เมื่อสังหารศัตรูด้วย Skill: ฟื้นฟู SP 25 หน่วย ให้กับพันธมิตร 2 คน (รวมตัวเอง) ที่มี SP น้อยที่สุด; ได้รับทรัพยากร E.G.O +2 หน่วย สำหรับ Affinity ของ Skill ที่สังหารเป้าหมาย; ได้รับทรัพยากร E.G.O +1 หน่วย สำหรับ Affinity อื่นๆ ทั้งหมด",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

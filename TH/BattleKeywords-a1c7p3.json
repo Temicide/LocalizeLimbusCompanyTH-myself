@@ -1,0 +1,263 @@
+{
+  "dataList": [
+    {
+      "id": "BloodyHand_2nd",
+      "name": "Bloodied Hand II",
+      "desc": "- เอฟเฟกต์ใดก็ตามที่ทำให้ได้รับ Bloodied Hand จะได้รับเอฟเฟกต์นี้แทน - ค่าสูงสุด: 20 - ค่าเริ่มต้น: 10 - เพิ่ม Offense Level 1 ระดับ ต่อทุกๆ 6 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHand_3rd",
+      "name": "Bloodied Hand III",
+      "desc": "- เอฟเฟกต์ใดก็ตามที่ทำให้ได้รับ Bloodied Hand จะได้รับเอฟเฟกต์นี้แทน - ค่าสูงสุด: 30 - ค่าเริ่มต้น: 20 - เพิ่ม Attack Power 1 หน่วย - เมื่อมี 30 Stack: เมื่อโจมตีด้วย Skill ของยูนิตนี้ จะสร้าง Rupture เพิ่มเติม 2 หน่วย และ +1 Rupture Count - เมื่อมี 30 Stack: เมื่อโจมตีด้วย Skill ของยูนิตนี้ จะสร้าง Bleed 3 หน่วย ทั้งกับตัวเองและเป้าหมาย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WornHeart",
+      "name": "Ailing Heart",
+      "desc": "- Stack สูงสุด: 10 - เริ่มการต่อสู้ด้วย 3 Stack - เริ่มเทิร์น: ลด Defense Level 1 ระดับ ต่อทุกๆ 1 Stack - เริ่มเทิร์น: เพิ่ม Offense Level 1 ระดับ ต่อทุกๆ 2 Stack - เริ่มเทิร์น: เมื่อมี 10 Stack จะได้รับ Fragile 3 หน่วย และเสีย SP 5 หน่วย - เมื่อมี 10 Stack: เมื่อโจมตี จะฟื้นฟู HP 40% ของความเสียหายที่ทำได้ให้กับ Part และ Core ของยูนิตนี้ และได้รับ Bloodied Hand 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingPriestTwo",
+      "name": "Withered",
+      "desc": "- หิวกระหายเลือดมาเป็นเวลานานแสนนาน - ลด Base Offense Level 25 ระดับ - ลด Base Defense Level 25 ระดับ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Guilt_LowMorale",
+      "name": "Guilt",
+      "desc": "จบเทิร์น: ได้รับ Fragile 1 หน่วย และ SP Heal Efficiency Down ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Guilt_Panic",
+      "name": "Guilt",
+      "desc": "จบเทิร์น: ได้รับ Fragile 2 หน่วย และ SP Heal Efficiency Down ในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MentalIncreaseDown",
+      "name": "SP Heal Efficiency Down",
+      "desc": "ประสิทธิภาพการฮีลของ SP จะลดลงตามจำนวน Stack ของเอฟเฟกต์",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AffectionTeddy",
+      "name": "Attachment",
+      "desc": "- ค่าสูงสุด: 9 - เมื่อ Attacker โจมตีเป้าหมายที่มีเอฟเฟกต์นี้ Attacker จะได้รับ Clash Power เท่ากับจำนวน Stack - จบเทิร์น: ลดลง 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaintMemory",
+      "name": "ความทรงจำอันเลือนลาง",
+      "desc": "- ค่าพื้นฐาน: 10 - เริ่มเทิร์น: ได้รับ Level Up ของ Defense ตามจำนวน Stack - Clash Lose: ลดลง 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CursePackage",
+      "name": "กล่องคำสาป",
+      "desc": "- ค่าสูงสุด: 1 - จบเทิร์น: ได้รับ Power Down ของ Attack 1 หน่วย, Power Down ของ Defense 1 หน่วย, Offense Level Down 2 หน่วย, Defense Level Down 2 หน่วย และลดจำนวน Stack ของเอฟเฟกต์นี้ลง 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TinyCarmilla",
+      "name": "Little Carmilla",
+      "desc": "- Stack สูงสุด: 3 - ได้รับ Bleed 2 หน่วย ทุกครั้งที่ยูนิตนี้ได้รับ Little Carmilla - จบเทิร์น: ได้รับ Bleed Count +2 - จบเทิร์น: เมื่อมี 3 Stack จะได้รับความเสียหายคงที่เท่ากับ 15% ของ HP สูงสุดของยูนิตนี้, ฮีล HP เท่ากับ 5% ของ HP สูงสุดของศัตรูแต่ละตัว จากนั้นเอฟเฟกต์นี้จะหมดลง",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OneDropNutrition",
+      "name": "หยาดหยดแห่งการบำรุง",
+      "desc": "- Stack สูงสุด: 10 - ได้รับ 1 Stack ทุกครั้งที่ยูนิตนี้ฮีล HP 10% ของค่าสูงสุด ด้วย Attack ที่ฮีล HP - แสดง % ของ HP ที่ฮีล",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornNoose",
+      "name": "บ่วงบาศหนาม",
+      "desc": "- Stack สูงสุด: 3 - จบเทิร์น: ได้รับ Rupture 2 หน่วย และ Rupture Count +2 - จบเทิร์น: เมื่อมี 1+ Stack จะล็อก Speed ของยูนิตนี้ไว้ที่ 1 - จบเทิร์น: เมื่อมี 2 Stack จะได้รับความเสียหาย Gluttony 20 หน่วย - จบเทิร์น: เมื่อมี 3 Stack จะถูกบังคับให้ติด Stagger ในเทิร์นถัดไป เอฟเฟกต์นี้และ Barbed Lasso ที่เชื่อมกันจะหมดลงทั้งคู่ - ได้รับ 1 หน่วยเมื่อเริ่มเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SwirlingBlood",
+      "name": "【Bloodfiend】ระยิบระยับ",
+      "desc": "- ขณะที่เอฟเฟกต์นี้ทำงาน: เมื่อยูนิตนี้ได้รับความเสียหาย Attacker จะได้รับ Bleed 5 หน่วย เมื่อจบ Attack - ขณะที่เอฟเฟกต์นี้ทำงาน: Shield HP จะไม่หมดลงเมื่อจบเทิร์น - เมื่อบรรลุเงื่อนไข จะได้รับ Fragile 3 หน่วย จนกว่าเอฟเฟกต์นี้จะหมดลงหรือยูนิตนี้เปลี่ยนรูปแบบใหม่",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor",
+      "name": "Hardblood",
+      "desc": "- ค่าสูงสุด: 10 - Hardblood ระดับ 1 - ใช้สำหรับ Skill พิเศษ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor_2nd",
+      "name": "Hardblood II",
+      "desc": "- ค่าสูงสุด: 20 - Hardblood ระดับ 2 - เริ่มเทิร์น: ได้รับ Offense Level 1 หน่วย และ Defense Level 1 หน่วย ต่อทุกๆ 6 Stack - เพิ่มค่า Min & Max Speed ขึ้น 1 - ใช้สำหรับ Skill พิเศษ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor_3rd",
+      "name": "Hardblood III",
+      "desc": "- ค่าสูงสุด: 30 - Hardblood ระดับ 3 - เริ่มเทิร์น: ได้รับ Offense Level 2 หน่วย และ Defense Level 2 หน่วย ต่อทุกๆ 6 Stack - เพิ่มค่า Min & Max Speed ขึ้น 2 - ใช้สำหรับ Skill พิเศษ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Dreamy",
+      "name": "Dreamy Hesitation",
+      "desc": "- ลด Base Offense Level 35 หน่วย - ลด Base Defense Level 35 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner_Common_Accumulation",
+      "name": "Bloodfeast Consumed (shared)",
+      "desc": "จำนวน Bloodfeast ทั้งหมดที่ถูกใช้ในการ Encounter นี้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThirstyRose",
+      "name": "Polydipsic Rose",
+      "desc": "- ค่าสูงสุด: 5 - จบเทิร์น: เมื่อมี Bleed Potency 10+ หน่วย, ได้รับความเสียหาย Lust เท่ากับ 1% ของค่าสูงสุด HP ของยูนิตนี้ (สูงสุด 30) - จบเทิร์น: ลดลง 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RoseWedge",
+      "name": "Rose Wedge",
+      "desc": "- Potency สูงสุด: 10 - Count สูงสุด: 4 - ได้รับ 1 Potency ทุกครั้งที่ยูนิตนี้ได้รับความเสียหาย Bleed 10 หน่วย - เมื่อได้รับ Bleed หรือ 'Unique Bleed' จากการถูกโจมตี, ได้รับ Bleed 2 หน่วย และสร้าง Bleed 1 หน่วย แก่ Attacker (สูงสุด 5 ครั้งต่อเทิร์น) · เมื่อมี 10 Potency, จะได้รับ Bleed Count +1 หน่วย ด้วยเมื่อเกิดเอฟเฟกต์ข้างต้น - จบเทิร์น: ลด 1 Count - จบการต่อสู้: เมื่อมี 10 Potency หรือ 1 Count เอฟเฟกต์นี้จะหมดลง และยูนิตนี้จะได้รับความเสียหาย Lust (Potency x 10) - หากยูนิตที่ติดเอฟเฟกต์นี้ตาย หรือเมื่อเอฟเฟกต์นี้หมดลง: เพิ่ม Bloodfeast (Potency x 10) และสร้างความเสียหาย Lust (Potency x 2) แก่พันธมิตรทั้งหมดของยูนิตนั้น (ขั้นต่ำ 1)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FerrisWheel",
+      "name": "The Endless Wheel",
+      "desc": "ลดลง 1 หน่วย ทุกครั้งที่ Gondola ถูกกำจัด หากค่านี้เป็น 0 และไม่มียูนิตที่จะเกิดในเทิร์นถัดไป จะเข้าสู่เฟสถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDonqui",
+      "name": "Starved and Withered",
+      "desc": "- ลด Base Offense Level 10 หน่วย - ลด Base Defense Level 10 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength",
+      "name": "Returning Bloodlust",
+      "desc": "- ค่าสูงสุด: 10 - Returning Bloodlust ขั้นที่ 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength_2nd",
+      "name": "Returning Bloodlust II",
+      "desc": "- ค่าสูงสุด: 20 - Returning Bloodlust ขั้นที่ 2 - เริ่มเทิร์น: ได้รับ Offense Level up 1 หน่วย และ Defense Level Up 1 หน่วย ต่อทุกๆ 5 Value - Clash Power +1 ให้กับสกิลที่ใช้ Returning Bloodlust; มอบ Potency และ Count ของ Bleed และ Rupture เพิ่มขึ้น +1 หน่วย จากสกิลดังกล่าว",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength_3rd",
+      "name": "Returning Bloodlust III",
+      "desc": "- ค่าสูงสุด: 30 - Returning Bloodlust ขั้นที่ 3 - เริ่มเทิร์น: ได้รับ Offense Level up 2 หน่วย และ Defense Level Up 1 หน่วย ต่อทุกๆ 5 Value - Coin Power +1 ให้กับสกิลที่ใช้ Returning Bloodlust; มอบ Potency และ Count ของ Bleed และ Rupture เพิ่มขึ้น +1 หน่วย จากสกิลดังกล่าว",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeightOfResponsibility_LowMorale",
+      "name": "ถึงเวลาต้องละทิ้งความฝันแล้ว...",
+      "desc": "- ขวัญกำลังใจต่ำ - ได้รับ Attack Power Up 2 หน่วย และ Fragile 1 หน่วย; เพิ่มค่า Speed สูงสุด 2 หน่วย - ฟื้นฟู HP เพิ่มขึ้น +30% เมื่อทำการฮีล - จบเทิร์น: หากค่า Returning Bloodlust ปัจจุบันต่ำกว่าค่าตอนเริ่มเทิร์น จะได้รับ Offense Level Up 2 หน่วย และ Defense Level Down 2 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeightOfResponsibility_Panic",
+      "name": "... เพื่อครอบครัว ในฐานะพ่อ...",
+      "desc": "- ตื่นตระหนก - ได้รับ Attack Power Up 2 หน่วย, Haste 2 หน่วย และ Fragile 2 หน่วย - ฟื้นฟู HP เพิ่มขึ้น +50% เมื่อทำการฮีล - จบเทิร์น: หากค่า Returning Bloodlust ปัจจุบันต่ำกว่าค่าตอนเริ่มเทิร์น จะได้รับ Offense Level Up 3 หน่วย และ Defense Level Down 5 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Precarious",
+      "name": "ความฝันที่ไร้ความรับผิดชอบ",
+      "desc": "ถูกฆ่าเมื่อถูก Don Quixote โจมตี",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Penetration",
+      "name": "เลือดที่แข็งตัว",
+      "desc": "ไม่สามารถเคลื่อนไหวได้เป็นเวลา 2 เทิร์น; จะมียูนิต Impaling Spear ปรากฏขึ้นเหนือพันธมิตร",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DecreamentalDefense",
+      "name": "อาการบาดเจ็บสาหัส",
+      "desc": "- ยังไม่ฟื้นตัวจากบาดแผลที่ได้รับในการต่อสู้ครั้งก่อน - ลด max HP ลงอย่างมาก - เริ่มเทิร์น: Defense Level Down 1 หน่วย ตามจำนวนเทิร์นที่สะสม (สูงสุด 15)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDream",
+      "name": "ว่าด้วยการเล่าขานถึงการปลดปล่อย HE จากสายเลือดที่เข้มข้นยิ่งกว่าน้ำ",
+      "desc": "- ทุกครั้งที่จบเทิร์น: ได้รับ Haste 1 หน่วย และ Offense Level Up 3 หน่วยในเทิร์นถัดไป - ได้รับ Offense Level Up เพิ่มเติม 2 หน่วย ทุกๆ 3 เทิร์นที่สะสม (สูงสุด 6) - เมื่อ Clash ชนะ, ฟื้นฟู SP 3 หน่วย - เมื่อสังหาร, ได้รับ Clash Power Up 1 หน่วยในเทิร์นถัดไป (หนึ่งครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SanchoMind_LowMorale",
+      "name": "ความปิติในการเข่นฆ่าที่ตื่นขึ้นอีกครั้ง",
+      "desc": "- ขวัญกำลังใจต่ำ ได้รับ Attack Power Up 2 หน่วยทุกครั้งที่เริ่มเทิร์น; +2 SP Efficiency",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SanchoMind_Panic",
+      "name": "ความปิติในการเข่นฆ่าที่ตื่นขึ้นอีกครั้ง",
+      "desc": "- ตื่นตระหนก เริ่มเทิร์น: ได้รับ Defense Level Up 6 หน่วย และได้รับ Offense Level Up 3 หน่วยในเทิร์นถัดไป",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHope",
+      "name": "ซึ่งกล่าวถึงรถบัสของ HE, สหายของ HE และการผจญภัยของ HE",
+      "desc": "ได้รับ Clash Power ตามจำนวนค่าที่ระบุ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeTwo",
+      "name": "ถึงการที่ Sancho, Don Quixote ของเรา ปฏิเสธที่จะยุติความฝันของ HE",
+      "desc": "Clash Power +4 ตามจำนวนค่าที่ระบุ ใช้ Shield กับตนเองและพันธมิตรทั้งหมดเมื่อเริ่มการต่อสู้",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConfinementOfGoldenBranch",
+      "name": "การตัดสินชี้ขาดโดยบังคับของ Golden Bough",
+      "desc": "- เสีย Base Offense Level 30 หน่วย - เสีย Base Defense Level 30 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

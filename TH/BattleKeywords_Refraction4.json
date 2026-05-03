@@ -1,0 +1,142 @@
+{
+  "dataList": [
+    {
+      "id": "UninvitedGuest",
+      "name": "ผู้บุกรุก",
+      "desc": "เมื่อ Identity ที่มี ผู้บุกรุก ถูกกำจัด จะเปลี่ยนเป็น Identity อื่นที่ไม่มี ผู้บุกรุก",
+      "summary": ""
+    },
+    {
+      "id": "ConnectedPlug",
+      "name": "Plugged In",
+      "desc": "จบเทิร์น: - สูงสุด 3 - เมื่อมี 3 หน่วย, จะติด Staggered ในเทิร์นถัดไป - เมื่อมี 3 หน่วย, ใช้ Charge ทั้งหมดของตัวเอง",
+      "summary": ""
+    },
+    {
+      "id": "AntiSheepGround",
+      "name": "Anti-Ovine Grounding Plug",
+      "desc": "- สูงสุด 1 - เมื่อยูนิตที่อยู่ภายใต้เอฟเฟกต์นี้ชนะ Clash ต่อสกิล 'Grounding Refusal', มอบ 1 Plugged In แก่เป้าหมาย - ลด Charge Count ของเป้าหมายลงครึ่งหนึ่ง - หมดผลในเทิร์นถัดไป",
+      "summary": ""
+    },
+    {
+      "id": "ThundercloudFormation",
+      "name": "Gathering Lightning Cloud",
+      "desc": "- สูงสุด 5 - เมื่อมีค่าเป็น 1, ใช้สกิลที่ทรงพลัง - ลดลง 1 หน่วยเมื่อจบเทิร์น ได้รับ 1 หน่วยเมื่อติด Staggered",
+      "summary": ""
+    },
+    {
+      "id": "BandageOfTheBoundKing",
+      "name": "Bandages of the King in Binds",
+      "desc": "เมื่อถูกกำจัด, มอบ 2 Sinking Potency และ 1 Count แก่ศัตรูทั้งหมด มอบ Bandages of the King in Binds แก่เป้าหมายที่กำจัดยูนิตนี้ หากเป้าหมายดังกล่าวมีเอฟเฟกต์นี้อยู่แล้ว หรือไม่มีเป้าหมายดังกล่าว ให้มอบแก่ศัตรูแบบสุ่มที่ไม่มีเอฟเฟกต์นี้แทน",
+      "summary": ""
+    },
+    {
+      "id": "ComeForwardToTheKing",
+      "name": "Moment of Audience",
+      "desc": "เพิ่ม Atk Weight ตามค่าที่ระบุให้กับทุก Attack Skill ของยูนิตนี้ (สูงสุด 2) Clash Lose: ได้รับ 1 Fragile ในเทิร์นถัดไป",
+      "summary": ""
+    },
+    {
+      "id": "RefractedWill",
+      "name": "Refracted Determination",
+      "desc": "ลดจำนวน SP ที่เสียไปลงครึ่งหนึ่งเมื่อพันธมิตรถูกกำจัด ตาม 'Base factors decreasing Sanity(SP)' ของ Identity (ปัดเศษลง)",
+      "summary": ""
+    },
+    {
+      "id": "VioletPeccatulumTwo",
+      "name": "Peccatulum Invidiae ระดับ 2",
+      "desc": "- ความเสียหายที่ทำได้ +15% - ความเสียหายที่ได้รับ -15% - ยูนิตที่มีเอฟเฟกต์นี้จะถูกทำเครื่องหมายโดย Peccatulum Invidiae - ออร่า ระดับ 2",
+      "summary": ""
+    },
+    {
+      "id": "BigWelcome",
+      "name": "การต้อนรับอันยิ่งใหญ่",
+      "desc": "Attack จบ: หากเป้าหมายติด Staggered หรือถูกกำจัด, ได้รับทรัพยากร Pride +1 E.G.O และทรัพยากร E.G.O +1 สำหรับ Affinity แบบสุ่มอื่นอีก 1 อย่าง (3 ครั้งต่อเทิร์น)",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4A",
+      "name": "#1 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "Identity Level +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4B",
+      "name": "#2 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "SP ประสิทธิภาพการฮีล +3 เมื่อเข้าสู่สนาม SP +10",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4C",
+      "name": "#3 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "Offense Level +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4D",
+      "name": "#4 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "Defense เลเวล +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4E",
+      "name": "#5 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "ความเร็วสูงสุด +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4F",
+      "name": "#6 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "HP สูงสุด +5%",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4G",
+      "name": "#7 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "Clash Power +1 เมื่อเข้าสู่สนาม SP +15",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4H",
+      "name": "#8 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "ความเสียหายที่ได้รับ -10% เมื่อเข้าสู่สนาม SP +15",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4I",
+      "name": "#9 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "Aggro +5 เมื่อเข้าสู่สนาม SP +20",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4J",
+      "name": "#10 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "ความเสียหายที่ทำได้ +10% เมื่อเข้าสู่สนาม SP +20",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4K",
+      "name": "#11 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "Final Power +1 เมื่อเข้าสู่สนาม SP +30",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4L",
+      "name": "#12 เอฟเฟกต์เมื่อ Deployment",
+      "desc": "Identity Level +3 Entry SP +30",
+      "summary": ""
+    },
+    {
+      "id": "BreathSupport",
+      "name": "การตัดสินของ Poise",
+      "desc": "เริ่ม Wave: ได้รับ Poise Potency และ Count 4 หน่วย",
+      "summary": ""
+    },
+    {
+      "id": "FirmWill",
+      "name": "ความมุ่งมั่นอันเด็ดเดี่ยว",
+      "desc": "ไม่สูญเสีย SP เมื่อเพื่อนร่วมทีมพ่ายแพ้",
+      "summary": ""
+    }
+  ]
+}

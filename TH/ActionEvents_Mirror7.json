@@ -1,0 +1,170 @@
+{
+  "dataList": [
+    {
+      "id": 971085,
+      "name": "สละเนื้อหนัง",
+      "desc": "ชายคากระเบื้องที่ยื่นยาวทอดเงาครึ้มจนมืดมิด ภายใต้เงานั้นมีร่างหนึ่งยืนพิงกำแพงจมหายไปในความมืด เขามองมาที่พวกเราด้วยความเงียบงันชั่วครู่ ก่อนจะพึมพำคำถามด้วยน้ำเสียงต่ำ \"พวกเธอ... พร้อมจะสละเนื้อหนังของตัวเองไหม หากมันหมายถึงการได้ฟันทะลวงกระดูกของศัตรู?\" \"จงรับดาบเล่มนี้ไป หากพวกเธอมีความมุ่งมั่นเช่นนั้น\" เพียงแค่ปราดเดียว ก็รู้สึกได้ว่าดาบในมือที่ยื่นออกมาของร่างนั้นแผ่ซ่านบรรยากาศที่น่าขนลุกออกมา",
+      "options": [
+        {
+          "message": "Take the sword.",
+          "messageDesc": "Select to gain a Cursed E.G.O Gift",
+          "result": [
+            "\"Yield the flesh to claim their bones. Be ready to sacrifice the plum tree to save the peach tree.\" (肉斬骨斷, 李代桃僵)\n\"The resolve to be hewn permits one to cleave an even deeper wound.\"\n\nThe weight of \"resolve to be hewn\" pressed upon us the moment we took the sword."
+          ]
+        },
+        {
+          "message": "Don't take the sword.",
+          "messageDesc": "",
+          "result": [
+            "\"Those who refuse to cut have no use for blades and resolve alike.\"\n\nWith that, the figure returned the blade to his waist and left without a word."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971086,
+      "name": "T Corp. เครื่องชำระเวลาล่วงหน้า",
+      "desc": "หลังป้ายโฆษณาเก่าๆ ที่ดูทรุดโทรม มีตู้หยอดเหรียญเครื่องหนึ่งตั้งอยู่ พร้อมตราสัญลักษณ์ T Corp ที่ซีดจางไปครึ่งหนึ่ง ตัวเครื่องมีความสูง และมีเข็มนาฬิกาเส้นบางๆ นับสิบเรือนกำลังเดินและหมุนวนอยู่รอบตัวเครื่องทรงกระบอก ด้านล่างมีคำโปรยโฆษณาเขียนไว้ว่า \"เลิกยืมเวลาได้แล้ว!\" \"ชำระเวลาที่ไม่ได้ใช้ล่วงหน้า แล้วซื้อเวลามาใช้ได้ทันทีในยามคับขัน!\" มีช่องเล็กๆ ข้างเครื่องสำหรับให้ผู้ใช้สอดมือเข้าไป เดี๋ยวนะ ใต้ช่องนั้น—มีคำเตือนเขียนด้วยตัวอักษรขนาดเล็กจนแทบอ่านไม่ออก <นี่มันเขียนว่าอะไรกันแน่เนี่ย?> \"เมื่อใช้งานอุปกรณ์นี้ โดยมีเงื่อนไขว่าผู้ใช้ต้องชำระทรัพยากรด้านเวลาในจำนวนที่กำหนด ผู้ใช้จะถูกกำหนดให้เกิดสภาวะขาดแคลนเวลาชั่วคราว <i>open parenthesis</i> เพื่อวัตถุประสงค์ของข้อตกลงนี้ \"สภาวะขาดแคลนเวลาชั่วคราว\" ที่กล่าวถึงจะอ้างอิงตาม T Corp. มาตรวัดเวลาแปรผัน อย่างไรก็ตาม จำนวนเวลาตั้งแต่หนึ่งวันขึ้นไปจะถูกวัดตาม A Corp. มาตรวัดเวลามาตรฐาน <i>close parenthesis</i> โดยเวลาที่ชำระล่วงหน้าจะถูกนำไปฝากและสะสมไว้ในอุปกรณ์สะสมส่วนเสริมภายในเครื่องโดยอัตโนมัติ และจะพร้อมมอบให้แก่ผู้ใช้เมื่อมีการร้องขอถอนเวลาผ่านชุดขั้นตอนการดำเนินงาน หรือเมื่อบรรลุเงื่อนไขการคืนเงินที่ระบุไว้ในคู่มือ โดยคำนวณจากผลรวมชั่วโมงต่อวันของผู้ใช้และเงินอุดหนุนอัตราเร่งที่ประมาณการโดยใช้สูตรคำนวณเฉพาะ ทั้งนี้ ระยะเวลา ลำดับ และข้อจำกัดในการสะท้อนการเปลี่ยนแปลงเหล่านี้ไปยังยอดคงเหลือในบัญชีของผู้ใช้ จะถูกกำหนดโดยข้อกำหนดการให้บริการของอุปกรณ์ตามที่ระบุไว้—\" \"ก-ก็ดี ไม่จำเป็นต้องท่องไอ้ข้อความพรรณนาที่ยาวเหยียดนี่จนจบหรอก\" \"เดี๋ยวนะ ไอ้เครื่องนี้มันเหมือนกับสิ่งที่พวก Collector ใส่ไว้ที่แขนเลยไม่ใช่เหรอ?\"",
+      "options": [
+        {
+          "message": "Use the device.",
+          "messageDesc": "Select to gain a Cursed E.G.O Gift",
+          "result": [
+            "Well, might as well make a deposit while we've got time to burn.\n\n\"It appears that this device functions on a mechanism not dissimilar from those installed in T Corp. Collection Staff's gauntlets, Executive Manager.\"\n\n\"Are you sure the payment went through? I don't feel any different.\"\n\n<…….>\n\nWith the Sinners' slowed speech trailing behind, I hurried onward."
+          ]
+        },
+        {
+          "message": "Don't use the device.",
+          "messageDesc": "",
+          "result": [
+            "We're not exactly flush with time right now.\n\nWe decided to leave the device without using it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971087,
+      "name": "บันทึกเสียงของวันนั้น",
+      "desc": "เราเห็นเครื่องบันทึกเสียงเก่าๆ เครื่องหนึ่งที่มีป้ายชื่อซีดจาง <i><บันทึกการสัมภาษณ์ผู้รอดชีวิตจาก Lobotomy Corporation สาขา ■■></i> ปุ่ม \"Play\" นั้นเรียบและสึกหรอจากการใช้งาน—ราวกับว่ามีใครบางคนกดมันซ้ำแล้วซ้ำเล่านับร้อยครั้ง",
+      "options": [
+        {
+          "message": "Play the recording.",
+          "messageDesc": "Select to gain a Cursed E.G.O Gift",
+          "result": [
+            "\"Researcher ■■■■■■■■■. Are we ready to begin the interview?\"\n\n\"A thoroughly pointless query to set forth when we both know that you are given every authority to choose when to start.\"\n\n\"Haha... Right then. Let's dive straight in.\"\n\n\"Regarding the ■■■■■ ■■■■■■, ■■■■ ■■■■ incident at ■■■... what was the situation like when it happened?\"\n\n\"The entire facility began to quake and buckle. Then came the broadcast: Initiating site burial in 100 seconds.\"\n\n\"100 seconds... yes, that does sound rather brief, but given the technology implemented at ■ Corp. and the availability of transport units, that should've been enough time to evacuate.\"\n\n\"As you may know, the ■■■ Branch was one of the larger facilities, housing numerous Abnormalities of higher Risk Levels. Take ■■■ ■■■ or ■■, for instance.\"\n\n\"And naturally, some of those entities had the ability to seize control of the facility.\"\n\n\"Most exits were dead, including the elevators. We only had a single escape pod arriving.\"\n\n\"I was deemed the individual of the highest human resource value among those present—the only personnel for whom any available means of escape should be reserved.\"\n\n\"The others agreed, quite rationally, that I should be the one to evacuate.\"\n\n\"That is all.\"\n\n\"... You sound remarkably calm. As if you're relating an event that didn't even happen to you.\"\n\n\"Unnecessary addenda won't change the core issue of the subject under discussion, wouldn't you agree?\"\n\n\"Nothing could be more inefficient than adding pointless sentiment to words.\"\n\n\"Don't you feel sorry for them? Not even a trace of remorse?\"\n\n\"None.\"\n\n\"The prerequisite of apologetic sentiment is the existence of those who should receive it.\"\n\n\"That condition does not apply to me. Ergo, I have no need to indulge in such sentimentalities.\"\n\nIn the audio log, the researcher continued to answer the questions with a flat detachment.\n\nThe recording cut out into harsh, jarring static, leaving a hollow silence in its wake."
+          ]
+        },
+        {
+          "message": "Leave.",
+          "messageDesc": "",
+          "result": [
+            "Sometimes, the best option is to back off.\n\nWe decided to move on without playing the recording."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971088,
+      "name": "ศรัทธาและคำมั่นที่หวนคืน",
+      "desc": "เราพบกับสิ่งมีชีวิตประหลาดสองตน ยืนขนาบข้างโต๊ะที่มีวงล้อรูเล็ตต์เก่าๆ วางอยู่ \"สนใจจะลองเสี่ยงโชคดูไหม? รางวัลกำลังรอผู้ที่โชคชะตาเข้าข้างอยู่\" \"แพ้. ไม่ได้รางวัล. ไม่อยาก. ก็ไป.\" วงล้อรูเล็ตต์เก่าๆ ที่พวกเขากำลังชี้ไปนั้น มีสัญลักษณ์แปลกๆ สลักไว้ เราไม่สามารถเข้าใจความหมายของสัญลักษณ์เหล่านั้นได้ แต่มีบางอย่างเกี่ยวกับพวกมันที่ดึงดูดสายตาเราอย่างต่อเนื่อง เราควรทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Spin the roulette.",
+          "messageDesc": "Choose to gain or lose Cost",
+          "result": [
+            "We cannot take our eyes off the spinning roulette wheel.\n\nThe roulette comes to a stop, just short of slipping past the yellow slot.\n\n\"Oh, that's a win!\"\n\"You. Lucky.\"",
+            "We cannot take our eyes off the spinning roulette wheel.\n\nThe roulette comes to a stop, just short of slipping past the blue slot.\n\n\"You. Bust. Scram.\"\n\"Too bad, that's a bust. And that means no prize money for you.\"\n\nWe were thrown out of the chamber, empty-handed."
+          ]
+        },
+        {
+          "message": "Stop.",
+          "messageDesc": "",
+          "result": [
+            "\"Wise. Choice.\"\n\"So you prove yourself a coward.\"\n\nWe escape the chamber."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97108801,
+      "name": "ศรัทธาและคำมั่นที่หวนคืน 2",
+      "desc": "\"หมุนอีกรอบไหมล่ะ? คราวนี้รางวัลสองเท่าเลยนะ\" \"ไป. ถ้า. ไม่อยาก.\"",
+      "options": [
+        {
+          "message": "Keep spinning the roulette.",
+          "messageDesc": "Choose to gain or lose Cost",
+          "result": [
+            "We cannot take our eyes off the spinning roulette wheel.\n\nThe roulette comes to a stop, just short of slipping past the yellow slot.\n\n\"Oh, that's a win!\"\n\"You. Lucky.\"",
+            "We cannot take our eyes off the spinning roulette wheel.\n\nThe roulette comes to a stop, just short of slipping past the blue slot.\n\n\"You. Bust. Scram.\"\n\"Too bad, that's a bust. And that means no prize money for you.\"\n\nWe were thrown out of the chamber, empty-handed."
+          ]
+        },
+        {
+          "message": "Stop.",
+          "messageDesc": "Choose to gain Cost",
+          "result": [
+            "\"The wise knows when to call it quits.\"\n\"The wise. Don't. Gamble.\"\n\nI no longer feel the magnetic pull the roulette wheel once had on my gaze.\n\nWe leave the room with a sack of cash in hand."
+          ]
+        },
+        {
+          "message": "Say \"I want the roulette wheel.\"",
+          "messageDesc": "Select to gain an E.G.O Gift",
+          "result": [
+            "\"No. Such. Rules.\"\n\"That would indeed make for a rather interesting choice.\"\n\nThe bizarre creatures trilled their puzzle pieces for a moment, then disappeared into the roulette wheel.\n\nWe picked up the roulette and continued on our way."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97108802,
+      "name": "ศรัทธาและคำมั่นที่หวนคืน 3",
+      "desc": "\"เกมสุดท้ายสักตาเป็นไง?\" \"จำไว้. เสมอ. ให้พอดี.\"",
+      "options": [
+        {
+          "message": "Keep spinning the roulette.",
+          "messageDesc": "Choose to gain or lose Cost",
+          "result": [
+            "We cannot take our eyes off the spinning roulette wheel.\n\nThe roulette comes to a stop, just short of slipping past the yellow slot.\n\n\"That's a clean win right there!\"\n\"Your last. Crumb of. Luck. Don't. Ever. Come back.\"\n\nThe moment we take the hefty sack of cash, the roulette wheel and the bizarre creatures disappear.",
+            "We cannot take our eyes off the spinning roulette wheel.\n\nThe roulette comes to a stop, just short of slipping past the blue slot.\n\n\"Too bad, that's a bust. And that means no prize money for you.\"\n\"Had a. Feeling. Don't. Ever. Come back.\"\n\nWe were booted out of there, empty-handed."
+          ]
+        },
+        {
+          "message": "Stop.",
+          "messageDesc": "Choose to gain Cost",
+          "result": [
+            "\"The wise knows when to call it quits.\"\n\"The wise. Don't. Gamble.\"\n\nI no longer feel the magnetic pull the roulette wheel once had on my gaze.\n\nWe leave the room with a sack of cash in hand."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971089,
+      "name": "ความทรงจำของสัตว์ปีก",
+      "desc": "'บาร์และของทอดของอึนบง!' 'โทร 555-0102-0386-2664! นั่นคือ 555-0102-Zero-EUN-BONG!' พวกเราเดินตามเสียงเพลงโฆษณาแปลกๆ ที่ติดหู จนมาหยุดอยู่หน้าเครื่องจักรที่ดูคุ้นตาอย่างประหลาด \"เฮ้ นั่นมันตู้คีบตุ๊กตานี่นา ในนั้นมี... เอ๊ะ นี่มัน...\" <... ทำไมมีตุ๊กตาบงกี้อยู่ที่นี่ด้วย?> \"ไอ้หมอนั่นไม่ได้บอกเหรอว่าตัวที่ให้เรามาเป็นสมบัติล้ำค่าที่มีชิ้นเดียวในโลกน่ะ? ว่าไม่มีตัวอื่นเหมือนอีกแล้ว?\" \"... คำสัญญาแบบนั้นแทบไม่มีน้ำหนักเลยใน Mirror Dungeon\" \"อืม มันอาจจะเป็นลักษณะเฉพาะของประสบการณ์ที่ยังระบุไม่ได้\" \"ทุกคน รอก่อน ดูตุ๊กตาตัวนั้นสิ—ฉันเพิ่งเห็นแสงสีทองวิบวับตรงตะเข็บมัน! ในนี้ต้องมีเงินซ่อนอยู่แน่ๆ!\" มีตุ๊กตาบงกี้หลากหลายรูปแบบอยู่ภายในตู้คีบ เราควรจะเลือกตัวไหนดี?",
+      "options": [
+        {
+          "message": "Get the small Bongy plushie.",
+          "messageDesc": "Choose to gain Cost",
+          "result": [
+            "A small Bongy plushie should be an easy win for us.\n\nI carefully maneuver the claw over the plushies and grab the small plushie with utmost care... and somehow, it managed to travel to the chute without dropping midway through the journey. A heavy, metallic <i>clunk</i> echoes from the port.\n\n\"That sounds heavy. I wonder if there's something expensive in there?\"\n\"Duh! Didn't ya see that golden gleam earlier? Gimme that, Dante!\"\n\"What the hell are you—\"\n\"Gonna cut its belly right open!\"\n\"Little Sir Bongy!!!!!!\"\n\nOne of the Sinners cuts open the belly of the Bongy plushie, and coins start spilling out of it.\nWhile we were occupied with counting the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine."
+          ]
+        },
+        {
+          "message": "Get the medium-sized Bongy plushie.",
+          "messageDesc": "Choose to gain Cost (chance to gain additional Cost)",
+          "result": [
+            "We identified the medium-sized Bongy Plushie in a decent spot to be plucked, and decided to try our luck.\n\nI carefully maneuver the claw over the plushies and grab the medium-sized plushie with utmost care... and somehow, it managed to travel to the chute without dropping midway through the journey. A heavy, metallic <i>clunk</i> echoes from the port. <i>Twice.</i>\n\n\"Ooh... Abreast the selected Bongy is a Bongy of smaller dimensions; indeed, the idiom \"two birds with one stone\" would be most apt here. Not only did the two avians grant us subsistence, it also gave us riches.\"\n<Well, I hear something jingling in there. Coins, maybe?>\n\"Ya think? Gimme that, Dante!\"\n\"What the hell are you—\"\n\"Gonna cut their bellies right open!\"\n\"Little Sir Bongy! And Littlest Sir Bongy!!!!!\"\n\nOne of the Sinners cuts open both Bongy plushies' bellies, and coins start spilling out of them.\nWhile we were occupied with counting the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine.",
+            "I carefully maneuver the claw over the plushies and grab the medium-sized plushie with utmost care... but it somehow got stuck in the chute.\nFortunately, a small plushie right next to it fell out of the chute with a thud.\n\n\"It's torn... It must have gotten stuck before it popped out from the chute.\"\n\"Hmm? Hey, gimme that, Dante!\n\"What the hell are you—\"\n\"The plushie's stuffed with coins. Lucky!\"\n\nOne of the Sinners cuts open the belly of the Bongy plushie, and coins start spilling out of it.\nWhile we were occupied with counting the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine."
+          ]
+        },
+        {
+          "message": "Get the huge Bongy plushie.",
+          "messageDesc": "Choose to gain Cost (chance to gain additional Cost)",
+          "result": [
+            "Could those flimsy little pincers even lift that massive Bongy plushie?\n\nI wasn't really sure, but I carefully maneuvered the claw and went for the grab anyway.\n\nA heavy metallic thunk rang out from the prize chute as the doll dropped in.\n\n\"F-fie! Little Sir Bongy's seams have completely burst!\n\"It couldn't withstand the impact of the fall.\"\n\"Hang on, look at that! Something pouring out from the seams~ Hey, that's money!\"\n\nWe scooped up the coins stuffed inside the doll.\nWhile we were occupied with the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine.",
+            "Could those flimsy little pincers even lift that massive Bongy plushie?\n\nI wasn't really sure, but I carefully maneuvered the claw and went for the grab anyway.\n\nWe could hear a rattle from the prize chute as the doll dropped in.\n\n\"It won't come down... I think it's stuck.\"\n\"The seams must've come loose—there are coins falling out.\"\n<Let's at least pick them up.>\n\nWhile we were occupied with counting the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine."
+          ]
+        }
+      ]
+    }
+  ]
+}

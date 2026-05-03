@@ -1,0 +1,399 @@
+{
+  "dataList": [
+    {
+      "id": "MD6LimitBaseN",
+      "name": "อุปสรรคที่ถาโถม",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MD6101",
+      "name": "Keen ระดับ XII",
+      "desc": "Clash Power +1, Offense Level +8, Defense Level +3, Max HP +40%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6102",
+      "name": "Resilient ระดับ XII",
+      "desc": "Clash Power +1, Offense Level +4, Defense Level +11, Max HP +40%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6103",
+      "name": "Body Up ระดับ XII",
+      "desc": "Clash Power +1, Offense Level +6, Defense Level +7, Max HP +35%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6104",
+      "name": "Growth ระดับ XII",
+      "desc": "Clash Power +1, Offense Level +3, Defense Level +3, Max HP +72.5%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6105",
+      "name": "Clash Power Up ระดับ VII",
+      "desc": "Clash Power +3, Offense Level +2, Defense Level +2, Max HP +42.5%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6106",
+      "name": "Final Power Up ระดับ VII",
+      "desc": "Clash Power +1, Final Power +2, Offense Level +2, Defense Level +2, Max HP +37.5%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6107",
+      "name": "Base Power Up ระดับ VII",
+      "desc": "Clash Power +1, Base Power +2 Offense Level +2, Defense Level +2, Max HP +32.5%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6111",
+      "name": "Keen XIII",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Offense Level +8, Defense Level +5, Max HP +40%, Damage Dealt +12.5%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6112",
+      "name": "Resilient XIII",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Offense Level +5, Defense Level +12, Max HP +42.5%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6113",
+      "name": "Body Up XIII",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Offense Level +7, Defense Level +7, Max HP +40%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6114",
+      "name": "Growth XIII",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Offense Level +3, Defense Level +3, Max HP +80%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6115",
+      "name": "Clash Power Up VIII",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Clash Power +2, Offense Level +3, Defense Level +3, Max HP +45%, Damage Dealt +12.5%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6116",
+      "name": "Final Power Up VIII",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Final Power +2, Offense Level +2, Defense Level +2 Max HP +40%, Damage Dealt +12.5%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6117",
+      "name": "Base Power Up VIII",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Base Power +2, Offense Level +2, Defense Level +2, Max HP +35%, Damage Dealt +12.5%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6121",
+      "name": "Keen XIV",
+      "desc": "Offense Level +10, Defense Level +5, Max HP +40%, Damage Dealt +15%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6122",
+      "name": "Resilient XIV",
+      "desc": "Offense Level +5, Defense Level +15, Max HP +45%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6123",
+      "name": "Body Up XIV",
+      "desc": "Offense Level +8, Defense Level +8, Max HP +45%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6124",
+      "name": "Growth XIV",
+      "desc": "Offense Level +3, Defense Level +3, Max HP +90%, Damage Dealt +10%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6125",
+      "name": "Clash Power Up IX",
+      "desc": "Clash Power +2, Offense Level +4, Defense Level +4, Max HP +45%, Damage Dealt +15%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6126",
+      "name": "Final Power Up IX",
+      "desc": "Final Power +2, Offense Level +3, Defense Level +3, Max HP +40%, Damage Dealt +15%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6127",
+      "name": "Base Power Up IX",
+      "desc": "Base Power +2, Offense Level +3, Defense Level +3, Max HP +35%, Damage Dealt +15%, Boss Max HP +30%"
+    },
+    {
+      "id": "MD6131",
+      "name": "Keen XV",
+      "desc": "Offense Level +10, Defense Level +5, Max HP +40%, Damage Dealt +15%, Boss Max HP +40%"
+    },
+    {
+      "id": "MD6132",
+      "name": "Resilient XV",
+      "desc": "Offense Level +5, ระดับ Defense +15, Max HP +45%, Damage Dealt +10%, Boss Max HP +40%"
+    },
+    {
+      "id": "MD6133",
+      "name": "Body Up XV",
+      "desc": "Offense Level +8, ระดับ Defense +8, Max HP +45%, Damage Dealt +10%, Boss Max HP +40%"
+    },
+    {
+      "id": "MD6134",
+      "name": "Growth XV",
+      "desc": "Offense Level +3, ระดับ Defense +3, Max HP +90%, Damage Dealt +10%, Boss Max HP +40%"
+    },
+    {
+      "id": "MD6135",
+      "name": "Clash Power Up X",
+      "desc": "Clash Power +2, Offense Level +4, ระดับ Defense +4, Max HP +45%, Damage Dealt +15%, Boss Max HP +40%"
+    },
+    {
+      "id": "MD6136",
+      "name": "Final Power Up X",
+      "desc": "Final Power +2, Offense Level +3, ระดับ Defense +3, Max HP +40%, Damage Dealt +15%, Boss Max HP +40%"
+    },
+    {
+      "id": "MD6137",
+      "name": "Base Power Up X",
+      "desc": "Base Power +2, Offense Level +3, ระดับ Defense +3, Max HP +35%, Damage Dealt +15%, Boss Max HP +40%"
+    },
+    {
+      "id": "MD6141",
+      "name": "Keen XVI",
+      "desc": "Offense Level +10, ระดับ Defense +5, Max HP +40%, Damage Dealt +15%, Boss Max HP +50%"
+    },
+    {
+      "id": "MD6142",
+      "name": "Resilient XVI",
+      "desc": "Offense Level +5, ระดับ Defense +15, Max HP +45%, Damage Dealt +10%, Boss Max HP +50%"
+    },
+    {
+      "id": "MD6143",
+      "name": "Body Up XVI",
+      "desc": "Offense Level +8, ระดับ Defense +8, Max HP +45%, Damage Dealt +10%, Boss Max HP +50%"
+    },
+    {
+      "id": "MD6144",
+      "name": "Growth XVI",
+      "desc": "Offense Level +3, ระดับ Defense +3, Max HP +90%, Damage Dealt +10%, Boss Max HP +50%"
+    },
+    {
+      "id": "MD6145",
+      "name": "Clash Power Up XI",
+      "desc": "Clash Power +2, Offense Level +4, ระดับ Defense +4, Max HP +45%, Damage Dealt +15%, Boss Max HP +50%"
+    },
+    {
+      "id": "MD6146",
+      "name": "Final Power Up XI",
+      "desc": "Final Power +2, Offense Level +3, ระดับ Defense +3, Max HP +40%, Damage Dealt +15%, Boss Max HP +50%"
+    },
+    {
+      "id": "MD6147",
+      "name": "Base Power Up XI",
+      "desc": "Base Power +2, Offense Level +3, ระดับ Defense +3, Max HP +35%, Damage Dealt +15%, Boss Max HP +50%"
+    },
+    {
+      "id": "MD6Limit101",
+      "name": "Level Boost",
+      "desc": "เลเวลศัตรูทั้งหมด +3"
+    },
+    {
+      "id": "MD6Limit102",
+      "name": "Frailness",
+      "desc": "Max HP ของพันธมิตรทั้งหมด -10%"
+    },
+    {
+      "id": "MD6Limit103",
+      "name": "Mark of Fire I",
+      "desc": "จบเทิร์น: พันธมิตรทั้งหมดได้รับความเสียหายคงที่ 5 HP หน่วย ความเสียหายคงที่จะเพิ่มขึ้น 3 หน่วยในทุกเทิร์น (สูงสุด 20)"
+    },
+    {
+      "id": "MD6Limit104",
+      "name": "Inflation I",
+      "desc": "เพิ่มราคาฟังก์ชันทั้งหมดใน Shop เป็นสองเท่า ยกเว้นการขาย E.G.O Gifts"
+    },
+    {
+      "id": "MD6Limit105",
+      "name": "Ego Interference I",
+      "desc": "เพิ่มจำนวนการใช้ E.G.O Resources เป็นสองเท่าเมื่อใช้ E.G.O Skills (ไม่มีผลร่วมกับเอฟเฟกต์ของ E.G.O Gift)"
+    },
+    {
+      "id": "MD6Limit111",
+      "name": "Level Boost",
+      "desc": "เลเวลศัตรูทั้งหมด +3"
+    },
+    {
+      "id": "MD6Limit112",
+      "name": "Frailness",
+      "desc": "Max HP ของพันธมิตรทั้งหมด -10%"
+    },
+    {
+      "id": "MD6Limit113",
+      "name": "Mental Psychosis I",
+      "desc": "จบเทิร์น: พันธมิตรทั้งหมดเสีย SP 3 หน่วย"
+    },
+    {
+      "id": "MD6Limit114",
+      "name": "Nerve Acceleration I",
+      "desc": "เพิ่มค่า Min & Max Speed ของศัตรูทั้งหมดขึ้น 1 หน่วย"
+    },
+    {
+      "id": "MD6Limit115",
+      "name": "SP Fatigue I",
+      "desc": "ในการต่อสู้ พันธมิตรไม่สามารถฟื้นฟู SP ให้สูงกว่า 35 หน่วยได้"
+    },
+    {
+      "id": "MD6Limit121",
+      "name": "Level Boost",
+      "desc": "เลเวลศัตรูทั้งหมด +3"
+    },
+    {
+      "id": "MD6Limit122",
+      "name": "Frailness",
+      "desc": "Max HP ของพันธมิตรทั้งหมด -10%"
+    },
+    {
+      "id": "MD6Limit123",
+      "name": "Tremor Barrier",
+      "desc": "ลบ Stagger Threshold ขั้นแรกของศัตรูทั้งหมดออก"
+    },
+    {
+      "id": "MD6Limit124",
+      "name": "Inflation II",
+      "desc": "เพิ่มราคาฟังก์ชันทุกอย่างใน Shop เป็น 3 เท่า ยกเว้นการขาย E.G.O Gifts"
+    },
+    {
+      "id": "MD6Limit125",
+      "name": "Ego Interference II",
+      "desc": "เพิ่มจำนวนการใช้ E.G.O Resources เป็น 3 เท่า เมื่อใช้ E.G.O Skills (ไม่มีผลร่วมกับเอฟเฟกต์ของ E.G.O Gift)"
+    },
+    {
+      "id": "MD6Limit131",
+      "name": "Level Boost",
+      "desc": "เลเวลศัตรูทั้งหมด +3"
+    },
+    {
+      "id": "MD6Limit132",
+      "name": "Frailness",
+      "desc": "Max HP ของพันธมิตรทั้งหมด -10%"
+    },
+    {
+      "id": "MD6Limit133",
+      "name": "Vitality Boost",
+      "desc": "เพิ่มค่าสูงสุดของ HP ให้กับศัตรูทั้งหมด +30%"
+    },
+    {
+      "id": "MD6Limit134",
+      "name": "Brutality",
+      "desc": "Plus Coin Power +2, Minus Coin Power -2 ให้กับศัตรูทั้งหมด"
+    },
+    {
+      "id": "MD6Limit135",
+      "name": "Mark of Fire II",
+      "desc": "จบเทิร์น: พันธมิตรทั้งหมดได้รับความเสียหายคงที่ HP 10 หน่วย ความเสียหายคงที่จะเพิ่มขึ้น 5 หน่วยในทุกเทิร์น (สูงสุด 30)"
+    },
+    {
+      "id": "MD6Limit141",
+      "name": "Level Boost",
+      "desc": "เลเวลศัตรูทั้งหมด +3"
+    },
+    {
+      "id": "MD6Limit142",
+      "name": "Frailness",
+      "desc": "Max HP ของพันธมิตรทั้งหมด -10%"
+    },
+    {
+      "id": "MD6Limit143",
+      "name": "Mental Psychosis II",
+      "desc": "จบเทิร์น: พันธมิตรทั้งหมดเสีย SP 5 หน่วย"
+    },
+    {
+      "id": "MD6Limit144",
+      "name": "Nerve Acceleration II",
+      "desc": "เพิ่มค่า Speed ขั้นต่ำและสูงสุด 2 หน่วย ให้กับศัตรูทั้งหมด"
+    },
+    {
+      "id": "MD6Limit145",
+      "name": "SP Fatigue II",
+      "desc": "ในการต่อสู้ พันธมิตรไม่สามารถฟื้นฟู SP ให้สูงกว่า 30 หน่วยได้"
+    },
+    {
+      "id": "DerivativeHugeIrritation",
+      "name": "Shin (心) - Tiantui Star [天退星]",
+      "desc": "- เริ่มเทิร์น: ได้รับ Damage Up 1 และ Power Up 1 ต่อทุกๆ 15% ของ HP ที่หายไปของตัวเอง (สูงสุดอย่างละ 5) - มอบ Tremor Potency เพิ่มขึ้น +3 และ Tremor Count เพิ่มขึ้น +1 ด้วย Skill ของยูนิตนี้ - หาก Speed ของยูนิตนี้สูงกว่าเป้าหมายตั้งแต่ 3 ขึ้นไป จะสร้างความเสียหาย +(ส่วนต่าง Speed x 5)% (สูงสุด 40%) - เปลี่ยน Coin สุดท้ายของ 'Double Slash - Blast' และ 'Triple Slash - Burst' ให้เป็น Unbreakable Coin",
+      "summary": ""
+    },
+    {
+      "id": "GiveMeCandy",
+      "iconId": "CandyForCharon",
+      "name": "Candy",
+      "desc": "Stack สูงสุด: 99 - กะจะเก็บลูกกวาดไว้กินคนเดียวหมดเลยหรือไง?",
+      "summary": ""
+    },
+    {
+      "id": "HungryCharon",
+      "name": "Hunger-Rage",
+      "desc": "Stack สูงสุด: 3 หิวจะตายอยู่แล้ว อยากกินลูกกวาดเดี๋ยวนี้เลย",
+      "summary": ""
+    },
+    {
+      "id": "FullCharon",
+      "name": "Indulged",
+      "desc": "เริ่มเทิร์น: ทุกๆ 2 Stack จะได้รับ Clash Power Down 1 (สูงสุด 5)",
+      "summary": ""
+    },
+    {
+      "id": "GiveMeCandy_LowMorale",
+      "name": "Candy",
+      "desc": "- Low Morale - เมื่อ Clash กับ Identity ที่มี Candy, Clash Power +3; เมื่อปะทะกับ Identity อื่น, Clash Power -1",
+      "summary": "ความผันผวนของ Clash Power ตามเงื่อนไข",
+      "undefined": "-"
+    },
+    {
+      "id": "GiveMeCandy_Panic",
+      "name": "Candy",
+      "desc": "- Panic - เมื่อ Clash กับ Identity ที่มี Candy, Clash Power +5; เมื่อปะทะกับ Identity อื่น, Clash Power -2",
+      "summary": "ความผันผวนของ Clash Power ตามเงื่อนไข",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDreamMirror",
+      "name": "บทที่เล่าขานถึงการปลดแอก THE จากสายเลือดที่เข้มข้นกว่าน้ำ",
+      "desc": "- ทุกครั้งที่จบเทิร์น: ได้รับ Haste 1 และ Offense Level Up 3 ในเทิร์นถัดไป - ได้รับ Offense Level Up เพิ่มเติม 2 หน่วย ทุกๆ 3 เทิร์นที่สะสม (สูงสุด 6) - เมื่อชนะ Clash, ฟื้นฟู SP 3 หน่วย - เมื่อสังหารศัตรู, ได้รับ Clash Power Up 1 ในเทิร์นถัดไป (1 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDreamSanchoMirror",
+      "name": "บทที่เล่าขานถึงการตกเป็นทาสของสายเลือดที่เข้มข้นกว่าน้ำ",
+      "desc": "- ได้รับ Hardblood เพิ่มเติม 2 หน่วย ทุกครั้งที่ยูนิตนี้ได้รับ Hardblood (5 ครั้งต่อเทิร์น) - ทุกครั้งที่จบเทิร์น: ได้รับ Haste 2 และ Offense Level Up 3 ในเทิร์นถัดไป - ได้รับ Offense Level Up เพิ่มเติม 2 หน่วย ทุกๆ 3 เทิร์นที่สะสม (สูงสุด 6) - เมื่อชนะ Clash, ฟื้นฟู SP 3 หน่วย - เมื่อสังหารศัตรู, ได้รับ Clash Power Up 1 ในเทิร์นถัดไป (1 ครั้งต่อเทิร์น)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeFamilyMirror",
+      "name": "โอ้ เหล่าสหายของลูกรักของข้า",
+      "desc": "Clash Power +1 ต่อ Stack (สูงสุด 4) สร้างความเสียหาย +5%",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeTwoFamilyMirror",
+      "name": "จงร่วมฝันในความฝันของนางแทนข้าที",
+      "desc": "Clash Power +2 ต่อทุกๆ 1 หน่วย (สูงสุด 8) - มอบ Shield ให้กับตัวเองและพันธมิตรทั้งหมดเมื่อเริ่มการต่อสู้ - เมื่อโจมตีโดน, สร้างความเสียหายคงที่ 1 หน่วย",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VerEmergencyCandy",
+      "name": "Backup Candy",
+      "desc": "จบเทิร์น: เมื่อมี HP ต่ำกว่า 60%... ฟื้นฟู HP 30%, ฟื้นฟู SP 15 หน่วย, เสีย Backup Candy 1 ชิ้น และ Hunger 1 หน่วย เมื่อมี 0 Stack, มอบ Incandescent Indulgence 1 หน่วย จากนั้นจะหมดผล",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VerHunger",
+      "name": "Hunger",
+      "desc": "Stack สูงสุด: 3 จบเทิร์น: ได้รับ Offense Level Up 2 หน่วย และ Damage Up 1 หน่วยในเทิร์นถัดไป ต่อทุกๆ 1 Stack เมื่อมี Stack สูงสุด (3), เสีย HP 5% เมื่อจบเทิร์น",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VerShiningFullness",
+      "name": "Incandescent Indulgence",
+      "desc": "เพิ่ม HP พื้นฐาน 30% สำหรับ Encounter นี้ เริ่มเทิร์น: ฟื้นฟู HP และ SP จนเต็ม (หนึ่งครั้งต่อ Encounter)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

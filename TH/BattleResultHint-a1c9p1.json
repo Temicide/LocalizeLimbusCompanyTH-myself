@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": "battleTip_10903_1",
+      "content": "ตามคำสั่งของ Nursefather ห้าม Thumb Apprentice ใช้การโจมตีที่รุนแรงต่อ เรียวชู"
+    },
+    {
+      "id": "battleTip_10903_2",
+      "content": "ไม่แนะนำให้ใช้ Sinner แบบเดียวกันเพื่อ Clash ใส่ Thumb Apprentice ซ้ำๆ"
+    },
+    {
+      "id": "battleTip_10903_3",
+      "content": "ตรวจสอบให้แน่ใจว่าชนะ Clash ในการปะทะกับ Attack Skill อื่นๆ ของ Thumb Apprentice ก่อนที่เขาจะปลดปล่อย Skill ที่ร้ายแรงกว่าออกมา"
+    },
+    {
+      "id": "battleTip_10910_1",
+      "content": "บางครั้งการให้ความสำคัญกับ Part ที่ขัดขวางการทำลาย Fruit อาจเป็นกลยุทธ์ที่ดีกว่า"
+    },
+    {
+      "id": "battleTip_10910_2",
+      "content": "สิ่งสำคัญคือต้องคอยติดตามว่า Sinner แต่ละคนกำลังเล็งเป้าหมายไปที่ Part ไหน"
+    },
+    {
+      "id": "battleTip_10910_3",
+      "content": "พิจารณาว่าคุณจะนำ E.G.O คนไหนเข้าทีม เพื่อให้สามารถรวบรวมทรัพยากรที่จำเป็นได้ง่ายขึ้น"
+    },
+    {
+      "id": "battleTip_10918_phase1_1",
+      "content": "เตรียมกลยุทธ์ที่สามารถชนะ Clash ในการปะทะกับ Skill ที่ร้ายแรงกว่าของ Pinky Apprentice"
+    },
+    {
+      "id": "battleTip_10918_phase1_2",
+      "content": "การเลือกวิธีรับมือกับการโจมตีที่รุนแรงที่สุดของศัตรูให้ถูกต้องนั้น สำคัญกว่าการใส่ Clash ลงในทุกช่อง"
+    },
+    {
+      "id": "battleTip_10918_phase2_1",
+      "content": "การ Clash ไม่ใช่ทางเดียวที่จะลดความอันตรายของ Skill ที่น่ากลัวที่สุดของ Ring Apprentice ได้"
+    },
+    {
+      "id": "battleTip_10918_phase2_2",
+      "content": "Skill Defense ของ Ring Apprentice จะทำให้เกิด Bleed—โปรดระมัดระวังเมื่อทำการ Clash กับ Skill นี้"
+    }
+  ]
+}

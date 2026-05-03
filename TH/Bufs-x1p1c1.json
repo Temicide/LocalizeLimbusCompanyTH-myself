@@ -1,0 +1,30 @@
+{
+  "dataList": [
+    {
+      "id": "LeakedOutSauce",
+      "name": "เครื่องปรุงรั่วไหล",
+      "desc": "- จบเทิร์น: ได้รับ Haste 1 หน่วยในเทิร์นถัดไป ต่อทุกๆ 2 Stack (สูงสุด 10) - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "DeliciousSauce",
+      "name": "ซอสสูตรทองคำ",
+      "desc": "- Clash Power +2",
+      "summary": ""
+    },
+    {
+      "id": "Yummy_Lowmorale",
+      "name": "อร่อยจัง",
+      "desc": "- ขวัญกำลังใจต่ำ - เริ่มเทิร์น: ได้รับ Fragile 1 หน่วย",
+      "summary": "ได้รับ Fragile",
+      "undefined": "-"
+    },
+    {
+      "id": "Yummy_Panic",
+      "name": "อร่อยจัง",
+      "desc": "- Panic - เริ่มเทิร์น: ได้รับ Fragile 2 หน่วย",
+      "summary": "ได้รับ Fragile",
+      "undefined": "-"
+    }
+  ]
+}

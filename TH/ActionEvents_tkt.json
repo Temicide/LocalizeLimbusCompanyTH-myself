@@ -1,0 +1,168 @@
+{
+  "dataList": [
+    {
+      "id": 10511,
+      "name": "คนงานโรงงาน",
+      "subDesc": "",
+      "desc": "ก็แค่โรงงานนาฬิกาที่วุ่นวายอีกแห่งหนึ่ง \"!@#$!#$#!$@#$!$#@$.\" ชายในชุดสูทสะอาดสะอ้านและรองเท้าหนังเงาวับ ซึ่งดูออกชัดเจนว่าเป็นเจ้าของโรงงาน กำลังตะโกนใส่พนักงานที่สวมชุดทำงานสกปรกเลอะคราบน้ำมัน ดูเหมือนจะมีบางอย่างสะดุดตาเขา ทำให้เขาจ้องเขม็งไปยังพนักงานคนหนึ่งแล้วแผดเสียงด้วยความโกรธ พนักงานคนนั้นซึ่งกำลังยุ่งอยู่กับงานถึงกับลนลานและพยายามจะพูดอะไรบางอย่าง แต่กว่าจะอ้าปากพูดได้แต่ละคำกลับใช้เวลานานแสนนาน เจ้าของโรงงานหยิบเครื่องบันทึกเสียงออกมาด้วยความหงุดหงิดเพื่อพยายามสื่อสาร แต่มันก็ไม่ได้ช่วยอะไรเลย \"ฉันเพิ่งเช็กกล้องวงจรปิดมา แกแอบงีบไปตั้งสองชั่วโมงเต็มๆ! อธิบายมาเดี๋ยวนี้\" \"พ... ... ... ร... ... ...\" \"... ... อ... ... ... ง...\" \"จะพูดให้มันเร็วขึ้นกว่านี้ไม่ได้หรือไงวะ?!\" แถวนี้พอจะมีอะไรที่ช่วยคลี่คลายสถานการณ์นี้ได้บ้างไหมนะ?",
+      "options": [
+        {
+          "message": "Take a general, sweeping look around the factory.",
+          "messageDesc": "Gluttony & Pride Advantage check. Pass to gain a Tremor E.G.O Gift."
+        },
+        {
+          "message": "Take a closer look at the factory owner and the employee.",
+          "messageDesc": "Gloom & Sloth Advantage check. Pass to gain a Tremor E.G.O Gift."
+        }
+      ]
+    },
+    {
+      "id": 10512,
+      "name": "T Corp. การเก็บภาษี",
+      "subDesc": "",
+      "desc": "คุณพบว่าตัวเองอยู่บนถนนสายหนึ่งใน T Corp. โดยมี Collection Staff กำลังเก็บภาษีจากพลเมืองคนหนึ่ง \"คุณจะชำระเป็นเวลา หรือชำระเป็นเงินสดครับ?\" \"ก็บอกแล้วไงว่าเราจ่ายภาษีเวลา (Time Taxes) ครบหมดแล้ว! อีกอย่าง สามร้อยล้าน Ahn เนี่ยนะ? มันจะบ้าไปแล้ว...!\" \"ในบันทึกระบุว่าคุณมีภาระภาษีเวลาเพิ่มเติม เนื่องจากภาษีการให้จากการบริจาคครับ\" \"ไม่มีทาง เป็นเพราะฉันสละเวลาให้เด็กพวกนั้นใน Backstreets อย่างนั้นเหรอ?\" \"ฉันให้พวกเขาไปแค่สามร้อยชั่วโมงเองนะ แล้วมันจะกลายเป็นภาษีสามร้อยล้าน Ahn ได้ยังไงกัน?! มันไม่สมเหตุสมผลเลยสักนิด!\" \"การคำนวณภาษีใน T Corp. นั้นแม่นยำเป็นพิเศษเสมอครับ\" Time Collector ก้าวเท้าเข้าหาพลเมืองคนนั้นเพื่อจัดการให้สิ้นซาก",
+      "options": [
+        {
+          "message": "Talk to them.",
+          "messageDesc": "Gloom & Sloth Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Walk away.",
+          "result": [
+            "Looks like he'll have to defend himself somehow at the Collections Office.\n\nIt's not like you can change anything by stepping in.\n\n... You suddenly come to a realization that this is the kind of thought that transformed T Corp. to a place like this. You whip around and try to intervene...\n\n... But the Time Collector had already extracted time from the citizen, slowing him to a crawl."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10513,
+      "name": "ถนนใน T Corp.",
+      "subDesc": "",
+      "desc": "ผู้คนจากหลากหลายอาชีพ ซึ่งแต่ละคนมีชั่วโมงในการใช้ชีวิตต่อวันไม่เท่ากัน ต่างพูดและเคลื่อนไหวด้วยความเร็วที่แตกต่างกันไป เสียงที่เกิดจากความไม่เท่าเทียมอันแปลกประหลาดนี้ ทำให้ท้องถนนเต็มไปด้วยความไม่สอดประสาน ท่ามกลางความโกลาหลนั้น มีคนสองคนที่ดึงดูดความสนใจของคุณ วัยรุ่นท่าทางร่ำรวย แม้จะดูมีเวลาเหลือเฟือ แต่กลับเดินด้วยฝีเท้าที่เร่งรีบมุ่งหน้าไปยังถนน... ... และชายชราท่าทางยากจน แม้จะดูขัดสนเรื่องเวลา แต่กลับเดินเข้าไปในตรอกอย่างช้าๆ ด้วยสีหน้าผ่อนคลาย จะตามใครดี?",
+      "options": [
+        {
+          "message": "Follow the youth.",
+          "messageDesc": "Pride & Gluttony Advantage check. Pass to gain a Tremor E.G.O Gift."
+        },
+        {
+          "message": "Follow the old man.",
+          "messageDesc": "Sloth & Lust Advantage check. Pass to gain a Tremor E.G.O Gift."
+        },
+        {
+          "message": "Don't follow anyone.",
+          "result": [
+            "They're just two people minding their own business, spending their own time as they see fit.\n\nWhy go after them? Let's just spend our time as we see fit.\n\nYou continue down the street, your head brimming with thoughts of time inequality."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10514,
+      "name": "ที่กบดาน Yurodiviye",
+      "subDesc": "",
+      "desc": "ที่กบดานลับของ Yurodiviye โดยมี Yurodivy คนหนึ่งกำลังท่องข้อความที่ได้รับจาก Saint อย่างแรงกล้า \"พวกเราไม่ต่างอะไรจากฟันเฟืองในเครื่องจักรที่มีไว้เพื่อเหล่านักอุตสาหกรรม ชนชั้นนายทุน และเหล่า Wing เท่านั้น\" \"ความสัมพันธ์ระหว่างมนุษย์ในหมู่พลเมืองจะเหลืออะไรอีก นอกจากผลประโยชน์ส่วนตนอันคับแคบและพันธนาการที่ไร้หัวใจซึ่งถูกสร้างขึ้นโดยทุนนิยม?\" \"ดังนั้น เราจะละทิ้งโลหะที่เย็นชากระด้างที่เราเรียกว่าเหรียญ และจะแลกเปลี่ยนความอบอุ่นระหว่างกันตามความต้องการแทน!\" \"สำหรับผู้ที่มี สำหรับกฎหมายของ Nests คือโล่ที่ปกป้องสิทธิพิเศษของพวกเขา แต่สำหรับผู้ที่ไม่มี กฎหมายเหล่านั้นคือโซ่ตรวนที่จองจำเรา!\" \"ถ้าอย่างนั้น เราจะต่อต้านกฎหมายของ Nest! เราจะแสดงให้พวกนั้นเห็นถึงความพิโรธของผู้ที่ไม่มีอะไรเลย!\" \"สิ่งที่ Yurodiviye ต้องสูญเสียมีเพียงโซ่ตรวน และสิ่งที่เราจะได้มาคือโลกที่ปราศจากความหิวโหย!\" จู่ๆ Yurodivy คนนั้นก็ชี้มาทางพวกเรา ดูเหมือนว่าเราจะต้องพูดอะไรบางอย่างแล้วล่ะ",
+      "options": [
+        {
+          "message": "T-the Yurodiviye of the City, Unite!",
+          "messageDesc": "Wrath & Envy & Gluttony Advantage check. Pass to gain a Tremor E.G.O Gift."
+        },
+        {
+          "message": "I like the idea, but there's no way it'll work right.",
+          "result": [
+            "As soon as the Sinner finishes speaking, the room immediately falls cold and silent.\n\nThe Yurodivy who appears to be their leader points at the door and motions you to leave.\n\nYou leave the place before something happens."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10515,
+      "name": "ฉากฆ่าเวลา (The Timekilling Scene)",
+      "subDesc": "",
+      "desc": "คุณเห็นเหยื่อของ Time Ripper คุณไม่สามารถแม้แต่จะสัมผัสตัวพวกเขาได้ เนื่องจากปรากฏการณ์ซ้อนทับของการเคลื่อนย้ายมิติเวลา (spatio-temporal displacement superposition phenomenon) มีอะไรที่คุณพอจะช่วยได้ในสถานการณ์นี้ไหม?",
+      "options": [
+        {
+          "message": "Try to help.",
+          "messageDesc": "Sloth & Gluttony & Pride Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Ignore them and move on.",
+          "result": [
+            "You have to go after the Time Ripper.\n\nNo time to waste."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910901,
+      "name": "จุดเริ่มต้นการปรับปรุง Timekilling Time Dungeon",
+      "subDesc": "",
+      "desc": "เราเข้าสู่ Dungeon of the Fathoms ซึ่งมีลักษณะคล้ายกับถนนใน T Corp. ท่ามกลางฝูงชนที่เดินผ่านไปมาอย่างเร่งรีบ เราสังเกตเห็นตู้หยอดเหรียญที่ส่องแสงอยู่ใกล้ๆ ในขณะที่ท้องถนนไร้ซึ่งสีสันโดยสิ้นเชิง... ... แสงจากตู้หยอดเหรียญกลับดูส่องสว่างและสะท้อนก้องในใจเราได้อย่างรุนแรงกว่ามาก เมื่อมองไปรอบๆ ผู้คนที่เดินผ่านไปมาคนอื่นๆ ดูเหมือนจะไม่สังเกตเห็นสิ่งผิดปกติใดๆ เราเห็นแถบปุ่มกดบนตู้หยอดเหรียญ เราควรทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Press one of the buttons on the top row.",
+          "messageDesc": "Gain a Tremor E.G.O Gift",
+          "result": [
+            "We pick up the E.G.O Gift that dropped from the vending machine with a clunk.\n\nWe're <i>this</i> close to unveiling the truth of the Timekilling Time.\n\nWe don't exactly know how this case will end...\n\n... but we decide to forge on, the brilliance our guiding light."
+          ]
+        },
+        {
+          "message": "Press one of the buttons on the middle row.",
+          "messageDesc": "Gain a Tremor E.G.O Gift",
+          "result": [
+            "We pick up the E.G.O Gift that dropped from the vending machine with a clunk.\n\nWe're <i>this</i> close to unveiling the truth of the Timekilling Time.\n\nWe don't exactly know how this case will end...\n\n... but we decide to forge on, the brilliance our guiding light."
+          ]
+        },
+        {
+          "message": "Press one of the buttons on the bottom row.",
+          "messageDesc": "Gain a Keywordless E.G.O Gift",
+          "result": [
+            "We pick up the E.G.O Gift that dropped from the vending machine with a clunk.\n\nWe're <i>this</i> close to unveiling the truth of the Timekilling Time.\n\nWe don't exactly know how this case will end...\n\n... but we decide to forge on, the brilliance our guiding light."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910902,
+      "name": "การหลอมรวมการปรับปรุง Timekilling Time Dungeon",
+      "subDesc": "",
+      "desc": "เรามาถึงจุดพักที่คุ้นเคย ประตูระจกถูกล็อคไว้ พร้อมกับมีประกาศติดอยู่ 'วันนี้ปิดทำการเนื่องจากเหตุผลส่วนตัว ขออภัยในความไม่สะดวก' 'อย่างไรก็ตาม อุปกรณ์หลอมรวม (fusion device) ยังคงเปิดให้ใช้งาน ลูกค้าที่ต้องการใช้บริการหลอมรวม กรุณาใช้อุปกรณ์ที่อยู่ข้างทางเข้า' เราควรทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Try putting in Silver Watch Case and Etched Clock Hands.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "Try putting in Silver Watch Case and Rusted Clock Hands.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "Try putting in Faded Watch Case and Etched Clock Hands.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "Try putting in Faded Watch Case and Rusted Clock Hands.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "There is nothing that seems right to put in the device.",
+          "messageDesc": "",
+          "result": [
+            "We have nothing quite suitable to put in the device.\n\nThere was no choice but to return to the road."
+          ]
+        }
+      ]
+    }
+  ]
+}

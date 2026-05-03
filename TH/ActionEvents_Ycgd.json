@@ -1,0 +1,269 @@
+{
+  "dataList": [
+    {
+      "id": 10506,
+      "name": "ทางเลือก Black Ledger",
+      "subDesc": "",
+      "desc": "\"จากตรงนี้ไปเป็นถิ่นของพวกเรากลุ่ม Kurokumo Clan\" \"เข้าใจยากนักหรือไงว่าถ้าจะใช้ถนนของพวกเรา ก็ต้องจ่ายค่าผ่านทาง? หือ?\" กลุ่มคนที่สวมชุดของ Kurokumo Clan กำลังยืนขวางทางพลเรือนที่ไม่มีอาวุธ พร้อมกับข่มขู่พวกเขา \"...ฉันว่าข้ออ้างนั่นคงเพียงพอที่จะทำให้พวกนั้นกล้าล้ำเส้นเข้ามาในเขตของเราเหมือนกัน\" แองดูไม่ปิดบังความไม่พอใจ เธอขบฟันแน่น เราควรจะจัดการกับพวกเขายังไงดี?",
+      "options": [
+        {
+          "message": "Save the civilians.",
+          "messageDesc": "Gain a Keywordless E.G.O Gift depending on the result of the following choice"
+        },
+        {
+          "message": "Turn a blind eye.",
+          "result": [
+            "\"Another day, another mugging in the City.\"\n\nOne of the Sinners mutters with a sigh.\n\n\"......\"\n\nAeng-du stands there with her eyes pleading us to do something, but does not step forward.\n\nWe should avoid unnecessary battles...\n\n... if we are to survive the coming challenges and face Distorted Bamboo-hatted Kim who awaits us at the end of this path.\n\nThis left a bad taste in our mouths as we ignored the commotion and walked away."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050602,
+      "name": "ทางเลือก Black Ledger #2",
+      "subDesc": "",
+      "desc": "\"ขอบคุณ ขอบคุณมากจริงๆ...\" เหล่าพลเรือนที่หลุดพ้นจากการข่มขู่ของ Kurokumo Clan ต่างพากันก้มหัวและกล่าวขอบคุณพวกเรา \"แต่ว่า... พวกคุณไม่ได้แต่งตัวเหมือนคนแถวนี้เลย\" \"ถ้าไม่รังเกียจที่จะให้เราถาม... พวกคุณเป็นใครกันหรือ?\"",
+      "options": [
+        {
+          "message": "Say that you're just passing by.",
+          "result": [
+            "\"Huhh...?\"\n\nThe civilians appear puzzled.\n\n\"You're just... 'passing by' with this many people behind you?\"\n\nMaybe I should've given my answer more thought before replying...\n\n\"Why would you help us if you don't have anything to do with the Kurokumo Clan...?\"\n\nThey looked at each other, clearly perplexed.\n\n\"T-thank you anyways.\"\n\n\"Sa-safe travels to you!\"\n\nWith that, they hurriedly left the scene."
+          ]
+        },
+        {
+          "message": "Say that you're with the Blade Lineage.",
+          "messageDesc": "Pride Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        }
+      ]
+    },
+    {
+      "id": 10507,
+      "name": "ทางเลือก Rusted Hilt",
+      "subDesc": "",
+      "desc": "\"ที่นี่น่าจะเป็นโรงเตี๊ยม...\" บาร์หรือที่พักแห่งนี้ดูคึกคัก เหล่าลูกค้าต่างพูดคุยกันอย่างออกรส ดูเหมือนทุกคนจะอยู่ในอารมณ์ที่ค่อนข้างดี ท่ามกลางฝูงชน มีคนสามคนกำลังโต้เถียงกันอย่างดุเดือดและชี้หน้ากันไปมา \"ไม่ ไม่ใช่! ฉันไม่เข้าใจเลยว่าทำไมเรื่องนี้ถึงต้องเถียงกัน! ดาบคืออาวุธที่สร้างมาเพื่อตัด และวิธีที่ 'ถูกต้อง' ในการใช้ดาบก็คือการฟัน\" \"แกไม่รู้เรื่องอะไรเลย! แค่แทงจุดเดียวด้วยแรงทั้งหมดที่มี ศัตรูก็ล้มคว่ำแน่นอน!\" \"...พวกแกผิดทั้งคู่ การฟันหรือแทงแบบครึ่งๆ กลางๆ มันไม่ช่วยอะไรนอกจากทำให้พวกมันโมโห เดี๋ยวก็ลุกขึ้นมาสู้ต่อได้ทันทีนั่นแหละ!\" \"ต้องใช้ด้ามทุบหัว—ไม่ว่าจะเป็นโกร่งดาบหรือฝักดาบ กระแทกให้ล้มคว่ำไปเลย! ทำให้พวกมันมึนจนลุกไม่ขึ้น!\" ทั้งสามคนดูเหมือนจะคุยเรื่องที่จริงจังมาก เราจึงหยุดฟังการถกเถียงของพวกเขา... ทันใดนั้น พวกเขาก็หันมาทางเราและเรียกให้เข้าไปหา \"เฮ้ พวกเธอ! ดูจากท่าทางแล้ว กลุ่มของเธอน่าจะใช้พวกอาวุธเป็นใช่ไหมล่ะ?\" \"ตอบมาซิ วิธีการใช้ดาบที่ดีที่สุดคืออะไร?\" \"แน่นอนว่าการฟันคือวิธีใช้ดาบที่ดีที่สุด ใช่ไหมล่ะ?\" ฉันควรจะตอบว่ายังไงดี?",
+      "options": [
+        {
+          "message": "Right. Slashing is the way to go when wielding a blade.",
+          "messageDesc": "Lust & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+        },
+        {
+          "message": "Not true. Slash, Pierce, and Blunt all have their uses.",
+          "result": [
+            "\"Hm.\"\n\nThe three of them suddenly grow very obviously uncomfortable.\n\n\"That's the right answer, isn't it?\"\n\n\"That's certainly the textbook answer.\"\n\n\"It's not like we don't know what the right answer is...\"\n\nThey all take frustrated swigs from their respective cups.\n\n\"What, you think we're sitting here talking about weapons like generals preparing for war?\"\n\n\"It's just a fun topic to argue about with liquor in our bellies. What a way to kill the mood with that uninspired answer...\"\n\n\"Bah, forget it. Be on your way, then!\"\n\nThey turned away from us and returned to drinking, clearly having lost interest."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10508,
+      "name": "ทางเลือก Fractured & Broken Blade",
+      "subDesc": "",
+      "desc": "\"แปลกจัง... หมอกนี่มัน...\" ไม่รู้ว่าเกิดขึ้นตั้งแต่เมื่อไหร่ แต่จู่ๆ ก็มีหมอกหนาทึบลงมาปกคลุมรอบตัวเรา \"ฉันเคยได้ยินเรื่องเล่าเกี่ยวกับการเดินเล่นยามค่ำคืนแบบนี้ ในเรื่องเล่ามีนักเดินทางผู้ไม่รู้อิโหน่อิเหน่เดินหลงเข้าไปในม่านหมอก และได้พบกับตัวตนจากต่างโลก—\" \"อ๊าก! หยุด หยุดพูดเดี๋ยวนี้!\" ขณะที่ Sinners เริ่มทะเลาะกันเสียงดัง ฉันก็ตระหนักได้ว่ามีบางอย่างที่ดูเลือนลางยืนขวางทางเราอยู่ \"เจ้านั่น... กำลังเต้นอยู่เหรอ?\" สิ่งลึกลับในชุดสีขาว กำลังเต้นรำอย่างสง่างามต่อหน้าเรา พร้อมกับถือดาบเล่มใหญ่ในมือ เมื่อมันสบตาฉัน... หรือตอนที่ฉันคิดว่ามันสบตา... ...ดาบที่อยู่ในฝักเล่มหนึ่งก็ปรากฏขึ้นในมือของฉัน มันต้องการให้ฉันทำอะไรกับดาบเล่มนี้กันแน่?",
+      "options": [
+        {
+          "message": "Assume a stance like I'm about to draw the sword.",
+          "messageDesc": "Lust & Gloom Advantage check. Pass to gain a Bleed E.G.O Gift."
+        },
+        {
+          "message": "Unsheathe the sword and hold it on my side.",
+          "messageDesc": "Pride & Wrath Advantage check. Pass to gain a Poise E.G.O Gift."
+        },
+        {
+          "message": "Leave the sword, let's leave.",
+          "result": [
+            "It's not an Abnormality we have to deal with, and the company never said that we had to engage them.\n\nI should always avoid battles against unknown entities.\n\nI tossed the sword on the ground before fleeing from the scene with the Sinners.\n\nA weeping laughter seemed to follow me the entire way back."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10509,
+      "name": "ทางเลือก Red Tassel",
+      "subDesc": "",
+      "desc": "เราได้ยินเสียงคนสองคนคุยกันขณะเดินเลียบกำแพงหิน นักเดินทางทั้งสองคนต่างพกดาบติดตัว \"ฉันล่ะสงสารคนที่นี่จริงๆ...\" \"ก็นะ การตัดสินใจของ Wing ย่อมเป็นเด็ดขาดสำหรับเหล่า Feather ของมัน พวกเขาทำอะไรไม่ได้มากหรอก\" หนึ่งในนั้นดูโดดเด่น—เสื้อผ้าของเขาแตกต่างจากคนท้องถิ่น บางทีเขาอาจจะไม่ได้มาจากแถวนี้ \"แต่ถึงอย่างนั้น การปล่อยให้ Kurokumo Clan เข้ามามีอิทธิพลที่นี่ได้เนี่ย มันเกินไปหน่อยนะ\" \"Wing สนใจแต่เรื่องการขยับปีกของตัวเองเท่านั้นแหละ เรื่องอื่นกลายเป็นเรื่องไร้สาระไปหมด\" ดูเหมือนพวกเขากำลังพูดถึง S Corp ในปัจจุบัน \"มีคนนอกมาเพิ่มอีกแล้วสินะ สะดวกดีจริงๆ\" ทั้งคู่หยุดเดิน แล้วหันกลับมาเผชิญหน้ากับเรา \"Kurokumo Clan... ไม่สิ พวกเธอไม่ได้ใส่ชุดของพวกนั้น และดูไม่ใช่พวกชาวบ้านที่หวังจะหาเงินจากความวุ่นวายของ Backstreets ด้วย...\" \"ถ้าอย่างนั้น ในฐานะคนนอก พวกเธอคิดยังไงกับสถานการณ์ตอนนี้ล่ะ?\" ฉันควรจะตอบคำถามนี้ยังไงดี?",
+      "options": [
+        {
+          "message": "It's the City. That's just what happens to small fries getting mixed up in large-scale conflicts.",
+          "messageDesc": "Gloom & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+        },
+        {
+          "message": "I have no thoughts regarding the matter. A pity, though.",
+          "result": [
+            "\"A pity, you say...\"\n\nThe sword-carrying man crosses his arms, then sighs.\n\n\"Sure, I suppose that's one way of looking at it. A thought must remain free, indeed.\"\n\n\"Yet, if you have no thoughts regarding the matter, do understand that to feel pity may be a sin of its own.\"\n\nThe pair walks away. They both wear a dark expression."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10510,
+      "name": "ทางเลือก Bamboo Hat & Dopo Robe",
+      "subDesc": "",
+      "desc": "ตัวอักษรสีฟ้าเป็นประกายลอยอยู่ตรงหน้าคุณ การเรียงลำดับคำที่คล้ายคลึงกันเหล่านี้ ทำให้ยากที่จะเข้าใจว่ามันพยายามจะสื่ออะไร การบอกว่าสิ่งที่ถูกคือถูกและสิ่งที่ผิดคือผิดนั้นไม่ถูกต้อง แต่นั่นไม่ได้หมายความว่าการบอกว่าสิ่งที่ผิดคือถูกและสิ่งที่ถูกคือผิดนั้นจะผิด การบอกว่าสิ่งที่ผิดคือถูกและสิ่งที่ถูกคือผิดนั้นไม่ผิด และการบอกว่าสิ่งที่ถูกคือถูกและสิ่งที่ผิดคือผิด ก็คือการบอกว่าความผิดนี้คือสิ่งที่ถูกต้อง ...มันต้องการให้ฉันบอกความรู้สึกที่มีต่อคำพูดเหล่านี้งั้นเหรอ? นี่มันพูดเรื่องอะไรกันเนี่ย?",
+      "options": [
+        {
+          "message": "What is 'right' and what is 'wrong'... is it really that important to tell which is which? Say that what really matters is something else.",
+          "messageDesc": "Lust & Pride Advantage check. Pass to gain a Poise E.G.O Gift."
+        },
+        {
+          "message": "Still, it must be said that what is right, is right.",
+          "messageDesc": "Gloom & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+        }
+      ]
+    },
+    {
+      "id": 971049,
+      "name": "ทางเลือก Worn Hilt",
+      "subDesc": "",
+      "desc": "\"ที่นี่คือโรงเตี๊ยมเหรอ?\" เราเดินเข้าไปในสถานที่ที่ดูเหมือนบาร์แห่งหนึ่ง มีแขกกำลังดื่มและพูดคุยกันเป็นกลุ่มอย่างเอิกเกริก เราหาที่นั่งเพื่อพักผ่อน แต่แล้วกลุ่มคนที่นั่งอยู่ใกล้ๆ ก็เดินเข้ามาหาเรา \"เกิดอะไรขึ้นเนี่ย? ฉันไม่เคยเห็นหน้าพวกแกแถวนี้มาก่อนเลย...\" \"วันนี้วันดีนะพวกเรา—ปล่อยไปเถอะ อย่าหาเรื่องให้วุ่นวายเลย\" \"ครับท่าน! แน่นอนครับท่าน!\" ตอนนั้นเองที่เราสังเกตเห็นว่าพวกเขาทุกคนพกดาบติดตัว ดาบที่สลักลวดลายเมฆอย่างประณีต \"ได้ยินเรื่อง Syndicate กลุ่มใหม่ที่เพิ่งโผล่มาวันนี้หรือยัง?\" \"อา... กลุ่มที่เน้นใช้หอกใช่ไหม...?\" \"ไอ้พวกโง่ ดาบคืออาวุธที่เหนือชั้นที่สุด เป็นจุดสูงสุดของศาสตรา แล้วพวกนั้นกลับใช้ <i>หอก</i> แทนเนี่ยนะ?\" \"พูดกันตามตรงเถอะพวกเรา ถึงเราจะเป็นบริษัทลูกของ Thumb แต่ดาบมันมีอะไรบางอย่างที่เท่ชะมัดเลยว่าไหม? เท่กว่าหมัดหรือปืนเยอะ\" \"โชคดีที่มีคนกลุ่มนี้อยู่ที่นี่พอดี จะได้ช่วยประเมินความเหนือชั้นของดาบให้เราอย่างยุติธรรมที่สุด\" เราสัมผัสได้ว่าสายตาของพวกเขาทุกคนหันมามองที่พวกเราพร้อมกัน",
+      "options": [
+        {
+          "message": "Are swords really all that, though?",
+          "result": [
+            "\"Let's put 'em six feet under. Let's go.\"\n\n\"Tsk, it's not like we seriously think that swords are actually the best weapons in the world.\"\n\n\"Look around ya, see anyone without a sword? Learn to read the room.\"\n\n\"Looks like you pissed off my boys. Would it have hurt to pretend to go along with them?\"\n\n\"I think I'll head out now. Remember what I said earlier—don't start trouble and leave them alone.\"\n\n\"Yes, dame!\"\n\nAs soon as the person who appeared to be their leader left the room, things became a lot more tense all of a sudden...\n\nWe quietly and carefully excused ourselves and left the place."
+          ]
+        },
+        {
+          "message": "Swords are indeed the king of all weapons. Hail!",
+          "messageDesc": "Lust & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+        }
+      ]
+    },
+    {
+      "id": 971050,
+      "name": "ทางเลือก Bamboo Hat & Dopo Robe",
+      "subDesc": "",
+      "desc": "ขณะเดินเลียบกำแพงอิฐหิน เราได้ยินเสียงคนสองคนกำลังสนทนากัน \"ฉันเข้าใจว่าช่วงนี้คุณกำลังประสบปัญหาบางอย่าง\" \"เราคงไม่มีปัญหาเรื่องเครื่องบรรณาการหรอกครับ ถ้าไอ้พวก Blade Lineage บ้าบอนั่นไม่จู่ๆ โผล่เข้ามาในถิ่นของเรา ท่าน...\" ชุดของคนหนึ่งในสองคนนั้นดูโดดเด่น ฉันได้ยิน Sinners บางคนจำได้ว่ามันคือเครื่องแบบของ Thumb \"ขั้นแรก จงลงโทษผู้ที่บุกรุกถิ่นของพวกคุณอย่างเหมาะสม...\" \"แน่นอนครับท่าน\" \"แต่ก็อย่าลืมแสดงความเคารพให้ถูกคนกับผู้ที่สมควรได้รับด้วย เข้าใจที่ฉันพูดไหม?\" \"เดี๋ยว ใครอยู่ตรงนั้น? พวก Blade Lineage งั้นเหรอ...? หืม ดูเหมือนจะไม่ใช่นะ\" เมื่อสังเกตเห็นการมีอยู่ของพวกเรา ทั้งคู่จึงหันกลับมาเผชิญหน้า \"หืม ในเมื่อพวกเขามาอยู่ที่นี่แล้ว ทำไมเราไม่ลองถามความเห็นของพวกเขาด้วยล่ะ?\" \"เฮ้ พวกเธอ คิดยังไงกับสถานะปัจจุบันของ Kurokumo Clan?\" \"เลือกคำพูดให้ดีล่ะ\"",
+      "options": [
+        {
+          "message": "Unfortunately, war with the Blade Lineage seems to be the only option.",
+          "messageDesc": "Lust & Pride Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Wrong place at the wrong time, man.",
+          "result": [
+            "\"A regular occurrence in the City.\"\n\n\"Why don't we just let 'em go, sir? Doesn't seem like they have anything interesting to contribute.\"\n\n\"You heard him. Scram, before we change our minds.\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910701,
+      "name": "จุดเริ่มต้นการปรับปรุง Dungeon 'Yield My Flesh to Claim Their Bones'",
+      "subDesc": "",
+      "desc": "เราพบตู้ขายของอัตโนมัติที่ทางเข้า Dungeon of the Fathoms เราเห็นปุ่มเรียงรายอยู่บนตู้ขายของอัตโนมัติ เราควรทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Press one of the buttons on the top row.",
+          "messageDesc": "Gain a Poise E.G.O Gift",
+          "result": [
+            "We pick up the E.G.O Gift that dropped from the vending machine with a clunk."
+          ]
+        },
+        {
+          "message": "Press one of the buttons on the middle row.",
+          "messageDesc": "Gain a Slash E.G.O Gift",
+          "result": [
+            "We pick up the E.G.O Gift that dropped from the vending machine with a clunk."
+          ]
+        },
+        {
+          "message": "Press one of the buttons on the bottom row.",
+          "messageDesc": "Gain a Keywordless E.G.O Gift",
+          "result": [
+            "We pick up the E.G.O Gift that dropped from the vending machine with a clunk."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 910702,
+      "name": "การ Fusion ระดับ Normal ของการปรับปรุง Dungeon 'Yield My Flesh to Claim Their Bones'",
+      "subDesc": "",
+      "desc": "เรามาถึงจุดพักที่คุ้นเคย ประตูกระจกถูกล็อคไว้ พร้อมกับมีประกาศติดอยู่ 'วันนี้ร้านปิดให้บริการเนื่องจากเหตุผลส่วนตัว ขออภัยในความไม่สะดวก' 'อย่างไรก็ตาม เครื่อง Fusion ของเรายังคงเปิดให้ใช้งาน ลูกค้าที่ต้องการใช้บริการ Fusion กรุณาใช้เครื่องที่อยู่ข้างทางเข้า' เราควรทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Try putting in Rusted Hilt and Fractured Blade.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "Try putting in Rusted Hilt and Broken Blade.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "There is nothing that seems right to put in the device.",
+          "messageDesc": "",
+          "result": [
+            "We have nothing quite suitable to put in the device.\n\nThere was no choice but to return to the road."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 911501,
+      "name": "การ Fusion ระดับ Hard ของการปรับปรุง 'Yield My Flesh to Claim Their Bones'",
+      "subDesc": "",
+      "desc": "เรามาถึงจุดพักที่คุ้นเคย ประตูกระจกถูกล็อคไว้ พร้อมกับมีประกาศติดอยู่ 'วันนี้ร้านปิดให้บริการเนื่องจากเหตุผลส่วนตัว ขออภัยในความไม่สะดวก' 'อย่างไรก็ตาม เครื่อง Fusion ของเรายังคงเปิดให้ใช้งาน ลูกค้าที่ต้องการใช้บริการ Fusion กรุณาใช้เครื่องที่อยู่ข้างทางเข้า' เราควรทำอย่างไรดี?",
+      "options": [
+        {
+          "message": "Try putting in Rusted Hilt and Fractured Blade.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "Try putting in Rusted Hilt and Broken Blade.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "Try putting in Worn Hilt and Fractured Blade.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "Try putting in Worn Hilt and Broken Blade.",
+          "messageDesc": "",
+          "result": [
+            "After a drawn-out rattling, an E.G.O Gift drops from the device."
+          ]
+        },
+        {
+          "message": "There is nothing that seems right to put in the device.",
+          "messageDesc": "",
+          "result": [
+            "We have nothing quite suitable to put in the device.\n\nThere was no choice but to return to the road."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 911502,
+      "name": "ทางเลือก Worn Hilt",
+      "subDesc": "",
+      "desc": "\"ที่นี่คือโรงเตี๊ยมเหรอ?\" เราเดินเข้าไปในสถานที่ที่ดูเหมือนบาร์แห่งหนึ่ง มีแขกกำลังดื่มและพูดคุยกันเป็นกลุ่มอย่างเอิกเกริก เราหาที่นั่งเพื่อพักผ่อน แต่แล้วกลุ่มคนที่นั่งอยู่ใกล้ๆ ก็เดินเข้ามาหาเรา \"เกิดอะไรขึ้นเนี่ย? ฉันไม่เคยเห็นหน้าพวกแกแถวนี้มาก่อนเลย...\" \"วันนี้วันดีนะพวกเรา—ปล่อยไปเถอะ อย่าหาเรื่องให้วุ่นวายเลย\" \"ครับท่าน! แน่นอนครับท่าน!\" ตอนนั้นเองที่เราสังเกตเห็นว่าพวกเขาทุกคนพกดาบติดตัว ดาบที่สลักลวดลายเมฆอย่างประณีต \"ได้ยินเรื่อง Syndicate กลุ่มใหม่ที่เพิ่งโผล่มาวันนี้หรือยัง?\" \"อา... กลุ่มที่เน้นใช้หอกใช่ไหม...?\" \"ไอ้พวกโง่ ดาบคืออาวุธที่เหนือชั้นที่สุด เป็นจุดสูงสุดของศาสตรา แล้วพวกนั้นกลับใช้ <i>หอก</i> แทนเนี่ยนะ?\" \"พูดกันตามตรงเถอะพวกเรา ถึงเราจะเป็นบริษัทลูกของ Thumb แต่ดาบมันมีอะไรบางอย่างที่เท่ชะมัดเลยว่าไหม? เท่กว่าหมัดหรือปืนเยอะ\" \"โชคดีที่มีคนกลุ่มนี้อยู่ที่นี่พอดี จะได้ช่วยประเมินความเหนือชั้นของดาบให้เราอย่างยุติธรรมที่สุด\" เราสัมผัสได้ว่าสายตาของพวกเขาทุกคนหันมามองที่พวกเราพร้อมกัน",
+      "options": [
+        {
+          "message": "Are swords really all that, though?",
+          "result": [
+            "\"Let's put 'em six feet under. Let's go.\"\n\n\"Tsk, it's not like we seriously think that swords are actually the best weapons in the world.\"\n\n\"Look around ya, see anyone without a sword? Learn to read the room.\"\n\n\"Looks like you pissed off my boys. Would it have hurt to pretend to go along with them?\"\n\n\"I think I'll head out now. Remember what I said earlier—don't start trouble and leave them alone.\"\n\n\"Yes, dame!\"\n\nAs soon as the person who appeared to be their leader left the room, things became a lot more tense all of a sudden...\n\nWe quietly and carefully excused ourselves and left the place."
+          ]
+        },
+        {
+          "message": "Swords are indeed the king of all weapons. Hail!",
+          "messageDesc": "Lust & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
+        }
+      ]
+    }
+  ]
+}

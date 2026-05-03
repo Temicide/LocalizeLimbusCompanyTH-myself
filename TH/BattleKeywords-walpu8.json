@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "id": "DesperadoBuff",
+      "name": "Desperado",
+      "desc": "- Stack สูงสุด: 2 - ทุกๆ 1 Stack, Base Attack Skill Clash Power +1, Base Power +1 - เมื่อมี 2 Stack, Base Attack Skill Plus Coin Power +1, Minus Coin Power -1 - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "TensionUp",
+      "name": "Hyped-up",
+      "desc": "- Stack สูงสุด: 3 - ทุกๆ 1 Stack, สร้างความเสียหายเพิ่มขึ้น +5% ด้วย Skill Wrath และ Lust - เมื่อถูกโจมตี, เพิ่ม Stagger Threshold ของยูนิตนี้ (5 x Stack) - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "PinkPetals",
+      "name": "Pink Petals",
+      "desc": "- Stack สูงสุด: 30 - ทุกๆ 1 Stack, ได้รับความเสียหายเพิ่มขึ้น +1% เมื่อถูกโจมตีด้วย Skill Gloom (สูงสุด 15%) - ทุกๆ 10 Stack, ได้รับ Sinking Count +1 เมื่อถูกโจมตี (2 ครั้งต่อเทิร์น) - เมื่อ Tremor Burst ทำงานกับยูนิตนี้, ได้รับความเสียหาย Gloom ((Sinking Potency + Pink Petals) / 5) - จบเทิร์น: ลด 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "QueenBeepheromone",
+      "name": "Pheromone",
+      "desc": "- ได้รับ Aggro +10 - เมื่อถูกโจมตี, มอบ Burn 3 หน่วย ให้กับเป้าหมาย",
+      "summary": ""
+    },
+    {
+      "id": "QueenBeeMark",
+      "name": "Pheromone Mark",
+      "desc": "- ทุกๆ 3 Burn บนตัวเอง, ได้รับความเสียหายเพิ่มขึ้น +1% เมื่อถูกโจมตี (สูงสุด 20%) - หมดผลเมื่อจบเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "RunHallway",
+      "name": "Preparing Herd Migration",
+      "desc": "- Stack สูงสุด: 3 - เริ่มการต่อสู้: ลด 1 Stack - เมื่อมี 0 Stack, ใช้ 'Herd Migration' เมื่อเริ่มเทิร์น",
+      "summary": ""
+    },
+    {
+      "id": "NextHallway",
+      "name": "Herd Relocation",
+      "desc": "- จบเทิร์น: ฟื้นตัวจาก Stagger และหลบหนีจากการปะทะ (ไม่รวมการถูกบังคับ Stagger; ไม่นับว่าเป็นการตาย) - ใน Chain Battles, มอบ Slot ของยูนิตนี้ให้กับยูนิตที่เข้ามาแทนที่ และย้ายไปยังตำแหน่งท้ายสุดในลำดับการ Deployment ของยูนิต Backup",
+      "summary": ""
+    },
+    {
+      "id": "PumpkinJelly",
+      "name": "BongBong Orange",
+      "desc": "- Stack สูงสุด: 1 เริ่มเทิร์น: หากมี HP ต่ำกว่า 60%, ฟื้นฟู HP 30% และลบเอฟเฟกต์นี้ออก",
+      "summary": ""
+    },
+    {
+      "id": "BestWelfareTeamCaptain",
+      "name": "กัปตัน Welfare Team",
+      "desc": "- Skill Slot +1 - ปรับเปลี่ยน Skill pool: ได้รับ Skill 3 เพิ่ม 1 ชุด แต่เสีย Skill 1 ไป 1 ชุด - เพิ่ม Potency ของ Burn, Bleed, Rupture, Sinking หรือ Tremor ที่สร้างด้วย Skill ขึ้น +2 (รวมถึง 'Unique Status Effects') - Base Skill ที่ได้รับหรือใช้ Ammo จะสร้างความเสียหาย +30% - เมื่อใช้ Base Skill ที่ได้รับหรือใช้ Ammo, ฟื้นฟู SP 10 หน่วย ให้กับพันธมิตร 1 คนที่มี SP ต่ำที่สุด (รวมถึงยูนิตนี้) - เมื่อสังหารศัตรู, เปิดใช้งานเอฟเฟกต์ดังนี้: · เพิ่ม Resource E.G.O +2 ให้กับ Affinity ที่สังหารศัตรู; เพิ่ม Resource E.G.O +1 ให้กับทุก Affinity · ในเทิร์นถัดไป, สุ่มกระจาย Potency และ Count ของ Burn, Bleed, Rupture, Sinking และ Tremor ที่เหลืออยู่จากศัตรูตัวดังกล่าวไปยังศัตรูทั้งหมด (อย่างน้อย 1 ตัว)",
+      "summary": ""
+    }
+  ]
+}
