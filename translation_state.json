@@ -1352,7 +1352,12 @@
     "E701B.json",
     "E701A.json",
     "E626B.json",
-    "E627B.json"
+    "E627B.json",
+    "E704B.json",
+    "E703B.json",
+    "E704A.json",
+    "E705B.json",
+    "E702B.json"
   ],
-  "current_batch": 40
+  "current_batch": 41
 }
