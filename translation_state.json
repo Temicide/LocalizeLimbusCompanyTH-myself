@@ -1417,7 +1417,17 @@
     "E909B.json",
     "E910B.json",
     "E907B.json",
-    "E908B.json"
+    "E908B.json",
+    "E911A.json",
+    "ES000B.json",
+    "E914B.json",
+    "E912B.json",
+    "E913B.json",
+    "ES012B.json",
+    "ES012A.json",
+    "ES013A.json",
+    "ES011B.json",
+    "ES011A.json"
   ],
-  "current_batch": 53
+  "current_batch": 55
 }
