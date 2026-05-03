@@ -1332,7 +1332,12 @@
     "E614B.json",
     "E615B.json",
     "E613B.json",
-    "E615A.json"
+    "E615A.json",
+    "E615I3.json",
+    "E615I.json",
+    "E615I2.json",
+    "E616B.json",
+    "E617B.json"
   ],
-  "current_batch": 36
+  "current_batch": 37
 }
