@@ -1302,7 +1302,17 @@
     "E507B.json",
     "E510B.json",
     "E507A.json",
-    "E509B.json"
+    "E509B.json",
+    "E513A.json",
+    "E511A.json",
+    "E511B.json",
+    "E512A.json",
+    "E512B.json",
+    "E516A.json",
+    "E513B.json",
+    "E515A.json",
+    "E516B.json",
+    "E514B.json"
   ],
-  "current_batch": 30
+  "current_batch": 32
 }
