@@ -1212,7 +1212,12 @@
     "7D112I4.json",
     "8D101B.json",
     "7D112I3.json",
-    "7D112I2.json"
+    "7D112I2.json",
+    "8D103B.json",
+    "8D104B.json",
+    "8D105B.json",
+    "8D102B.json",
+    "8D104A.json"
   ],
-  "current_batch": 12
+  "current_batch": 13
 }
