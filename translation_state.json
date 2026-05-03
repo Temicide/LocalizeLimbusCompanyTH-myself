@@ -1237,7 +1237,12 @@
     "8D207A.json",
     "8D208B.json",
     "8D209I.json",
-    "8D209A.json"
+    "8D209A.json",
+    "E002X.json",
+    "E000X.json",
+    "E003I2.json",
+    "E003I1.json",
+    "E001X.json"
   ],
-  "current_batch": 17
+  "current_batch": 18
 }
