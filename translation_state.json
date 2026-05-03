@@ -1292,7 +1292,12 @@
     "E407B.json",
     "E501B.json",
     "E502B.json",
-    "E503B.json"
+    "E503B.json",
+    "E506B.json",
+    "E505A.json",
+    "E506A.json",
+    "E505B.json",
+    "E504B.json"
   ],
-  "current_batch": 28
+  "current_batch": 29
 }
