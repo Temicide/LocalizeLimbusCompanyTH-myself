@@ -1272,7 +1272,17 @@
     "E303A.json",
     "E301A.json",
     "E301B.json",
-    "E302B.json"
+    "E302B.json",
+    "E304B.json",
+    "E303B.json",
+    "E305A.json",
+    "E304A.json",
+    "E306A.json",
+    "E306B.json",
+    "E402A.json",
+    "E402B.json",
+    "E401B.json",
+    "E403B.json"
   ],
-  "current_batch": 24
+  "current_batch": 26
 }
