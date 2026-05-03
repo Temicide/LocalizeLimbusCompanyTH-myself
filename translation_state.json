@@ -1392,7 +1392,17 @@
     "E727I.json",
     "E726I.json",
     "E727A.json",
-    "E728B.json"
+    "E728B.json",
+    "E805B.json",
+    "E806B.json",
+    "E802B.json",
+    "E801B.json",
+    "E803B.json",
+    "E811A.json",
+    "E808A.json",
+    "E809B.json",
+    "E811B.json",
+    "E808B.json"
   ],
-  "current_batch": 48
+  "current_batch": 50
 }
