@@ -3,7 +3,7 @@
     {
       "id": 0,
       "model": "다친에고동랑",
-      "teller": "Dongrang",
+      "teller": "ทงรัง",
       "title": "Effloresced E.G.O::Farmwatch",
       "content": "อี... ซัง..."
     },
@@ -15,12 +15,12 @@
     {
       "id": 2,
       "model": "이상",
-      "content": "<color=#d4e1e8>ข้ายังจำวันในฤดูใบไม้ผลิวันนั้นได้</color>"
+      "content": "<color=#d4e1e8>ผมยังจำวันในฤดูใบไม้ผลิวันนั้นได้</color>"
     },
     {
       "id": 3,
       "model": "이상",
-      "content": "<color=#d4e1e8>ดวงดาราพร่างพรายในดวงตาของพวกเรา</color>"
+      "content": "<color=#d4e1e8>ดวงดาราทอประกายอยู่ในดวงตาของพวกเรา</color>"
     },
     {
       "id": 4,
@@ -30,44 +30,44 @@
     {
       "id": 5,
       "model": "다친에고동랑",
-      "teller": "Dongrang",
+      "teller": "ทงรัง",
       "title": "Effloresced E.G.O::Farmwatch",
       "content": "……."
     },
     {
       "id": 6,
       "model": "다친에고동랑",
-      "teller": "Dongrang",
+      "teller": "ทงรัง",
       "title": "Effloresced E.G.O::Farmwatch",
-      "content": "มันช่างเปล่งประกาย"
+      "content": "มันช่างระยิบระยับเหลือเกินนะ"
     },
     {
       "id": 7,
       "model": "다친에고동랑",
-      "teller": "Dongrang",
+      "teller": "ทงรัง",
       "title": "Effloresced E.G.O::Farmwatch",
-      "content": "ให้เจิดจรัส... เหมือนดั่งปีกของเจ้า"
+      "content": "สว่างไสว... เหมือนกับปีกของเธอเลยล่ะ"
     },
     {
       "id": 8,
       "model": "다친에고동랑",
-      "teller": "Dongrang",
+      "teller": "ทงรัง",
       "title": "Effloresced E.G.O::Farmwatch",
-      "content": "ฉัน... ปรารถนามาตลอด..."
+      "content": "ฉัน... ปรารถนามาโดยตลอด..."
     },
     {
       "id": 9,
       "model": "다친에고동랑",
-      "teller": "Dongrang",
+      "teller": "ทงรัง",
       "title": "Effloresced E.G.O::Farmwatch",
-      "content": "ที่จะหนีไปจากเงาของ League..."
+      "content": "ที่จะหลุดพ้นจากเงามืดของ League..."
     },
     {
       "id": 10,
       "model": "다친에고동랑",
-      "teller": "Dongrang",
+      "teller": "ทงรัง",
       "title": "Effloresced E.G.O::Farmwatch",
-      "content": "สุดท้ายแล้ว... ก็เป็นเงาเดิมนั่นเอง... ที่โอบกอดฉันไว้หลังจากทุกอย่างจบลง"
+      "content": "แต่สุดท้าย... ก็เป็นเงามืดเดิมนั่นแหละ... ที่โอบกอดฉันไว้หลังจากทุกอย่างจบลง"
     }
   ]
 }
