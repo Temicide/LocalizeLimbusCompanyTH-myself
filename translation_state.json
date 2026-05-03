@@ -1172,7 +1172,12 @@
     "5D205B.json",
     "5D204B.json",
     "5D205A.json",
-    "5D203B.json"
+    "5D203B.json",
+    "5D301B.json",
+    "5D206B.json",
+    "5D301A.json",
+    "5D303B.json",
+    "5D302B.json"
   ],
-  "current_batch": 4
+  "current_batch": 5
 }
