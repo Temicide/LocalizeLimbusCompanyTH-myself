@@ -1152,7 +1152,17 @@
     "4D304B.json",
     "4D305B.json",
     "4D305I.json",
-    "S937I2.json"
+    "S937I2.json",
+    "4D305I2.json",
+    "5D101B.json",
+    "5D102A.json",
+    "ProjectGS.json",
+    "4D305A.json",
+    "5D102B.json",
+    "5D104B.json",
+    "5D105B.json",
+    "5D105A.json",
+    "5D103B.json"
   ],
-  "current_batch": 0
+  "current_batch": 2
 }
