@@ -1267,7 +1267,12 @@
     "E091X.json",
     "E080X.json",
     "E082X.json",
-    "E090X.json"
+    "E090X.json",
+    "E302A.json",
+    "E303A.json",
+    "E301A.json",
+    "E301B.json",
+    "E302B.json"
   ],
-  "current_batch": 23
+  "current_batch": 24
 }
